@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-07T12:36:24+00:00",
+  "generated_at": "2026-10-07T18:33:08+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
   "records": 3,
   "items": [
@@ -191,95 +191,95 @@
       ]
     },
     {
-      "id": "KQED_20261007_010000_PBS_News_Hour",
-      "title": "the justice department charges more immigrants with illegally voting in the 2024 election.",
-      "source": "KQED",
+      "id": "KTVU_20261007_060000_The_Eleven_OClock_News_on_KTVU_FOX_2",
+      "title": "and a live look outside as the bay area continues to deal with a relentless heat wave.",
+      "source": "KTVU",
       "date": "2026-10-07T00:00:00Z",
-      "image_url": "https://archive.org/services/img/KQED_20261007_010000_PBS_News_Hour/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/KQED_20261007_010000_PBS_News_Hour",
-      "description_zh": "画面候选标签：a news studio、an explosion、a speech、running、an animal、text on screen、a river、fire、a sports match、a protest、人、体育比赛",
-      "description_en": "Visual candidate labels: a news studio, an explosion, a speech, running, an animal, text on screen, a river, fire, a sports match, a protest, 人, 体育比赛",
-      "keywords": "a news studio,an explosion,a speech,running,an animal,text on screen,a river,fire,a sports match,a protest,人,体育比赛,a train,basketball,a flag,a building,新闻演播室,a crowd,a ship,soccer",
+      "image_url": "https://archive.org/services/img/KTVU_20261007_060000_The_Eleven_OClock_News_on_KTVU_FOX_2/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/KTVU_20261007_060000_The_Eleven_OClock_News_on_KTVU_FOX_2",
+      "description_zh": "画面候选标签：a protest、抗议活动、a news studio、a crowd、an explosion、text on screen、a building、新闻演播室、a flag、basketball、police、a sports match",
+      "description_en": "Visual candidate labels: a protest, 抗议活动, a news studio, a crowd, an explosion, text on screen, a building, 新闻演播室, a flag, basketball, police, a sports match",
+      "keywords": "a protest,抗议活动,a news studio,a crowd,an explosion,text on screen,a building,新闻演播室,a flag,basketball,police,a sports match,a city street,a ship,a river,a speech,屏幕文字,人群,a train,fire",
       "visual_labels": [
         {
-          "label": "a news studio",
-          "score": 0.3918
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3692
-        },
-        {
-          "label": "a speech",
-          "score": 0.3686
-        },
-        {
-          "label": "running",
-          "score": 0.3655
-        },
-        {
-          "label": "an animal",
-          "score": 0.3603
-        },
-        {
-          "label": "text on screen",
-          "score": 0.3599
-        },
-        {
-          "label": "a river",
-          "score": 0.3589
-        },
-        {
-          "label": "fire",
-          "score": 0.3584
-        },
-        {
-          "label": "a sports match",
-          "score": 0.358
-        },
-        {
           "label": "a protest",
-          "score": 0.3572
+          "score": 0.4447
         },
         {
-          "label": "人",
-          "score": 0.3531
+          "label": "抗议活动",
+          "score": 0.4184
         },
         {
-          "label": "体育比赛",
-          "score": 0.3526
-        },
-        {
-          "label": "a train",
-          "score": 0.3511
-        },
-        {
-          "label": "basketball",
-          "score": 0.3502
-        },
-        {
-          "label": "a flag",
-          "score": 0.3497
-        },
-        {
-          "label": "a building",
-          "score": 0.3488
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.3487
+          "label": "a news studio",
+          "score": 0.4139
         },
         {
           "label": "a crowd",
-          "score": 0.3482
+          "score": 0.388
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3824
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3796
+        },
+        {
+          "label": "a building",
+          "score": 0.3682
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3633
+        },
+        {
+          "label": "a flag",
+          "score": 0.359
+        },
+        {
+          "label": "basketball",
+          "score": 0.3589
+        },
+        {
+          "label": "police",
+          "score": 0.3568
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3534
+        },
+        {
+          "label": "a city street",
+          "score": 0.3497
         },
         {
           "label": "a ship",
-          "score": 0.3478
+          "score": 0.3483
         },
         {
-          "label": "soccer",
-          "score": 0.3473
+          "label": "a river",
+          "score": 0.3452
+        },
+        {
+          "label": "a speech",
+          "score": 0.3433
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3421
+        },
+        {
+          "label": "人群",
+          "score": 0.335
+        },
+        {
+          "label": "a train",
+          "score": 0.3332
+        },
+        {
+          "label": "fire",
+          "score": 0.3316
         }
       ]
     }
