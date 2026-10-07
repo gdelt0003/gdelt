@@ -31,6 +31,8 @@ jobs:
           JEV_LIVE_EVAL: ${{ secrets.TYPESAFE_API_KEY != '' && '1' || '0' }}
           TYPESAFE_API_KEY: ${{ secrets.TYPESAFE_API_KEY }}
         run: python scripts/analyze_tv_gkg.py
+      - name: Validate generated site data
+        run: python scripts/validate_site.py
       - name: Commit video snapshot
         id: commit
         run: |
