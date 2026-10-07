@@ -37,6 +37,7 @@
   <footer class="shell footer cctv-footer"><span>节目目录来源：GDELT TV News Visual Explorer / Internet Archive item metadata</span><a href="./">返回观察台 ↗</a></footer>
   <script>
     const ID_PATTERN=/^CCTV1_(\d{8})_(\d{6})(?:_[A-Za-z0-9-]+)?$/;
+    const STALE_AFTER_MS=6*60*60*1000;
     const HOSTS={visual:'visualexplorer.gdeltproject.org',archive:'archive.org',official:'www.yangshipin.cn'};
     const $=id=>document.getElementById(id);
     const node=(tag,className,text)=>{const element=document.createElement(tag);if(className)element.className=className;if(text!==undefined)element.textContent=String(text);return element};
@@ -89,13 +90,16 @@
       shows=checked.filter(Boolean);
       $('generated-at').textContent=dateText(data.generated_at);
       $('last-success').textContent=dateText(data.latest_successful_at);
-      $('day-state').textContent=data.day_status.map(day=>day.day+' '+(day.status==='success'?'成功':'失败，保留旧快照')+'（'+day.show_count+' 条）').join('；')||'暂无采集日期';
+      const daySummary=data.day_status.map(day=>day.day+' '+(day.status==='success'?'成功':'失败，保留旧快照')+'（'+day.show_count+' 条）').join('；')||'暂无采集日期';
+      const lastSuccess=Date.parse(data.latest_successful_at||'');
+      const stale=!Number.isFinite(lastSuccess)||Date.now()-lastSuccess>STALE_AFTER_MS;
+      $('day-state').textContent=daySummary+(stale?'；快照超过 6 小时，数据可能已过期':'');
       if(data.snapshot_state==='not_collected'){
         $('load-status').textContent='等待首次云端采集；当前尚无节目库存快照。';
         $('shows').replaceChildren(node('p','empty cctv-empty','首次云端采集尚未完成；暂无节目记录。这不是一次成功的空目录结果。'));
         return;
       }
-      $('load-status').textContent='来源：GDELT Visual Explorer Inventory · 展示 '+shows.length+' 条有效节目记录'+(rejected?'；拒绝 '+rejected+' 条结构或链接不合法的记录':'')+' · '+(data.date_window||'日期口径见来源说明');
+      $('load-status').textContent='来源：GDELT Visual Explorer Inventory · 展示 '+shows.length+' 条有效节目记录'+(rejected?'；拒绝 '+rejected+' 条结构或链接不合法的记录':'')+(stale?'；快照超过 6 小时，数据可能已过期':'')+' · '+(data.date_window||'日期口径见来源说明');
       if(!shows.length)$('shows').replaceChildren(node('p','empty cctv-empty','当前成功读取到空节目目录；这与目录抓取失败不同。'));
       else render();
     }).catch(error=>{
