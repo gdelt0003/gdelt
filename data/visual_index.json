@@ -1,285 +1,285 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-09-23T02:28:54+00:00",
+  "generated_at": "2026-10-07T12:36:24+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
   "records": 3,
   "items": [
     {
-      "id": "ALJAZ_20260923_010000",
-      "title": "so the 81st un general assembly presidents, donald trump held high level tasks with dcc air leaders and the president of took a focusing on regional security and efforts to find a…",
-      "source": "ALJAZ",
-      "date": "2026-09-23T00:00:00Z",
-      "image_url": "https://archive.org/services/img/ALJAZ_20260923_010000/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/ALJAZ_20260923_010000",
-      "description_zh": "画面候选标签：a mountain、山、海滩、道路、an explosion、a beach、a map、a road、奔跑、人群、森林、屏幕文字",
-      "description_en": "Visual candidate labels: a mountain, 山, 海滩, 道路, an explosion, a beach, a map, a road, 奔跑, 人群, 森林, 屏幕文字",
-      "keywords": "a mountain,山,海滩,道路,an explosion,a beach,a map,a road,奔跑,人群,森林,屏幕文字,running,树林,爆炸,新闻演播室,地图,旗帜,河流,动物",
+      "id": "CNNW_20261007_040000_The_Story_Is_With_Elex_Michaelson",
+      "title": ">> on the cusp of a critical election day, go inside the races that could shift the balance of power in america.",
+      "source": "CNNW",
+      "date": "2026-10-07T00:00:00Z",
+      "image_url": "https://archive.org/services/img/CNNW_20261007_040000_The_Story_Is_With_Elex_Michaelson/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/CNNW_20261007_040000_The_Story_Is_With_Elex_Michaelson",
+      "description_zh": "画面候选标签：a news studio、an explosion、text on screen、a protest、新闻演播室、屏幕文字、a speech、a building、flooding、a map、a sports match、a flag",
+      "description_en": "Visual candidate labels: a news studio, an explosion, text on screen, a protest, 新闻演播室, 屏幕文字, a speech, a building, flooding, a map, a sports match, a flag",
+      "keywords": "a news studio,an explosion,text on screen,a protest,新闻演播室,屏幕文字,a speech,a building,flooding,a map,a sports match,a flag,抗议活动,a road,an airplane,fire,a crowd,a ship,a river,an animal",
       "visual_labels": [
-        {
-          "label": "a mountain",
-          "score": 0.3739
-        },
-        {
-          "label": "山",
-          "score": 0.3524
-        },
-        {
-          "label": "海滩",
-          "score": 0.3453
-        },
-        {
-          "label": "道路",
-          "score": 0.345
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3446
-        },
-        {
-          "label": "a beach",
-          "score": 0.3433
-        },
-        {
-          "label": "a map",
-          "score": 0.343
-        },
-        {
-          "label": "a road",
-          "score": 0.3397
-        },
-        {
-          "label": "奔跑",
-          "score": 0.3391
-        },
-        {
-          "label": "人群",
-          "score": 0.3373
-        },
-        {
-          "label": "森林",
-          "score": 0.3361
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3361
-        },
-        {
-          "label": "running",
-          "score": 0.3361
-        },
-        {
-          "label": "树林",
-          "score": 0.334
-        },
-        {
-          "label": "爆炸",
-          "score": 0.3318
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.3317
-        },
-        {
-          "label": "地图",
-          "score": 0.3316
-        },
-        {
-          "label": "旗帜",
-          "score": 0.3309
-        },
-        {
-          "label": "河流",
-          "score": 0.3307
-        },
-        {
-          "label": "动物",
-          "score": 0.3295
-        }
-      ]
-    },
-    {
-      "id": "KNTV_20260923_003000_NBC_Bay_Area_News_at_530",
-      "title": "what a new study is warning about our future gridlock if voters don't approve two transit measures, is this valid or just a campaign tactic?",
-      "source": "KNTV",
-      "date": "2026-09-23T00:00:00Z",
-      "image_url": "https://archive.org/services/img/KNTV_20260923_003000_NBC_Bay_Area_News_at_530/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/KNTV_20260923_003000_NBC_Bay_Area_News_at_530",
-      "description_zh": "画面候选标签：a road、a truck、a news studio、an explosion、抗议活动、a car、police、a city street、卡车、flooding、a river、城市街道",
-      "description_en": "Visual candidate labels: a road, a truck, a news studio, an explosion, 抗议活动, a car, police, a city street, 卡车, flooding, a river, 城市街道",
-      "keywords": "a road,a truck,a news studio,an explosion,抗议活动,a car,police,a city street,卡车,flooding,a river,城市街道,警察,a building,text on screen,新闻演播室,屏幕文字,a protest,a map,道路",
-      "visual_labels": [
-        {
-          "label": "a road",
-          "score": 0.3825
-        },
-        {
-          "label": "a truck",
-          "score": 0.3756
-        },
         {
           "label": "a news studio",
-          "score": 0.3587
+          "score": 0.4348
         },
         {
           "label": "an explosion",
-          "score": 0.3535
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3522
-        },
-        {
-          "label": "a car",
-          "score": 0.3512
-        },
-        {
-          "label": "police",
-          "score": 0.351
-        },
-        {
-          "label": "a city street",
-          "score": 0.3508
-        },
-        {
-          "label": "卡车",
-          "score": 0.3495
-        },
-        {
-          "label": "flooding",
-          "score": 0.3493
-        },
-        {
-          "label": "a river",
-          "score": 0.347
-        },
-        {
-          "label": "城市街道",
-          "score": 0.344
-        },
-        {
-          "label": "警察",
-          "score": 0.3435
-        },
-        {
-          "label": "a building",
-          "score": 0.3418
+          "score": 0.4331
         },
         {
           "label": "text on screen",
-          "score": 0.3414
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.3378
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3369
+          "score": 0.4228
         },
         {
           "label": "a protest",
-          "score": 0.3369
+          "score": 0.4184
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3927
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3791
+        },
+        {
+          "label": "a speech",
+          "score": 0.3789
+        },
+        {
+          "label": "a building",
+          "score": 0.3756
+        },
+        {
+          "label": "flooding",
+          "score": 0.3728
         },
         {
           "label": "a map",
-          "score": 0.3349
+          "score": 0.372
         },
         {
-          "label": "道路",
-          "score": 0.3344
+          "label": "a sports match",
+          "score": 0.3709
+        },
+        {
+          "label": "a flag",
+          "score": 0.3696
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3666
+        },
+        {
+          "label": "a road",
+          "score": 0.3603
+        },
+        {
+          "label": "an airplane",
+          "score": 0.3576
+        },
+        {
+          "label": "fire",
+          "score": 0.3572
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3567
+        },
+        {
+          "label": "a ship",
+          "score": 0.3528
+        },
+        {
+          "label": "a river",
+          "score": 0.3524
+        },
+        {
+          "label": "an animal",
+          "score": 0.3504
         }
       ]
     },
     {
-      "id": "DW_20260923_010000_DW_News",
-      "title": "president trump easing us of tension over his calls to acquire the sent me a ton of mis danish territory in the arctic.",
-      "source": "DW",
-      "date": "2026-09-23T00:00:00Z",
-      "image_url": "https://archive.org/services/img/DW_20260923_010000_DW_News/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/DW_20260923_010000_DW_News",
-      "description_zh": "画面候选标签：running、奔跑、a mountain、soccer、a road、basketball、the countryside、an animal、a horse、乡村、fire、a river",
-      "description_en": "Visual candidate labels: running, 奔跑, a mountain, soccer, a road, basketball, the countryside, an animal, a horse, 乡村, fire, a river",
-      "keywords": "running,奔跑,a mountain,soccer,a road,basketball,the countryside,an animal,a horse,乡村,fire,a river,a beach,a sports match,山,an explosion,人群,人,police,text on screen",
+      "id": "BBCNEWS_20261007_010000_Newsday",
+      "title": "lawyers for us death row row inmate christa pike say she is is conscious and speaking after surviving surviving a botched lethal injection injection in tennessee, more than than a…",
+      "source": "BBCNEWS",
+      "date": "2026-10-07T00:00:00Z",
+      "image_url": "https://archive.org/services/img/BBCNEWS_20261007_010000_Newsday/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/BBCNEWS_20261007_010000_Newsday",
+      "description_zh": "画面候选标签：a news studio、a building、新闻演播室、a city street、text on screen、an explosion、城市街道、fire、建筑物、police、烟雾、爆炸",
+      "description_en": "Visual candidate labels: a news studio, a building, 新闻演播室, a city street, text on screen, an explosion, 城市街道, fire, 建筑物, police, 烟雾, 爆炸",
+      "keywords": "a news studio,a building,新闻演播室,a city street,text on screen,an explosion,城市街道,fire,建筑物,police,烟雾,爆炸,a protest,屏幕文字,抗议活动,a road,a speech,a map,basketball,a river",
       "visual_labels": [
         {
-          "label": "running",
-          "score": 0.3977
+          "label": "a news studio",
+          "score": 0.4813
         },
         {
-          "label": "奔跑",
-          "score": 0.3787
+          "label": "a building",
+          "score": 0.4244
         },
         {
-          "label": "a mountain",
-          "score": 0.3786
+          "label": "新闻演播室",
+          "score": 0.4192
         },
         {
-          "label": "soccer",
-          "score": 0.378
-        },
-        {
-          "label": "a road",
-          "score": 0.3774
-        },
-        {
-          "label": "basketball",
-          "score": 0.3748
-        },
-        {
-          "label": "the countryside",
-          "score": 0.373
-        },
-        {
-          "label": "an animal",
-          "score": 0.3687
-        },
-        {
-          "label": "a horse",
-          "score": 0.3673
-        },
-        {
-          "label": "乡村",
-          "score": 0.3604
-        },
-        {
-          "label": "fire",
-          "score": 0.3595
-        },
-        {
-          "label": "a river",
-          "score": 0.3588
-        },
-        {
-          "label": "a beach",
-          "score": 0.3567
-        },
-        {
-          "label": "a sports match",
-          "score": 0.3547
-        },
-        {
-          "label": "山",
-          "score": 0.3531
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3528
-        },
-        {
-          "label": "人群",
-          "score": 0.3503
-        },
-        {
-          "label": "人",
-          "score": 0.3485
-        },
-        {
-          "label": "police",
-          "score": 0.346
+          "label": "a city street",
+          "score": 0.3865
         },
         {
           "label": "text on screen",
-          "score": 0.346
+          "score": 0.3848
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3806
+        },
+        {
+          "label": "城市街道",
+          "score": 0.3737
+        },
+        {
+          "label": "fire",
+          "score": 0.3722
+        },
+        {
+          "label": "建筑物",
+          "score": 0.3699
+        },
+        {
+          "label": "police",
+          "score": 0.3674
+        },
+        {
+          "label": "烟雾",
+          "score": 0.364
+        },
+        {
+          "label": "爆炸",
+          "score": 0.3632
+        },
+        {
+          "label": "a protest",
+          "score": 0.3615
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3594
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3575
+        },
+        {
+          "label": "a road",
+          "score": 0.3512
+        },
+        {
+          "label": "a speech",
+          "score": 0.3476
+        },
+        {
+          "label": "a map",
+          "score": 0.3474
+        },
+        {
+          "label": "basketball",
+          "score": 0.347
+        },
+        {
+          "label": "a river",
+          "score": 0.3439
+        }
+      ]
+    },
+    {
+      "id": "KQED_20261007_010000_PBS_News_Hour",
+      "title": "the justice department charges more immigrants with illegally voting in the 2024 election.",
+      "source": "KQED",
+      "date": "2026-10-07T00:00:00Z",
+      "image_url": "https://archive.org/services/img/KQED_20261007_010000_PBS_News_Hour/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/KQED_20261007_010000_PBS_News_Hour",
+      "description_zh": "画面候选标签：a news studio、an explosion、a speech、running、an animal、text on screen、a river、fire、a sports match、a protest、人、体育比赛",
+      "description_en": "Visual candidate labels: a news studio, an explosion, a speech, running, an animal, text on screen, a river, fire, a sports match, a protest, 人, 体育比赛",
+      "keywords": "a news studio,an explosion,a speech,running,an animal,text on screen,a river,fire,a sports match,a protest,人,体育比赛,a train,basketball,a flag,a building,新闻演播室,a crowd,a ship,soccer",
+      "visual_labels": [
+        {
+          "label": "a news studio",
+          "score": 0.3918
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3692
+        },
+        {
+          "label": "a speech",
+          "score": 0.3686
+        },
+        {
+          "label": "running",
+          "score": 0.3655
+        },
+        {
+          "label": "an animal",
+          "score": 0.3603
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3599
+        },
+        {
+          "label": "a river",
+          "score": 0.3589
+        },
+        {
+          "label": "fire",
+          "score": 0.3584
+        },
+        {
+          "label": "a sports match",
+          "score": 0.358
+        },
+        {
+          "label": "a protest",
+          "score": 0.3572
+        },
+        {
+          "label": "人",
+          "score": 0.3531
+        },
+        {
+          "label": "体育比赛",
+          "score": 0.3526
+        },
+        {
+          "label": "a train",
+          "score": 0.3511
+        },
+        {
+          "label": "basketball",
+          "score": 0.3502
+        },
+        {
+          "label": "a flag",
+          "score": 0.3497
+        },
+        {
+          "label": "a building",
+          "score": 0.3488
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3487
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3482
+        },
+        {
+          "label": "a ship",
+          "score": 0.3478
+        },
+        {
+          "label": "soccer",
+          "score": 0.3473
         }
       ]
     }
