@@ -32,7 +32,7 @@
       </div>
       <div class="archive-source">
         <div><p class="eyebrow">PRIMARY VIDEO ARCHIVE</p><h3>Internet Archive Television News Archive</h3><p>GDELT TV 2.0、TVAI 和 TV-GKG 的电视来源与回放入口。点击打开 Archive 电视档案，或从下方官方检索按钮进入匹配片段。</p></div>
-        <div class="archive-actions"><a class="archive-button" href="https://archive.org/details/tv" target="_blank" rel="noopener">打开电视档案 ↗</a><a class="archive-link" href="https://api.gdeltproject.org/api/v2/tv/tv?format=html&mode=clipgallery&query=station:CNN" target="_blank" rel="noopener">打开 GDELT / Archive 片段 ↗</a></div>
+        <div class="archive-actions"><a class="archive-button" href="https://archive.org/details/tv" target="_blank" rel="noopener">打开电视档案 ↗</a><a class="archive-link" href="https://api.gdeltproject.org/api/v2/tv/tv?format=html&amp;mode=clipgallery&amp;query=climate+station%3ACNN" target="_blank" rel="noopener">打开 GDELT TV 示例（climate · CNN）↗</a></div>
       </div>
       <div class="official-video-tools">
         <div><p class="eyebrow">OFFICIAL EXPLORATION TOOLS</p><h3>可视化探索与 TVAI 汇总</h3><p>Visual Explorer 直接串流 Archive 电视片段，提供逐秒画面、字幕、OCR 和视觉标注；TVAI Summary 提供 AI Television Explorer 的整体统计与汇总视图。</p></div>
@@ -102,11 +102,12 @@
         <p class="muted">直接调用 GDELT 官方 TV 2.0 / TV 2.0 AI API：普通 TV 2.0 检索字幕关键词、频道趋势和片段；TVAI 进一步提供 ASR、屏幕文字 OCR、视觉标签和自然语言实体图谱分析。查询结果在官方 API 页面打开。</p>
         <div class="tv-query">
           <label>字幕关键词或 TV 查询<input id="tv-query" type="search" value="climate" placeholder='例如 "climate" station:KGO'></label>
-          <label>频道（可选）<input id="tv-station" type="text" placeholder="KGO / KPIX / KNTV"></label>
+          <label>频道 ID（必填，按 GDELT 官方目录核验）<input id="tv-station" type="text" placeholder="例如 CNN / KGO / KPIX"></label>
           <button id="tv-clip-search" type="button">字幕片段</button>
           <button id="tv-timeline-search" type="button">趋势统计</button>
           <button id="tvai-search" type="button">TVAI 视觉检索</button>
         </div>
+        <p id="tv-query-status" class="notice" aria-live="polite">正在读取 GDELT 官方频道目录；检索必须包含有效频道 ID 和至少一个正向关键词。</p>
         <p class="notice">TVAI 查询示例：<code>visual:"POLICE"</code>、<code>ocr:"GAS PRICES"</code>、<code>asr:"climate"</code>。官方接口会按其数据范围和延迟返回结果。</p>
         <div class="video-ai-capabilities"><span>ASR 自动转写</span><span>Caption NLP 实体图谱</span><span>屏幕 OCR</span><span>Visual Labels</span><span>频道 / 节目 / 趋势</span></div>
       </div>
@@ -117,6 +118,7 @@
     <section class="panel methodology video-boundary"><p class="eyebrow">SOURCE BOUNDARIES</p><h2>数据边界与来源说明</h2><p>TV-GKG 提供电视新闻的字幕、主题、情绪和时间码等结构化信号，但不是 GDELT 托管的全球视频档案。ASR 与屏幕 OCR 属于本台可扩展的视频处理层；结果必须标注机器生成、来源地址和 UTC 时间码，并与原始视频人工比对。</p><a href="capabilities.html#broadcast">返回电视与广播能力说明 ↗</a></section>
   </main>
   <footer class="shell footer"><span>视频证据层 · 字幕 · ASR · Screen OCR · Keyframes</span><a href="./">返回全球观察台 ↗</a></footer>
+  <script src="tv-query.js"></script>
   <script>
     (() => {
       const $ = id => document.getElementById(id);
@@ -300,22 +302,44 @@
         $('live-trending-status').textContent = '实时电视趋势暂不可用';
         console.error('TV trending request failed', error);
       });
-      const openTvQuery = (base, mode, query) => {
-        const url = new URL(base);
-        url.searchParams.set('format', 'html');
-        url.searchParams.set('mode', mode);
-        url.searchParams.set('query', query);
-        url.searchParams.set('timespan', '7d');
-        window.open(url.toString(), '_blank', 'noopener');
+      let officialStations = null;
+      fetch('https://api.gdeltproject.org/api/v2/tv/tv?mode=stationdetails&format=json', { cache: 'no-store' })
+        .then(response => {
+          if (!response.ok) throw new Error(`HTTP ${response.status}`);
+          return response.json();
+        })
+        .then(data => {
+          const stations = data.station_details;
+          if (!Array.isArray(stations)) throw new Error('GDELT station details response is missing station_details');
+          officialStations = new Set(stations.map(item => String(item.StationID || '').trim().toUpperCase()).filter(Boolean));
+          $('tv-query-status').textContent = `已读取 ${officialStations.size} 个 GDELT 官方频道 ID；仅接受目录中的频道和含正向关键词的查询。`;
+        })
+        .catch(error => {
+          $('tv-query-status').textContent = '无法读取 GDELT 官方频道目录；为避免生成无效查询，当前检索已禁用。';
+          console.error('GDELT station details request failed', error);
+        });
+      const openTvQuery = (base, mode) => {
+        if (!officialStations) {
+          $('tv-query-status').textContent = 'GDELT 官方频道目录尚未就绪或读取失败；请稍后重试。';
+          return;
+        }
+        let query;
+        try {
+          query = window.GdeltTvQuery.buildQuery(
+            $('tv-query').value,
+            $('tv-station').value,
+            officialStations
+          );
+        } catch (error) {
+          $('tv-query-status').textContent = error.message;
+          return;
+        }
+        $('tv-query-status').textContent = `正在打开查询：${query}`;
+        window.open(window.GdeltTvQuery.buildUrl(base, mode, query), '_blank', 'noopener');
       };
-      const tvQuery = () => {
-        const query = $('tv-query').value.trim();
-        const station = $('tv-station').value.trim();
-        return station && !/\bstation:/i.test(query) ? `${query} station:${station}` : query;
-      };
-      $('tv-clip-search').onclick = () => openTvQuery('https://api.gdeltproject.org/api/v2/tv/tv', 'clipgallery', tvQuery());
-      $('tv-timeline-search').onclick = () => openTvQuery('https://api.gdeltproject.org/api/v2/tv/tv', 'timelinevol', tvQuery());
-      $('tvai-search').onclick = () => openTvQuery('https://api.gdeltproject.org/api/v2/tvai/tvai', 'clipgallery', tvQuery());
+      $('tv-clip-search').onclick = () => openTvQuery('https://api.gdeltproject.org/api/v2/tv/tv', 'clipgallery');
+      $('tv-timeline-search').onclick = () => openTvQuery('https://api.gdeltproject.org/api/v2/tv/tv', 'timelinevol');
+      $('tvai-search').onclick = () => openTvQuery('https://api.gdeltproject.org/api/v2/tvai/tvai', 'clipgallery');
     })();
   </script>
 </body>

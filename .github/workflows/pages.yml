@@ -22,6 +22,13 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Test GDELT TV query construction
+        run: |
+          python -m unittest discover -s tests -v
+          node --test tests/tv-query.test.js
       - name: Validate site data and local links
         run: python scripts/validate_site.py
   deploy:
@@ -41,7 +48,7 @@ jobs:
       - name: Assemble Pages site
         run: |
           mkdir -p _site
-          cp ./*.html styles.css _site/
+          cp ./*.html ./*.js styles.css _site/
           cp -R data _site/data
           if [ -d ios-simulator ]; then
             cp -R ios-simulator _site/ios-simulator
