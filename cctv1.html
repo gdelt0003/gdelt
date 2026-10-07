@@ -41,7 +41,7 @@
     const $=id=>document.getElementById(id);
     const node=(tag,className,text)=>{const element=document.createElement(tag);if(className)element.className=className;if(text!==undefined)element.textContent=String(text);return element};
     const dateText=value=>{if(!value)return'—';const parsed=new Date(value);return Number.isNaN(parsed.getTime())?String(value):parsed.toLocaleString('zh-CN',{timeZone:'UTC',hour12:false})+' UTC'};
-    const allowed=(value,host,path,paramName,paramValue)=>{try{const url=new URL(value);const params=url.searchParams;const queryOk=paramName?params.size===1&&params.getAll(paramName).length===1&&params.get(paramName)===paramValue:params.size===0;return url.protocol==='https:'&&url.hostname===host&&url.pathname===path&&url.username === '' && url.password === '' &&url.hash===''&&queryOk?url:null}catch{return null}};
+    const allowed=(value,host,path,paramName,paramValue)=>{try{const url=new URL(value);const params=url.searchParams;const queryOk=paramName?params.size===1&&params.getAll(paramName).length===1&&params.get(paramName)===paramValue:params.size===0;return url.protocol==='https:'&&url.hostname===host&&url.host===host&&url.pathname===path&&url.username===''&&url.password===''&&url.hash===''&&queryOk?url:null}catch{return null}};
     function safeRecord(record){
       if(!record||typeof record!=='object'||!ID_PATTERN.test(record.id||'')||typeof record.program!=='string'||typeof record.runtime!=='string')return null;
       const id=record.id;
