@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="CCTV-1 节目索引：展示 GDELT Visual Explorer 节目目录及经核验的来源入口。">
+  <title>CCTV-1 节目索引 · GDELT</title>
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    .cctv-hero{padding:48px 0 28px}.cctv-hero h1{font:600 clamp(42px,7vw,78px)/.95 Newsreader,serif;margin:0}.cctv-state{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin:18px 0}.cctv-state article,.cctv-show{background:var(--paper2);border:1px solid var(--line)}.cctv-state article{padding:17px}.cctv-state b{display:block;color:var(--teal);font:11px 'DM Mono';margin-bottom:8px}.cctv-state span{font-size:12px;color:var(--muted);overflow-wrap:anywhere}.cctv-notice{border-left:3px solid var(--orange);background:#fff8ef;padding:15px 17px;color:#5d5145;font-size:12px;line-height:1.75}.cctv-controls{display:flex;gap:12px;align-items:end;margin:18px 0}.cctv-controls label{flex:1;margin:0}.cctv-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.cctv-show{padding:20px;min-width:0}.cctv-show h2{font:600 24px/1.25 Newsreader,serif;margin:0 0 10px;overflow-wrap:anywhere}.cctv-show p{font-size:12px;color:var(--muted);line-height:1.65}.cctv-meta{display:flex;flex-wrap:wrap;gap:7px 13px;color:var(--muted);font:10px 'DM Mono';margin:10px 0}.cctv-links{display:flex;flex-wrap:wrap;gap:8px 15px;margin-top:15px}.cctv-links a{color:var(--teal);font-size:12px;text-decoration:none}.cctv-links a:hover{text-decoration:underline}.cctv-media-state{border-top:1px solid var(--line);padding-top:10px}.cctv-empty{grid-column:1/-1}.cctv-footer{margin-top:35px}@media(max-width:700px){.cctv-state,.cctv-list{grid-template-columns:1fr}.cctv-hero{padding-top:36px}.cctv-controls{display:block}.cctv-controls label{display:block;margin-bottom:12px}.cctv-show{padding:17px}}
+  </style>
+</head>
+<body>
+  <header class="top"><div class="shell nav"><a class="logo" href="./"><b>GDELT</b><span>CCTV-1 PROGRAMME INDEX</span></a><nav><a href="./">编辑台</a><a href="video.html">视频研判</a><a href="data.html">数据支撑</a></nav></div></header>
+  <main class="shell">
+    <section class="data-hero cctv-hero">
+      <p class="eyebrow">CCTV-1 / PROGRAMME INDEX</p>
+      <h1>CCTV-1 节目索引</h1>
+      <p class="dek">按公开目录浏览 CCTV-1 节目时段。此页不是官方视频页；Visual Explorer 将 CCTV-1 标为 Audio Only。</p>
+      <p id="load-status" class="muted" role="status">正在读取云端节目索引…</p>
+    </section>
+    <section class="cctv-state" aria-label="数据状态">
+      <article><b>快照生成时间</b><span id="generated-at">—</span></article>
+      <article><b>最近成功采集</b><span id="last-success">—</span></article>
+      <article><b>目录采集状态</b><span id="day-state">—</span></article>
+    </section>
+    <section class="panel">
+      <p class="cctv-notice" id="source-notice">来源说明：研究性索引，不是 CCTV 或央视频官方发布/授权。Visual Explorer 声明其为实验性项目；节目目录、字幕及媒体增强为自动处理，节目可能缺失、延迟，或出现音视频问题。页面只链接来源站点，不缓存、下载或重发媒体。</p>
+      <p class="notice">日期窗口依据 Inventory 文件日与节目 ID 中的 UTC 日期；卡片同时显示原站当地时间及其 UTC 偏移。目录中未提供可核验的官方单条视频地址，任何“官方站内搜索”都不代表已匹配该节目。</p>
+      <div class="cctv-controls">
+        <label for="filter">筛选节目<input id="filter" type="search" placeholder="节目名称或节目 ID"></label>
+        <span id="count" class="muted">—</span>
+      </div>
+    </section>
+    <section id="shows" class="cctv-list" aria-live="polite"><p class="empty cctv-empty">加载中…</p></section>
+  </main>
+  <footer class="shell footer cctv-footer"><span>节目目录来源：GDELT TV News Visual Explorer / Internet Archive item metadata</span><a href="./">返回观察台 ↗</a></footer>
+  <script>
+    const ID_PATTERN=/^CCTV1_(\d{8})_(\d{6})(?:_[A-Za-z0-9-]+)?$/;
+    const HOSTS={visual:'visualexplorer.gdeltproject.org',archive:'archive.org',official:'www.yangshipin.cn'};
+    const $=id=>document.getElementById(id);
+    const node=(tag,className,text)=>{const element=document.createElement(tag);if(className)element.className=className;if(text!==undefined)element.textContent=String(text);return element};
+    const dateText=value=>{if(!value)return'—';const parsed=new Date(value);return Number.isNaN(parsed.getTime())?String(value):parsed.toLocaleString('zh-CN',{timeZone:'UTC',hour12:false})+' UTC'};
+    const allowed=(value,host,path,paramName,paramValue)=>{try{const url=new URL(value);const params=url.searchParams;const queryOk=paramName?params.size===1&&params.getAll(paramName).length===1&&params.get(paramName)===paramValue:params.size===0;return url.protocol==='https:'&&url.hostname===host&&url.pathname===path&&url.username === '' && url.password === '' &&url.hash===''&&queryOk?url:null}catch{return null}};
+    function safeRecord(record){
+      if(!record||typeof record!=='object'||!ID_PATTERN.test(record.id||'')||typeof record.program!=='string'||typeof record.runtime!=='string')return null;
+      const id=record.id;
+      const archive=allowed(record.archive_url,HOSTS.archive,'/details/'+id,'','');
+      const visual=allowed(record.visual_explorer_url,HOSTS.visual,'/tvv','id',id);
+      const search=allowed(record.official_search_url,HOSTS.official,'/search/result','key',record.program);
+      if(!archive||!visual||!search)return null;
+      if(record.official_video_url!==null||record.official_video_status!=='no_verified_match')return null;
+      return{...record,archive:archive.href,visual:visual.href,search:search.href};
+    }
+    function addLink(container,url,label){
+      const anchor=node('a','',label+' ↗');anchor.href=url;anchor.target='_blank';anchor.rel='noopener noreferrer';container.append(anchor);
+    }
+    function renderRecord(record){
+      const card=node('article','cctv-show');
+      card.append(node('p','eyebrow',record.inventory_day+' · CCTV-1 · '+record.id));
+      card.append(node('h2','',record.program));
+      card.append(node('div','cctv-meta','节目时段 '+(record.start_time_local||'—')+' '+(record.utc_offset||'')+' · UTC '+(record.start_time_utc||'—')));
+      card.append(node('div','cctv-meta','时长 '+record.runtime+' · 快照 '+dateText(record.snapshot_generated_at)));
+      card.append(node('p','cctv-media-state','媒体状态：Visual Explorer 标记为 Audio Only；官方单条视频暂无已核验匹配（no_verified_match），不表示确认不存在。'));
+      card.append(node('p','',record.media_note||'暂无可核验的官方单条视频链接。'));
+      const links=node('div','cctv-links');
+      addLink(links,record.visual,'Visual Explorer 节目记录');
+      addLink(links,record.archive,'Internet Archive 条目页');
+      addLink(links,record.search,'央视频官方站内搜索（未匹配原片）');
+      card.append(links);
+      return card;
+    }
+    let shows=[];
+    function render(){
+      const query=$('filter').value.trim().toLocaleLowerCase();
+      const matches=shows.filter(item=>!query||(item.program+' '+item.id).toLocaleLowerCase().includes(query));
+      const list=$('shows');
+      list.replaceChildren(...(matches.length?matches.map(renderRecord):[node('p','empty cctv-empty','没有匹配的节目。')]));
+      $('count').textContent=matches.length+' / '+shows.length+' 条目录记录';
+    }
+    $('filter').addEventListener('input',render);
+    fetch('data/cctv1.json?v='+Date.now(),{cache:'no-store'}).then(response=>{
+      if(!response.ok)throw new Error('HTTP '+response.status);
+      return response.json();
+    }).then(data=>{
+      if(!data||data.schema_version!=='1.0'||!Array.isArray(data.shows)||!Array.isArray(data.day_status))throw new Error('数据格式不符合 CCTV-1 索引 schema');
+      const checked=data.shows.map(safeRecord);
+      const rejected=checked.filter(item=>item===null).length;
+      shows=checked.filter(Boolean);
+      $('generated-at').textContent=dateText(data.generated_at);
+      $('last-success').textContent=dateText(data.latest_successful_at);
+      $('day-state').textContent=data.day_status.map(day=>day.day+' '+(day.status==='success'?'成功':'失败，保留旧快照')+'（'+day.show_count+' 条）').join('；')||'暂无采集日期';
+      if(data.snapshot_state==='not_collected'){
+        $('load-status').textContent='等待首次云端采集；当前尚无节目库存快照。';
+        $('shows').replaceChildren(node('p','empty cctv-empty','首次云端采集尚未完成；暂无节目记录。这不是一次成功的空目录结果。'));
+        return;
+      }
+      $('load-status').textContent='来源：GDELT Visual Explorer Inventory · 展示 '+shows.length+' 条有效节目记录'+(rejected?'；拒绝 '+rejected+' 条结构或链接不合法的记录':'')+' · '+(data.date_window||'日期口径见来源说明');
+      if(!shows.length)$('shows').replaceChildren(node('p','empty cctv-empty','当前成功读取到空节目目录；这与目录抓取失败不同。'));
+      else render();
+    }).catch(error=>{
+      $('load-status').textContent='暂时无法读取节目索引；这不等于目录为空。';
+      $('shows').replaceChildren(node('p','empty cctv-empty','节目数据暂不可用。请稍后重试；上一份云端快照若已发布，将在采集恢复后显示。'));
+      console.error('CCTV-1 programme index load failed:',error);
+    });
+  </script>
+</body>
+</html>

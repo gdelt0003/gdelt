@@ -1,0 +1,70 @@
+name: Build CCTV-1 programme index
+
+on:
+  schedule:
+    - cron: '23 */3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: gdelt-cctv1-programme-index
+  cancel-in-progress: false
+
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Require the deployment branch
+        run: |
+          if [ "$GITHUB_REF" != "refs/heads/main" ]; then
+            echo "CCTV-1 snapshots may only be committed from main." >&2
+            exit 1
+          fi
+      - name: Fetch and validate CCTV-1 inventory snapshot
+        run: python scripts/analyze_cctv1.py
+      - name: Run offline tests
+        run: |
+          python -m unittest discover -s tests -v
+          node --test tests/tv-query.test.js
+      - name: Validate the complete site snapshot
+        run: python scripts/validate_site.py
+      - name: Preserve validated snapshot artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: cctv1-programme-index
+          path: data/cctv1.json
+          if-no-files-found: error
+          retention-days: 7
+      - id: commit
+        name: Commit changed snapshot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/cctv1.json
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git commit -m "Update CCTV-1 programme index"
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+      - name: Dispatch Pages deployment
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run pages.yml --ref main

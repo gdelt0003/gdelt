@@ -1,0 +1,13 @@
+{
+  "schema_version": "1.0",
+  "snapshot_state": "not_collected",
+  "generated_at": null,
+  "latest_successful_at": null,
+  "source": "https://visualexplorer.gdeltproject.org/ve/site/inv/json/",
+  "source_label": "GDELT TV News Visual Explorer CCTV-1 programme inventory",
+  "source_notice": "研究性索引，不是 CCTV/央视频官方发布或授权。Visual Explorer 的节目元数据、字幕和媒体增强为自动处理，节目可能缺失、延迟或存在音视频问题。",
+  "date_window": "Inventory 文件日及节目 ID 日期均按 UTC；节目同时保留原站当地时间与 UTC 偏移。",
+  "timezone": "UTC",
+  "day_status": [],
+  "shows": []
+}
