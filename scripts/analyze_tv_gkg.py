@@ -75,7 +75,7 @@ def get(url: str, timeout: int = 90) -> bytes:
         return response.read()
 
 
-def latest_archive_videos(limit: int = 2000) -> list[dict]:
+def latest_archive_videos(limit: int = 60) -> list[dict]:
     day = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     query = quote_plus(f"collection:tvnews AND date:[{day} TO {day}]")
     params = (
