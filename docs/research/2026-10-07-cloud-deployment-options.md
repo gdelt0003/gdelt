@@ -30,10 +30,12 @@
 
 ## GitHub 基线与工作流注意事项
 
-- **Actions 公开仓库 runner 通常免费**；若转为私有，额度因账户方案而异。公开仓库的 Actions/Pages 已是很强的低成本起点，替换理由更可能是调度保证、长容器任务和对象存储边界，而不是单纯省费。
-- GitHub schedule 最小间隔为 5 分钟，但繁忙时可能延迟甚至丢弃；workflow 必须位于默认分支。公开仓库长期无活动时，计划任务可能被自动停用。应监控最近成功时间，而非只看 schedule 声明。
+- **Actions 公开仓库标准 runner 免费**；私有仓库额度按账户方案区分（Free 2,000、Pro 3,000 分钟/月），超额标准 Linux 2 核 runner 基础价为 $0.006/分钟。公开仓库的 Actions/Pages 已是很强的低成本起点，替换理由更可能是调度保证、长容器任务和对象存储边界，而不是单纯省费。
+- GitHub schedule 最小间隔为 5 分钟，但繁忙时可能延迟甚至丢弃；workflow 必须位于默认分支。公开仓库 60 天无仓库活动时，计划任务可能被自动停用。每 15 分钟计划一次约为 **96 次/日、2,880 次/30日**；不代表作业都成功或实际运行 15 分钟。应监控最近成功时间，并以幂等/补跑逻辑弥补非耐久调度。
+- 标准 Ubuntu runner 的公开/私有规格分别为 4 vCPU/16GB RAM 和 2 vCPU/8GB RAM；缓存每仓库 10GB。Artifacts 与 Packages 共用额度：Free 500MB、Pro 1GB。GitHub Pages 站点上限 1GB、软带宽限额 100GB/月；Pages 自定义 Actions 部署不受每小时 10 次软 build 限制。
+- **仅作条件示例而非账单预测：**若视觉索引确实每 6 小时运行一次且每次实耗 45 分钟，则 30 天约 5,400 runner 分钟；私有 Free 超出 2,000 分钟部分按 $0.006/分钟粗算约 $20.40。必须用 Actions 实际 step duration、账户 runner SKU 与共享用量核实；`timeout-minutes` 不是实际运行时长。
 - `GITHUB_TOKEN` 写回仓库产生的 push 不会自动启动另一个常规 `push` workflow；需要显式 `workflow_dispatch`/`repository_dispatch` 或重新设计为单个 workflow 内的 job 依赖。
-- 页面部署、数据分析与视频分析的运行时间、p95、失败率、数据增长、网络量未在本报告核算；workflow `timeout-minutes` 是最大时限，不是实际运行时长。
+- 页面部署、数据分析与视频分析的 p95、失败率、数据增长、网络量未在本报告核算；workflow `timeout-minutes` 是最大时限，不是实际运行时长。运行记录应观察状态、step duration、重跑与输出大小；Secrets 使用仓库/环境密钥，并限制 `GITHUB_TOKEN` 权限。
 
 ## 对本项目的建议路线
 
@@ -44,7 +46,7 @@
 
 ## 官方来源（核验日期：2026-10-07）
 
-- GitHub： [Actions 计费](https://docs.github.com/en/billing/concepts/product-billing/github-actions)、[Pages 限制](https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits)、[Hosted runners](https://docs.github.com/en/actions/reference/runners/github-hosted-runners)、[schedule 触发规则](https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule)
+- GitHub： [Actions 计费/额度](https://docs.github.com/en/billing/concepts/product-billing/github-actions)、[Runner 单价](https://docs.github.com/en/billing/reference/actions-runner-pricing)、[Hosted runner 规格](https://docs.github.com/en/actions/reference/runners/github-hosted-runners#supported-runners-and-hardware-resources)、[Pages 限制](https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits)、[schedule 触发规则](https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule)
 - Google Cloud： [Cloud Run Jobs](https://docs.cloud.google.com/run/docs/create-jobs)、[任务时限](https://docs.cloud.google.com/run/docs/configuring/task-timeout)、[Scheduler 定价](https://cloud.google.com/scheduler/pricing)、[Cloud Run 定价](https://cloud.google.com/run/pricing)、[Firebase Hosting 额度](https://firebase.google.com/docs/hosting/usage-quotas-pricing)
 - Render： [Cron Jobs](https://render.com/docs/cronjobs)、[Static Sites](https://render.com/docs/static-sites)、[定价](https://render.com/pricing)、[环境变量/Secrets](https://render.com/docs/configure-environment-variables)
 - AWS： [Scheduler 类型](https://docs.aws.amazon.com/scheduler/latest/UserGuide/schedule-types.html)、[ECS 定时任务](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/tasks-scheduled-eventbridge-scheduler.html)、[Scheduler 配额](https://docs.aws.amazon.com/scheduler/latest/UserGuide/scheduler-quotas.html)、[EventBridge 定价](https://aws.amazon.com/eventbridge/pricing/)

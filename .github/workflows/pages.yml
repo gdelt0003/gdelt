@@ -38,12 +38,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/configure-pages@v5
+      - name: Assemble Pages site
+        run: |
+          mkdir -p _site
+          cp ./*.html styles.css _site/
+          cp -R data _site/data
+          if [ -d ios-simulator ]; then
+            cp -R ios-simulator _site/ios-simulator
+          fi
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: |
-            *.html
-            styles.css
-            data/
-            ios-simulator/
+          path: _site
       - id: deployment
         uses: actions/deploy-pages@v4

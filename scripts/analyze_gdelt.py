@@ -72,14 +72,22 @@ def domain(url: str) -> str:
     except ValueError: return ""
 
 
-def locations(value: str) -> list[dict[str, str]]:
+def locations(value: str) -> list[dict[str, str | float]]:
     result, seen = [], set()
     for item in value.split(";"):
         parts = item.split("#")
         if len(parts) < 3: continue
         name, country = clean(parts[1]), clean(parts[2])
         if name and country and (name, country) not in seen:
-            result.append({"name": name, "country": country})
+            place: dict[str, str | float] = {"name": name, "country": country}
+            if len(parts) > 6:
+                try:
+                    latitude, longitude = float(parts[5]), float(parts[6])
+                    if -90 <= latitude <= 90 and -180 <= longitude <= 180:
+                        place.update({"latitude": latitude, "longitude": longitude})
+                except ValueError:
+                    pass
+            result.append(place)
             seen.add((name, country))
     return result[:12]
 
