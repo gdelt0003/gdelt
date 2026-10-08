@@ -1,7 +1,287 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-08T00:38:03+00:00",
+  "generated_at": "2026-10-08T06:36:08+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
-  "records": 0,
-  "items": []
+  "records": 3,
+  "items": [
+    {
+      "id": "ALJAZ_20261008_010000",
+      "title": "saudi arabia says missile attacks by the who sees on 2 of its airports, killed 3 people, an injured dozens more.",
+      "source": "ALJAZ",
+      "date": "2026-10-08T00:00:00Z",
+      "image_url": "https://archive.org/services/img/ALJAZ_20261008_010000/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/ALJAZ_20261008_010000",
+      "description_zh": "画面候选标签：flooding、smoke、an explosion、fire、an airplane、a mountain、抗议活动、military、text on screen、a crowd、爆炸、police",
+      "description_en": "Visual candidate labels: flooding, smoke, an explosion, fire, an airplane, a mountain, 抗议活动, military, text on screen, a crowd, 爆炸, police",
+      "keywords": "flooding,smoke,an explosion,fire,an airplane,a mountain,抗议活动,military,text on screen,a crowd,爆炸,police,洪水,烟雾,a river,running,a road,a car,火灾,the countryside",
+      "visual_labels": [
+        {
+          "label": "flooding",
+          "score": 0.3837
+        },
+        {
+          "label": "smoke",
+          "score": 0.3743
+        },
+        {
+          "label": "an explosion",
+          "score": 0.366
+        },
+        {
+          "label": "fire",
+          "score": 0.3591
+        },
+        {
+          "label": "an airplane",
+          "score": 0.353
+        },
+        {
+          "label": "a mountain",
+          "score": 0.3515
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3495
+        },
+        {
+          "label": "military",
+          "score": 0.3493
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3486
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3479
+        },
+        {
+          "label": "爆炸",
+          "score": 0.3476
+        },
+        {
+          "label": "police",
+          "score": 0.3446
+        },
+        {
+          "label": "洪水",
+          "score": 0.3416
+        },
+        {
+          "label": "烟雾",
+          "score": 0.3381
+        },
+        {
+          "label": "a river",
+          "score": 0.3368
+        },
+        {
+          "label": "running",
+          "score": 0.3349
+        },
+        {
+          "label": "a road",
+          "score": 0.3337
+        },
+        {
+          "label": "a car",
+          "score": 0.3323
+        },
+        {
+          "label": "火灾",
+          "score": 0.3319
+        },
+        {
+          "label": "the countryside",
+          "score": 0.3318
+        }
+      ]
+    },
+    {
+      "id": "DW_20261008_030200_DW_News_Focus",
+      "title": "the homeless sled attack resulted in the death of some 1200 people, more than 200 were abducted to gauze and held hostage some for move in 2 years now .",
+      "source": "DW",
+      "date": "2026-10-08T00:00:00Z",
+      "image_url": "https://archive.org/services/img/DW_20261008_030200_DW_News_Focus/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261008_030200_DW_News_Focus",
+      "description_zh": "画面候选标签：a news studio、a flag、a speech、text on screen、屏幕文字、a map、fire、a river、a sports match、a road、a mountain、soccer",
+      "description_en": "Visual candidate labels: a news studio, a flag, a speech, text on screen, 屏幕文字, a map, fire, a river, a sports match, a road, a mountain, soccer",
+      "keywords": "a news studio,a flag,a speech,text on screen,屏幕文字,a map,fire,a river,a sports match,a road,a mountain,soccer,running,a crowd,smoke,抗议活动,a forest,an explosion,人,basketball",
+      "visual_labels": [
+        {
+          "label": "a news studio",
+          "score": 0.3905
+        },
+        {
+          "label": "a flag",
+          "score": 0.3785
+        },
+        {
+          "label": "a speech",
+          "score": 0.3768
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3747
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3675
+        },
+        {
+          "label": "a map",
+          "score": 0.3562
+        },
+        {
+          "label": "fire",
+          "score": 0.3531
+        },
+        {
+          "label": "a river",
+          "score": 0.3529
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3515
+        },
+        {
+          "label": "a road",
+          "score": 0.3506
+        },
+        {
+          "label": "a mountain",
+          "score": 0.349
+        },
+        {
+          "label": "soccer",
+          "score": 0.3458
+        },
+        {
+          "label": "running",
+          "score": 0.3452
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3443
+        },
+        {
+          "label": "smoke",
+          "score": 0.344
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.343
+        },
+        {
+          "label": "a forest",
+          "score": 0.343
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3422
+        },
+        {
+          "label": "人",
+          "score": 0.3408
+        },
+        {
+          "label": "basketball",
+          "score": 0.3393
+        }
+      ]
+    },
+    {
+      "id": "DW_20261008_031500_Arts_Unveiled",
+      "title": "no country in the world has gone through what we've experience to say a war of extermination, starvation that the absence of schools and universities.",
+      "source": "DW",
+      "date": "2026-10-08T00:00:00Z",
+      "image_url": "https://archive.org/services/img/DW_20261008_031500_Arts_Unveiled/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261008_031500_Arts_Unveiled",
+      "description_zh": "画面候选标签：an explosion、flooding、a news studio、a building、military、a protest、a city street、a beach、text on screen、a map、抗议活动、新闻演播室",
+      "description_en": "Visual candidate labels: an explosion, flooding, a news studio, a building, military, a protest, a city street, a beach, text on screen, a map, 抗议活动, 新闻演播室",
+      "keywords": "an explosion,flooding,a news studio,a building,military,a protest,a city street,a beach,text on screen,a map,抗议活动,新闻演播室,fire,police,a crowd,running,an airplane,爆炸,a ship,a mountain",
+      "visual_labels": [
+        {
+          "label": "an explosion",
+          "score": 0.4321
+        },
+        {
+          "label": "flooding",
+          "score": 0.4001
+        },
+        {
+          "label": "a news studio",
+          "score": 0.3837
+        },
+        {
+          "label": "a building",
+          "score": 0.3717
+        },
+        {
+          "label": "military",
+          "score": 0.3694
+        },
+        {
+          "label": "a protest",
+          "score": 0.3649
+        },
+        {
+          "label": "a city street",
+          "score": 0.3637
+        },
+        {
+          "label": "a beach",
+          "score": 0.3606
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3559
+        },
+        {
+          "label": "a map",
+          "score": 0.3548
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3524
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3505
+        },
+        {
+          "label": "fire",
+          "score": 0.3496
+        },
+        {
+          "label": "police",
+          "score": 0.3495
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3476
+        },
+        {
+          "label": "running",
+          "score": 0.3465
+        },
+        {
+          "label": "an airplane",
+          "score": 0.3462
+        },
+        {
+          "label": "爆炸",
+          "score": 0.3459
+        },
+        {
+          "label": "a ship",
+          "score": 0.3455
+        },
+        {
+          "label": "a mountain",
+          "score": 0.3424
+        }
+      ]
+    }
+  ]
 }
