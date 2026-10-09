@@ -1,7 +1,101 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-09T00:41:22+00:00",
+  "generated_at": "2026-10-09T06:35:54+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
-  "records": 0,
-  "items": []
+  "records": 1,
+  "items": [
+    {
+      "id": "DW_20261009_003000_To_the_Point",
+      "title": "the real surprise, the unpopular war with iran and trumps, or roddic tariff and trade policies have led to prices skyrocketing, the gas.",
+      "source": "DW",
+      "date": "2026-10-09T00:00:00Z",
+      "image_url": "https://archive.org/services/img/DW_20261009_003000_To_the_Point/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261009_003000_To_the_Point",
+      "description_zh": "画面候选标签：text on screen、屏幕文字、a news studio、新闻演播室、fire、basketball、a car、smoke、烟雾、police、a building、an explosion",
+      "description_en": "Visual candidate labels: text on screen, 屏幕文字, a news studio, 新闻演播室, fire, basketball, a car, smoke, 烟雾, police, a building, an explosion",
+      "keywords": "text on screen,屏幕文字,a news studio,新闻演播室,fire,basketball,a car,smoke,烟雾,police,a building,an explosion,抗议活动,a truck,汽车,a city street,a map,a road,an airplane,a ship",
+      "visual_labels": [
+        {
+          "label": "text on screen",
+          "score": 0.4075
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3841
+        },
+        {
+          "label": "a news studio",
+          "score": 0.3772
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3726
+        },
+        {
+          "label": "fire",
+          "score": 0.3705
+        },
+        {
+          "label": "basketball",
+          "score": 0.3695
+        },
+        {
+          "label": "a car",
+          "score": 0.3684
+        },
+        {
+          "label": "smoke",
+          "score": 0.3648
+        },
+        {
+          "label": "烟雾",
+          "score": 0.3645
+        },
+        {
+          "label": "police",
+          "score": 0.3645
+        },
+        {
+          "label": "a building",
+          "score": 0.3637
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3626
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3564
+        },
+        {
+          "label": "a truck",
+          "score": 0.356
+        },
+        {
+          "label": "汽车",
+          "score": 0.3545
+        },
+        {
+          "label": "a city street",
+          "score": 0.3545
+        },
+        {
+          "label": "a map",
+          "score": 0.3523
+        },
+        {
+          "label": "a road",
+          "score": 0.3522
+        },
+        {
+          "label": "an airplane",
+          "score": 0.3509
+        },
+        {
+          "label": "a ship",
+          "score": 0.3492
+        }
+      ]
+    }
+  ]
 }
