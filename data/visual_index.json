@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-09T06:35:54+00:00",
+  "generated_at": "2026-10-09T12:33:25+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
-  "records": 1,
+  "records": 2,
   "items": [
     {
       "id": "DW_20261009_003000_To_the_Point",
@@ -94,6 +94,99 @@
         {
           "label": "a ship",
           "score": 0.3492
+        }
+      ]
+    },
+    {
+      "id": "ALJAZ_20261009_043000",
+      "title": "i know they're super high and i think like a lot of people focus on like the big elections like the presidential elections, but a lot of things start at the bottom and i think that…",
+      "source": "ALJAZ",
+      "date": "2026-10-09T00:00:00Z",
+      "image_url": "https://archive.org/services/img/ALJAZ_20261009_043000/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/ALJAZ_20261009_043000",
+      "description_zh": "画面候选标签：a protest、a news studio、an explosion、a speech、text on screen、a flag、military、a building、an animal、flooding、a sports match、police",
+      "description_en": "Visual candidate labels: a protest, a news studio, an explosion, a speech, text on screen, a flag, military, a building, an animal, flooding, a sports match, police",
+      "keywords": "a protest,a news studio,an explosion,a speech,text on screen,a flag,military,a building,an animal,flooding,a sports match,police,抗议活动,an airplane,the countryside,a horse,a crowd,a truck,a mountain,a ship",
+      "visual_labels": [
+        {
+          "label": "a protest",
+          "score": 0.4619
+        },
+        {
+          "label": "a news studio",
+          "score": 0.4175
+        },
+        {
+          "label": "an explosion",
+          "score": 0.4168
+        },
+        {
+          "label": "a speech",
+          "score": 0.413
+        },
+        {
+          "label": "text on screen",
+          "score": 0.409
+        },
+        {
+          "label": "a flag",
+          "score": 0.3997
+        },
+        {
+          "label": "military",
+          "score": 0.388
+        },
+        {
+          "label": "a building",
+          "score": 0.3801
+        },
+        {
+          "label": "an animal",
+          "score": 0.3797
+        },
+        {
+          "label": "flooding",
+          "score": 0.3794
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3793
+        },
+        {
+          "label": "police",
+          "score": 0.3787
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3713
+        },
+        {
+          "label": "an airplane",
+          "score": 0.3712
+        },
+        {
+          "label": "the countryside",
+          "score": 0.3685
+        },
+        {
+          "label": "a horse",
+          "score": 0.3681
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3673
+        },
+        {
+          "label": "a truck",
+          "score": 0.3633
+        },
+        {
+          "label": "a mountain",
+          "score": 0.362
+        },
+        {
+          "label": "a ship",
+          "score": 0.3595
         }
       ]
     }
