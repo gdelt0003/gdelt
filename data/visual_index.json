@@ -1,7 +1,101 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-10T00:39:25+00:00",
+  "generated_at": "2026-10-10T06:32:57+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
-  "records": 0,
-  "items": []
+  "records": 1,
+  "items": [
+    {
+      "id": "CSPAN_20261010_015400_Secretary_Rubio_Meets_With_Venezuelas_Opposition_Legislature_President",
+      "title": "hosted by jerry o'connell and live on c-span, the national civics b championship live on october 14.",
+      "source": "CSPAN",
+      "date": "2026-10-10T00:00:00Z",
+      "image_url": "https://archive.org/services/img/CSPAN_20261010_015400_Secretary_Rubio_Meets_With_Venezuelas_Opposition_Legislature_President/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/CSPAN_20261010_015400_Secretary_Rubio_Meets_With_Venezuelas_Opposition_Legislature_President",
+      "description_zh": "画面候选标签：a news studio、新闻演播室、text on screen、a protest、an explosion、a speech、a map、抗议活动、a building、a flag、a sports match、military",
+      "description_en": "Visual candidate labels: a news studio, 新闻演播室, text on screen, a protest, an explosion, a speech, a map, 抗议活动, a building, a flag, a sports match, military",
+      "keywords": "a news studio,新闻演播室,text on screen,a protest,an explosion,a speech,a map,抗议活动,a building,a flag,a sports match,military,屏幕文字,an animal,a road,basketball,a crowd,police,a river,a mountain",
+      "visual_labels": [
+        {
+          "label": "a news studio",
+          "score": 0.4498
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.4183
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3996
+        },
+        {
+          "label": "a protest",
+          "score": 0.3909
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3898
+        },
+        {
+          "label": "a speech",
+          "score": 0.3762
+        },
+        {
+          "label": "a map",
+          "score": 0.3719
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3672
+        },
+        {
+          "label": "a building",
+          "score": 0.3666
+        },
+        {
+          "label": "a flag",
+          "score": 0.3586
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3578
+        },
+        {
+          "label": "military",
+          "score": 0.3551
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3549
+        },
+        {
+          "label": "an animal",
+          "score": 0.354
+        },
+        {
+          "label": "a road",
+          "score": 0.3536
+        },
+        {
+          "label": "basketball",
+          "score": 0.3531
+        },
+        {
+          "label": "a crowd",
+          "score": 0.353
+        },
+        {
+          "label": "police",
+          "score": 0.3524
+        },
+        {
+          "label": "a river",
+          "score": 0.3523
+        },
+        {
+          "label": "a mountain",
+          "score": 0.3477
+        }
+      ]
+    }
+  ]
 }
