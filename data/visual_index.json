@@ -1,285 +1,285 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-10T12:32:03+00:00",
+  "generated_at": "2026-10-10T18:29:55+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
   "records": 3,
   "items": [
     {
-      "id": "DW_20261010_030000_DW_News",
-      "title": "that is, that you ways president donald trump says he struck a deal to obtain diesel from russia in an effort to, to low a fuel prices ahead that the us mid term elections.",
-      "source": "DW",
+      "id": "BBCNEWS_20261010_040000_BBC_News",
+      "title": "president president trump announces a deal deal to import russian diesel as as pressure mounts to bring down down fuel prices.",
+      "source": "BBCNEWS",
       "date": "2026-10-10T00:00:00Z",
-      "image_url": "https://archive.org/services/img/DW_20261010_030000_DW_News/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/DW_20261010_030000_DW_News",
-      "description_zh": "画面候选标签：a flag、text on screen、a news studio、an explosion、屏幕文字、抗议活动、military、smoke、a protest、an animal、a building、a mountain",
-      "description_en": "Visual candidate labels: a flag, text on screen, a news studio, an explosion, 屏幕文字, 抗议活动, military, smoke, a protest, an animal, a building, a mountain",
-      "keywords": "a flag,text on screen,a news studio,an explosion,屏幕文字,抗议活动,military,smoke,a protest,an animal,a building,a mountain,a map,fire,旗帜,a sports match,a speech,a train,a car,a road",
+      "image_url": "https://archive.org/services/img/BBCNEWS_20261010_040000_BBC_News/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/BBCNEWS_20261010_040000_BBC_News",
+      "description_zh": "画面候选标签：a news studio、a building、新闻演播室、a city street、text on screen、an explosion、城市街道、烟雾、fire、a protest、建筑物、爆炸",
+      "description_en": "Visual candidate labels: a news studio, a building, 新闻演播室, a city street, text on screen, an explosion, 城市街道, 烟雾, fire, a protest, 建筑物, 爆炸",
+      "keywords": "a news studio,a building,新闻演播室,a city street,text on screen,an explosion,城市街道,烟雾,fire,a protest,建筑物,爆炸,police,抗议活动,屏幕文字,a road,a flag,演讲,a river,a map",
       "visual_labels": [
         {
-          "label": "a flag",
-          "score": 0.3892
-        },
-        {
-          "label": "text on screen",
-          "score": 0.3797
-        },
-        {
           "label": "a news studio",
-          "score": 0.3745
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3739
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3722
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3714
-        },
-        {
-          "label": "military",
-          "score": 0.3689
-        },
-        {
-          "label": "smoke",
-          "score": 0.3686
-        },
-        {
-          "label": "a protest",
-          "score": 0.3653
-        },
-        {
-          "label": "an animal",
-          "score": 0.36
+          "score": 0.4851
         },
         {
           "label": "a building",
-          "score": 0.3581
+          "score": 0.4246
         },
         {
-          "label": "a mountain",
-          "score": 0.3565
+          "label": "新闻演播室",
+          "score": 0.4236
         },
         {
-          "label": "a map",
-          "score": 0.3559
+          "label": "a city street",
+          "score": 0.3929
         },
         {
-          "label": "fire",
-          "score": 0.3526
+          "label": "text on screen",
+          "score": 0.3826
         },
-        {
-          "label": "旗帜",
-          "score": 0.3511
-        },
-        {
-          "label": "a sports match",
-          "score": 0.3479
-        },
-        {
-          "label": "a speech",
-          "score": 0.3456
-        },
-        {
-          "label": "a train",
-          "score": 0.3435
-        },
-        {
-          "label": "a car",
-          "score": 0.3426
-        },
-        {
-          "label": "a road",
-          "score": 0.3418
-        }
-      ]
-    },
-    {
-      "id": "RT_20261010_023000_CrossTalk",
-      "title": "and even part of the 1st bush administration and the proceeding and the presenting administrations that there were people in charge and basically had a sense of where american inte…",
-      "source": "RT",
-      "date": "2026-10-10T00:00:00Z",
-      "image_url": "https://archive.org/services/img/RT_20261010_023000_CrossTalk/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/RT_20261010_023000_CrossTalk",
-      "description_zh": "画面候选标签：an explosion、flooding、a protest、a news studio、a speech、text on screen、a river、an airplane、military、an animal、a flag、running",
-      "description_en": "Visual candidate labels: an explosion, flooding, a protest, a news studio, a speech, text on screen, a river, an airplane, military, an animal, a flag, running",
-      "keywords": "an explosion,flooding,a protest,a news studio,a speech,text on screen,a river,an airplane,military,an animal,a flag,running,抗议活动,a map,fire,a mountain,a horse,新闻演播室,the countryside,a building",
-      "visual_labels": [
         {
           "label": "an explosion",
-          "score": 0.4422
+          "score": 0.3814
         },
         {
-          "label": "flooding",
-          "score": 0.4279
-        },
-        {
-          "label": "a protest",
-          "score": 0.4134
-        },
-        {
-          "label": "a news studio",
-          "score": 0.4022
-        },
-        {
-          "label": "a speech",
-          "score": 0.3984
-        },
-        {
-          "label": "text on screen",
-          "score": 0.3782
-        },
-        {
-          "label": "a river",
-          "score": 0.3777
-        },
-        {
-          "label": "an airplane",
-          "score": 0.3774
-        },
-        {
-          "label": "military",
-          "score": 0.3741
-        },
-        {
-          "label": "an animal",
-          "score": 0.3724
-        },
-        {
-          "label": "a flag",
-          "score": 0.3696
-        },
-        {
-          "label": "running",
-          "score": 0.369
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3678
-        },
-        {
-          "label": "a map",
-          "score": 0.3665
-        },
-        {
-          "label": "fire",
-          "score": 0.3653
-        },
-        {
-          "label": "a mountain",
-          "score": 0.3646
-        },
-        {
-          "label": "a horse",
-          "score": 0.3625
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.3621
-        },
-        {
-          "label": "the countryside",
-          "score": 0.3591
-        },
-        {
-          "label": "a building",
-          "score": 0.3524
-        }
-      ]
-    },
-    {
-      "id": "DW_20261010_003000_REV",
-      "title": "interested and barbara makes from business to science, to call to in us together we the 10 you have, i kind of talked to use are going electron as fuel prices sore and diesel short…",
-      "source": "DW",
-      "date": "2026-10-10T00:00:00Z",
-      "image_url": "https://archive.org/services/img/DW_20261010_003000_REV/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/DW_20261010_003000_REV",
-      "description_zh": "画面候选标签：text on screen、屏幕文字、a news studio、新闻演播室、a sports match、烟雾、running、a map、soccer、旗帜、爆炸、人群",
-      "description_en": "Visual candidate labels: text on screen, 屏幕文字, a news studio, 新闻演播室, a sports match, 烟雾, running, a map, soccer, 旗帜, 爆炸, 人群",
-      "keywords": "text on screen,屏幕文字,a news studio,新闻演播室,a sports match,烟雾,running,a map,soccer,旗帜,爆炸,人群,a flag,an animal,fire,basketball,an explosion,奔跑,演讲,smoke",
-      "visual_labels": [
-        {
-          "label": "text on screen",
-          "score": 0.4257
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3968
-        },
-        {
-          "label": "a news studio",
-          "score": 0.3872
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.3863
-        },
-        {
-          "label": "a sports match",
-          "score": 0.3741
+          "label": "城市街道",
+          "score": 0.381
         },
         {
           "label": "烟雾",
-          "score": 0.3729
-        },
-        {
-          "label": "running",
-          "score": 0.3659
-        },
-        {
-          "label": "a map",
-          "score": 0.3606
-        },
-        {
-          "label": "soccer",
-          "score": 0.3598
-        },
-        {
-          "label": "旗帜",
-          "score": 0.3585
-        },
-        {
-          "label": "爆炸",
-          "score": 0.3536
-        },
-        {
-          "label": "人群",
-          "score": 0.3516
-        },
-        {
-          "label": "a flag",
-          "score": 0.3509
-        },
-        {
-          "label": "an animal",
-          "score": 0.3503
+          "score": 0.3769
         },
         {
           "label": "fire",
-          "score": 0.3476
+          "score": 0.3755
         },
         {
-          "label": "basketball",
-          "score": 0.3471
+          "label": "a protest",
+          "score": 0.3734
         },
         {
-          "label": "an explosion",
-          "score": 0.3469
+          "label": "建筑物",
+          "score": 0.3719
         },
         {
-          "label": "奔跑",
-          "score": 0.3459
+          "label": "爆炸",
+          "score": 0.3708
+        },
+        {
+          "label": "police",
+          "score": 0.3672
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3659
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3634
+        },
+        {
+          "label": "a road",
+          "score": 0.3574
+        },
+        {
+          "label": "a flag",
+          "score": 0.352
         },
         {
           "label": "演讲",
+          "score": 0.3514
+        },
+        {
+          "label": "a river",
+          "score": 0.3512
+        },
+        {
+          "label": "a map",
+          "score": 0.3508
+        }
+      ]
+    },
+    {
+      "id": "CSPAN3_20261010_071700_Kim_Phillips-Fein_Country_of_Lords",
+      "title": "i write about ordinary people trying to make sense of global events and politicians, once they have thought something through, i'm almost transcribe private all new america's book…",
+      "source": "CSPAN3",
+      "date": "2026-10-10T00:00:00Z",
+      "image_url": "https://archive.org/services/img/CSPAN3_20261010_071700_Kim_Phillips-Fein_Country_of_Lords/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/CSPAN3_20261010_071700_Kim_Phillips-Fein_Country_of_Lords",
+      "description_zh": "画面候选标签：a news studio、an animal、a speech、a building、a protest、a road、a mountain、a river、新闻演播室、text on screen、an explosion、a forest",
+      "description_en": "Visual candidate labels: a news studio, an animal, a speech, a building, a protest, a road, a mountain, a river, 新闻演播室, text on screen, an explosion, a forest",
+      "keywords": "a news studio,an animal,a speech,a building,a protest,a road,a mountain,a river,新闻演播室,text on screen,an explosion,a forest,a flag,a train,a map,屏幕文字,military,演讲,fire,running",
+      "visual_labels": [
+        {
+          "label": "a news studio",
+          "score": 0.4012
+        },
+        {
+          "label": "an animal",
+          "score": 0.3734
+        },
+        {
+          "label": "a speech",
+          "score": 0.3647
+        },
+        {
+          "label": "a building",
+          "score": 0.3606
+        },
+        {
+          "label": "a protest",
+          "score": 0.3597
+        },
+        {
+          "label": "a road",
+          "score": 0.3513
+        },
+        {
+          "label": "a mountain",
+          "score": 0.3513
+        },
+        {
+          "label": "a river",
+          "score": 0.3476
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3465
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3463
+        },
+        {
+          "label": "an explosion",
           "score": 0.3444
         },
         {
+          "label": "a forest",
+          "score": 0.344
+        },
+        {
+          "label": "a flag",
+          "score": 0.3392
+        },
+        {
+          "label": "a train",
+          "score": 0.3384
+        },
+        {
+          "label": "a map",
+          "score": 0.3384
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3383
+        },
+        {
+          "label": "military",
+          "score": 0.3358
+        },
+        {
+          "label": "演讲",
+          "score": 0.3347
+        },
+        {
+          "label": "fire",
+          "score": 0.3344
+        },
+        {
+          "label": "running",
+          "score": 0.3303
+        }
+      ]
+    },
+    {
+      "id": "KDTV_20261010_060000_Noticias_14_Edicion_nocturna",
+      "title": "los jubilados podrían recibir menos dinero en sus cheques debido a las políticas migratorias del presidente trump.",
+      "source": "KDTV",
+      "date": "2026-10-10T00:00:00Z",
+      "image_url": "https://archive.org/services/img/KDTV_20261010_060000_Noticias_14_Edicion_nocturna/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/KDTV_20261010_060000_Noticias_14_Edicion_nocturna",
+      "description_zh": "画面候选标签：police、a protest、an explosion、smoke、a news studio、a building、a speech、text on screen、soccer、a flag、a car、a sports match",
+      "description_en": "Visual candidate labels: police, a protest, an explosion, smoke, a news studio, a building, a speech, text on screen, soccer, a flag, a car, a sports match",
+      "keywords": "police,a protest,an explosion,smoke,a news studio,a building,a speech,text on screen,soccer,a flag,a car,a sports match,a map,fire,a road,抗议活动,running,an airplane,an animal,a city street",
+      "visual_labels": [
+        {
+          "label": "police",
+          "score": 0.4106
+        },
+        {
+          "label": "a protest",
+          "score": 0.406
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3978
+        },
+        {
           "label": "smoke",
-          "score": 0.3431
+          "score": 0.3964
+        },
+        {
+          "label": "a news studio",
+          "score": 0.3942
+        },
+        {
+          "label": "a building",
+          "score": 0.3922
+        },
+        {
+          "label": "a speech",
+          "score": 0.3873
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3861
+        },
+        {
+          "label": "soccer",
+          "score": 0.3806
+        },
+        {
+          "label": "a flag",
+          "score": 0.3801
+        },
+        {
+          "label": "a car",
+          "score": 0.3789
+        },
+        {
+          "label": "a sports match",
+          "score": 0.371
+        },
+        {
+          "label": "a map",
+          "score": 0.3701
+        },
+        {
+          "label": "fire",
+          "score": 0.3694
+        },
+        {
+          "label": "a road",
+          "score": 0.3681
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.368
+        },
+        {
+          "label": "running",
+          "score": 0.3667
+        },
+        {
+          "label": "an airplane",
+          "score": 0.3624
+        },
+        {
+          "label": "an animal",
+          "score": 0.3597
+        },
+        {
+          "label": "a city street",
+          "score": 0.3597
         }
       ]
     }
