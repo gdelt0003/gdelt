@@ -1,7 +1,7 @@
 {
   "schema_version": "4.1",
-  "generated_at": "2026-10-11T07:50:19+00:00",
-  "data_time": "2026-10-11T07:50:19+00:00",
+  "generated_at": "2026-10-11T08:00:34+00:00",
+  "data_time": "2026-10-11T08:00:34+00:00",
   "current_day": "2026-10-11",
   "source": "https://data.gdeltproject.org/gdeltv2/",
   "datasets": {
@@ -8339,8 +8339,8 @@
         "persons": "Donald Trump,684;Donald Trump,2227;Marco Rubio,1622;Collin Binkley,5188",
         "organizations": "Associated Press,5129;United States,740;United States,2060;United States,5217;Lufthansa Group,4924;Pakistan International Airlines,4958;Air India,4895;Health Ministry,976"
       },
-      "title": "goskagit.com",
-      "summary": "该信号来自 GDELT 公共新闻数据，点击原文查看完整报道。",
+      "title": "Missile attack on airport in Saudi Arabia",
+      "summary": "Saudi Arabia has extended the closure of the country’s main international airport a day after a missile attack on the facility killed 12 people from several countries and left more",
       "source": "goskagit.com"
     },
     {
@@ -10747,8 +10747,8 @@
         "persons": "John Feffer,3858",
         "organizations": "United States,155;United States,2108;United States,5047;Nuclear Principles,3424"
       },
-      "title": "vietnamtribune.com",
-      "summary": "该信号来自 GDELT 公共新闻数据，点击原文查看完整报道。",
+      "title": "What counts as security? Takaichi",
+      "summary": "The first article ended with a question: \"What is missing from this map?\" After looking at Takaichi's foreign policy from six vantage points - the United States, Europe, Australia, South Korea, China and Southeast Asia - we now shift our... Kazuhiro Imamura",
       "source": "vietnamtribune.com"
     },
     {
@@ -11827,8 +11827,8 @@
         "persons": "Donald Trump,684;Donald Trump,2227;Marco Rubio,1622;Collin Binkley,5188",
         "organizations": "Associated Press,5129;United States,740;United States,2060;United States,5217;Lufthansa Group,4924;Pakistan International Airlines,4958;Air India,4895;Health Ministry,976"
       },
-      "title": "goskagit.com",
-      "summary": "该信号来自 GDELT 公共新闻数据，点击原文查看完整报道。",
+      "title": "Missile attack on airport in Saudi Arabia",
+      "summary": "Saudi Arabia has extended the closure of the country’s main international airport a day after a missile attack on the facility killed 12 people from several countries and left more",
       "source": "goskagit.com"
     },
     {
@@ -14235,8 +14235,8 @@
         "persons": "John Feffer,3858",
         "organizations": "United States,155;United States,2108;United States,5047;Nuclear Principles,3424"
       },
-      "title": "vietnamtribune.com",
-      "summary": "该信号来自 GDELT 公共新闻数据，点击原文查看完整报道。",
+      "title": "What counts as security? Takaichi",
+      "summary": "The first article ended with a question: \"What is missing from this map?\" After looking at Takaichi's foreign policy from six vantage points - the United States, Europe, Australia, South Korea, China and Southeast Asia - we now shift our... Kazuhiro Imamura",
       "source": "vietnamtribune.com"
     },
     {
