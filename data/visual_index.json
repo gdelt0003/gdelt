@@ -1,7 +1,287 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-11T00:38:00+00:00",
+  "generated_at": "2026-10-11T06:33:40+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
-  "records": 0,
-  "items": []
+  "records": 3,
+  "items": [
+    {
+      "id": "DW_20261011_040000_DW_News",
+      "title": "saudi arabia's civil aviation authority says an attack on re ads king her lead international airport has killed at least 12 people and wounded more than 300.",
+      "source": "DW",
+      "date": "2026-10-11T00:00:00Z",
+      "image_url": "https://archive.org/services/img/DW_20261011_040000_DW_News/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261011_040000_DW_News",
+      "description_zh": "画面候选标签：military、a mountain、a flag、a protest、police、抗议活动、a map、a road、an explosion、the countryside、text on screen、a news studio",
+      "description_en": "Visual candidate labels: military, a mountain, a flag, a protest, police, 抗议活动, a map, a road, an explosion, the countryside, text on screen, a news studio",
+      "keywords": "military,a mountain,a flag,a protest,police,抗议活动,a map,a road,an explosion,the countryside,text on screen,a news studio,旗帜,屏幕文字,running,军队,a river,山,新闻演播室,an animal",
+      "visual_labels": [
+        {
+          "label": "military",
+          "score": 0.3719
+        },
+        {
+          "label": "a mountain",
+          "score": 0.3701
+        },
+        {
+          "label": "a flag",
+          "score": 0.3632
+        },
+        {
+          "label": "a protest",
+          "score": 0.3576
+        },
+        {
+          "label": "police",
+          "score": 0.3573
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3548
+        },
+        {
+          "label": "a map",
+          "score": 0.3543
+        },
+        {
+          "label": "a road",
+          "score": 0.3531
+        },
+        {
+          "label": "an explosion",
+          "score": 0.352
+        },
+        {
+          "label": "the countryside",
+          "score": 0.3433
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3427
+        },
+        {
+          "label": "a news studio",
+          "score": 0.3408
+        },
+        {
+          "label": "旗帜",
+          "score": 0.3407
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3401
+        },
+        {
+          "label": "running",
+          "score": 0.3389
+        },
+        {
+          "label": "军队",
+          "score": 0.334
+        },
+        {
+          "label": "a river",
+          "score": 0.3329
+        },
+        {
+          "label": "山",
+          "score": 0.329
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3285
+        },
+        {
+          "label": "an animal",
+          "score": 0.3283
+        }
+      ]
+    },
+    {
+      "id": "TVRIN_20261011_003000",
+      "title": "the collaboration desired by these msmes is that the government helps with policies that support training and permits that provide convenience for msmes, business",
+      "source": "TVRIN",
+      "date": "2026-10-11T00:00:00Z",
+      "image_url": "https://archive.org/services/img/TVRIN_20261011_003000/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/TVRIN_20261011_003000",
+      "description_zh": "画面候选标签：新闻演播室、a news studio、fire、text on screen、a building、人、a city street、屏幕文字、basketball、a river、a mountain、a road",
+      "description_en": "Visual candidate labels: 新闻演播室, a news studio, fire, text on screen, a building, 人, a city street, 屏幕文字, basketball, a river, a mountain, a road",
+      "keywords": "新闻演播室,a news studio,fire,text on screen,a building,人,a city street,屏幕文字,basketball,a river,a mountain,a road,a protest,smoke,a ship,烟雾,an animal,a sports match,an explosion,a train",
+      "visual_labels": [
+        {
+          "label": "新闻演播室",
+          "score": 0.4055
+        },
+        {
+          "label": "a news studio",
+          "score": 0.4027
+        },
+        {
+          "label": "fire",
+          "score": 0.3657
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3521
+        },
+        {
+          "label": "a building",
+          "score": 0.3491
+        },
+        {
+          "label": "人",
+          "score": 0.342
+        },
+        {
+          "label": "a city street",
+          "score": 0.3418
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3412
+        },
+        {
+          "label": "basketball",
+          "score": 0.3397
+        },
+        {
+          "label": "a river",
+          "score": 0.3377
+        },
+        {
+          "label": "a mountain",
+          "score": 0.3373
+        },
+        {
+          "label": "a road",
+          "score": 0.3348
+        },
+        {
+          "label": "a protest",
+          "score": 0.3346
+        },
+        {
+          "label": "smoke",
+          "score": 0.3324
+        },
+        {
+          "label": "a ship",
+          "score": 0.3323
+        },
+        {
+          "label": "烟雾",
+          "score": 0.3313
+        },
+        {
+          "label": "an animal",
+          "score": 0.3308
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3302
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3301
+        },
+        {
+          "label": "a train",
+          "score": 0.3295
+        }
+      ]
+    },
+    {
+      "id": "RT_20261011_020000_Worlds_Apart",
+      "title": "according to president trump and present she these true real supposedly form the basis of the us china relationship going forward.",
+      "source": "RT",
+      "date": "2026-10-11T00:00:00Z",
+      "image_url": "https://archive.org/services/img/RT_20261011_020000_Worlds_Apart/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/RT_20261011_020000_Worlds_Apart",
+      "description_zh": "画面候选标签：a news studio、a speech、a protest、新闻演播室、演讲、smoke、烟雾、fire、人、人群、屏幕文字、a map",
+      "description_en": "Visual candidate labels: a news studio, a speech, a protest, 新闻演播室, 演讲, smoke, 烟雾, fire, 人, 人群, 屏幕文字, a map",
+      "keywords": "a news studio,a speech,a protest,新闻演播室,演讲,smoke,烟雾,fire,人,人群,屏幕文字,a map,text on screen,a train,an explosion,抗议活动,a building,a road,a flag,a sports match",
+      "visual_labels": [
+        {
+          "label": "a news studio",
+          "score": 0.431
+        },
+        {
+          "label": "a speech",
+          "score": 0.4113
+        },
+        {
+          "label": "a protest",
+          "score": 0.3987
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3965
+        },
+        {
+          "label": "演讲",
+          "score": 0.3729
+        },
+        {
+          "label": "smoke",
+          "score": 0.3702
+        },
+        {
+          "label": "烟雾",
+          "score": 0.3688
+        },
+        {
+          "label": "fire",
+          "score": 0.361
+        },
+        {
+          "label": "人",
+          "score": 0.3603
+        },
+        {
+          "label": "人群",
+          "score": 0.36
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3595
+        },
+        {
+          "label": "a map",
+          "score": 0.357
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3559
+        },
+        {
+          "label": "a train",
+          "score": 0.3547
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3505
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3486
+        },
+        {
+          "label": "a building",
+          "score": 0.3468
+        },
+        {
+          "label": "a road",
+          "score": 0.3461
+        },
+        {
+          "label": "a flag",
+          "score": 0.3454
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3453
+        }
+      ]
+    }
+  ]
 }
