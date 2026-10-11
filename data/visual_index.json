@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-11T06:33:40+00:00",
+  "generated_at": "2026-10-11T12:33:27+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
   "records": 3,
   "items": [
@@ -98,188 +98,188 @@
       ]
     },
     {
-      "id": "TVRIN_20261011_003000",
-      "title": "the collaboration desired by these msmes is that the government helps with policies that support training and permits that provide convenience for msmes, business",
-      "source": "TVRIN",
+      "id": "DW_20261011_090000_DW_News",
+      "title": "so the lead coalition blend, eat on big cruelty devils in they've been given us president donald trump said washington is considering joining.",
+      "source": "DW",
       "date": "2026-10-11T00:00:00Z",
-      "image_url": "https://archive.org/services/img/TVRIN_20261011_003000/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/TVRIN_20261011_003000",
-      "description_zh": "画面候选标签：新闻演播室、a news studio、fire、text on screen、a building、人、a city street、屏幕文字、basketball、a river、a mountain、a road",
-      "description_en": "Visual candidate labels: 新闻演播室, a news studio, fire, text on screen, a building, 人, a city street, 屏幕文字, basketball, a river, a mountain, a road",
-      "keywords": "新闻演播室,a news studio,fire,text on screen,a building,人,a city street,屏幕文字,basketball,a river,a mountain,a road,a protest,smoke,a ship,烟雾,an animal,a sports match,an explosion,a train",
+      "image_url": "https://archive.org/services/img/DW_20261011_090000_DW_News/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261011_090000_DW_News",
+      "description_zh": "画面候选标签：人、a news studio、fire、a beach、smoke、抗议活动、a speech、text on screen、屏幕文字、a protest、flooding、a ship",
+      "description_en": "Visual candidate labels: 人, a news studio, fire, a beach, smoke, 抗议活动, a speech, text on screen, 屏幕文字, a protest, flooding, a ship",
+      "keywords": "人,a news studio,fire,a beach,smoke,抗议活动,a speech,text on screen,屏幕文字,a protest,flooding,a ship,an animal,an explosion,a mountain,a road,running,海滩,人群,a river",
       "visual_labels": [
         {
-          "label": "新闻演播室",
-          "score": 0.4055
+          "label": "人",
+          "score": 0.365
         },
         {
           "label": "a news studio",
-          "score": 0.4027
+          "score": 0.3646
         },
         {
           "label": "fire",
-          "score": 0.3657
+          "score": 0.3571
         },
         {
-          "label": "text on screen",
-          "score": 0.3521
-        },
-        {
-          "label": "a building",
-          "score": 0.3491
-        },
-        {
-          "label": "人",
-          "score": 0.342
-        },
-        {
-          "label": "a city street",
-          "score": 0.3418
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3412
-        },
-        {
-          "label": "basketball",
-          "score": 0.3397
-        },
-        {
-          "label": "a river",
-          "score": 0.3377
-        },
-        {
-          "label": "a mountain",
-          "score": 0.3373
-        },
-        {
-          "label": "a road",
-          "score": 0.3348
-        },
-        {
-          "label": "a protest",
-          "score": 0.3346
+          "label": "a beach",
+          "score": 0.3546
         },
         {
           "label": "smoke",
-          "score": 0.3324
+          "score": 0.3544
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3516
+        },
+        {
+          "label": "a speech",
+          "score": 0.3507
+        },
+        {
+          "label": "text on screen",
+          "score": 0.349
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3486
+        },
+        {
+          "label": "a protest",
+          "score": 0.3475
+        },
+        {
+          "label": "flooding",
+          "score": 0.3472
         },
         {
           "label": "a ship",
-          "score": 0.3323
-        },
-        {
-          "label": "烟雾",
-          "score": 0.3313
+          "score": 0.3446
         },
         {
           "label": "an animal",
-          "score": 0.3308
-        },
-        {
-          "label": "a sports match",
-          "score": 0.3302
+          "score": 0.3424
         },
         {
           "label": "an explosion",
-          "score": 0.3301
+          "score": 0.3423
         },
         {
-          "label": "a train",
-          "score": 0.3295
+          "label": "a mountain",
+          "score": 0.3409
+        },
+        {
+          "label": "a road",
+          "score": 0.3399
+        },
+        {
+          "label": "running",
+          "score": 0.3389
+        },
+        {
+          "label": "海滩",
+          "score": 0.3386
+        },
+        {
+          "label": "人群",
+          "score": 0.3382
+        },
+        {
+          "label": "a river",
+          "score": 0.3381
         }
       ]
     },
     {
-      "id": "RT_20261011_020000_Worlds_Apart",
-      "title": "according to president trump and present she these true real supposedly form the basis of the us china relationship going forward.",
-      "source": "RT",
+      "id": "CBCNEWS_20261011_003000_About_That",
+      "title": "if you're on the outside of quebec looking in, last night's provincial election result might seem surprising.",
+      "source": "CBCNEWS",
       "date": "2026-10-11T00:00:00Z",
-      "image_url": "https://archive.org/services/img/RT_20261011_020000_Worlds_Apart/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/RT_20261011_020000_Worlds_Apart",
-      "description_zh": "画面候选标签：a news studio、a speech、a protest、新闻演播室、演讲、smoke、烟雾、fire、人、人群、屏幕文字、a map",
-      "description_en": "Visual candidate labels: a news studio, a speech, a protest, 新闻演播室, 演讲, smoke, 烟雾, fire, 人, 人群, 屏幕文字, a map",
-      "keywords": "a news studio,a speech,a protest,新闻演播室,演讲,smoke,烟雾,fire,人,人群,屏幕文字,a map,text on screen,a train,an explosion,抗议活动,a building,a road,a flag,a sports match",
+      "image_url": "https://archive.org/services/img/CBCNEWS_20261011_003000_About_That/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/CBCNEWS_20261011_003000_About_That",
+      "description_zh": "画面候选标签：a protest、a news studio、text on screen、a building、an explosion、屏幕文字、a crowd、抗议活动、a sports match、新闻演播室、a river、a car",
+      "description_en": "Visual candidate labels: a protest, a news studio, text on screen, a building, an explosion, 屏幕文字, a crowd, 抗议活动, a sports match, 新闻演播室, a river, a car",
+      "keywords": "a protest,a news studio,text on screen,a building,an explosion,屏幕文字,a crowd,抗议活动,a sports match,新闻演播室,a river,a car,fire,a flag,the countryside,police,an animal,flooding,a mountain,an airplane",
       "visual_labels": [
         {
-          "label": "a news studio",
-          "score": 0.431
-        },
-        {
-          "label": "a speech",
-          "score": 0.4113
-        },
-        {
           "label": "a protest",
-          "score": 0.3987
+          "score": 0.4314
         },
         {
-          "label": "新闻演播室",
-          "score": 0.3965
-        },
-        {
-          "label": "演讲",
-          "score": 0.3729
-        },
-        {
-          "label": "smoke",
-          "score": 0.3702
-        },
-        {
-          "label": "烟雾",
-          "score": 0.3688
-        },
-        {
-          "label": "fire",
-          "score": 0.361
-        },
-        {
-          "label": "人",
-          "score": 0.3603
-        },
-        {
-          "label": "人群",
-          "score": 0.36
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3595
-        },
-        {
-          "label": "a map",
-          "score": 0.357
+          "label": "a news studio",
+          "score": 0.4184
         },
         {
           "label": "text on screen",
-          "score": 0.3559
-        },
-        {
-          "label": "a train",
-          "score": 0.3547
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3505
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3486
+          "score": 0.3936
         },
         {
           "label": "a building",
-          "score": 0.3468
+          "score": 0.3664
         },
         {
-          "label": "a road",
-          "score": 0.3461
+          "label": "an explosion",
+          "score": 0.3603
         },
         {
-          "label": "a flag",
-          "score": 0.3454
+          "label": "屏幕文字",
+          "score": 0.3572
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3549
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3523
         },
         {
           "label": "a sports match",
-          "score": 0.3453
+          "score": 0.3477
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3474
+        },
+        {
+          "label": "a river",
+          "score": 0.3446
+        },
+        {
+          "label": "a car",
+          "score": 0.3444
+        },
+        {
+          "label": "fire",
+          "score": 0.3433
+        },
+        {
+          "label": "a flag",
+          "score": 0.3412
+        },
+        {
+          "label": "the countryside",
+          "score": 0.3376
+        },
+        {
+          "label": "police",
+          "score": 0.3355
+        },
+        {
+          "label": "an animal",
+          "score": 0.3341
+        },
+        {
+          "label": "flooding",
+          "score": 0.3338
+        },
+        {
+          "label": "a mountain",
+          "score": 0.3311
+        },
+        {
+          "label": "an airplane",
+          "score": 0.3277
         }
       ]
     }
