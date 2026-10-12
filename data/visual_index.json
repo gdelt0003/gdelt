@@ -1,7 +1,287 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-12T00:41:04+00:00",
+  "generated_at": "2026-10-12T06:40:01+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
-  "records": 0,
-  "items": []
+  "records": 3,
+  "items": [
+    {
+      "id": "DW_20261012_050000_DW_News",
+      "title": "it follows i missed a little tack on the same terminal on saturday, that killed at least 13 people.",
+      "source": "DW",
+      "date": "2026-10-12T00:00:00Z",
+      "image_url": "https://archive.org/services/img/DW_20261012_050000_DW_News/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261012_050000_DW_News",
+      "description_zh": "画面候选标签：a flag、military、旗帜、a news studio、a mountain、抗议活动、a protest、a map、police、an explosion、text on screen、a road",
+      "description_en": "Visual candidate labels: a flag, military, 旗帜, a news studio, a mountain, 抗议活动, a protest, a map, police, an explosion, text on screen, a road",
+      "keywords": "a flag,military,旗帜,a news studio,a mountain,抗议活动,a protest,a map,police,an explosion,text on screen,a road,the countryside,a city street,a building,flooding,a river,屏幕文字,a ship,a crowd",
+      "visual_labels": [
+        {
+          "label": "a flag",
+          "score": 0.4278
+        },
+        {
+          "label": "military",
+          "score": 0.3966
+        },
+        {
+          "label": "旗帜",
+          "score": 0.3913
+        },
+        {
+          "label": "a news studio",
+          "score": 0.3904
+        },
+        {
+          "label": "a mountain",
+          "score": 0.3854
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3816
+        },
+        {
+          "label": "a protest",
+          "score": 0.3813
+        },
+        {
+          "label": "a map",
+          "score": 0.3771
+        },
+        {
+          "label": "police",
+          "score": 0.3765
+        },
+        {
+          "label": "an explosion",
+          "score": 0.375
+        },
+        {
+          "label": "text on screen",
+          "score": 0.375
+        },
+        {
+          "label": "a road",
+          "score": 0.3657
+        },
+        {
+          "label": "the countryside",
+          "score": 0.3651
+        },
+        {
+          "label": "a city street",
+          "score": 0.3624
+        },
+        {
+          "label": "a building",
+          "score": 0.3614
+        },
+        {
+          "label": "flooding",
+          "score": 0.3582
+        },
+        {
+          "label": "a river",
+          "score": 0.3577
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3529
+        },
+        {
+          "label": "a ship",
+          "score": 0.3525
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3514
+        }
+      ]
+    },
+    {
+      "id": "CSPAN3_20261012_040300_America_250",
+      "title": "when mexican silver via cuba paid washington as long struggling troops, and when spain's entry into the war catalyzed the franco-american alliance, which made possible the victory…",
+      "source": "CSPAN3",
+      "date": "2026-10-12T00:00:00Z",
+      "image_url": "https://archive.org/services/img/CSPAN3_20261012_040300_America_250/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/CSPAN3_20261012_040300_America_250",
+      "description_zh": "画面候选标签：a news studio、a speech、a protest、新闻演播室、an explosion、text on screen、抗议活动、a crowd、fire、a sports match、an animal、military",
+      "description_en": "Visual candidate labels: a news studio, a speech, a protest, 新闻演播室, an explosion, text on screen, 抗议活动, a crowd, fire, a sports match, an animal, military",
+      "keywords": "a news studio,a speech,a protest,新闻演播室,an explosion,text on screen,抗议活动,a crowd,fire,a sports match,an animal,military,smoke,演讲,屏幕文字,a flag,a mountain,a river,a forest,a road",
+      "visual_labels": [
+        {
+          "label": "a news studio",
+          "score": 0.4321
+        },
+        {
+          "label": "a speech",
+          "score": 0.413
+        },
+        {
+          "label": "a protest",
+          "score": 0.4067
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.4024
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3962
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3823
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3631
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3601
+        },
+        {
+          "label": "fire",
+          "score": 0.3564
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3558
+        },
+        {
+          "label": "an animal",
+          "score": 0.3555
+        },
+        {
+          "label": "military",
+          "score": 0.3539
+        },
+        {
+          "label": "smoke",
+          "score": 0.3531
+        },
+        {
+          "label": "演讲",
+          "score": 0.3519
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3513
+        },
+        {
+          "label": "a flag",
+          "score": 0.3506
+        },
+        {
+          "label": "a mountain",
+          "score": 0.3499
+        },
+        {
+          "label": "a river",
+          "score": 0.3487
+        },
+        {
+          "label": "a forest",
+          "score": 0.3476
+        },
+        {
+          "label": "a road",
+          "score": 0.3466
+        }
+      ]
+    },
+    {
+      "id": "CSPAN_20261012_025900_QA_Brad_and_Joy_Ryan_on_Their_Visits_to_All_63_U.S._National_Parks",
+      "title": ">> c-span respected nonprofit service has offered americans unfiltered gavel to gavel coverage of their government in action.",
+      "source": "CSPAN",
+      "date": "2026-10-12T00:00:00Z",
+      "image_url": "https://archive.org/services/img/CSPAN_20261012_025900_QA_Brad_and_Joy_Ryan_on_Their_Visits_to_All_63_U.S._National_Parks/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/CSPAN_20261012_025900_QA_Brad_and_Joy_Ryan_on_Their_Visits_to_All_63_U.S._National_Parks",
+      "description_zh": "画面候选标签：a news studio、a protest、新闻演播室、text on screen、an explosion、a speech、a flag、police、屏幕文字、flooding、a ship、抗议活动",
+      "description_en": "Visual candidate labels: a news studio, a protest, 新闻演播室, text on screen, an explosion, a speech, a flag, police, 屏幕文字, flooding, a ship, 抗议活动",
+      "keywords": "a news studio,a protest,新闻演播室,text on screen,an explosion,a speech,a flag,police,屏幕文字,flooding,a ship,抗议活动,a river,a building,an animal,an airplane,a road,military,a mountain,a train",
+      "visual_labels": [
+        {
+          "label": "a news studio",
+          "score": 0.4393
+        },
+        {
+          "label": "a protest",
+          "score": 0.4275
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.4026
+        },
+        {
+          "label": "text on screen",
+          "score": 0.4023
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3989
+        },
+        {
+          "label": "a speech",
+          "score": 0.3943
+        },
+        {
+          "label": "a flag",
+          "score": 0.3774
+        },
+        {
+          "label": "police",
+          "score": 0.3607
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3574
+        },
+        {
+          "label": "flooding",
+          "score": 0.3554
+        },
+        {
+          "label": "a ship",
+          "score": 0.3538
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3537
+        },
+        {
+          "label": "a river",
+          "score": 0.3477
+        },
+        {
+          "label": "a building",
+          "score": 0.3469
+        },
+        {
+          "label": "an animal",
+          "score": 0.3444
+        },
+        {
+          "label": "an airplane",
+          "score": 0.3441
+        },
+        {
+          "label": "a road",
+          "score": 0.3416
+        },
+        {
+          "label": "military",
+          "score": 0.3414
+        },
+        {
+          "label": "a mountain",
+          "score": 0.3402
+        },
+        {
+          "label": "a train",
+          "score": 0.3399
+        }
+      ]
+    }
+  ]
 }
