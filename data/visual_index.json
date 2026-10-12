@@ -1,285 +1,285 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-12T06:40:01+00:00",
+  "generated_at": "2026-10-12T12:50:12+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
   "records": 3,
   "items": [
     {
-      "id": "DW_20261012_050000_DW_News",
-      "title": "it follows i missed a little tack on the same terminal on saturday, that killed at least 13 people.",
+      "id": "DW_20261012_070000_DW_News",
+      "title": "little frustrated, not immediately comment on the deal issue so so the officials say at least one person has been killed and a new missile strike on re i'd main airport.",
       "source": "DW",
       "date": "2026-10-12T00:00:00Z",
-      "image_url": "https://archive.org/services/img/DW_20261012_050000_DW_News/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/DW_20261012_050000_DW_News",
-      "description_zh": "画面候选标签：a flag、military、旗帜、a news studio、a mountain、抗议活动、a protest、a map、police、an explosion、text on screen、a road",
-      "description_en": "Visual candidate labels: a flag, military, 旗帜, a news studio, a mountain, 抗议活动, a protest, a map, police, an explosion, text on screen, a road",
-      "keywords": "a flag,military,旗帜,a news studio,a mountain,抗议活动,a protest,a map,police,an explosion,text on screen,a road,the countryside,a city street,a building,flooding,a river,屏幕文字,a ship,a crowd",
+      "image_url": "https://archive.org/services/img/DW_20261012_070000_DW_News/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261012_070000_DW_News",
+      "description_zh": "画面候选标签：text on screen、a news studio、新闻演播室、a speech、抗议活动、屏幕文字、演讲、fire、basketball、a protest、a flag、旗帜",
+      "description_en": "Visual candidate labels: text on screen, a news studio, 新闻演播室, a speech, 抗议活动, 屏幕文字, 演讲, fire, basketball, a protest, a flag, 旗帜",
+      "keywords": "text on screen,a news studio,新闻演播室,a speech,抗议活动,屏幕文字,演讲,fire,basketball,a protest,a flag,旗帜,a ship,running,flooding,an explosion,a sports match,a crowd,人,a map",
       "visual_labels": [
-        {
-          "label": "a flag",
-          "score": 0.4278
-        },
-        {
-          "label": "military",
-          "score": 0.3966
-        },
-        {
-          "label": "旗帜",
-          "score": 0.3913
-        },
-        {
-          "label": "a news studio",
-          "score": 0.3904
-        },
-        {
-          "label": "a mountain",
-          "score": 0.3854
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3816
-        },
-        {
-          "label": "a protest",
-          "score": 0.3813
-        },
-        {
-          "label": "a map",
-          "score": 0.3771
-        },
-        {
-          "label": "police",
-          "score": 0.3765
-        },
-        {
-          "label": "an explosion",
-          "score": 0.375
-        },
         {
           "label": "text on screen",
-          "score": 0.375
+          "score": 0.3787
         },
-        {
-          "label": "a road",
-          "score": 0.3657
-        },
-        {
-          "label": "the countryside",
-          "score": 0.3651
-        },
-        {
-          "label": "a city street",
-          "score": 0.3624
-        },
-        {
-          "label": "a building",
-          "score": 0.3614
-        },
-        {
-          "label": "flooding",
-          "score": 0.3582
-        },
-        {
-          "label": "a river",
-          "score": 0.3577
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3529
-        },
-        {
-          "label": "a ship",
-          "score": 0.3525
-        },
-        {
-          "label": "a crowd",
-          "score": 0.3514
-        }
-      ]
-    },
-    {
-      "id": "CSPAN3_20261012_040300_America_250",
-      "title": "when mexican silver via cuba paid washington as long struggling troops, and when spain's entry into the war catalyzed the franco-american alliance, which made possible the victory…",
-      "source": "CSPAN3",
-      "date": "2026-10-12T00:00:00Z",
-      "image_url": "https://archive.org/services/img/CSPAN3_20261012_040300_America_250/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/CSPAN3_20261012_040300_America_250",
-      "description_zh": "画面候选标签：a news studio、a speech、a protest、新闻演播室、an explosion、text on screen、抗议活动、a crowd、fire、a sports match、an animal、military",
-      "description_en": "Visual candidate labels: a news studio, a speech, a protest, 新闻演播室, an explosion, text on screen, 抗议活动, a crowd, fire, a sports match, an animal, military",
-      "keywords": "a news studio,a speech,a protest,新闻演播室,an explosion,text on screen,抗议活动,a crowd,fire,a sports match,an animal,military,smoke,演讲,屏幕文字,a flag,a mountain,a river,a forest,a road",
-      "visual_labels": [
         {
           "label": "a news studio",
-          "score": 0.4321
-        },
-        {
-          "label": "a speech",
-          "score": 0.413
-        },
-        {
-          "label": "a protest",
-          "score": 0.4067
+          "score": 0.3786
         },
         {
           "label": "新闻演播室",
-          "score": 0.4024
+          "score": 0.3653
         },
         {
-          "label": "an explosion",
-          "score": 0.3962
-        },
-        {
-          "label": "text on screen",
-          "score": 0.3823
+          "label": "a speech",
+          "score": 0.3643
         },
         {
           "label": "抗议活动",
-          "score": 0.3631
+          "score": 0.3575
         },
         {
-          "label": "a crowd",
-          "score": 0.3601
-        },
-        {
-          "label": "fire",
-          "score": 0.3564
-        },
-        {
-          "label": "a sports match",
-          "score": 0.3558
-        },
-        {
-          "label": "an animal",
-          "score": 0.3555
-        },
-        {
-          "label": "military",
-          "score": 0.3539
-        },
-        {
-          "label": "smoke",
-          "score": 0.3531
+          "label": "屏幕文字",
+          "score": 0.3498
         },
         {
           "label": "演讲",
-          "score": 0.3519
+          "score": 0.3486
         },
         {
-          "label": "屏幕文字",
-          "score": 0.3513
+          "label": "fire",
+          "score": 0.3471
+        },
+        {
+          "label": "basketball",
+          "score": 0.3456
+        },
+        {
+          "label": "a protest",
+          "score": 0.3435
         },
         {
           "label": "a flag",
-          "score": 0.3506
+          "score": 0.3432
         },
         {
-          "label": "a mountain",
-          "score": 0.3499
+          "label": "旗帜",
+          "score": 0.3401
         },
         {
-          "label": "a river",
-          "score": 0.3487
+          "label": "a ship",
+          "score": 0.3391
         },
         {
-          "label": "a forest",
-          "score": 0.3476
+          "label": "running",
+          "score": 0.3372
         },
         {
-          "label": "a road",
-          "score": 0.3466
+          "label": "flooding",
+          "score": 0.3368
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3353
+        },
+        {
+          "label": "a sports match",
+          "score": 0.335
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3334
+        },
+        {
+          "label": "人",
+          "score": 0.3258
+        },
+        {
+          "label": "a map",
+          "score": 0.3254
         }
       ]
     },
     {
-      "id": "CSPAN_20261012_025900_QA_Brad_and_Joy_Ryan_on_Their_Visits_to_All_63_U.S._National_Parks",
-      "title": ">> c-span respected nonprofit service has offered americans unfiltered gavel to gavel coverage of their government in action.",
-      "source": "CSPAN",
+      "id": "DW_20261012_080000_DW_News",
+      "title": "story lies by suppose boats, nice this weekend on dw, the, this is the, the news and these are all the main stories, all the so do you officially see at least one person was killed…",
+      "source": "DW",
       "date": "2026-10-12T00:00:00Z",
-      "image_url": "https://archive.org/services/img/CSPAN_20261012_025900_QA_Brad_and_Joy_Ryan_on_Their_Visits_to_All_63_U.S._National_Parks/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/CSPAN_20261012_025900_QA_Brad_and_Joy_Ryan_on_Their_Visits_to_All_63_U.S._National_Parks",
-      "description_zh": "画面候选标签：a news studio、a protest、新闻演播室、text on screen、an explosion、a speech、a flag、police、屏幕文字、flooding、a ship、抗议活动",
-      "description_en": "Visual candidate labels: a news studio, a protest, 新闻演播室, text on screen, an explosion, a speech, a flag, police, 屏幕文字, flooding, a ship, 抗议活动",
-      "keywords": "a news studio,a protest,新闻演播室,text on screen,an explosion,a speech,a flag,police,屏幕文字,flooding,a ship,抗议活动,a river,a building,an animal,an airplane,a road,military,a mountain,a train",
+      "image_url": "https://archive.org/services/img/DW_20261012_080000_DW_News/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261012_080000_DW_News",
+      "description_zh": "画面候选标签：体育比赛、a news studio、a sports match、text on screen、a ship、屏幕文字、船、旗帜、an airplane、running、人、flooding",
+      "description_en": "Visual candidate labels: 体育比赛, a news studio, a sports match, text on screen, a ship, 屏幕文字, 船, 旗帜, an airplane, running, 人, flooding",
+      "keywords": "体育比赛,a news studio,a sports match,text on screen,a ship,屏幕文字,船,旗帜,an airplane,running,人,flooding,a protest,a river,a flag,an explosion,soccer,a map,动物,fire",
       "visual_labels": [
         {
+          "label": "体育比赛",
+          "score": 0.3875
+        },
+        {
           "label": "a news studio",
-          "score": 0.4393
+          "score": 0.3768
         },
         {
-          "label": "a protest",
-          "score": 0.4275
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.4026
+          "label": "a sports match",
+          "score": 0.3715
         },
         {
           "label": "text on screen",
-          "score": 0.4023
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3989
-        },
-        {
-          "label": "a speech",
-          "score": 0.3943
-        },
-        {
-          "label": "a flag",
-          "score": 0.3774
-        },
-        {
-          "label": "police",
-          "score": 0.3607
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3574
-        },
-        {
-          "label": "flooding",
-          "score": 0.3554
+          "score": 0.3689
         },
         {
           "label": "a ship",
-          "score": 0.3538
+          "score": 0.3661
         },
         {
-          "label": "抗议活动",
-          "score": 0.3537
+          "label": "屏幕文字",
+          "score": 0.3644
         },
         {
-          "label": "a river",
-          "score": 0.3477
+          "label": "船",
+          "score": 0.3557
         },
         {
-          "label": "a building",
-          "score": 0.3469
-        },
-        {
-          "label": "an animal",
-          "score": 0.3444
+          "label": "旗帜",
+          "score": 0.346
         },
         {
           "label": "an airplane",
+          "score": 0.3449
+        },
+        {
+          "label": "running",
+          "score": 0.3404
+        },
+        {
+          "label": "人",
+          "score": 0.3397
+        },
+        {
+          "label": "flooding",
+          "score": 0.3397
+        },
+        {
+          "label": "a protest",
+          "score": 0.3392
+        },
+        {
+          "label": "a river",
+          "score": 0.3347
+        },
+        {
+          "label": "a flag",
+          "score": 0.3323
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3322
+        },
+        {
+          "label": "soccer",
+          "score": 0.3314
+        },
+        {
+          "label": "a map",
+          "score": 0.3308
+        },
+        {
+          "label": "动物",
+          "score": 0.3279
+        },
+        {
+          "label": "fire",
+          "score": 0.3272
+        }
+      ]
+    },
+    {
+      "id": "DW_20261012_090000_DW_News",
+      "title": "so do you officially say at least one person was killed and several other injured in a 2nd, resided strike a 100 yards mean apple in 2 days.",
+      "source": "DW",
+      "date": "2026-10-12T00:00:00Z",
+      "image_url": "https://archive.org/services/img/DW_20261012_090000_DW_News/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261012_090000_DW_News",
+      "description_zh": "画面候选标签：a speech、a news studio、a protest、an explosion、新闻演播室、fire、text on screen、a forest、抗议活动、a flag、a river、a beach",
+      "description_en": "Visual candidate labels: a speech, a news studio, a protest, an explosion, 新闻演播室, fire, text on screen, a forest, 抗议活动, a flag, a river, a beach",
+      "keywords": "a speech,a news studio,a protest,an explosion,新闻演播室,fire,text on screen,a forest,抗议活动,a flag,a river,a beach,a crowd,屏幕文字,a sports match,演讲,a road,an animal,a building,the countryside",
+      "visual_labels": [
+        {
+          "label": "a speech",
+          "score": 0.4064
+        },
+        {
+          "label": "a news studio",
+          "score": 0.3994
+        },
+        {
+          "label": "a protest",
+          "score": 0.3959
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3783
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3645
+        },
+        {
+          "label": "fire",
+          "score": 0.3645
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3637
+        },
+        {
+          "label": "a forest",
+          "score": 0.3614
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3549
+        },
+        {
+          "label": "a flag",
+          "score": 0.3524
+        },
+        {
+          "label": "a river",
+          "score": 0.3498
+        },
+        {
+          "label": "a beach",
+          "score": 0.3468
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3443
+        },
+        {
+          "label": "屏幕文字",
           "score": 0.3441
         },
         {
+          "label": "a sports match",
+          "score": 0.3435
+        },
+        {
+          "label": "演讲",
+          "score": 0.3434
+        },
+        {
           "label": "a road",
-          "score": 0.3416
+          "score": 0.3412
         },
         {
-          "label": "military",
-          "score": 0.3414
-        },
-        {
-          "label": "a mountain",
+          "label": "an animal",
           "score": 0.3402
         },
         {
-          "label": "a train",
-          "score": 0.3399
+          "label": "a building",
+          "score": 0.3398
+        },
+        {
+          "label": "the countryside",
+          "score": 0.3391
         }
       ]
     }
