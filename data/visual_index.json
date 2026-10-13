@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-13T12:39:37+00:00",
+  "generated_at": "2026-10-13T18:37:00+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
   "records": 3,
   "items": [
@@ -98,95 +98,95 @@
       ]
     },
     {
-      "id": "CSPAN3_20261013_040300_America_250_Spanish_Empire_in_18th_Century",
-      "title": "when my opponent supported the supreme court's decision to overturn roe v wade, we saw across the country, states banning reproductive health care, abortion, and other things that…",
-      "source": "CSPAN3",
+      "id": "N1HRV_20261013_030000",
+      "title": "the conflict in the gulf escalates, teachers and students in schools in gaza could be in trouble due to artificial intelligence, although trump claims there is no such example in u…",
+      "source": "N1HRV",
       "date": "2026-10-13T00:00:00Z",
-      "image_url": "https://archive.org/services/img/CSPAN3_20261013_040300_America_250_Spanish_Empire_in_18th_Century/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/CSPAN3_20261013_040300_America_250_Spanish_Empire_in_18th_Century",
-      "description_zh": "画面候选标签：a protest、a news studio、an explosion、text on screen、a flag、a speech、新闻演播室、a sports match、flooding、屏幕文字、smoke、an animal",
-      "description_en": "Visual candidate labels: a protest, a news studio, an explosion, text on screen, a flag, a speech, 新闻演播室, a sports match, flooding, 屏幕文字, smoke, an animal",
-      "keywords": "a protest,a news studio,an explosion,text on screen,a flag,a speech,新闻演播室,a sports match,flooding,屏幕文字,smoke,an animal,a ship,a train,military,a crowd,an airplane,a road,抗议活动,a river",
+      "image_url": "https://archive.org/services/img/N1HRV_20261013_030000/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/N1HRV_20261013_030000",
+      "description_zh": "画面候选标签：an explosion、police、text on screen、an airplane、a ship、running、a protest、fire、military、抗议活动、爆炸、a city street",
+      "description_en": "Visual candidate labels: an explosion, police, text on screen, an airplane, a ship, running, a protest, fire, military, 抗议活动, 爆炸, a city street",
+      "keywords": "an explosion,police,text on screen,an airplane,a ship,running,a protest,fire,military,抗议活动,爆炸,a city street,烟雾,smoke,新闻演播室,a road,a car,屏幕文字,soccer,a news studio",
       "visual_labels": [
         {
-          "label": "a protest",
-          "score": 0.4292
-        },
-        {
-          "label": "a news studio",
-          "score": 0.4209
-        },
-        {
           "label": "an explosion",
-          "score": 0.4066
+          "score": 0.4018
+        },
+        {
+          "label": "police",
+          "score": 0.3818
         },
         {
           "label": "text on screen",
-          "score": 0.4062
-        },
-        {
-          "label": "a flag",
-          "score": 0.3945
-        },
-        {
-          "label": "a speech",
-          "score": 0.3919
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.3822
-        },
-        {
-          "label": "a sports match",
-          "score": 0.3741
-        },
-        {
-          "label": "flooding",
-          "score": 0.3681
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.36
-        },
-        {
-          "label": "smoke",
-          "score": 0.3569
-        },
-        {
-          "label": "an animal",
-          "score": 0.3556
-        },
-        {
-          "label": "a ship",
-          "score": 0.3531
-        },
-        {
-          "label": "a train",
-          "score": 0.3522
-        },
-        {
-          "label": "military",
-          "score": 0.3513
-        },
-        {
-          "label": "a crowd",
-          "score": 0.3507
+          "score": 0.3796
         },
         {
           "label": "an airplane",
-          "score": 0.3497
+          "score": 0.3785
         },
         {
-          "label": "a road",
-          "score": 0.3479
+          "label": "a ship",
+          "score": 0.3782
+        },
+        {
+          "label": "running",
+          "score": 0.3774
+        },
+        {
+          "label": "a protest",
+          "score": 0.3771
+        },
+        {
+          "label": "fire",
+          "score": 0.3769
+        },
+        {
+          "label": "military",
+          "score": 0.3762
         },
         {
           "label": "抗议活动",
-          "score": 0.3469
+          "score": 0.3727
         },
         {
-          "label": "a river",
-          "score": 0.3468
+          "label": "爆炸",
+          "score": 0.3708
+        },
+        {
+          "label": "a city street",
+          "score": 0.3652
+        },
+        {
+          "label": "烟雾",
+          "score": 0.3639
+        },
+        {
+          "label": "smoke",
+          "score": 0.3623
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3595
+        },
+        {
+          "label": "a road",
+          "score": 0.3593
+        },
+        {
+          "label": "a car",
+          "score": 0.358
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3579
+        },
+        {
+          "label": "soccer",
+          "score": 0.3565
+        },
+        {
+          "label": "a news studio",
+          "score": 0.3564
         }
       ]
     },
