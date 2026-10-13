@@ -1,8 +1,8 @@
 {
   "schema_version": "4.1",
-  "generated_at": "2026-10-12T23:50:53+00:00",
-  "data_time": "2026-10-12T23:50:53+00:00",
-  "current_day": "2026-10-12",
+  "generated_at": "2026-10-13T00:02:12+00:00",
+  "data_time": "2026-10-13T00:02:12+00:00",
+  "current_day": "2026-10-13",
   "source": "https://data.gdeltproject.org/gdeltv2/",
   "datasets": {
     "events": {
@@ -10,8 +10,8 @@
       "time_points": 5,
       "date_start": "20251013",
       "date_end": "20261013",
-      "current_day": "2026-10-12",
-      "current_records": 5,
+      "current_day": "2026-10-13",
+      "current_records": 1974,
       "file": "20261013000000.export.CSV.zip",
       "status": "ready"
     },
@@ -20,8 +20,8 @@
       "time_points": 1,
       "date_start": "20261013",
       "date_end": "20261013",
-      "current_day": "2026-10-12",
-      "current_records": 0,
+      "current_day": "2026-10-13",
+      "current_records": 1120,
       "file": "20261013000000.gkg.csv.zip",
       "status": "ready"
     },
@@ -30,8 +30,8 @@
       "time_points": 1,
       "date_start": "20261013",
       "date_end": "20261013",
-      "current_day": "2026-10-12",
-      "current_records": 0,
+      "current_day": "2026-10-13",
+      "current_records": 2858,
       "file": "20261013000000.mentions.CSV.zip",
       "status": "ready"
     }
