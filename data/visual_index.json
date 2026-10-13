@@ -1,285 +1,99 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-12T17:31:00+00:00",
+  "generated_at": "2026-10-13T00:42:44+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
-  "records": 3,
+  "records": 1,
   "items": [
     {
-      "id": "DW_20261012_050000_DW_News",
-      "title": "it follows i missed a little tack on the same terminal on saturday, that killed at least 13 people.",
+      "id": "DW_20261013_000000_DW_News",
+      "title": "the most sign is read and fred this week on the this is the that'd be news, our top stories ukrainian president for a load of minutes and then ski says keith is ready for an energy…",
       "source": "DW",
-      "date": "2026-10-12T00:00:00Z",
-      "image_url": "https://archive.org/services/img/DW_20261012_050000_DW_News/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/DW_20261012_050000_DW_News",
-      "description_zh": "画面候选标签：a flag、military、旗帜、a news studio、a mountain、抗议活动、a protest、a map、police、an explosion、text on screen、a road",
-      "description_en": "Visual candidate labels: a flag, military, 旗帜, a news studio, a mountain, 抗议活动, a protest, a map, police, an explosion, text on screen, a road",
-      "keywords": "a flag,military,旗帜,a news studio,a mountain,抗议活动,a protest,a map,police,an explosion,text on screen,a road,the countryside,a city street,a building,flooding,a river,屏幕文字,a ship,a crowd",
+      "date": "2026-10-13T00:00:00Z",
+      "image_url": "https://archive.org/services/img/DW_20261013_000000_DW_News/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261013_000000_DW_News",
+      "description_zh": "画面候选标签：a flag、fire、an explosion、抗议活动、military、军队、soccer、爆炸、旗帜、smoke、text on screen、a protest",
+      "description_en": "Visual candidate labels: a flag, fire, an explosion, 抗议活动, military, 军队, soccer, 爆炸, 旗帜, smoke, text on screen, a protest",
+      "keywords": "a flag,fire,an explosion,抗议活动,military,军队,soccer,爆炸,旗帜,smoke,text on screen,a protest,basketball,新闻演播室,体育比赛,police,a crowd,flooding,屏幕文字,足球",
       "visual_labels": [
         {
           "label": "a flag",
-          "score": 0.4278
+          "score": 0.3853
         },
         {
-          "label": "military",
-          "score": 0.3966
-        },
-        {
-          "label": "旗帜",
-          "score": 0.3913
-        },
-        {
-          "label": "a news studio",
-          "score": 0.3904
-        },
-        {
-          "label": "a mountain",
-          "score": 0.3854
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3816
-        },
-        {
-          "label": "a protest",
-          "score": 0.3813
-        },
-        {
-          "label": "a map",
-          "score": 0.3771
-        },
-        {
-          "label": "police",
-          "score": 0.3765
+          "label": "fire",
+          "score": 0.3819
         },
         {
           "label": "an explosion",
-          "score": 0.375
-        },
-        {
-          "label": "text on screen",
-          "score": 0.375
-        },
-        {
-          "label": "a road",
-          "score": 0.3657
-        },
-        {
-          "label": "the countryside",
-          "score": 0.3651
-        },
-        {
-          "label": "a city street",
-          "score": 0.3624
-        },
-        {
-          "label": "a building",
-          "score": 0.3614
-        },
-        {
-          "label": "flooding",
-          "score": 0.3582
-        },
-        {
-          "label": "a river",
-          "score": 0.3577
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3529
-        },
-        {
-          "label": "a ship",
-          "score": 0.3525
-        },
-        {
-          "label": "a crowd",
-          "score": 0.3514
-        }
-      ]
-    },
-    {
-      "id": "DW_20261012_070000_DW_News",
-      "title": "little frustrated, not immediately comment on the deal issue so so the officials say at least one person has been killed and a new missile strike on re i'd main airport.",
-      "source": "DW",
-      "date": "2026-10-12T00:00:00Z",
-      "image_url": "https://archive.org/services/img/DW_20261012_070000_DW_News/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/DW_20261012_070000_DW_News",
-      "description_zh": "画面候选标签：text on screen、a news studio、新闻演播室、a speech、抗议活动、屏幕文字、演讲、fire、basketball、a protest、a flag、旗帜",
-      "description_en": "Visual candidate labels: text on screen, a news studio, 新闻演播室, a speech, 抗议活动, 屏幕文字, 演讲, fire, basketball, a protest, a flag, 旗帜",
-      "keywords": "text on screen,a news studio,新闻演播室,a speech,抗议活动,屏幕文字,演讲,fire,basketball,a protest,a flag,旗帜,a ship,running,flooding,an explosion,a sports match,a crowd,人,a map",
-      "visual_labels": [
-        {
-          "label": "text on screen",
-          "score": 0.3787
-        },
-        {
-          "label": "a news studio",
-          "score": 0.3786
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.3653
-        },
-        {
-          "label": "a speech",
-          "score": 0.3643
+          "score": 0.3646
         },
         {
           "label": "抗议活动",
-          "score": 0.3575
+          "score": 0.3645
         },
         {
-          "label": "屏幕文字",
-          "score": 0.3498
+          "label": "military",
+          "score": 0.362
         },
         {
-          "label": "演讲",
+          "label": "军队",
+          "score": 0.3592
+        },
+        {
+          "label": "soccer",
+          "score": 0.3545
+        },
+        {
+          "label": "爆炸",
           "score": 0.3486
         },
         {
-          "label": "fire",
-          "score": 0.3471
-        },
-        {
-          "label": "basketball",
-          "score": 0.3456
-        },
-        {
-          "label": "a protest",
-          "score": 0.3435
-        },
-        {
-          "label": "a flag",
-          "score": 0.3432
-        },
-        {
           "label": "旗帜",
-          "score": 0.3401
-        },
-        {
-          "label": "a ship",
-          "score": 0.3391
-        },
-        {
-          "label": "running",
-          "score": 0.3372
-        },
-        {
-          "label": "flooding",
-          "score": 0.3368
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3353
-        },
-        {
-          "label": "a sports match",
-          "score": 0.335
-        },
-        {
-          "label": "a crowd",
-          "score": 0.3334
-        },
-        {
-          "label": "人",
-          "score": 0.3258
-        },
-        {
-          "label": "a map",
-          "score": 0.3254
-        }
-      ]
-    },
-    {
-      "id": "CSPAN3_20261012_040300_America_250",
-      "title": "when mexican silver via cuba paid washington as long struggling troops, and when spain's entry into the war catalyzed the franco-american alliance, which made possible the victory…",
-      "source": "CSPAN3",
-      "date": "2026-10-12T00:00:00Z",
-      "image_url": "https://archive.org/services/img/CSPAN3_20261012_040300_America_250/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/CSPAN3_20261012_040300_America_250",
-      "description_zh": "画面候选标签：a news studio、a speech、a protest、新闻演播室、an explosion、text on screen、抗议活动、a crowd、fire、a sports match、an animal、military",
-      "description_en": "Visual candidate labels: a news studio, a speech, a protest, 新闻演播室, an explosion, text on screen, 抗议活动, a crowd, fire, a sports match, an animal, military",
-      "keywords": "a news studio,a speech,a protest,新闻演播室,an explosion,text on screen,抗议活动,a crowd,fire,a sports match,an animal,military,smoke,演讲,屏幕文字,a flag,a mountain,a river,a forest,a road",
-      "visual_labels": [
-        {
-          "label": "a news studio",
-          "score": 0.4321
-        },
-        {
-          "label": "a speech",
-          "score": 0.413
-        },
-        {
-          "label": "a protest",
-          "score": 0.4067
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.4024
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3962
-        },
-        {
-          "label": "text on screen",
-          "score": 0.3823
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3631
-        },
-        {
-          "label": "a crowd",
-          "score": 0.3601
-        },
-        {
-          "label": "fire",
-          "score": 0.3564
-        },
-        {
-          "label": "a sports match",
-          "score": 0.3558
-        },
-        {
-          "label": "an animal",
-          "score": 0.3555
-        },
-        {
-          "label": "military",
-          "score": 0.3539
+          "score": 0.3473
         },
         {
           "label": "smoke",
-          "score": 0.3531
+          "score": 0.347
         },
         {
-          "label": "演讲",
-          "score": 0.3519
+          "label": "text on screen",
+          "score": 0.3461
+        },
+        {
+          "label": "a protest",
+          "score": 0.3453
+        },
+        {
+          "label": "basketball",
+          "score": 0.3443
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3433
+        },
+        {
+          "label": "体育比赛",
+          "score": 0.3379
+        },
+        {
+          "label": "police",
+          "score": 0.3369
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3362
+        },
+        {
+          "label": "flooding",
+          "score": 0.3361
         },
         {
           "label": "屏幕文字",
-          "score": 0.3513
+          "score": 0.3345
         },
         {
-          "label": "a flag",
-          "score": 0.3506
-        },
-        {
-          "label": "a mountain",
-          "score": 0.3499
-        },
-        {
-          "label": "a river",
-          "score": 0.3487
-        },
-        {
-          "label": "a forest",
-          "score": 0.3476
-        },
-        {
-          "label": "a road",
-          "score": 0.3466
+          "label": "足球",
+          "score": 0.3339
         }
       ]
     }
