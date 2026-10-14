@@ -1,7 +1,287 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-14T00:51:42+00:00",
+  "generated_at": "2026-10-14T06:51:02+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
-  "records": 0,
-  "items": []
+  "records": 3,
+  "items": [
+    {
+      "id": "ALJAZ_20261014_003000",
+      "title": "us federal agents have arrested an employee accusing him of launching that ukraine president has accused must go continuing strikes on his energy sides despite took donald trump's…",
+      "source": "ALJAZ",
+      "date": "2026-10-14T00:00:00Z",
+      "image_url": "https://archive.org/services/img/ALJAZ_20261014_003000/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/ALJAZ_20261014_003000",
+      "description_zh": "画面候选标签：a news studio、a horse、a road、a building、an airplane、a speech、a protest、a river、an explosion、a map、an animal、a ship",
+      "description_en": "Visual candidate labels: a news studio, a horse, a road, a building, an airplane, a speech, a protest, a river, an explosion, a map, an animal, a ship",
+      "keywords": "a news studio,a horse,a road,a building,an airplane,a speech,a protest,a river,an explosion,a map,an animal,a ship,a flag,fire,a forest,text on screen,a train,a mountain,新闻演播室,抗议活动",
+      "visual_labels": [
+        {
+          "label": "a news studio",
+          "score": 0.422
+        },
+        {
+          "label": "a horse",
+          "score": 0.3826
+        },
+        {
+          "label": "a road",
+          "score": 0.3797
+        },
+        {
+          "label": "a building",
+          "score": 0.3782
+        },
+        {
+          "label": "an airplane",
+          "score": 0.3747
+        },
+        {
+          "label": "a speech",
+          "score": 0.3734
+        },
+        {
+          "label": "a protest",
+          "score": 0.3698
+        },
+        {
+          "label": "a river",
+          "score": 0.3693
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3684
+        },
+        {
+          "label": "a map",
+          "score": 0.3657
+        },
+        {
+          "label": "an animal",
+          "score": 0.3647
+        },
+        {
+          "label": "a ship",
+          "score": 0.3585
+        },
+        {
+          "label": "a flag",
+          "score": 0.3571
+        },
+        {
+          "label": "fire",
+          "score": 0.3552
+        },
+        {
+          "label": "a forest",
+          "score": 0.3507
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3506
+        },
+        {
+          "label": "a train",
+          "score": 0.3497
+        },
+        {
+          "label": "a mountain",
+          "score": 0.3456
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3431
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3428
+        }
+      ]
+    },
+    {
+      "id": "DW_20261014_010000_DW_News",
+      "title": "after doctors removed the lower lobe of his long during surgery, the vatican said the surgery less than 90 minutes and was successful, but made no mention of treatment going forwar…",
+      "source": "DW",
+      "date": "2026-10-14T00:00:00Z",
+      "image_url": "https://archive.org/services/img/DW_20261014_010000_DW_News/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261014_010000_DW_News",
+      "description_zh": "画面候选标签：军队、military、旗帜、抗议活动、a flag、屏幕文字、a protest、警察、an explosion、人群、a crowd、体育比赛",
+      "description_en": "Visual candidate labels: 军队, military, 旗帜, 抗议活动, a flag, 屏幕文字, a protest, 警察, an explosion, 人群, a crowd, 体育比赛",
+      "keywords": "军队,military,旗帜,抗议活动,a flag,屏幕文字,a protest,警察,an explosion,人群,a crowd,体育比赛,police,text on screen,新闻演播室,海滩,人,建筑物,演讲,奔跑",
+      "visual_labels": [
+        {
+          "label": "军队",
+          "score": 0.4096
+        },
+        {
+          "label": "military",
+          "score": 0.388
+        },
+        {
+          "label": "旗帜",
+          "score": 0.3612
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3573
+        },
+        {
+          "label": "a flag",
+          "score": 0.3538
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3458
+        },
+        {
+          "label": "a protest",
+          "score": 0.3456
+        },
+        {
+          "label": "警察",
+          "score": 0.3331
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3302
+        },
+        {
+          "label": "人群",
+          "score": 0.3297
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3289
+        },
+        {
+          "label": "体育比赛",
+          "score": 0.3282
+        },
+        {
+          "label": "police",
+          "score": 0.3271
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3254
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3246
+        },
+        {
+          "label": "海滩",
+          "score": 0.3156
+        },
+        {
+          "label": "人",
+          "score": 0.3148
+        },
+        {
+          "label": "建筑物",
+          "score": 0.3135
+        },
+        {
+          "label": "演讲",
+          "score": 0.313
+        },
+        {
+          "label": "奔跑",
+          "score": 0.3127
+        }
+      ]
+    },
+    {
+      "id": "BBCNEWS_20261014_034500_Asia_Specific",
+      "title": "i have the bbc's tessa wong wong as well as professor nicholas nicholas dickinson from the university university of sheffield, and kimberly kimberly mcarthur from non-partisan non-…",
+      "source": "BBCNEWS",
+      "date": "2026-10-14T00:00:00Z",
+      "image_url": "https://archive.org/services/img/BBCNEWS_20261014_034500_Asia_Specific/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/BBCNEWS_20261014_034500_Asia_Specific",
+      "description_zh": "画面候选标签：a news studio、a protest、an explosion、text on screen、新闻演播室、a flag、flooding、抗议活动、a speech、a building、police、fire",
+      "description_en": "Visual candidate labels: a news studio, a protest, an explosion, text on screen, 新闻演播室, a flag, flooding, 抗议活动, a speech, a building, police, fire",
+      "keywords": "a news studio,a protest,an explosion,text on screen,新闻演播室,a flag,flooding,抗议活动,a speech,a building,police,fire,a crowd,military,a road,屏幕文字,an animal,a river,a forest,a car",
+      "visual_labels": [
+        {
+          "label": "a news studio",
+          "score": 0.4862
+        },
+        {
+          "label": "a protest",
+          "score": 0.4254
+        },
+        {
+          "label": "an explosion",
+          "score": 0.4102
+        },
+        {
+          "label": "text on screen",
+          "score": 0.4048
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.4003
+        },
+        {
+          "label": "a flag",
+          "score": 0.3916
+        },
+        {
+          "label": "flooding",
+          "score": 0.3908
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3886
+        },
+        {
+          "label": "a speech",
+          "score": 0.3774
+        },
+        {
+          "label": "a building",
+          "score": 0.3766
+        },
+        {
+          "label": "police",
+          "score": 0.376
+        },
+        {
+          "label": "fire",
+          "score": 0.3742
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3704
+        },
+        {
+          "label": "military",
+          "score": 0.368
+        },
+        {
+          "label": "a road",
+          "score": 0.3674
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3668
+        },
+        {
+          "label": "an animal",
+          "score": 0.3658
+        },
+        {
+          "label": "a river",
+          "score": 0.3622
+        },
+        {
+          "label": "a forest",
+          "score": 0.3603
+        },
+        {
+          "label": "a car",
+          "score": 0.358
+        }
+      ]
+    }
+  ]
 }
