@@ -1,192 +1,99 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-14T12:49:47+00:00",
+  "generated_at": "2026-10-14T18:49:04+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
   "records": 3,
   "items": [
     {
-      "id": "ALJAZ_20261014_003000",
-      "title": "us federal agents have arrested an employee accusing him of launching that ukraine president has accused must go continuing strikes on his energy sides despite took donald trump's…",
-      "source": "ALJAZ",
+      "id": "BBCNEWS_20261014_043000_Business_Today",
+      "title": "most clubs clubs in the english football leagues leagues get a sobering warning in in a major report and looking frighteningly frighteningly good, we find out about about the uk's…",
+      "source": "BBCNEWS",
       "date": "2026-10-14T00:00:00Z",
-      "image_url": "https://archive.org/services/img/ALJAZ_20261014_003000/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/ALJAZ_20261014_003000",
-      "description_zh": "画面候选标签：a news studio、a horse、a road、a building、an airplane、a speech、a protest、a river、an explosion、a map、an animal、a ship",
-      "description_en": "Visual candidate labels: a news studio, a horse, a road, a building, an airplane, a speech, a protest, a river, an explosion, a map, an animal, a ship",
-      "keywords": "a news studio,a horse,a road,a building,an airplane,a speech,a protest,a river,an explosion,a map,an animal,a ship,a flag,fire,a forest,text on screen,a train,a mountain,新闻演播室,抗议活动",
+      "image_url": "https://archive.org/services/img/BBCNEWS_20261014_043000_Business_Today/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/BBCNEWS_20261014_043000_Business_Today",
+      "description_zh": "画面候选标签：a news studio、新闻演播室、a building、a speech、text on screen、an explosion、屏幕文字、a crowd、a protest、an animal、a car、an airplane",
+      "description_en": "Visual candidate labels: a news studio, 新闻演播室, a building, a speech, text on screen, an explosion, 屏幕文字, a crowd, a protest, an animal, a car, an airplane",
+      "keywords": "a news studio,新闻演播室,a building,a speech,text on screen,an explosion,屏幕文字,a crowd,a protest,an animal,a car,an airplane,basketball,fire,police,抗议活动,a city street,a river,a road,a truck",
       "visual_labels": [
         {
           "label": "a news studio",
-          "score": 0.422
+          "score": 0.4857
         },
         {
-          "label": "a horse",
-          "score": 0.3826
-        },
-        {
-          "label": "a road",
-          "score": 0.3797
+          "label": "新闻演播室",
+          "score": 0.4042
         },
         {
           "label": "a building",
-          "score": 0.3782
-        },
-        {
-          "label": "an airplane",
-          "score": 0.3747
+          "score": 0.3915
         },
         {
           "label": "a speech",
-          "score": 0.3734
-        },
-        {
-          "label": "a protest",
-          "score": 0.3698
-        },
-        {
-          "label": "a river",
-          "score": 0.3693
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3684
-        },
-        {
-          "label": "a map",
-          "score": 0.3657
-        },
-        {
-          "label": "an animal",
-          "score": 0.3647
-        },
-        {
-          "label": "a ship",
-          "score": 0.3585
-        },
-        {
-          "label": "a flag",
-          "score": 0.3571
-        },
-        {
-          "label": "fire",
-          "score": 0.3552
-        },
-        {
-          "label": "a forest",
-          "score": 0.3507
+          "score": 0.3897
         },
         {
           "label": "text on screen",
-          "score": 0.3506
+          "score": 0.3879
         },
         {
-          "label": "a train",
-          "score": 0.3497
-        },
-        {
-          "label": "a mountain",
-          "score": 0.3456
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.3431
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3428
-        }
-      ]
-    },
-    {
-      "id": "DW_20261014_010000_DW_News",
-      "title": "after doctors removed the lower lobe of his long during surgery, the vatican said the surgery less than 90 minutes and was successful, but made no mention of treatment going forwar…",
-      "source": "DW",
-      "date": "2026-10-14T00:00:00Z",
-      "image_url": "https://archive.org/services/img/DW_20261014_010000_DW_News/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/DW_20261014_010000_DW_News",
-      "description_zh": "画面候选标签：军队、military、旗帜、抗议活动、a flag、屏幕文字、a protest、警察、an explosion、人群、a crowd、体育比赛",
-      "description_en": "Visual candidate labels: 军队, military, 旗帜, 抗议活动, a flag, 屏幕文字, a protest, 警察, an explosion, 人群, a crowd, 体育比赛",
-      "keywords": "军队,military,旗帜,抗议活动,a flag,屏幕文字,a protest,警察,an explosion,人群,a crowd,体育比赛,police,text on screen,新闻演播室,海滩,人,建筑物,演讲,奔跑",
-      "visual_labels": [
-        {
-          "label": "军队",
-          "score": 0.4096
-        },
-        {
-          "label": "military",
-          "score": 0.388
-        },
-        {
-          "label": "旗帜",
-          "score": 0.3612
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3573
-        },
-        {
-          "label": "a flag",
-          "score": 0.3538
+          "label": "an explosion",
+          "score": 0.3867
         },
         {
           "label": "屏幕文字",
-          "score": 0.3458
-        },
-        {
-          "label": "a protest",
-          "score": 0.3456
-        },
-        {
-          "label": "警察",
-          "score": 0.3331
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3302
-        },
-        {
-          "label": "人群",
-          "score": 0.3297
+          "score": 0.374
         },
         {
           "label": "a crowd",
-          "score": 0.3289
+          "score": 0.3684
         },
         {
-          "label": "体育比赛",
-          "score": 0.3282
+          "label": "a protest",
+          "score": 0.367
+        },
+        {
+          "label": "an animal",
+          "score": 0.3656
+        },
+        {
+          "label": "a car",
+          "score": 0.365
+        },
+        {
+          "label": "an airplane",
+          "score": 0.365
+        },
+        {
+          "label": "basketball",
+          "score": 0.3644
+        },
+        {
+          "label": "fire",
+          "score": 0.3641
         },
         {
           "label": "police",
-          "score": 0.3271
+          "score": 0.3582
         },
         {
-          "label": "text on screen",
-          "score": 0.3254
+          "label": "抗议活动",
+          "score": 0.3581
         },
         {
-          "label": "新闻演播室",
-          "score": 0.3246
+          "label": "a city street",
+          "score": 0.3579
         },
         {
-          "label": "海滩",
-          "score": 0.3156
+          "label": "a river",
+          "score": 0.3578
         },
         {
-          "label": "人",
-          "score": 0.3148
+          "label": "a road",
+          "score": 0.3574
         },
         {
-          "label": "建筑物",
-          "score": 0.3135
-        },
-        {
-          "label": "演讲",
-          "score": 0.313
-        },
-        {
-          "label": "奔跑",
-          "score": 0.3127
+          "label": "a truck",
+          "score": 0.3558
         }
       ]
     },
@@ -280,6 +187,99 @@
         {
           "label": "a car",
           "score": 0.358
+        }
+      ]
+    },
+    {
+      "id": "CSPAN2_20261014_021700_Campaign_2026_Governor_Candidate_Amy_Acton_D-OH_Visits_Small_Business",
+      "title": ">> c-span's washington journal, our live forum inviting you to discuss the latest issues in government, politics and public policy from washington and across the country.",
+      "source": "CSPAN2",
+      "date": "2026-10-14T00:00:00Z",
+      "image_url": "https://archive.org/services/img/CSPAN2_20261014_021700_Campaign_2026_Governor_Candidate_Amy_Acton_D-OH_Visits_Small_Business/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/CSPAN2_20261014_021700_Campaign_2026_Governor_Candidate_Amy_Acton_D-OH_Visits_Small_Business",
+      "description_zh": "画面候选标签：a news studio、text on screen、a map、an explosion、新闻演播室、a building、a mountain、an animal、an airplane、a road、a flag、a speech",
+      "description_en": "Visual candidate labels: a news studio, text on screen, a map, an explosion, 新闻演播室, a building, a mountain, an animal, an airplane, a road, a flag, a speech",
+      "keywords": "a news studio,text on screen,a map,an explosion,新闻演播室,a building,a mountain,an animal,an airplane,a road,a flag,a speech,a protest,抗议活动,the countryside,屏幕文字,a river,a city street,a sports match,basketball",
+      "visual_labels": [
+        {
+          "label": "a news studio",
+          "score": 0.4276
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3846
+        },
+        {
+          "label": "a map",
+          "score": 0.3747
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3743
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3716
+        },
+        {
+          "label": "a building",
+          "score": 0.3672
+        },
+        {
+          "label": "a mountain",
+          "score": 0.3552
+        },
+        {
+          "label": "an animal",
+          "score": 0.3536
+        },
+        {
+          "label": "an airplane",
+          "score": 0.3448
+        },
+        {
+          "label": "a road",
+          "score": 0.3424
+        },
+        {
+          "label": "a flag",
+          "score": 0.3423
+        },
+        {
+          "label": "a speech",
+          "score": 0.3398
+        },
+        {
+          "label": "a protest",
+          "score": 0.3385
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3365
+        },
+        {
+          "label": "the countryside",
+          "score": 0.3358
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3344
+        },
+        {
+          "label": "a river",
+          "score": 0.334
+        },
+        {
+          "label": "a city street",
+          "score": 0.3314
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3299
+        },
+        {
+          "label": "basketball",
+          "score": 0.3299
         }
       ]
     }
