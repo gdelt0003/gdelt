@@ -1,285 +1,99 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-14T18:49:04+00:00",
+  "generated_at": "2026-10-15T00:49:51+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
-  "records": 3,
+  "records": 1,
   "items": [
     {
-      "id": "BBCNEWS_20261014_043000_Business_Today",
-      "title": "most clubs clubs in the english football leagues leagues get a sobering warning in in a major report and looking frighteningly frighteningly good, we find out about about the uk's…",
-      "source": "BBCNEWS",
-      "date": "2026-10-14T00:00:00Z",
-      "image_url": "https://archive.org/services/img/BBCNEWS_20261014_043000_Business_Today/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/BBCNEWS_20261014_043000_Business_Today",
-      "description_zh": "画面候选标签：a news studio、新闻演播室、a building、a speech、text on screen、an explosion、屏幕文字、a crowd、a protest、an animal、a car、an airplane",
-      "description_en": "Visual candidate labels: a news studio, 新闻演播室, a building, a speech, text on screen, an explosion, 屏幕文字, a crowd, a protest, an animal, a car, an airplane",
-      "keywords": "a news studio,新闻演播室,a building,a speech,text on screen,an explosion,屏幕文字,a crowd,a protest,an animal,a car,an airplane,basketball,fire,police,抗议活动,a city street,a river,a road,a truck",
+      "id": "DW_20261015_000000_DW_News",
+      "title": "you even saw the idea soon and wherever you get your book got the this is the the you can use and these arrow top stories, the bane, yes, education ministry code fia, on wednesday…",
+      "source": "DW",
+      "date": "2026-10-15T00:00:00Z",
+      "image_url": "https://archive.org/services/img/DW_20261015_000000_DW_News/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261015_000000_DW_News",
+      "description_zh": "画面候选标签：a news studio、新闻演播室、text on screen、屏幕文字、smoke、fire、人、a sports match、a speech、演讲、烟雾、running",
+      "description_en": "Visual candidate labels: a news studio, 新闻演播室, text on screen, 屏幕文字, smoke, fire, 人, a sports match, a speech, 演讲, 烟雾, running",
+      "keywords": "a news studio,新闻演播室,text on screen,屏幕文字,smoke,fire,人,a sports match,a speech,演讲,烟雾,running,a building,a train,an explosion,basketball,抗议活动,a protest,soccer,a road",
       "visual_labels": [
         {
           "label": "a news studio",
-          "score": 0.4857
+          "score": 0.3842
         },
         {
           "label": "新闻演播室",
-          "score": 0.4042
-        },
-        {
-          "label": "a building",
-          "score": 0.3915
-        },
-        {
-          "label": "a speech",
-          "score": 0.3897
+          "score": 0.378
         },
         {
           "label": "text on screen",
-          "score": 0.3879
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3867
+          "score": 0.378
         },
         {
           "label": "屏幕文字",
-          "score": 0.374
+          "score": 0.3677
         },
         {
-          "label": "a crowd",
-          "score": 0.3684
+          "label": "smoke",
+          "score": 0.3671
         },
         {
-          "label": "a protest",
-          "score": 0.367
+          "label": "fire",
+          "score": 0.3669
         },
         {
-          "label": "an animal",
-          "score": 0.3656
-        },
-        {
-          "label": "a car",
-          "score": 0.365
-        },
-        {
-          "label": "an airplane",
-          "score": 0.365
-        },
-        {
-          "label": "basketball",
+          "label": "人",
           "score": 0.3644
         },
         {
-          "label": "fire",
-          "score": 0.3641
-        },
-        {
-          "label": "police",
-          "score": 0.3582
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3581
-        },
-        {
-          "label": "a city street",
-          "score": 0.3579
-        },
-        {
-          "label": "a river",
-          "score": 0.3578
-        },
-        {
-          "label": "a road",
-          "score": 0.3574
-        },
-        {
-          "label": "a truck",
-          "score": 0.3558
-        }
-      ]
-    },
-    {
-      "id": "BBCNEWS_20261014_034500_Asia_Specific",
-      "title": "i have the bbc's tessa wong wong as well as professor nicholas nicholas dickinson from the university university of sheffield, and kimberly kimberly mcarthur from non-partisan non-…",
-      "source": "BBCNEWS",
-      "date": "2026-10-14T00:00:00Z",
-      "image_url": "https://archive.org/services/img/BBCNEWS_20261014_034500_Asia_Specific/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/BBCNEWS_20261014_034500_Asia_Specific",
-      "description_zh": "画面候选标签：a news studio、a protest、an explosion、text on screen、新闻演播室、a flag、flooding、抗议活动、a speech、a building、police、fire",
-      "description_en": "Visual candidate labels: a news studio, a protest, an explosion, text on screen, 新闻演播室, a flag, flooding, 抗议活动, a speech, a building, police, fire",
-      "keywords": "a news studio,a protest,an explosion,text on screen,新闻演播室,a flag,flooding,抗议活动,a speech,a building,police,fire,a crowd,military,a road,屏幕文字,an animal,a river,a forest,a car",
-      "visual_labels": [
-        {
-          "label": "a news studio",
-          "score": 0.4862
-        },
-        {
-          "label": "a protest",
-          "score": 0.4254
-        },
-        {
-          "label": "an explosion",
-          "score": 0.4102
-        },
-        {
-          "label": "text on screen",
-          "score": 0.4048
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.4003
-        },
-        {
-          "label": "a flag",
-          "score": 0.3916
-        },
-        {
-          "label": "flooding",
-          "score": 0.3908
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3886
-        },
-        {
-          "label": "a speech",
-          "score": 0.3774
-        },
-        {
-          "label": "a building",
-          "score": 0.3766
-        },
-        {
-          "label": "police",
-          "score": 0.376
-        },
-        {
-          "label": "fire",
-          "score": 0.3742
-        },
-        {
-          "label": "a crowd",
-          "score": 0.3704
-        },
-        {
-          "label": "military",
-          "score": 0.368
-        },
-        {
-          "label": "a road",
-          "score": 0.3674
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3668
-        },
-        {
-          "label": "an animal",
-          "score": 0.3658
-        },
-        {
-          "label": "a river",
-          "score": 0.3622
-        },
-        {
-          "label": "a forest",
-          "score": 0.3603
-        },
-        {
-          "label": "a car",
-          "score": 0.358
-        }
-      ]
-    },
-    {
-      "id": "CSPAN2_20261014_021700_Campaign_2026_Governor_Candidate_Amy_Acton_D-OH_Visits_Small_Business",
-      "title": ">> c-span's washington journal, our live forum inviting you to discuss the latest issues in government, politics and public policy from washington and across the country.",
-      "source": "CSPAN2",
-      "date": "2026-10-14T00:00:00Z",
-      "image_url": "https://archive.org/services/img/CSPAN2_20261014_021700_Campaign_2026_Governor_Candidate_Amy_Acton_D-OH_Visits_Small_Business/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/CSPAN2_20261014_021700_Campaign_2026_Governor_Candidate_Amy_Acton_D-OH_Visits_Small_Business",
-      "description_zh": "画面候选标签：a news studio、text on screen、a map、an explosion、新闻演播室、a building、a mountain、an animal、an airplane、a road、a flag、a speech",
-      "description_en": "Visual candidate labels: a news studio, text on screen, a map, an explosion, 新闻演播室, a building, a mountain, an animal, an airplane, a road, a flag, a speech",
-      "keywords": "a news studio,text on screen,a map,an explosion,新闻演播室,a building,a mountain,an animal,an airplane,a road,a flag,a speech,a protest,抗议活动,the countryside,屏幕文字,a river,a city street,a sports match,basketball",
-      "visual_labels": [
-        {
-          "label": "a news studio",
-          "score": 0.4276
-        },
-        {
-          "label": "text on screen",
-          "score": 0.3846
-        },
-        {
-          "label": "a map",
-          "score": 0.3747
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3743
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.3716
-        },
-        {
-          "label": "a building",
-          "score": 0.3672
-        },
-        {
-          "label": "a mountain",
-          "score": 0.3552
-        },
-        {
-          "label": "an animal",
-          "score": 0.3536
-        },
-        {
-          "label": "an airplane",
-          "score": 0.3448
-        },
-        {
-          "label": "a road",
-          "score": 0.3424
-        },
-        {
-          "label": "a flag",
-          "score": 0.3423
-        },
-        {
-          "label": "a speech",
-          "score": 0.3398
-        },
-        {
-          "label": "a protest",
-          "score": 0.3385
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3365
-        },
-        {
-          "label": "the countryside",
-          "score": 0.3358
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3344
-        },
-        {
-          "label": "a river",
-          "score": 0.334
-        },
-        {
-          "label": "a city street",
-          "score": 0.3314
-        },
-        {
           "label": "a sports match",
-          "score": 0.3299
+          "score": 0.3591
+        },
+        {
+          "label": "a speech",
+          "score": 0.3559
+        },
+        {
+          "label": "演讲",
+          "score": 0.3532
+        },
+        {
+          "label": "烟雾",
+          "score": 0.353
+        },
+        {
+          "label": "running",
+          "score": 0.3515
+        },
+        {
+          "label": "a building",
+          "score": 0.346
+        },
+        {
+          "label": "a train",
+          "score": 0.3446
+        },
+        {
+          "label": "an explosion",
+          "score": 0.343
         },
         {
           "label": "basketball",
-          "score": 0.3299
+          "score": 0.3428
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3424
+        },
+        {
+          "label": "a protest",
+          "score": 0.3416
+        },
+        {
+          "label": "soccer",
+          "score": 0.3409
+        },
+        {
+          "label": "a road",
+          "score": 0.3398
         }
       ]
     }
