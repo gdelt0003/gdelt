@@ -1,102 +1,9 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-15T12:52:31+00:00",
+  "generated_at": "2026-10-15T18:48:10+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
   "records": 3,
   "items": [
-    {
-      "id": "DW_20261015_003000_Arts_Unveiled",
-      "title": "the welcome to the special edition of bell and briefing your weekly video pub, comfortable things, european debates about security.",
-      "source": "DW",
-      "date": "2026-10-15T00:00:00Z",
-      "image_url": "https://archive.org/services/img/DW_20261015_003000_Arts_Unveiled/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/DW_20261015_003000_Arts_Unveiled",
-      "description_zh": "画面候选标签：a news studio、a speech、a protest、text on screen、soccer、a flag、抗议活动、an explosion、新闻演播室、屏幕文字、a sports match、flooding",
-      "description_en": "Visual candidate labels: a news studio, a speech, a protest, text on screen, soccer, a flag, 抗议活动, an explosion, 新闻演播室, 屏幕文字, a sports match, flooding",
-      "keywords": "a news studio,a speech,a protest,text on screen,soccer,a flag,抗议活动,an explosion,新闻演播室,屏幕文字,a sports match,flooding,police,a map,演讲,a river,running,人,a ship,an animal",
-      "visual_labels": [
-        {
-          "label": "a news studio",
-          "score": 0.4038
-        },
-        {
-          "label": "a speech",
-          "score": 0.3941
-        },
-        {
-          "label": "a protest",
-          "score": 0.3909
-        },
-        {
-          "label": "text on screen",
-          "score": 0.3681
-        },
-        {
-          "label": "soccer",
-          "score": 0.3661
-        },
-        {
-          "label": "a flag",
-          "score": 0.3625
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3586
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3585
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.3556
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3533
-        },
-        {
-          "label": "a sports match",
-          "score": 0.3522
-        },
-        {
-          "label": "flooding",
-          "score": 0.349
-        },
-        {
-          "label": "police",
-          "score": 0.3485
-        },
-        {
-          "label": "a map",
-          "score": 0.3481
-        },
-        {
-          "label": "演讲",
-          "score": 0.348
-        },
-        {
-          "label": "a river",
-          "score": 0.3456
-        },
-        {
-          "label": "running",
-          "score": 0.3426
-        },
-        {
-          "label": "人",
-          "score": 0.3403
-        },
-        {
-          "label": "a ship",
-          "score": 0.3402
-        },
-        {
-          "label": "an animal",
-          "score": 0.3397
-        }
-      ]
-    },
     {
       "id": "DW_20261015_030000_DW_News",
       "title": "ukraine says eli and musk space ex has without warning, imposed new restrictions on military grade start link satellite terminals.",
@@ -280,6 +187,99 @@
         {
           "label": "a speech",
           "score": 0.3536
+        }
+      ]
+    },
+    {
+      "id": "CBCNEWS_20261015_020000_Live_The_National",
+      "title": "CBC News｜Live: The National",
+      "source": "CBCNEWS",
+      "date": "2026-10-15T00:00:00Z",
+      "image_url": "https://archive.org/services/img/CBCNEWS_20261015_020000_Live_The_National/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/CBCNEWS_20261015_020000_Live_The_National",
+      "description_zh": "画面候选标签：a news studio、text on screen、新闻演播室、a building、a protest、屏幕文字、a crowd、抗议活动、an explosion、a speech、a map、a city street",
+      "description_en": "Visual candidate labels: a news studio, text on screen, 新闻演播室, a building, a protest, 屏幕文字, a crowd, 抗议活动, an explosion, a speech, a map, a city street",
+      "keywords": "a news studio,text on screen,新闻演播室,a building,a protest,屏幕文字,a crowd,抗议活动,an explosion,a speech,a map,a city street,the countryside,flooding,a flag,smoke,fire,a road,a river,a sports match",
+      "visual_labels": [
+        {
+          "label": "a news studio",
+          "score": 0.4246
+        },
+        {
+          "label": "text on screen",
+          "score": 0.4053
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3883
+        },
+        {
+          "label": "a building",
+          "score": 0.3721
+        },
+        {
+          "label": "a protest",
+          "score": 0.3647
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3622
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3601
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3574
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3559
+        },
+        {
+          "label": "a speech",
+          "score": 0.352
+        },
+        {
+          "label": "a map",
+          "score": 0.3503
+        },
+        {
+          "label": "a city street",
+          "score": 0.3487
+        },
+        {
+          "label": "the countryside",
+          "score": 0.3483
+        },
+        {
+          "label": "flooding",
+          "score": 0.3471
+        },
+        {
+          "label": "a flag",
+          "score": 0.3467
+        },
+        {
+          "label": "smoke",
+          "score": 0.3459
+        },
+        {
+          "label": "fire",
+          "score": 0.3446
+        },
+        {
+          "label": "a road",
+          "score": 0.3439
+        },
+        {
+          "label": "a river",
+          "score": 0.3426
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3406
         }
       ]
     }
