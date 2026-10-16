@@ -23751,11 +23751,41 @@
         }
       },
       "timeline_points": 5
+    },
+    {
+      "id": "2026-10-16T09-32-06+00-00",
+      "generated_at": "2026-10-16T09:32:06+00:00",
+      "current_day": "2026-10-16",
+      "file": "archive/2026-10-16T09-32-06+00-00.json",
+      "datasets": {
+        "events": {
+          "records": 967,
+          "time_points": 5,
+          "date_start": "20251016",
+          "date_end": "20261016",
+          "current_records": 947
+        },
+        "gkg": {
+          "records": 909,
+          "time_points": 1,
+          "date_start": "20261016",
+          "date_end": "20261016",
+          "current_records": 909
+        },
+        "mentions": {
+          "records": 2171,
+          "time_points": 1,
+          "date_start": "20261016",
+          "date_end": "20261016",
+          "current_records": 2171
+        }
+      },
+      "timeline_points": 5
     }
   ],
   "totals": {
-    "events": 814167,
-    "gkg": 760793,
-    "mentions": 2277526
+    "events": 815134,
+    "gkg": 761702,
+    "mentions": 2279697
   }
 }
