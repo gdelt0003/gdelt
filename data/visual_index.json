@@ -1,195 +1,9 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-16T06:50:43+00:00",
+  "generated_at": "2026-10-16T12:51:04+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
   "records": 3,
   "items": [
-    {
-      "id": "BBCNEWS_20261016_020000_Newsday",
-      "title": "president trump trump condemns renewed ukrainian ukrainian attacks on russia's energy energy infrastructure as he lashes lashes out at ukraine's president president zelensky amid a…",
-      "source": "BBCNEWS",
-      "date": "2026-10-16T00:00:00Z",
-      "image_url": "https://archive.org/services/img/BBCNEWS_20261016_020000_Newsday/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/BBCNEWS_20261016_020000_Newsday",
-      "description_zh": "画面候选标签：a news studio、a building、新闻演播室、a city street、text on screen、an explosion、城市街道、fire、police、建筑物、a protest、烟雾",
-      "description_en": "Visual candidate labels: a news studio, a building, 新闻演播室, a city street, text on screen, an explosion, 城市街道, fire, police, 建筑物, a protest, 烟雾",
-      "keywords": "a news studio,a building,新闻演播室,a city street,text on screen,an explosion,城市街道,fire,police,建筑物,a protest,烟雾,爆炸,抗议活动,屏幕文字,a road,a speech,a map,basketball,a crowd",
-      "visual_labels": [
-        {
-          "label": "a news studio",
-          "score": 0.4823
-        },
-        {
-          "label": "a building",
-          "score": 0.4244
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.4177
-        },
-        {
-          "label": "a city street",
-          "score": 0.3867
-        },
-        {
-          "label": "text on screen",
-          "score": 0.383
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3824
-        },
-        {
-          "label": "城市街道",
-          "score": 0.3719
-        },
-        {
-          "label": "fire",
-          "score": 0.3701
-        },
-        {
-          "label": "police",
-          "score": 0.368
-        },
-        {
-          "label": "建筑物",
-          "score": 0.3672
-        },
-        {
-          "label": "a protest",
-          "score": 0.3628
-        },
-        {
-          "label": "烟雾",
-          "score": 0.3624
-        },
-        {
-          "label": "爆炸",
-          "score": 0.3615
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3577
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3575
-        },
-        {
-          "label": "a road",
-          "score": 0.3525
-        },
-        {
-          "label": "a speech",
-          "score": 0.3476
-        },
-        {
-          "label": "a map",
-          "score": 0.3462
-        },
-        {
-          "label": "basketball",
-          "score": 0.3455
-        },
-        {
-          "label": "a crowd",
-          "score": 0.3454
-        }
-      ]
-    },
-    {
-      "id": "BBCNEWS_20261016_033000_Business_Today",
-      "title": "poland poland is warning europe against against a return to russian energy, energy, saying it's a past dependence dependence helped strengthen moscow moscow and contribute to the w…",
-      "source": "BBCNEWS",
-      "date": "2026-10-16T00:00:00Z",
-      "image_url": "https://archive.org/services/img/BBCNEWS_20261016_033000_Business_Today/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/BBCNEWS_20261016_033000_Business_Today",
-      "description_zh": "画面候选标签：a news studio、新闻演播室、a building、a speech、text on screen、an explosion、屏幕文字、a crowd、a protest、an animal、a car、an airplane",
-      "description_en": "Visual candidate labels: a news studio, 新闻演播室, a building, a speech, text on screen, an explosion, 屏幕文字, a crowd, a protest, an animal, a car, an airplane",
-      "keywords": "a news studio,新闻演播室,a building,a speech,text on screen,an explosion,屏幕文字,a crowd,a protest,an animal,a car,an airplane,fire,basketball,a city street,a river,police,抗议活动,a road,a truck",
-      "visual_labels": [
-        {
-          "label": "a news studio",
-          "score": 0.4863
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.4038
-        },
-        {
-          "label": "a building",
-          "score": 0.3913
-        },
-        {
-          "label": "a speech",
-          "score": 0.3894
-        },
-        {
-          "label": "text on screen",
-          "score": 0.387
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3862
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3725
-        },
-        {
-          "label": "a crowd",
-          "score": 0.3675
-        },
-        {
-          "label": "a protest",
-          "score": 0.3666
-        },
-        {
-          "label": "an animal",
-          "score": 0.3656
-        },
-        {
-          "label": "a car",
-          "score": 0.3654
-        },
-        {
-          "label": "an airplane",
-          "score": 0.3652
-        },
-        {
-          "label": "fire",
-          "score": 0.3635
-        },
-        {
-          "label": "basketball",
-          "score": 0.3629
-        },
-        {
-          "label": "a city street",
-          "score": 0.3581
-        },
-        {
-          "label": "a river",
-          "score": 0.3578
-        },
-        {
-          "label": "police",
-          "score": 0.3573
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3572
-        },
-        {
-          "label": "a road",
-          "score": 0.3569
-        },
-        {
-          "label": "a truck",
-          "score": 0.3558
-        }
-      ]
-    },
     {
       "id": "BBCNEWS_20261016_000000_BBC_News",
       "title": "the houthis in yemen attack attack the presidential palace in in the port city of aden, killing killing at least two people and the the duke and duchess of sussex make make their f…",
@@ -280,6 +94,192 @@
         {
           "label": "a map",
           "score": 0.3484
+        }
+      ]
+    },
+    {
+      "id": "DW_20261016_070200_DW_News_Focus",
+      "title": "it's been a front line city for years, but recently the who with these managed to stop access to the city, it's pure basic food supplies could run out completely within weeks.",
+      "source": "DW",
+      "date": "2026-10-16T00:00:00Z",
+      "image_url": "https://archive.org/services/img/DW_20261016_070200_DW_News_Focus/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261016_070200_DW_News_Focus",
+      "description_zh": "画面候选标签：a news studio、text on screen、a truck、新闻演播室、屏幕文字、a protest、抗议活动、a ship、a train、a building、a flag、flooding",
+      "description_en": "Visual candidate labels: a news studio, text on screen, a truck, 新闻演播室, 屏幕文字, a protest, 抗议活动, a ship, a train, a building, a flag, flooding",
+      "keywords": "a news studio,text on screen,a truck,新闻演播室,屏幕文字,a protest,抗议活动,a ship,a train,a building,a flag,flooding,an airplane,a map,a river,a mountain,an explosion,a car,basketball,an animal",
+      "visual_labels": [
+        {
+          "label": "a news studio",
+          "score": 0.4089
+        },
+        {
+          "label": "text on screen",
+          "score": 0.4066
+        },
+        {
+          "label": "a truck",
+          "score": 0.3657
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3639
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3613
+        },
+        {
+          "label": "a protest",
+          "score": 0.3611
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.358
+        },
+        {
+          "label": "a ship",
+          "score": 0.3579
+        },
+        {
+          "label": "a train",
+          "score": 0.3531
+        },
+        {
+          "label": "a building",
+          "score": 0.3516
+        },
+        {
+          "label": "a flag",
+          "score": 0.3503
+        },
+        {
+          "label": "flooding",
+          "score": 0.3483
+        },
+        {
+          "label": "an airplane",
+          "score": 0.3477
+        },
+        {
+          "label": "a map",
+          "score": 0.3456
+        },
+        {
+          "label": "a river",
+          "score": 0.3402
+        },
+        {
+          "label": "a mountain",
+          "score": 0.3393
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3386
+        },
+        {
+          "label": "a car",
+          "score": 0.3372
+        },
+        {
+          "label": "basketball",
+          "score": 0.3368
+        },
+        {
+          "label": "an animal",
+          "score": 0.3346
+        }
+      ]
+    },
+    {
+      "id": "DW_20261016_031500_The_77_Percent",
+      "title": "if someone has been the to the ones who can get someone to do just crazy survival becomes the question of what you can take and who you can trust.",
+      "source": "DW",
+      "date": "2026-10-16T00:00:00Z",
+      "image_url": "https://archive.org/services/img/DW_20261016_031500_The_77_Percent/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261016_031500_The_77_Percent",
+      "description_zh": "画面候选标签：a speech、text on screen、a protest、a news studio、an explosion、演讲、抗议活动、fire、a flag、屏幕文字、smoke、soccer",
+      "description_en": "Visual candidate labels: a speech, text on screen, a protest, a news studio, an explosion, 演讲, 抗议活动, fire, a flag, 屏幕文字, smoke, soccer",
+      "keywords": "a speech,text on screen,a protest,a news studio,an explosion,演讲,抗议活动,fire,a flag,屏幕文字,smoke,soccer,flooding,a car,a map,a river,a crowd,a building,running,police",
+      "visual_labels": [
+        {
+          "label": "a speech",
+          "score": 0.4132
+        },
+        {
+          "label": "text on screen",
+          "score": 0.4029
+        },
+        {
+          "label": "a protest",
+          "score": 0.3971
+        },
+        {
+          "label": "a news studio",
+          "score": 0.3892
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3805
+        },
+        {
+          "label": "演讲",
+          "score": 0.3729
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3707
+        },
+        {
+          "label": "fire",
+          "score": 0.3701
+        },
+        {
+          "label": "a flag",
+          "score": 0.3664
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3647
+        },
+        {
+          "label": "smoke",
+          "score": 0.3611
+        },
+        {
+          "label": "soccer",
+          "score": 0.3608
+        },
+        {
+          "label": "flooding",
+          "score": 0.3596
+        },
+        {
+          "label": "a car",
+          "score": 0.3585
+        },
+        {
+          "label": "a map",
+          "score": 0.3582
+        },
+        {
+          "label": "a river",
+          "score": 0.3551
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3547
+        },
+        {
+          "label": "a building",
+          "score": 0.3542
+        },
+        {
+          "label": "running",
+          "score": 0.3536
+        },
+        {
+          "label": "police",
+          "score": 0.3531
         }
       ]
     }
