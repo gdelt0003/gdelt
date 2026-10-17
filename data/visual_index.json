@@ -1,7 +1,287 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-17T00:51:21+00:00",
+  "generated_at": "2026-10-17T06:46:13+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
-  "records": 0,
-  "items": []
+  "records": 3,
+  "items": [
+    {
+      "id": "DW_20261017_040000_DW_News",
+      "title": "it's the latch to have happened during the annual all of harvest, and the palestinian village of apple fella, surplus road stones using sling shouts instead, olive groves and car i…",
+      "source": "DW",
+      "date": "2026-10-17T00:00:00Z",
+      "image_url": "https://archive.org/services/img/DW_20261017_040000_DW_News/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261017_040000_DW_News",
+      "description_zh": "画面候选标签：running、a road、a city street、the countryside、text on screen、a map、奔跑、fire、道路、flooding、police、乡村",
+      "description_en": "Visual candidate labels: running, a road, a city street, the countryside, text on screen, a map, 奔跑, fire, 道路, flooding, police, 乡村",
+      "keywords": "running,a road,a city street,the countryside,text on screen,a map,奔跑,fire,道路,flooding,police,乡村,basketball,抗议活动,城市街道,屏幕文字,a news studio,an animal,树林,a car",
+      "visual_labels": [
+        {
+          "label": "running",
+          "score": 0.4172
+        },
+        {
+          "label": "a road",
+          "score": 0.4032
+        },
+        {
+          "label": "a city street",
+          "score": 0.379
+        },
+        {
+          "label": "the countryside",
+          "score": 0.3726
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3723
+        },
+        {
+          "label": "a map",
+          "score": 0.3685
+        },
+        {
+          "label": "奔跑",
+          "score": 0.3624
+        },
+        {
+          "label": "fire",
+          "score": 0.3622
+        },
+        {
+          "label": "道路",
+          "score": 0.362
+        },
+        {
+          "label": "flooding",
+          "score": 0.3577
+        },
+        {
+          "label": "police",
+          "score": 0.3571
+        },
+        {
+          "label": "乡村",
+          "score": 0.3564
+        },
+        {
+          "label": "basketball",
+          "score": 0.3549
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3535
+        },
+        {
+          "label": "城市街道",
+          "score": 0.3514
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3493
+        },
+        {
+          "label": "a news studio",
+          "score": 0.3458
+        },
+        {
+          "label": "an animal",
+          "score": 0.3457
+        },
+        {
+          "label": "树林",
+          "score": 0.3455
+        },
+        {
+          "label": "a car",
+          "score": 0.3445
+        }
+      ]
+    },
+    {
+      "id": "ALJAZ_20261017_020000",
+      "title": "europe's real leader says his relationship with donald trump deteriorate white house press secretary, katy zachariah, leaves her jobs just 5 days into the roll.",
+      "source": "ALJAZ",
+      "date": "2026-10-17T00:00:00Z",
+      "image_url": "https://archive.org/services/img/ALJAZ_20261017_020000/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/ALJAZ_20261017_020000",
+      "description_zh": "画面候选标签：a mountain、an explosion、fire、爆炸、山、火灾、smoke、屏幕文字、a map、an airplane、动物、text on screen",
+      "description_en": "Visual candidate labels: a mountain, an explosion, fire, 爆炸, 山, 火灾, smoke, 屏幕文字, a map, an airplane, 动物, text on screen",
+      "keywords": "a mountain,an explosion,fire,爆炸,山,火灾,smoke,屏幕文字,a map,an airplane,动物,text on screen,旗帜,新闻演播室,烟雾,人群,an animal,a beach,道路,奔跑",
+      "visual_labels": [
+        {
+          "label": "a mountain",
+          "score": 0.3923
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3799
+        },
+        {
+          "label": "fire",
+          "score": 0.3568
+        },
+        {
+          "label": "爆炸",
+          "score": 0.3539
+        },
+        {
+          "label": "山",
+          "score": 0.3508
+        },
+        {
+          "label": "火灾",
+          "score": 0.3404
+        },
+        {
+          "label": "smoke",
+          "score": 0.3404
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3352
+        },
+        {
+          "label": "a map",
+          "score": 0.3348
+        },
+        {
+          "label": "an airplane",
+          "score": 0.3332
+        },
+        {
+          "label": "动物",
+          "score": 0.3316
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3314
+        },
+        {
+          "label": "旗帜",
+          "score": 0.329
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.328
+        },
+        {
+          "label": "烟雾",
+          "score": 0.3273
+        },
+        {
+          "label": "人群",
+          "score": 0.3266
+        },
+        {
+          "label": "an animal",
+          "score": 0.3253
+        },
+        {
+          "label": "a beach",
+          "score": 0.3244
+        },
+        {
+          "label": "道路",
+          "score": 0.3243
+        },
+        {
+          "label": "奔跑",
+          "score": 0.3241
+        }
+      ]
+    },
+    {
+      "id": "RT_20261017_010000_America_Now",
+      "title": "i don't want that war is 1st, donald trump says he wants the war and ukraine to end, but the public risk between him and vladimir zalinski continues to grow.",
+      "source": "RT",
+      "date": "2026-10-17T00:00:00Z",
+      "image_url": "https://archive.org/services/img/RT_20261017_010000_America_Now/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/RT_20261017_010000_America_Now",
+      "description_zh": "画面候选标签：a speech、a news studio、fire、an explosion、smoke、a protest、人、演讲、an animal、a flag、抗议活动、text on screen",
+      "description_en": "Visual candidate labels: a speech, a news studio, fire, an explosion, smoke, a protest, 人, 演讲, an animal, a flag, 抗议活动, text on screen",
+      "keywords": "a speech,a news studio,fire,an explosion,smoke,a protest,人,演讲,an animal,a flag,抗议活动,text on screen,a building,屏幕文字,新闻演播室,a train,人群,an airplane,烟雾,police",
+      "visual_labels": [
+        {
+          "label": "a speech",
+          "score": 0.3898
+        },
+        {
+          "label": "a news studio",
+          "score": 0.388
+        },
+        {
+          "label": "fire",
+          "score": 0.3687
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3682
+        },
+        {
+          "label": "smoke",
+          "score": 0.3681
+        },
+        {
+          "label": "a protest",
+          "score": 0.3677
+        },
+        {
+          "label": "人",
+          "score": 0.3585
+        },
+        {
+          "label": "演讲",
+          "score": 0.3486
+        },
+        {
+          "label": "an animal",
+          "score": 0.3444
+        },
+        {
+          "label": "a flag",
+          "score": 0.3444
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3441
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3429
+        },
+        {
+          "label": "a building",
+          "score": 0.3364
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3359
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3331
+        },
+        {
+          "label": "a train",
+          "score": 0.331
+        },
+        {
+          "label": "人群",
+          "score": 0.3297
+        },
+        {
+          "label": "an airplane",
+          "score": 0.3273
+        },
+        {
+          "label": "烟雾",
+          "score": 0.3257
+        },
+        {
+          "label": "police",
+          "score": 0.3257
+        }
+      ]
+    }
+  ]
 }
