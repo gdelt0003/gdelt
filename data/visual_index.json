@@ -1,99 +1,99 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-18T00:51:01+00:00",
+  "generated_at": "2026-10-18T06:45:26+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
   "records": 1,
   "items": [
     {
-      "id": "DW_20261018_000000_DW_News",
-      "title": "tens of thousands of trade unionists, sen, remnants of the yellow best movement joined them on saturday to protest against the cost of living crisis, french presidency monument.",
-      "source": "DW",
+      "id": "BBCNEWS_20261018_003000_The_Security_Brief_LIVE",
+      "title": "now on bbc bbc news, special guests and a studio studio audience join christian fraser fraser and mikey kay for the security security brief.",
+      "source": "BBCNEWS",
       "date": "2026-10-18T00:00:00Z",
-      "image_url": "https://archive.org/services/img/DW_20261018_000000_DW_News/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/DW_20261018_000000_DW_News",
-      "description_zh": "画面候选标签：a news studio、text on screen、新闻演播室、a speech、抗议活动、屏幕文字、演讲、fire、basketball、a flag、a protest、旗帜",
-      "description_en": "Visual candidate labels: a news studio, text on screen, 新闻演播室, a speech, 抗议活动, 屏幕文字, 演讲, fire, basketball, a flag, a protest, 旗帜",
-      "keywords": "a news studio,text on screen,新闻演播室,a speech,抗议活动,屏幕文字,演讲,fire,basketball,a flag,a protest,旗帜,flooding,a ship,running,a sports match,an explosion,a crowd,人,a map",
+      "image_url": "https://archive.org/services/img/BBCNEWS_20261018_003000_The_Security_Brief_LIVE/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/BBCNEWS_20261018_003000_The_Security_Brief_LIVE",
+      "description_zh": "画面候选标签：a news studio、a protest、an explosion、text on screen、新闻演播室、flooding、a flag、抗议活动、a building、police、a speech、fire",
+      "description_en": "Visual candidate labels: a news studio, a protest, an explosion, text on screen, 新闻演播室, flooding, a flag, 抗议活动, a building, police, a speech, fire",
+      "keywords": "a news studio,a protest,an explosion,text on screen,新闻演播室,flooding,a flag,抗议活动,a building,police,a speech,fire,a crowd,military,an animal,a road,屏幕文字,a river,a forest,a car",
       "visual_labels": [
         {
           "label": "a news studio",
-          "score": 0.3824
-        },
-        {
-          "label": "text on screen",
-          "score": 0.382
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.3694
-        },
-        {
-          "label": "a speech",
-          "score": 0.3651
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3573
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3531
-        },
-        {
-          "label": "演讲",
-          "score": 0.3509
-        },
-        {
-          "label": "fire",
-          "score": 0.3495
-        },
-        {
-          "label": "basketball",
-          "score": 0.3475
-        },
-        {
-          "label": "a flag",
-          "score": 0.3445
+          "score": 0.487
         },
         {
           "label": "a protest",
-          "score": 0.3435
-        },
-        {
-          "label": "旗帜",
-          "score": 0.3411
-        },
-        {
-          "label": "flooding",
-          "score": 0.3398
-        },
-        {
-          "label": "a ship",
-          "score": 0.3394
-        },
-        {
-          "label": "running",
-          "score": 0.3355
-        },
-        {
-          "label": "a sports match",
-          "score": 0.3353
+          "score": 0.4231
         },
         {
           "label": "an explosion",
-          "score": 0.3346
+          "score": 0.4115
+        },
+        {
+          "label": "text on screen",
+          "score": 0.4073
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3988
+        },
+        {
+          "label": "flooding",
+          "score": 0.3929
+        },
+        {
+          "label": "a flag",
+          "score": 0.3925
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.389
+        },
+        {
+          "label": "a building",
+          "score": 0.3769
+        },
+        {
+          "label": "police",
+          "score": 0.3751
+        },
+        {
+          "label": "a speech",
+          "score": 0.3749
+        },
+        {
+          "label": "fire",
+          "score": 0.3744
         },
         {
           "label": "a crowd",
-          "score": 0.3344
+          "score": 0.3709
         },
         {
-          "label": "人",
-          "score": 0.3307
+          "label": "military",
+          "score": 0.3685
         },
         {
-          "label": "a map",
-          "score": 0.3268
+          "label": "an animal",
+          "score": 0.3655
+        },
+        {
+          "label": "a road",
+          "score": 0.3654
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3652
+        },
+        {
+          "label": "a river",
+          "score": 0.3645
+        },
+        {
+          "label": "a forest",
+          "score": 0.3602
+        },
+        {
+          "label": "a car",
+          "score": 0.3575
         }
       ]
     }
