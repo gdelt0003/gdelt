@@ -1,285 +1,99 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-17T18:38:42+00:00",
+  "generated_at": "2026-10-18T00:51:01+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
-  "records": 3,
+  "records": 1,
   "items": [
     {
-      "id": "BBCNEWS_20261017_053000_AI_Decoded",
-      "title": "dozens of masked settlers settlers have attacked palestinians palestinians and set fire to cars cars and olive trees in the occupied occupied west bank during the crucial crucial o…",
-      "source": "BBCNEWS",
-      "date": "2026-10-17T00:00:00Z",
-      "image_url": "https://archive.org/services/img/BBCNEWS_20261017_053000_AI_Decoded/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/BBCNEWS_20261017_053000_AI_Decoded",
-      "description_zh": "画面候选标签：a news studio、text on screen、an explosion、a speech、an animal、a flag、a protest、a crowd、屏幕文字、a road、a building、新闻演播室",
-      "description_en": "Visual candidate labels: a news studio, text on screen, an explosion, a speech, an animal, a flag, a protest, a crowd, 屏幕文字, a road, a building, 新闻演播室",
-      "keywords": "a news studio,text on screen,an explosion,a speech,an animal,a flag,a protest,a crowd,屏幕文字,a road,a building,新闻演播室,a forest,flooding,fire,a sports match,a river,basketball,a beach,抗议活动",
+      "id": "DW_20261018_000000_DW_News",
+      "title": "tens of thousands of trade unionists, sen, remnants of the yellow best movement joined them on saturday to protest against the cost of living crisis, french presidency monument.",
+      "source": "DW",
+      "date": "2026-10-18T00:00:00Z",
+      "image_url": "https://archive.org/services/img/DW_20261018_000000_DW_News/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261018_000000_DW_News",
+      "description_zh": "画面候选标签：a news studio、text on screen、新闻演播室、a speech、抗议活动、屏幕文字、演讲、fire、basketball、a flag、a protest、旗帜",
+      "description_en": "Visual candidate labels: a news studio, text on screen, 新闻演播室, a speech, 抗议活动, 屏幕文字, 演讲, fire, basketball, a flag, a protest, 旗帜",
+      "keywords": "a news studio,text on screen,新闻演播室,a speech,抗议活动,屏幕文字,演讲,fire,basketball,a flag,a protest,旗帜,flooding,a ship,running,a sports match,an explosion,a crowd,人,a map",
       "visual_labels": [
         {
           "label": "a news studio",
-          "score": 0.4668
+          "score": 0.3824
         },
         {
           "label": "text on screen",
-          "score": 0.4269
-        },
-        {
-          "label": "an explosion",
-          "score": 0.4203
-        },
-        {
-          "label": "a speech",
-          "score": 0.4079
-        },
-        {
-          "label": "an animal",
-          "score": 0.396
-        },
-        {
-          "label": "a flag",
-          "score": 0.3951
-        },
-        {
-          "label": "a protest",
-          "score": 0.3949
-        },
-        {
-          "label": "a crowd",
-          "score": 0.3864
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3841
-        },
-        {
-          "label": "a road",
-          "score": 0.3838
-        },
-        {
-          "label": "a building",
-          "score": 0.3821
+          "score": 0.382
         },
         {
           "label": "新闻演播室",
-          "score": 0.3811
+          "score": 0.3694
         },
         {
-          "label": "a forest",
-          "score": 0.3769
-        },
-        {
-          "label": "flooding",
-          "score": 0.3755
-        },
-        {
-          "label": "fire",
-          "score": 0.3735
-        },
-        {
-          "label": "a sports match",
-          "score": 0.3713
-        },
-        {
-          "label": "a river",
-          "score": 0.3704
-        },
-        {
-          "label": "basketball",
-          "score": 0.3646
-        },
-        {
-          "label": "a beach",
-          "score": 0.3636
+          "label": "a speech",
+          "score": 0.3651
         },
         {
           "label": "抗议活动",
-          "score": 0.3632
-        }
-      ]
-    },
-    {
-      "id": "ALJAZ_20261017_020000",
-      "title": "europe's real leader says his relationship with donald trump deteriorate white house press secretary, katy zachariah, leaves her jobs just 5 days into the roll.",
-      "source": "ALJAZ",
-      "date": "2026-10-17T00:00:00Z",
-      "image_url": "https://archive.org/services/img/ALJAZ_20261017_020000/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/ALJAZ_20261017_020000",
-      "description_zh": "画面候选标签：a mountain、an explosion、fire、爆炸、山、火灾、smoke、屏幕文字、a map、an airplane、动物、text on screen",
-      "description_en": "Visual candidate labels: a mountain, an explosion, fire, 爆炸, 山, 火灾, smoke, 屏幕文字, a map, an airplane, 动物, text on screen",
-      "keywords": "a mountain,an explosion,fire,爆炸,山,火灾,smoke,屏幕文字,a map,an airplane,动物,text on screen,旗帜,新闻演播室,烟雾,人群,an animal,a beach,道路,奔跑",
-      "visual_labels": [
-        {
-          "label": "a mountain",
-          "score": 0.3923
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3799
-        },
-        {
-          "label": "fire",
-          "score": 0.3568
-        },
-        {
-          "label": "爆炸",
-          "score": 0.3539
-        },
-        {
-          "label": "山",
-          "score": 0.3508
-        },
-        {
-          "label": "火灾",
-          "score": 0.3404
-        },
-        {
-          "label": "smoke",
-          "score": 0.3404
+          "score": 0.3573
         },
         {
           "label": "屏幕文字",
-          "score": 0.3352
-        },
-        {
-          "label": "a map",
-          "score": 0.3348
-        },
-        {
-          "label": "an airplane",
-          "score": 0.3332
-        },
-        {
-          "label": "动物",
-          "score": 0.3316
-        },
-        {
-          "label": "text on screen",
-          "score": 0.3314
-        },
-        {
-          "label": "旗帜",
-          "score": 0.329
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.328
-        },
-        {
-          "label": "烟雾",
-          "score": 0.3273
-        },
-        {
-          "label": "人群",
-          "score": 0.3266
-        },
-        {
-          "label": "an animal",
-          "score": 0.3253
-        },
-        {
-          "label": "a beach",
-          "score": 0.3244
-        },
-        {
-          "label": "道路",
-          "score": 0.3243
-        },
-        {
-          "label": "奔跑",
-          "score": 0.3241
-        }
-      ]
-    },
-    {
-      "id": "RT_20261017_010000_America_Now",
-      "title": "i don't want that war is 1st, donald trump says he wants the war and ukraine to end, but the public risk between him and vladimir zalinski continues to grow.",
-      "source": "RT",
-      "date": "2026-10-17T00:00:00Z",
-      "image_url": "https://archive.org/services/img/RT_20261017_010000_America_Now/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/RT_20261017_010000_America_Now",
-      "description_zh": "画面候选标签：a speech、a news studio、fire、an explosion、smoke、a protest、人、演讲、an animal、a flag、抗议活动、text on screen",
-      "description_en": "Visual candidate labels: a speech, a news studio, fire, an explosion, smoke, a protest, 人, 演讲, an animal, a flag, 抗议活动, text on screen",
-      "keywords": "a speech,a news studio,fire,an explosion,smoke,a protest,人,演讲,an animal,a flag,抗议活动,text on screen,a building,屏幕文字,新闻演播室,a train,人群,an airplane,烟雾,police",
-      "visual_labels": [
-        {
-          "label": "a speech",
-          "score": 0.3898
-        },
-        {
-          "label": "a news studio",
-          "score": 0.388
-        },
-        {
-          "label": "fire",
-          "score": 0.3687
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3682
-        },
-        {
-          "label": "smoke",
-          "score": 0.3681
-        },
-        {
-          "label": "a protest",
-          "score": 0.3677
-        },
-        {
-          "label": "人",
-          "score": 0.3585
+          "score": 0.3531
         },
         {
           "label": "演讲",
-          "score": 0.3486
+          "score": 0.3509
         },
         {
-          "label": "an animal",
-          "score": 0.3444
+          "label": "fire",
+          "score": 0.3495
+        },
+        {
+          "label": "basketball",
+          "score": 0.3475
         },
         {
           "label": "a flag",
-          "score": 0.3444
+          "score": 0.3445
         },
         {
-          "label": "抗议活动",
-          "score": 0.3441
+          "label": "a protest",
+          "score": 0.3435
         },
         {
-          "label": "text on screen",
-          "score": 0.3429
+          "label": "旗帜",
+          "score": 0.3411
         },
         {
-          "label": "a building",
-          "score": 0.3364
+          "label": "flooding",
+          "score": 0.3398
         },
         {
-          "label": "屏幕文字",
-          "score": 0.3359
+          "label": "a ship",
+          "score": 0.3394
         },
         {
-          "label": "新闻演播室",
-          "score": 0.3331
+          "label": "running",
+          "score": 0.3355
         },
         {
-          "label": "a train",
-          "score": 0.331
+          "label": "a sports match",
+          "score": 0.3353
         },
         {
-          "label": "人群",
-          "score": 0.3297
+          "label": "an explosion",
+          "score": 0.3346
         },
         {
-          "label": "an airplane",
-          "score": 0.3273
+          "label": "a crowd",
+          "score": 0.3344
         },
         {
-          "label": "烟雾",
-          "score": 0.3257
+          "label": "人",
+          "score": 0.3307
         },
         {
-          "label": "police",
-          "score": 0.3257
+          "label": "a map",
+          "score": 0.3268
         }
       ]
     }
