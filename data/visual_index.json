@@ -1,285 +1,99 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-18T18:39:18+00:00",
+  "generated_at": "2026-10-19T00:52:23+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
-  "records": 3,
+  "records": 1,
   "items": [
     {
-      "id": "CSPAN3_20261018_090300_C-SPAN_Midterm_Debate_Marathon",
-      "title": "and now iowa gubernatorial candidates zach lane and rob sand debate topics that include data center policy, state sponsored school lunch programs, tax policy and other topics.",
-      "source": "CSPAN3",
-      "date": "2026-10-18T00:00:00Z",
-      "image_url": "https://archive.org/services/img/CSPAN3_20261018_090300_C-SPAN_Midterm_Debate_Marathon/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/CSPAN3_20261018_090300_C-SPAN_Midterm_Debate_Marathon",
-      "description_zh": "画面候选标签：a news studio、a protest、新闻演播室、an explosion、text on screen、military、抗议活动、police、a speech、a map、屏幕文字、smoke",
-      "description_en": "Visual candidate labels: a news studio, a protest, 新闻演播室, an explosion, text on screen, military, 抗议活动, police, a speech, a map, 屏幕文字, smoke",
-      "keywords": "a news studio,a protest,新闻演播室,an explosion,text on screen,military,抗议活动,police,a speech,a map,屏幕文字,smoke,a flag,a sports match,演讲,an animal,the countryside,a river,烟雾,警察",
-      "visual_labels": [
-        {
-          "label": "a news studio",
-          "score": 0.4257
-        },
-        {
-          "label": "a protest",
-          "score": 0.4174
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.4152
-        },
-        {
-          "label": "an explosion",
-          "score": 0.4006
-        },
-        {
-          "label": "text on screen",
-          "score": 0.3958
-        },
-        {
-          "label": "military",
-          "score": 0.3907
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3732
-        },
-        {
-          "label": "police",
-          "score": 0.369
-        },
-        {
-          "label": "a speech",
-          "score": 0.3677
-        },
-        {
-          "label": "a map",
-          "score": 0.3649
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3548
-        },
-        {
-          "label": "smoke",
-          "score": 0.3536
-        },
-        {
-          "label": "a flag",
-          "score": 0.3534
-        },
-        {
-          "label": "a sports match",
-          "score": 0.3509
-        },
-        {
-          "label": "演讲",
-          "score": 0.3365
-        },
-        {
-          "label": "an animal",
-          "score": 0.3357
-        },
-        {
-          "label": "the countryside",
-          "score": 0.3336
-        },
-        {
-          "label": "a river",
-          "score": 0.3332
-        },
-        {
-          "label": "烟雾",
-          "score": 0.3329
-        },
-        {
-          "label": "警察",
-          "score": 0.3323
-        }
-      ]
-    },
-    {
-      "id": "KGO_20261018_060000_ABC7_Eyewitness_News_1100PM",
-      "title": "it's a miracle that no one was seriously hurt or worse, killed after a small prop plane went down in the middle of a busy intersection",
-      "source": "KGO",
-      "date": "2026-10-18T00:00:00Z",
-      "image_url": "https://archive.org/services/img/KGO_20261018_060000_ABC7_Eyewitness_News_1100PM/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/KGO_20261018_060000_ABC7_Eyewitness_News_1100PM",
-      "description_zh": "画面候选标签：新闻演播室、a news studio、text on screen、a protest、a speech、a river、a building、屏幕文字、a crowd、an explosion、a sports match、a map",
-      "description_en": "Visual candidate labels: 新闻演播室, a news studio, text on screen, a protest, a speech, a river, a building, 屏幕文字, a crowd, an explosion, a sports match, a map",
-      "keywords": "新闻演播室,a news studio,text on screen,a protest,a speech,a river,a building,屏幕文字,a crowd,an explosion,a sports match,a map,a ship,a road,烟雾,flooding,演讲,an animal,a horse,a flag",
-      "visual_labels": [
-        {
-          "label": "新闻演播室",
-          "score": 0.456
-        },
-        {
-          "label": "a news studio",
-          "score": 0.428
-        },
-        {
-          "label": "text on screen",
-          "score": 0.4174
-        },
-        {
-          "label": "a protest",
-          "score": 0.4165
-        },
-        {
-          "label": "a speech",
-          "score": 0.4002
-        },
-        {
-          "label": "a river",
-          "score": 0.3869
-        },
-        {
-          "label": "a building",
-          "score": 0.3848
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3817
-        },
-        {
-          "label": "a crowd",
-          "score": 0.3809
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3798
-        },
-        {
-          "label": "a sports match",
-          "score": 0.3755
-        },
-        {
-          "label": "a map",
-          "score": 0.375
-        },
-        {
-          "label": "a ship",
-          "score": 0.3744
-        },
-        {
-          "label": "a road",
-          "score": 0.371
-        },
-        {
-          "label": "烟雾",
-          "score": 0.3627
-        },
-        {
-          "label": "flooding",
-          "score": 0.3623
-        },
-        {
-          "label": "演讲",
-          "score": 0.3607
-        },
-        {
-          "label": "an animal",
-          "score": 0.3573
-        },
-        {
-          "label": "a horse",
-          "score": 0.3564
-        },
-        {
-          "label": "a flag",
-          "score": 0.3562
-        }
-      ]
-    },
-    {
-      "id": "DW_20261018_110200_Euromaxx",
-      "title": "i have a really loving hate relationship with assemble whenever i go to a different city, always mrs.",
+      "id": "DW_20261019_000000_DW_News",
+      "title": "the canadian military says there is no indication it was the result of quote, any terrorist activity french president, manually.",
       "source": "DW",
-      "date": "2026-10-18T00:00:00Z",
-      "image_url": "https://archive.org/services/img/DW_20261018_110200_Euromaxx/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/DW_20261018_110200_Euromaxx",
-      "description_zh": "画面候选标签：a train、a news studio、an explosion、新闻演播室、text on screen、抗议活动、a protest、police、火车、a speech、屏幕文字、a car",
-      "description_en": "Visual candidate labels: a train, a news studio, an explosion, 新闻演播室, text on screen, 抗议活动, a protest, police, 火车, a speech, 屏幕文字, a car",
-      "keywords": "a train,a news studio,an explosion,新闻演播室,text on screen,抗议活动,a protest,police,火车,a speech,屏幕文字,a car,a truck,flooding,a road,running,military,a map,fire,爆炸",
+      "date": "2026-10-19T00:00:00Z",
+      "image_url": "https://archive.org/services/img/DW_20261019_000000_DW_News/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261019_000000_DW_News",
+      "description_zh": "画面候选标签：text on screen、fire、smoke、a mountain、新闻演播室、an explosion、a train、a river、military、屏幕文字、basketball、a truck",
+      "description_en": "Visual candidate labels: text on screen, fire, smoke, a mountain, 新闻演播室, an explosion, a train, a river, military, 屏幕文字, basketball, a truck",
+      "keywords": "text on screen,fire,smoke,a mountain,新闻演播室,an explosion,a train,a river,military,屏幕文字,basketball,a truck,a road,抗议活动,a building,police,a flag,a car,soccer,running",
       "visual_labels": [
         {
-          "label": "a train",
-          "score": 0.4294
-        },
-        {
-          "label": "a news studio",
-          "score": 0.4046
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3939
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.3894
-        },
-        {
           "label": "text on screen",
-          "score": 0.3816
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3738
-        },
-        {
-          "label": "a protest",
-          "score": 0.3664
-        },
-        {
-          "label": "police",
-          "score": 0.3614
-        },
-        {
-          "label": "火车",
-          "score": 0.361
-        },
-        {
-          "label": "a speech",
-          "score": 0.3483
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3481
-        },
-        {
-          "label": "a car",
-          "score": 0.3467
-        },
-        {
-          "label": "a truck",
-          "score": 0.3442
-        },
-        {
-          "label": "flooding",
-          "score": 0.3437
-        },
-        {
-          "label": "a road",
-          "score": 0.3422
-        },
-        {
-          "label": "running",
-          "score": 0.3386
-        },
-        {
-          "label": "military",
-          "score": 0.3378
-        },
-        {
-          "label": "a map",
-          "score": 0.3334
+          "score": 0.3778
         },
         {
           "label": "fire",
-          "score": 0.333
+          "score": 0.3663
         },
         {
-          "label": "爆炸",
-          "score": 0.3325
+          "label": "smoke",
+          "score": 0.3498
+        },
+        {
+          "label": "a mountain",
+          "score": 0.3494
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3456
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3456
+        },
+        {
+          "label": "a train",
+          "score": 0.3454
+        },
+        {
+          "label": "a river",
+          "score": 0.3454
+        },
+        {
+          "label": "military",
+          "score": 0.3451
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3441
+        },
+        {
+          "label": "basketball",
+          "score": 0.3421
+        },
+        {
+          "label": "a truck",
+          "score": 0.341
+        },
+        {
+          "label": "a road",
+          "score": 0.3409
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3402
+        },
+        {
+          "label": "a building",
+          "score": 0.3398
+        },
+        {
+          "label": "police",
+          "score": 0.3395
+        },
+        {
+          "label": "a flag",
+          "score": 0.3379
+        },
+        {
+          "label": "a car",
+          "score": 0.3369
+        },
+        {
+          "label": "soccer",
+          "score": 0.3369
+        },
+        {
+          "label": "running",
+          "score": 0.3363
         }
       ]
     }
