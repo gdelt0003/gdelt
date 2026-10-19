@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-19T06:54:08+00:00",
+  "generated_at": "2026-10-19T12:51:10+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
   "records": 3,
   "items": [
@@ -191,95 +191,95 @@
       ]
     },
     {
-      "id": "KGO_20261019_000000_ABC7_Eyewitness_News_500PM",
-      "title": ">> well, after several days of feeling the heat, the bay area finally getting a cool down.",
-      "source": "KGO",
+      "id": "KNTV_20261019_040000_NBC_Bay_Area_News",
+      "title": "but your week six story lines from this sunday include the cleveland browns coming back from 10-0 to beat baltimore, the steelers beating the buccaneers, and the entire afc north j…",
+      "source": "KNTV",
       "date": "2026-10-19T00:00:00Z",
-      "image_url": "https://archive.org/services/img/KGO_20261019_000000_ABC7_Eyewitness_News_500PM/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/KGO_20261019_000000_ABC7_Eyewitness_News_500PM",
-      "description_zh": "画面候选标签：text on screen、a news studio、a protest、屏幕文字、a crowd、抗议活动、a ship、a flag、a speech、a sports match、a map、新闻演播室",
-      "description_en": "Visual candidate labels: text on screen, a news studio, a protest, 屏幕文字, a crowd, 抗议活动, a ship, a flag, a speech, a sports match, a map, 新闻演播室",
-      "keywords": "text on screen,a news studio,a protest,屏幕文字,a crowd,抗议活动,a ship,a flag,a speech,a sports match,a map,新闻演播室,running,an explosion,a road,basketball,演讲,a train,an airplane,police",
+      "image_url": "https://archive.org/services/img/KNTV_20261019_040000_NBC_Bay_Area_News/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/KNTV_20261019_040000_NBC_Bay_Area_News",
+      "description_zh": "画面候选标签：basketball、text on screen、a news studio、a sports match、屏幕文字、a protest、soccer、新闻演播室、体育比赛、a speech、演讲、烟雾",
+      "description_en": "Visual candidate labels: basketball, text on screen, a news studio, a sports match, 屏幕文字, a protest, soccer, 新闻演播室, 体育比赛, a speech, 演讲, 烟雾",
+      "keywords": "basketball,text on screen,a news studio,a sports match,屏幕文字,a protest,soccer,新闻演播室,体育比赛,a speech,演讲,烟雾,police,旗帜,running,抗议活动,a crowd,fire,篮球,a road",
       "visual_labels": [
         {
+          "label": "basketball",
+          "score": 0.3906
+        },
+        {
           "label": "text on screen",
-          "score": 0.4287
+          "score": 0.3847
         },
         {
           "label": "a news studio",
-          "score": 0.42
-        },
-        {
-          "label": "a protest",
-          "score": 0.4057
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.4014
-        },
-        {
-          "label": "a crowd",
-          "score": 0.3927
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3914
-        },
-        {
-          "label": "a ship",
-          "score": 0.3902
-        },
-        {
-          "label": "a flag",
-          "score": 0.3838
-        },
-        {
-          "label": "a speech",
-          "score": 0.3772
+          "score": 0.3818
         },
         {
           "label": "a sports match",
-          "score": 0.3772
+          "score": 0.3809
         },
         {
-          "label": "a map",
-          "score": 0.3765
+          "label": "屏幕文字",
+          "score": 0.3759
+        },
+        {
+          "label": "a protest",
+          "score": 0.375
+        },
+        {
+          "label": "soccer",
+          "score": 0.3693
         },
         {
           "label": "新闻演播室",
-          "score": 0.3761
+          "score": 0.3628
         },
         {
-          "label": "running",
-          "score": 0.3754
+          "label": "体育比赛",
+          "score": 0.3628
         },
         {
-          "label": "an explosion",
-          "score": 0.3736
-        },
-        {
-          "label": "a road",
-          "score": 0.3728
-        },
-        {
-          "label": "basketball",
-          "score": 0.3728
+          "label": "a speech",
+          "score": 0.3605
         },
         {
           "label": "演讲",
-          "score": 0.371
+          "score": 0.3555
         },
         {
-          "label": "a train",
-          "score": 0.3708
-        },
-        {
-          "label": "an airplane",
-          "score": 0.3664
+          "label": "烟雾",
+          "score": 0.3492
         },
         {
           "label": "police",
-          "score": 0.3663
+          "score": 0.3466
+        },
+        {
+          "label": "旗帜",
+          "score": 0.3439
+        },
+        {
+          "label": "running",
+          "score": 0.3428
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3426
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3418
+        },
+        {
+          "label": "fire",
+          "score": 0.3386
+        },
+        {
+          "label": "篮球",
+          "score": 0.3382
+        },
+        {
+          "label": "a road",
+          "score": 0.3373
         }
       ]
     }
