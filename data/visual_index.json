@@ -1,99 +1,285 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-19T00:52:23+00:00",
+  "generated_at": "2026-10-19T06:54:08+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
-  "records": 1,
+  "records": 3,
   "items": [
     {
-      "id": "DW_20261019_000000_DW_News",
-      "title": "the canadian military says there is no indication it was the result of quote, any terrorist activity french president, manually.",
+      "id": "DW_20261019_050000_DW_News",
+      "title": "the canadian military says there was no indication it was the result of quote, any terrorist activity, french president menu and my coal says writers and vandals involved and set i…",
       "source": "DW",
       "date": "2026-10-19T00:00:00Z",
-      "image_url": "https://archive.org/services/img/DW_20261019_000000_DW_News/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/DW_20261019_000000_DW_News",
-      "description_zh": "画面候选标签：text on screen、fire、smoke、a mountain、新闻演播室、an explosion、a train、a river、military、屏幕文字、basketball、a truck",
-      "description_en": "Visual candidate labels: text on screen, fire, smoke, a mountain, 新闻演播室, an explosion, a train, a river, military, 屏幕文字, basketball, a truck",
-      "keywords": "text on screen,fire,smoke,a mountain,新闻演播室,an explosion,a train,a river,military,屏幕文字,basketball,a truck,a road,抗议活动,a building,police,a flag,a car,soccer,running",
+      "image_url": "https://archive.org/services/img/DW_20261019_050000_DW_News/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261019_050000_DW_News",
+      "description_zh": "画面候选标签：a news studio、text on screen、新闻演播室、屏幕文字、a speech、fire、smoke、人、演讲、a building、an explosion、a sports match",
+      "description_en": "Visual candidate labels: a news studio, text on screen, 新闻演播室, 屏幕文字, a speech, fire, smoke, 人, 演讲, a building, an explosion, a sports match",
+      "keywords": "a news studio,text on screen,新闻演播室,屏幕文字,a speech,fire,smoke,人,演讲,a building,an explosion,a sports match,a protest,a train,basketball,烟雾,a map,抗议活动,a road,an animal",
       "visual_labels": [
         {
+          "label": "a news studio",
+          "score": 0.3831
+        },
+        {
           "label": "text on screen",
-          "score": 0.3778
-        },
-        {
-          "label": "fire",
-          "score": 0.3663
-        },
-        {
-          "label": "smoke",
-          "score": 0.3498
-        },
-        {
-          "label": "a mountain",
-          "score": 0.3494
+          "score": 0.3831
         },
         {
           "label": "新闻演播室",
-          "score": 0.3456
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3456
-        },
-        {
-          "label": "a train",
-          "score": 0.3454
-        },
-        {
-          "label": "a river",
-          "score": 0.3454
-        },
-        {
-          "label": "military",
-          "score": 0.3451
+          "score": 0.381
         },
         {
           "label": "屏幕文字",
-          "score": 0.3441
+          "score": 0.3659
         },
         {
-          "label": "basketball",
-          "score": 0.3421
+          "label": "a speech",
+          "score": 0.3643
         },
         {
-          "label": "a truck",
-          "score": 0.341
+          "label": "fire",
+          "score": 0.3639
         },
         {
-          "label": "a road",
-          "score": 0.3409
+          "label": "smoke",
+          "score": 0.3574
         },
         {
-          "label": "抗议活动",
-          "score": 0.3402
+          "label": "人",
+          "score": 0.356
+        },
+        {
+          "label": "演讲",
+          "score": 0.3533
         },
         {
           "label": "a building",
-          "score": 0.3398
+          "score": 0.3491
         },
         {
-          "label": "police",
-          "score": 0.3395
+          "label": "an explosion",
+          "score": 0.3482
         },
         {
-          "label": "a flag",
-          "score": 0.3379
+          "label": "a sports match",
+          "score": 0.3479
+        },
+        {
+          "label": "a protest",
+          "score": 0.3467
+        },
+        {
+          "label": "a train",
+          "score": 0.3455
+        },
+        {
+          "label": "basketball",
+          "score": 0.3441
+        },
+        {
+          "label": "烟雾",
+          "score": 0.344
+        },
+        {
+          "label": "a map",
+          "score": 0.343
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3429
+        },
+        {
+          "label": "a road",
+          "score": 0.3425
+        },
+        {
+          "label": "an animal",
+          "score": 0.3399
+        }
+      ]
+    },
+    {
+      "id": "KGO_20261019_003000_ABC_World_News_Tonight_With_David_Muir",
+      "title": "a deadly fast moving fire sweeps through a canadian military base, one of the worst tragedies for their forces in peacetime.",
+      "source": "KGO",
+      "date": "2026-10-19T00:00:00Z",
+      "image_url": "https://archive.org/services/img/KGO_20261019_003000_ABC_World_News_Tonight_With_David_Muir/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/KGO_20261019_003000_ABC_World_News_Tonight_With_David_Muir",
+      "description_zh": "画面候选标签：a news studio、a crowd、a protest、text on screen、抗议活动、a truck、屏幕文字、人群、a train、an explosion、a sports match、a map",
+      "description_en": "Visual candidate labels: a news studio, a crowd, a protest, text on screen, 抗议活动, a truck, 屏幕文字, 人群, a train, an explosion, a sports match, a map",
+      "keywords": "a news studio,a crowd,a protest,text on screen,抗议活动,a truck,屏幕文字,人群,a train,an explosion,a sports match,a map,a building,fire,a speech,a car,soccer,basketball,police,a city street",
+      "visual_labels": [
+        {
+          "label": "a news studio",
+          "score": 0.3877
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3876
+        },
+        {
+          "label": "a protest",
+          "score": 0.3866
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3829
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3783
+        },
+        {
+          "label": "a truck",
+          "score": 0.3637
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3553
+        },
+        {
+          "label": "人群",
+          "score": 0.3538
+        },
+        {
+          "label": "a train",
+          "score": 0.3528
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3506
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3491
+        },
+        {
+          "label": "a map",
+          "score": 0.3463
+        },
+        {
+          "label": "a building",
+          "score": 0.3438
+        },
+        {
+          "label": "fire",
+          "score": 0.3422
+        },
+        {
+          "label": "a speech",
+          "score": 0.3399
         },
         {
           "label": "a car",
-          "score": 0.3369
+          "score": 0.3396
         },
         {
           "label": "soccer",
-          "score": 0.3369
+          "score": 0.3391
+        },
+        {
+          "label": "basketball",
+          "score": 0.3388
+        },
+        {
+          "label": "police",
+          "score": 0.3368
+        },
+        {
+          "label": "a city street",
+          "score": 0.3339
+        }
+      ]
+    },
+    {
+      "id": "KGO_20261019_000000_ABC7_Eyewitness_News_500PM",
+      "title": ">> well, after several days of feeling the heat, the bay area finally getting a cool down.",
+      "source": "KGO",
+      "date": "2026-10-19T00:00:00Z",
+      "image_url": "https://archive.org/services/img/KGO_20261019_000000_ABC7_Eyewitness_News_500PM/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/KGO_20261019_000000_ABC7_Eyewitness_News_500PM",
+      "description_zh": "画面候选标签：text on screen、a news studio、a protest、屏幕文字、a crowd、抗议活动、a ship、a flag、a speech、a sports match、a map、新闻演播室",
+      "description_en": "Visual candidate labels: text on screen, a news studio, a protest, 屏幕文字, a crowd, 抗议活动, a ship, a flag, a speech, a sports match, a map, 新闻演播室",
+      "keywords": "text on screen,a news studio,a protest,屏幕文字,a crowd,抗议活动,a ship,a flag,a speech,a sports match,a map,新闻演播室,running,an explosion,a road,basketball,演讲,a train,an airplane,police",
+      "visual_labels": [
+        {
+          "label": "text on screen",
+          "score": 0.4287
+        },
+        {
+          "label": "a news studio",
+          "score": 0.42
+        },
+        {
+          "label": "a protest",
+          "score": 0.4057
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.4014
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3927
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3914
+        },
+        {
+          "label": "a ship",
+          "score": 0.3902
+        },
+        {
+          "label": "a flag",
+          "score": 0.3838
+        },
+        {
+          "label": "a speech",
+          "score": 0.3772
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3772
+        },
+        {
+          "label": "a map",
+          "score": 0.3765
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3761
         },
         {
           "label": "running",
-          "score": 0.3363
+          "score": 0.3754
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3736
+        },
+        {
+          "label": "a road",
+          "score": 0.3728
+        },
+        {
+          "label": "basketball",
+          "score": 0.3728
+        },
+        {
+          "label": "演讲",
+          "score": 0.371
+        },
+        {
+          "label": "a train",
+          "score": 0.3708
+        },
+        {
+          "label": "an airplane",
+          "score": 0.3664
+        },
+        {
+          "label": "police",
+          "score": 0.3663
         }
       ]
     }
