@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-21T13:46:05+00:00",
+  "generated_at": "2026-10-21T18:36:42+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
   "records": 3,
   "items": [
@@ -98,188 +98,188 @@
       ]
     },
     {
-      "id": "RT_20261021_013000_CrossTalk",
-      "title": "know when i or original location basically is a house was individuals have come together to form a cold, holler and they've created rules on how their community operates and how th…",
-      "source": "RT",
+      "id": "ALJAZ_20261021_043000",
+      "title": "president donald trump has been back out on the campaign trail in north carolina ahead of they've been this mid term elections.",
+      "source": "ALJAZ",
       "date": "2026-10-21T00:00:00Z",
-      "image_url": "https://archive.org/services/img/RT_20261021_013000_CrossTalk/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/RT_20261021_013000_CrossTalk",
-      "description_zh": "画面候选标签：text on screen、an explosion、an animal、flooding、a building、a news studio、a protest、a horse、a flag、a forest、the countryside、a train",
-      "description_en": "Visual candidate labels: text on screen, an explosion, an animal, flooding, a building, a news studio, a protest, a horse, a flag, a forest, the countryside, a train",
-      "keywords": "text on screen,an explosion,an animal,flooding,a building,a news studio,a protest,a horse,a flag,a forest,the countryside,a train,military,fire,抗议活动,running,a map,a truck,an airplane,police",
+      "image_url": "https://archive.org/services/img/ALJAZ_20261021_043000/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/ALJAZ_20261021_043000",
+      "description_zh": "画面候选标签：a building、a news studio、a map、a crowd、a flag、flooding、an explosion、a mountain、a city street、basketball、a ship、a river",
+      "description_en": "Visual candidate labels: a building, a news studio, a map, a crowd, a flag, flooding, an explosion, a mountain, a city street, basketball, a ship, a river",
+      "keywords": "a building,a news studio,a map,a crowd,a flag,flooding,an explosion,a mountain,a city street,basketball,a ship,a river,a protest,text on screen,police,soccer,抗议活动,smoke,a road,an animal",
       "visual_labels": [
         {
-          "label": "text on screen",
-          "score": 0.4308
-        },
-        {
-          "label": "an explosion",
-          "score": 0.429
-        },
-        {
-          "label": "an animal",
-          "score": 0.4259
-        },
-        {
-          "label": "flooding",
-          "score": 0.4241
-        },
-        {
           "label": "a building",
-          "score": 0.4133
+          "score": 0.3887
         },
         {
           "label": "a news studio",
-          "score": 0.4099
-        },
-        {
-          "label": "a protest",
-          "score": 0.4006
-        },
-        {
-          "label": "a horse",
-          "score": 0.3962
-        },
-        {
-          "label": "a flag",
-          "score": 0.3961
-        },
-        {
-          "label": "a forest",
-          "score": 0.3867
-        },
-        {
-          "label": "the countryside",
-          "score": 0.3825
-        },
-        {
-          "label": "a train",
-          "score": 0.3818
-        },
-        {
-          "label": "military",
-          "score": 0.3816
-        },
-        {
-          "label": "fire",
-          "score": 0.3806
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3757
-        },
-        {
-          "label": "running",
-          "score": 0.3751
+          "score": 0.3766
         },
         {
           "label": "a map",
-          "score": 0.3751
+          "score": 0.3736
         },
         {
-          "label": "a truck",
-          "score": 0.371
+          "label": "a crowd",
+          "score": 0.3687
         },
         {
-          "label": "an airplane",
-          "score": 0.3645
+          "label": "a flag",
+          "score": 0.3657
+        },
+        {
+          "label": "flooding",
+          "score": 0.3627
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3624
+        },
+        {
+          "label": "a mountain",
+          "score": 0.3603
+        },
+        {
+          "label": "a city street",
+          "score": 0.3571
+        },
+        {
+          "label": "basketball",
+          "score": 0.354
+        },
+        {
+          "label": "a ship",
+          "score": 0.3532
+        },
+        {
+          "label": "a river",
+          "score": 0.3532
+        },
+        {
+          "label": "a protest",
+          "score": 0.3531
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3528
         },
         {
           "label": "police",
-          "score": 0.3607
+          "score": 0.3508
+        },
+        {
+          "label": "soccer",
+          "score": 0.3497
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3488
+        },
+        {
+          "label": "smoke",
+          "score": 0.3484
+        },
+        {
+          "label": "a road",
+          "score": 0.3481
+        },
+        {
+          "label": "an animal",
+          "score": 0.3472
         }
       ]
     },
     {
-      "id": "KSTS_20261021_000000_Noticiero_Telemundo_48",
-      "title": "además, tras meses de controversia, hoy los supervisores del condado marin aprueban una ordenanza que prohíbe a usar propiedades para operativos migratorios y",
-      "source": "KSTS",
+      "id": "DW_20261021_060200_DW_News_Focus",
+      "title": "jasmine, quote from sliced the session of violence and supplement expansion have risen sharply since the 2022 election road.",
+      "source": "DW",
       "date": "2026-10-21T00:00:00Z",
-      "image_url": "https://archive.org/services/img/KSTS_20261021_000000_Noticiero_Telemundo_48/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/KSTS_20261021_000000_Noticiero_Telemundo_48",
-      "description_zh": "画面候选标签：a sports match、a flag、soccer、a protest、a news studio、text on screen、a horse、a mountain、a river、running、police、fire",
-      "description_en": "Visual candidate labels: a sports match, a flag, soccer, a protest, a news studio, text on screen, a horse, a mountain, a river, running, police, fire",
-      "keywords": "a sports match,a flag,soccer,a protest,a news studio,text on screen,a horse,a mountain,a river,running,police,fire,an animal,a map,an explosion,a train,a road,a crowd,a forest,a ship",
+      "image_url": "https://archive.org/services/img/DW_20261021_060200_DW_News_Focus/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261021_060200_DW_News_Focus",
+      "description_zh": "画面候选标签：屏幕文字、烟雾、新闻演播室、军队、人群、警察、体育比赛、抗议活动、演讲、an explosion、人、奔跑",
+      "description_en": "Visual candidate labels: 屏幕文字, 烟雾, 新闻演播室, 军队, 人群, 警察, 体育比赛, 抗议活动, 演讲, an explosion, 人, 奔跑",
+      "keywords": "屏幕文字,烟雾,新闻演播室,军队,人群,警察,体育比赛,抗议活动,演讲,an explosion,人,奔跑,text on screen,火车,旗帜,a news studio,汽车,爆炸,a protest,建筑物",
       "visual_labels": [
         {
-          "label": "a sports match",
-          "score": 0.4178
+          "label": "屏幕文字",
+          "score": 0.3947
         },
         {
-          "label": "a flag",
-          "score": 0.4117
+          "label": "烟雾",
+          "score": 0.387
         },
         {
-          "label": "soccer",
-          "score": 0.4048
+          "label": "新闻演播室",
+          "score": 0.3859
         },
         {
-          "label": "a protest",
-          "score": 0.403
+          "label": "军队",
+          "score": 0.3856
         },
         {
-          "label": "a news studio",
-          "score": 0.4021
+          "label": "人群",
+          "score": 0.381
         },
         {
-          "label": "text on screen",
-          "score": 0.3886
+          "label": "警察",
+          "score": 0.3779
         },
         {
-          "label": "a horse",
-          "score": 0.3883
+          "label": "体育比赛",
+          "score": 0.3732
         },
         {
-          "label": "a mountain",
-          "score": 0.3861
+          "label": "抗议活动",
+          "score": 0.3729
         },
         {
-          "label": "a river",
-          "score": 0.3857
-        },
-        {
-          "label": "running",
-          "score": 0.3853
-        },
-        {
-          "label": "police",
-          "score": 0.3849
-        },
-        {
-          "label": "fire",
-          "score": 0.3819
-        },
-        {
-          "label": "an animal",
-          "score": 0.3788
-        },
-        {
-          "label": "a map",
-          "score": 0.3765
+          "label": "演讲",
+          "score": 0.3704
         },
         {
           "label": "an explosion",
-          "score": 0.3728
+          "score": 0.37
         },
         {
-          "label": "a train",
-          "score": 0.3713
-        },
-        {
-          "label": "a road",
+          "label": "人",
           "score": 0.3694
         },
         {
-          "label": "a crowd",
-          "score": 0.3693
+          "label": "奔跑",
+          "score": 0.3673
         },
         {
-          "label": "a forest",
-          "score": 0.3672
+          "label": "text on screen",
+          "score": 0.366
         },
         {
-          "label": "a ship",
-          "score": 0.3668
+          "label": "火车",
+          "score": 0.3647
+        },
+        {
+          "label": "旗帜",
+          "score": 0.3581
+        },
+        {
+          "label": "a news studio",
+          "score": 0.3567
+        },
+        {
+          "label": "汽车",
+          "score": 0.3549
+        },
+        {
+          "label": "爆炸",
+          "score": 0.3539
+        },
+        {
+          "label": "a protest",
+          "score": 0.3538
+        },
+        {
+          "label": "建筑物",
+          "score": 0.3506
         }
       ]
     }
