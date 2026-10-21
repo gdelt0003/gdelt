@@ -1,285 +1,285 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-20T19:14:31+00:00",
+  "generated_at": "2026-10-21T01:33:55+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
   "records": 3,
   "items": [
     {
-      "id": "RT_20261020_010000_America_Now",
-      "title": "we've given a lot, do you remember that the trump administration says it is using economic leverage to help in the war in ukraine, but ukraine says the pressure should be on prunin…",
-      "source": "RT",
-      "date": "2026-10-20T00:00:00Z",
-      "image_url": "https://archive.org/services/img/RT_20261020_010000_America_Now/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/RT_20261020_010000_America_Now",
-      "description_zh": "画面候选标签：新闻演播室、a news studio、an explosion、烟雾、抗议活动、text on screen、人群、屏幕文字、a crowd、爆炸、smoke、a protest",
-      "description_en": "Visual candidate labels: 新闻演播室, a news studio, an explosion, 烟雾, 抗议活动, text on screen, 人群, 屏幕文字, a crowd, 爆炸, smoke, a protest",
-      "keywords": "新闻演播室,a news studio,an explosion,烟雾,抗议活动,text on screen,人群,屏幕文字,a crowd,爆炸,smoke,a protest,a speech,fire,人,running,police,soccer,奔跑,an animal",
+      "id": "ALJAZ_20261021_000000",
+      "title": "donald trump pushes ukraine to make a deal with russia, presidents and then he meets with us special invoice, the with cost, and also the new case as it was deployed $5.00 digits f…",
+      "source": "ALJAZ",
+      "date": "2026-10-21T00:00:00Z",
+      "image_url": "https://archive.org/services/img/ALJAZ_20261021_000000/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/ALJAZ_20261021_000000",
+      "description_zh": "画面候选标签：烟雾、人群、爆炸、屏幕文字、text on screen、旗帜、海滩、a forest、演讲、新闻演播室、奔跑、动物",
+      "description_en": "Visual candidate labels: 烟雾, 人群, 爆炸, 屏幕文字, text on screen, 旗帜, 海滩, a forest, 演讲, 新闻演播室, 奔跑, 动物",
+      "keywords": "烟雾,人群,爆炸,屏幕文字,text on screen,旗帜,海滩,a forest,演讲,新闻演播室,奔跑,动物,人,河流,a beach,a news studio,地图,森林,an explosion,树林",
       "visual_labels": [
         {
-          "label": "新闻演播室",
-          "score": 0.3638
-        },
-        {
-          "label": "a news studio",
-          "score": 0.3612
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3602
-        },
-        {
           "label": "烟雾",
-          "score": 0.3517
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3449
-        },
-        {
-          "label": "text on screen",
-          "score": 0.3444
+          "score": 0.3807
         },
         {
           "label": "人群",
-          "score": 0.3417
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3368
-        },
-        {
-          "label": "a crowd",
-          "score": 0.3357
+          "score": 0.379
         },
         {
           "label": "爆炸",
-          "score": 0.3353
-        },
-        {
-          "label": "smoke",
-          "score": 0.3346
-        },
-        {
-          "label": "a protest",
-          "score": 0.334
-        },
-        {
-          "label": "a speech",
-          "score": 0.3317
-        },
-        {
-          "label": "fire",
-          "score": 0.3296
-        },
-        {
-          "label": "人",
-          "score": 0.329
-        },
-        {
-          "label": "running",
-          "score": 0.325
-        },
-        {
-          "label": "police",
-          "score": 0.3245
-        },
-        {
-          "label": "soccer",
-          "score": 0.3234
-        },
-        {
-          "label": "奔跑",
-          "score": 0.3199
-        },
-        {
-          "label": "an animal",
-          "score": 0.3168
-        }
-      ]
-    },
-    {
-      "id": "BBCNEWS_20261020_003000_Talking_Business",
-      "title": "inmates overdosing overdosing on jail's security cameras, cameras, a wave of new synthetic synthetic drugs that terrorised cook cook county jail.",
-      "source": "BBCNEWS",
-      "date": "2026-10-20T00:00:00Z",
-      "image_url": "https://archive.org/services/img/BBCNEWS_20261020_003000_Talking_Business/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/BBCNEWS_20261020_003000_Talking_Business",
-      "description_zh": "画面候选标签：a news studio、an explosion、新闻演播室、a speech、text on screen、a protest、a flag、an animal、a building、屏幕文字、police、the countryside",
-      "description_en": "Visual candidate labels: a news studio, an explosion, 新闻演播室, a speech, text on screen, a protest, a flag, an animal, a building, 屏幕文字, police, the countryside",
-      "keywords": "a news studio,an explosion,新闻演播室,a speech,text on screen,a protest,a flag,an animal,a building,屏幕文字,police,the countryside,抗议活动,flooding,military,a river,basketball,a sports match,a crowd,an airplane",
-      "visual_labels": [
-        {
-          "label": "a news studio",
-          "score": 0.4744
-        },
-        {
-          "label": "an explosion",
-          "score": 0.4099
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.4049
-        },
-        {
-          "label": "a speech",
-          "score": 0.4045
-        },
-        {
-          "label": "text on screen",
-          "score": 0.404
-        },
-        {
-          "label": "a protest",
-          "score": 0.3978
-        },
-        {
-          "label": "a flag",
-          "score": 0.3784
-        },
-        {
-          "label": "an animal",
-          "score": 0.3764
-        },
-        {
-          "label": "a building",
-          "score": 0.3746
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3744
-        },
-        {
-          "label": "police",
-          "score": 0.3728
-        },
-        {
-          "label": "the countryside",
-          "score": 0.3711
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3706
-        },
-        {
-          "label": "flooding",
-          "score": 0.3692
-        },
-        {
-          "label": "military",
-          "score": 0.3686
-        },
-        {
-          "label": "a river",
-          "score": 0.3669
-        },
-        {
-          "label": "basketball",
-          "score": 0.3658
-        },
-        {
-          "label": "a sports match",
-          "score": 0.3635
-        },
-        {
-          "label": "a crowd",
-          "score": 0.3631
-        },
-        {
-          "label": "an airplane",
-          "score": 0.3623
-        }
-      ]
-    },
-    {
-      "id": "KRON_20261020_013000_KRON_4_News_at_630pm",
-      "title": "i'm actually standing on bart property right now and the issue of affordable housing is also become a debate point in the race for governor monday morning state assembly member buf…",
-      "source": "KRON",
-      "date": "2026-10-20T00:00:00Z",
-      "image_url": "https://archive.org/services/img/KRON_20261020_013000_KRON_4_News_at_630pm/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/KRON_20261020_013000_KRON_4_News_at_630pm",
-      "description_zh": "画面候选标签：a building、a protest、an explosion、flooding、a news studio、text on screen、a speech、a beach、a map、fire、the countryside、a horse",
-      "description_en": "Visual candidate labels: a building, a protest, an explosion, flooding, a news studio, text on screen, a speech, a beach, a map, fire, the countryside, a horse",
-      "keywords": "a building,a protest,an explosion,flooding,a news studio,text on screen,a speech,a beach,a map,fire,the countryside,a horse,a crowd,an airplane,a ship,a road,a flag,a city street,抗议活动,a forest",
-      "visual_labels": [
-        {
-          "label": "a building",
-          "score": 0.4326
-        },
-        {
-          "label": "a protest",
-          "score": 0.4033
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3998
-        },
-        {
-          "label": "flooding",
-          "score": 0.3953
-        },
-        {
-          "label": "a news studio",
-          "score": 0.394
-        },
-        {
-          "label": "text on screen",
-          "score": 0.3838
-        },
-        {
-          "label": "a speech",
-          "score": 0.3829
-        },
-        {
-          "label": "a beach",
-          "score": 0.3757
-        },
-        {
-          "label": "a map",
-          "score": 0.3723
-        },
-        {
-          "label": "fire",
           "score": 0.3693
         },
         {
-          "label": "the countryside",
-          "score": 0.3667
+          "label": "屏幕文字",
+          "score": 0.3653
         },
         {
-          "label": "a horse",
-          "score": 0.3632
+          "label": "text on screen",
+          "score": 0.3605
         },
         {
-          "label": "a crowd",
-          "score": 0.3618
+          "label": "旗帜",
+          "score": 0.3588
         },
         {
-          "label": "an airplane",
-          "score": 0.3603
-        },
-        {
-          "label": "a ship",
-          "score": 0.3586
-        },
-        {
-          "label": "a road",
-          "score": 0.3575
-        },
-        {
-          "label": "a flag",
-          "score": 0.3566
-        },
-        {
-          "label": "a city street",
-          "score": 0.3564
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3557
+          "label": "海滩",
+          "score": 0.3583
         },
         {
           "label": "a forest",
-          "score": 0.3539
+          "score": 0.3571
+        },
+        {
+          "label": "演讲",
+          "score": 0.3538
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3532
+        },
+        {
+          "label": "奔跑",
+          "score": 0.3484
+        },
+        {
+          "label": "动物",
+          "score": 0.3484
+        },
+        {
+          "label": "人",
+          "score": 0.3484
+        },
+        {
+          "label": "河流",
+          "score": 0.3465
+        },
+        {
+          "label": "a beach",
+          "score": 0.3457
+        },
+        {
+          "label": "a news studio",
+          "score": 0.3456
+        },
+        {
+          "label": "地图",
+          "score": 0.3446
+        },
+        {
+          "label": "森林",
+          "score": 0.3428
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3416
+        },
+        {
+          "label": "树林",
+          "score": 0.3403
+        }
+      ]
+    },
+    {
+      "id": "DW_20261021_000200_The_Day",
+      "title": "DW｜The Day",
+      "source": "DW",
+      "date": "2026-10-21T00:00:00Z",
+      "image_url": "https://archive.org/services/img/DW_20261021_000200_The_Day/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261021_000200_The_Day",
+      "description_zh": "画面候选标签：a news studio、新闻演播室、soccer、text on screen、a sports match、a flag、a protest、an explosion、屏幕文字、fire、抗议活动、足球",
+      "description_en": "Visual candidate labels: a news studio, 新闻演播室, soccer, text on screen, a sports match, a flag, a protest, an explosion, 屏幕文字, fire, 抗议活动, 足球",
+      "keywords": "a news studio,新闻演播室,soccer,text on screen,a sports match,a flag,a protest,an explosion,屏幕文字,fire,抗议活动,足球,a speech,flooding,a road,police,旗帜,an animal,a building,a river",
+      "visual_labels": [
+        {
+          "label": "a news studio",
+          "score": 0.4048
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3976
+        },
+        {
+          "label": "soccer",
+          "score": 0.3814
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3738
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3729
+        },
+        {
+          "label": "a flag",
+          "score": 0.3565
+        },
+        {
+          "label": "a protest",
+          "score": 0.356
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3526
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3523
+        },
+        {
+          "label": "fire",
+          "score": 0.3435
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3353
+        },
+        {
+          "label": "足球",
+          "score": 0.3328
+        },
+        {
+          "label": "a speech",
+          "score": 0.3322
+        },
+        {
+          "label": "flooding",
+          "score": 0.3257
+        },
+        {
+          "label": "a road",
+          "score": 0.3218
+        },
+        {
+          "label": "police",
+          "score": 0.3218
+        },
+        {
+          "label": "旗帜",
+          "score": 0.3171
+        },
+        {
+          "label": "an animal",
+          "score": 0.316
+        },
+        {
+          "label": "a building",
+          "score": 0.3148
+        },
+        {
+          "label": "a river",
+          "score": 0.311
+        }
+      ]
+    },
+    {
+      "id": "DW_20261021_000000_DW_News",
+      "title": "people were killed in the disputed border area of yeah, on monday the regions information master said when around",
+      "source": "DW",
+      "date": "2026-10-21T00:00:00Z",
+      "image_url": "https://archive.org/services/img/DW_20261021_000000_DW_News/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261021_000000_DW_News",
+      "description_zh": "画面候选标签：a speech、text on screen、a news studio、a protest、a flag、屏幕文字、an explosion、fire、a building、a map、smoke、a road",
+      "description_en": "Visual candidate labels: a speech, text on screen, a news studio, a protest, a flag, 屏幕文字, an explosion, fire, a building, a map, smoke, a road",
+      "keywords": "a speech,text on screen,a news studio,a protest,a flag,屏幕文字,an explosion,fire,a building,a map,smoke,a road,a river,flooding,a crowd,a sports match,演讲,a train,抗议活动,新闻演播室",
+      "visual_labels": [
+        {
+          "label": "a speech",
+          "score": 0.4246
+        },
+        {
+          "label": "text on screen",
+          "score": 0.4225
+        },
+        {
+          "label": "a news studio",
+          "score": 0.4002
+        },
+        {
+          "label": "a protest",
+          "score": 0.387
+        },
+        {
+          "label": "a flag",
+          "score": 0.3845
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3829
+        },
+        {
+          "label": "an explosion",
+          "score": 0.381
+        },
+        {
+          "label": "fire",
+          "score": 0.3796
+        },
+        {
+          "label": "a building",
+          "score": 0.3759
+        },
+        {
+          "label": "a map",
+          "score": 0.3748
+        },
+        {
+          "label": "smoke",
+          "score": 0.368
+        },
+        {
+          "label": "a road",
+          "score": 0.3678
+        },
+        {
+          "label": "a river",
+          "score": 0.3663
+        },
+        {
+          "label": "flooding",
+          "score": 0.365
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3636
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3619
+        },
+        {
+          "label": "演讲",
+          "score": 0.3608
+        },
+        {
+          "label": "a train",
+          "score": 0.3588
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3548
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3544
         }
       ]
     }
