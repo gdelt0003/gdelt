@@ -1,285 +1,285 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-21T01:33:55+00:00",
+  "generated_at": "2026-10-21T07:36:51+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
   "records": 3,
   "items": [
     {
-      "id": "ALJAZ_20261021_000000",
-      "title": "donald trump pushes ukraine to make a deal with russia, presidents and then he meets with us special invoice, the with cost, and also the new case as it was deployed $5.00 digits f…",
-      "source": "ALJAZ",
+      "id": "CNNW_20261021_010000_Countdown_to_Election_Night",
+      "title": ">> and, anderson, the latest fight on the state level here is around voting machines and what that state election board says are serious vulnerabilities.",
+      "source": "CNNW",
       "date": "2026-10-21T00:00:00Z",
-      "image_url": "https://archive.org/services/img/ALJAZ_20261021_000000/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/ALJAZ_20261021_000000",
-      "description_zh": "画面候选标签：烟雾、人群、爆炸、屏幕文字、text on screen、旗帜、海滩、a forest、演讲、新闻演播室、奔跑、动物",
-      "description_en": "Visual candidate labels: 烟雾, 人群, 爆炸, 屏幕文字, text on screen, 旗帜, 海滩, a forest, 演讲, 新闻演播室, 奔跑, 动物",
-      "keywords": "烟雾,人群,爆炸,屏幕文字,text on screen,旗帜,海滩,a forest,演讲,新闻演播室,奔跑,动物,人,河流,a beach,a news studio,地图,森林,an explosion,树林",
+      "image_url": "https://archive.org/services/img/CNNW_20261021_010000_Countdown_to_Election_Night/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/CNNW_20261021_010000_Countdown_to_Election_Night",
+      "description_zh": "画面候选标签：a protest、a news studio、a flag、an explosion、flooding、police、text on screen、military、抗议活动、屏幕文字、the countryside、fire",
+      "description_en": "Visual candidate labels: a protest, a news studio, a flag, an explosion, flooding, police, text on screen, military, 抗议活动, 屏幕文字, the countryside, fire",
+      "keywords": "a protest,a news studio,a flag,an explosion,flooding,police,text on screen,military,抗议活动,屏幕文字,the countryside,fire,a building,新闻演播室,a crowd,a map,a river,a horse,a ship,a speech",
       "visual_labels": [
         {
-          "label": "烟雾",
-          "score": 0.3807
-        },
-        {
-          "label": "人群",
-          "score": 0.379
-        },
-        {
-          "label": "爆炸",
-          "score": 0.3693
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3653
-        },
-        {
-          "label": "text on screen",
-          "score": 0.3605
-        },
-        {
-          "label": "旗帜",
-          "score": 0.3588
-        },
-        {
-          "label": "海滩",
-          "score": 0.3583
-        },
-        {
-          "label": "a forest",
-          "score": 0.3571
-        },
-        {
-          "label": "演讲",
-          "score": 0.3538
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.3532
-        },
-        {
-          "label": "奔跑",
-          "score": 0.3484
-        },
-        {
-          "label": "动物",
-          "score": 0.3484
-        },
-        {
-          "label": "人",
-          "score": 0.3484
-        },
-        {
-          "label": "河流",
-          "score": 0.3465
-        },
-        {
-          "label": "a beach",
-          "score": 0.3457
+          "label": "a protest",
+          "score": 0.4152
         },
         {
           "label": "a news studio",
-          "score": 0.3456
-        },
-        {
-          "label": "地图",
-          "score": 0.3446
-        },
-        {
-          "label": "森林",
-          "score": 0.3428
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3416
-        },
-        {
-          "label": "树林",
-          "score": 0.3403
-        }
-      ]
-    },
-    {
-      "id": "DW_20261021_000200_The_Day",
-      "title": "DW｜The Day",
-      "source": "DW",
-      "date": "2026-10-21T00:00:00Z",
-      "image_url": "https://archive.org/services/img/DW_20261021_000200_The_Day/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/DW_20261021_000200_The_Day",
-      "description_zh": "画面候选标签：a news studio、新闻演播室、soccer、text on screen、a sports match、a flag、a protest、an explosion、屏幕文字、fire、抗议活动、足球",
-      "description_en": "Visual candidate labels: a news studio, 新闻演播室, soccer, text on screen, a sports match, a flag, a protest, an explosion, 屏幕文字, fire, 抗议活动, 足球",
-      "keywords": "a news studio,新闻演播室,soccer,text on screen,a sports match,a flag,a protest,an explosion,屏幕文字,fire,抗议活动,足球,a speech,flooding,a road,police,旗帜,an animal,a building,a river",
-      "visual_labels": [
-        {
-          "label": "a news studio",
-          "score": 0.4048
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.3976
-        },
-        {
-          "label": "soccer",
-          "score": 0.3814
-        },
-        {
-          "label": "text on screen",
-          "score": 0.3738
-        },
-        {
-          "label": "a sports match",
-          "score": 0.3729
+          "score": 0.4098
         },
         {
           "label": "a flag",
-          "score": 0.3565
-        },
-        {
-          "label": "a protest",
-          "score": 0.356
+          "score": 0.4007
         },
         {
           "label": "an explosion",
-          "score": 0.3526
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3523
-        },
-        {
-          "label": "fire",
-          "score": 0.3435
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3353
-        },
-        {
-          "label": "足球",
-          "score": 0.3328
-        },
-        {
-          "label": "a speech",
-          "score": 0.3322
+          "score": 0.3977
         },
         {
           "label": "flooding",
-          "score": 0.3257
-        },
-        {
-          "label": "a road",
-          "score": 0.3218
+          "score": 0.382
         },
         {
           "label": "police",
-          "score": 0.3218
+          "score": 0.3737
         },
         {
-          "label": "旗帜",
-          "score": 0.3171
+          "label": "text on screen",
+          "score": 0.3707
         },
         {
-          "label": "an animal",
-          "score": 0.316
+          "label": "military",
+          "score": 0.3699
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3663
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3658
+        },
+        {
+          "label": "the countryside",
+          "score": 0.3638
+        },
+        {
+          "label": "fire",
+          "score": 0.3631
         },
         {
           "label": "a building",
-          "score": 0.3148
+          "score": 0.3617
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3613
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3591
+        },
+        {
+          "label": "a map",
+          "score": 0.359
         },
         {
           "label": "a river",
-          "score": 0.311
+          "score": 0.3584
+        },
+        {
+          "label": "a horse",
+          "score": 0.3578
+        },
+        {
+          "label": "a ship",
+          "score": 0.3559
+        },
+        {
+          "label": "a speech",
+          "score": 0.3519
         }
       ]
     },
     {
-      "id": "DW_20261021_000000_DW_News",
-      "title": "people were killed in the disputed border area of yeah, on monday the regions information master said when around",
-      "source": "DW",
+      "id": "ALJAZ_20261021_043000",
+      "title": "president donald trump has been back out on the campaign trail in north carolina ahead of they've been this mid term elections.",
+      "source": "ALJAZ",
       "date": "2026-10-21T00:00:00Z",
-      "image_url": "https://archive.org/services/img/DW_20261021_000000_DW_News/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/DW_20261021_000000_DW_News",
-      "description_zh": "画面候选标签：a speech、text on screen、a news studio、a protest、a flag、屏幕文字、an explosion、fire、a building、a map、smoke、a road",
-      "description_en": "Visual candidate labels: a speech, text on screen, a news studio, a protest, a flag, 屏幕文字, an explosion, fire, a building, a map, smoke, a road",
-      "keywords": "a speech,text on screen,a news studio,a protest,a flag,屏幕文字,an explosion,fire,a building,a map,smoke,a road,a river,flooding,a crowd,a sports match,演讲,a train,抗议活动,新闻演播室",
+      "image_url": "https://archive.org/services/img/ALJAZ_20261021_043000/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/ALJAZ_20261021_043000",
+      "description_zh": "画面候选标签：a building、a news studio、a map、a crowd、a flag、flooding、an explosion、a mountain、a city street、basketball、a ship、a river",
+      "description_en": "Visual candidate labels: a building, a news studio, a map, a crowd, a flag, flooding, an explosion, a mountain, a city street, basketball, a ship, a river",
+      "keywords": "a building,a news studio,a map,a crowd,a flag,flooding,an explosion,a mountain,a city street,basketball,a ship,a river,a protest,text on screen,police,soccer,抗议活动,smoke,a road,an animal",
       "visual_labels": [
         {
-          "label": "a speech",
-          "score": 0.4246
-        },
-        {
-          "label": "text on screen",
-          "score": 0.4225
+          "label": "a building",
+          "score": 0.3887
         },
         {
           "label": "a news studio",
-          "score": 0.4002
-        },
-        {
-          "label": "a protest",
-          "score": 0.387
-        },
-        {
-          "label": "a flag",
-          "score": 0.3845
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3829
-        },
-        {
-          "label": "an explosion",
-          "score": 0.381
-        },
-        {
-          "label": "fire",
-          "score": 0.3796
-        },
-        {
-          "label": "a building",
-          "score": 0.3759
+          "score": 0.3766
         },
         {
           "label": "a map",
-          "score": 0.3748
-        },
-        {
-          "label": "smoke",
-          "score": 0.368
-        },
-        {
-          "label": "a road",
-          "score": 0.3678
-        },
-        {
-          "label": "a river",
-          "score": 0.3663
-        },
-        {
-          "label": "flooding",
-          "score": 0.365
+          "score": 0.3736
         },
         {
           "label": "a crowd",
-          "score": 0.3636
+          "score": 0.3687
         },
         {
-          "label": "a sports match",
-          "score": 0.3619
+          "label": "a flag",
+          "score": 0.3657
         },
         {
-          "label": "演讲",
-          "score": 0.3608
+          "label": "flooding",
+          "score": 0.3627
         },
         {
-          "label": "a train",
-          "score": 0.3588
+          "label": "an explosion",
+          "score": 0.3624
+        },
+        {
+          "label": "a mountain",
+          "score": 0.3603
+        },
+        {
+          "label": "a city street",
+          "score": 0.3571
+        },
+        {
+          "label": "basketball",
+          "score": 0.354
+        },
+        {
+          "label": "a ship",
+          "score": 0.3532
+        },
+        {
+          "label": "a river",
+          "score": 0.3532
+        },
+        {
+          "label": "a protest",
+          "score": 0.3531
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3528
+        },
+        {
+          "label": "police",
+          "score": 0.3508
+        },
+        {
+          "label": "soccer",
+          "score": 0.3497
         },
         {
           "label": "抗议活动",
-          "score": 0.3548
+          "score": 0.3488
         },
         {
-          "label": "新闻演播室",
-          "score": 0.3544
+          "label": "smoke",
+          "score": 0.3484
+        },
+        {
+          "label": "a road",
+          "score": 0.3481
+        },
+        {
+          "label": "an animal",
+          "score": 0.3472
+        }
+      ]
+    },
+    {
+      "id": "RT_20261021_013000_CrossTalk",
+      "title": "know when i or original location basically is a house was individuals have come together to form a cold, holler and they've created rules on how their community operates and how th…",
+      "source": "RT",
+      "date": "2026-10-21T00:00:00Z",
+      "image_url": "https://archive.org/services/img/RT_20261021_013000_CrossTalk/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/RT_20261021_013000_CrossTalk",
+      "description_zh": "画面候选标签：text on screen、an explosion、an animal、flooding、a building、a news studio、a protest、a horse、a flag、a forest、the countryside、a train",
+      "description_en": "Visual candidate labels: text on screen, an explosion, an animal, flooding, a building, a news studio, a protest, a horse, a flag, a forest, the countryside, a train",
+      "keywords": "text on screen,an explosion,an animal,flooding,a building,a news studio,a protest,a horse,a flag,a forest,the countryside,a train,military,fire,抗议活动,running,a map,a truck,an airplane,police",
+      "visual_labels": [
+        {
+          "label": "text on screen",
+          "score": 0.4308
+        },
+        {
+          "label": "an explosion",
+          "score": 0.429
+        },
+        {
+          "label": "an animal",
+          "score": 0.4259
+        },
+        {
+          "label": "flooding",
+          "score": 0.4241
+        },
+        {
+          "label": "a building",
+          "score": 0.4133
+        },
+        {
+          "label": "a news studio",
+          "score": 0.4099
+        },
+        {
+          "label": "a protest",
+          "score": 0.4006
+        },
+        {
+          "label": "a horse",
+          "score": 0.3962
+        },
+        {
+          "label": "a flag",
+          "score": 0.3961
+        },
+        {
+          "label": "a forest",
+          "score": 0.3867
+        },
+        {
+          "label": "the countryside",
+          "score": 0.3825
+        },
+        {
+          "label": "a train",
+          "score": 0.3818
+        },
+        {
+          "label": "military",
+          "score": 0.3816
+        },
+        {
+          "label": "fire",
+          "score": 0.3806
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3757
+        },
+        {
+          "label": "running",
+          "score": 0.3751
+        },
+        {
+          "label": "a map",
+          "score": 0.3751
+        },
+        {
+          "label": "a truck",
+          "score": 0.371
+        },
+        {
+          "label": "an airplane",
+          "score": 0.3645
+        },
+        {
+          "label": "police",
+          "score": 0.3607
         }
       ]
     }
