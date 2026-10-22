@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-22T13:46:19+00:00",
+  "generated_at": "2026-10-22T18:31:21+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
-  "records": 2,
+  "records": 1,
   "items": [
     {
       "id": "KGO_20261022_010000_ABC7_Eyewitness_News_600PM",
@@ -94,99 +94,6 @@
         {
           "label": "police",
           "score": 0.3502
-        }
-      ]
-    },
-    {
-      "id": "CSPAN_20261022_024800_Campaign_2026_Sen._Susan_Collins_R-ME_Campaigns_with_Fmr._Sen._Joe...",
-      "title": "CSPAN｜Campaign 2026 Sen. Susan Collins (R-ME) Campaigns with Fmr. Sen. Joe Manchin (I-WV)",
-      "source": "CSPAN",
-      "date": "2026-10-22T00:00:00Z",
-      "image_url": "https://archive.org/services/img/CSPAN_20261022_024800_Campaign_2026_Sen._Susan_Collins_R-ME_Campaigns_with_Fmr._Sen._Joe.../full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/CSPAN_20261022_024800_Campaign_2026_Sen._Susan_Collins_R-ME_Campaigns_with_Fmr._Sen._Joe...",
-      "description_zh": "画面候选标签：a protest、a news studio、a speech、a sports match、新闻演播室、text on screen、an explosion、a flag、抗议活动、an animal、military、a mountain",
-      "description_en": "Visual candidate labels: a protest, a news studio, a speech, a sports match, 新闻演播室, text on screen, an explosion, a flag, 抗议活动, an animal, military, a mountain",
-      "keywords": "a protest,a news studio,a speech,a sports match,新闻演播室,text on screen,an explosion,a flag,抗议活动,an animal,military,a mountain,smoke,a car,a map,a building,屏幕文字,police,a train,a road",
-      "visual_labels": [
-        {
-          "label": "a protest",
-          "score": 0.415
-        },
-        {
-          "label": "a news studio",
-          "score": 0.3999
-        },
-        {
-          "label": "a speech",
-          "score": 0.3777
-        },
-        {
-          "label": "a sports match",
-          "score": 0.3768
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.3732
-        },
-        {
-          "label": "text on screen",
-          "score": 0.3709
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3682
-        },
-        {
-          "label": "a flag",
-          "score": 0.3667
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.359
-        },
-        {
-          "label": "an animal",
-          "score": 0.3577
-        },
-        {
-          "label": "military",
-          "score": 0.3544
-        },
-        {
-          "label": "a mountain",
-          "score": 0.3454
-        },
-        {
-          "label": "smoke",
-          "score": 0.3453
-        },
-        {
-          "label": "a car",
-          "score": 0.345
-        },
-        {
-          "label": "a map",
-          "score": 0.3439
-        },
-        {
-          "label": "a building",
-          "score": 0.3433
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.342
-        },
-        {
-          "label": "police",
-          "score": 0.3415
-        },
-        {
-          "label": "a train",
-          "score": 0.3398
-        },
-        {
-          "label": "a road",
-          "score": 0.3364
         }
       ]
     }
