@@ -1,192 +1,99 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-22T01:29:35+00:00",
+  "generated_at": "2026-10-22T07:32:46+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
-  "records": 2,
+  "records": 1,
   "items": [
     {
-      "id": "KSTS_20261022_000000_Noticiero_Telemundo_48",
-      "title": "que ella esté abrazando a su mamá porque las crías permanecen junto a sus progenitoras durante unos seis meses.",
-      "source": "KSTS",
+      "id": "KGO_20261022_010000_ABC7_Eyewitness_News_600PM",
+      "title": "lighter, spotty showers, as you will notice around linda mar boulevard, skyline boulevard on the peninsula and points southward from monterey down towards king city.",
+      "source": "KGO",
       "date": "2026-10-22T00:00:00Z",
-      "image_url": "https://archive.org/services/img/KSTS_20261022_000000_Noticiero_Telemundo_48/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/KSTS_20261022_000000_Noticiero_Telemundo_48",
-      "description_zh": "画面候选标签：an explosion、an animal、a news studio、a crowd、soccer、flooding、text on screen、a protest、police、a horse、smoke、a speech",
-      "description_en": "Visual candidate labels: an explosion, an animal, a news studio, a crowd, soccer, flooding, text on screen, a protest, police, a horse, smoke, a speech",
-      "keywords": "an explosion,an animal,a news studio,a crowd,soccer,flooding,text on screen,a protest,police,a horse,smoke,a speech,a forest,抗议活动,a map,fire,a road,动物,a building,a mountain",
+      "image_url": "https://archive.org/services/img/KGO_20261022_010000_ABC7_Eyewitness_News_600PM/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/KGO_20261022_010000_ABC7_Eyewitness_News_600PM",
+      "description_zh": "画面候选标签：flooding、an explosion、a news studio、text on screen、a map、a protest、新闻演播室、smoke、a mountain、a river、fire、a speech",
+      "description_en": "Visual candidate labels: flooding, an explosion, a news studio, text on screen, a map, a protest, 新闻演播室, smoke, a mountain, a river, fire, a speech",
+      "keywords": "flooding,an explosion,a news studio,text on screen,a map,a protest,新闻演播室,smoke,a mountain,a river,fire,a speech,a crowd,an airplane,抗议活动,洪水,a train,military,a forest,police",
       "visual_labels": [
-        {
-          "label": "an explosion",
-          "score": 0.4073
-        },
-        {
-          "label": "an animal",
-          "score": 0.3954
-        },
-        {
-          "label": "a news studio",
-          "score": 0.3938
-        },
-        {
-          "label": "a crowd",
-          "score": 0.3833
-        },
-        {
-          "label": "soccer",
-          "score": 0.3817
-        },
         {
           "label": "flooding",
-          "score": 0.381
-        },
-        {
-          "label": "text on screen",
-          "score": 0.3802
-        },
-        {
-          "label": "a protest",
-          "score": 0.3765
-        },
-        {
-          "label": "police",
-          "score": 0.3732
-        },
-        {
-          "label": "a horse",
-          "score": 0.373
-        },
-        {
-          "label": "smoke",
-          "score": 0.3667
-        },
-        {
-          "label": "a speech",
-          "score": 0.3603
-        },
-        {
-          "label": "a forest",
-          "score": 0.3566
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3543
-        },
-        {
-          "label": "a map",
-          "score": 0.354
-        },
-        {
-          "label": "fire",
-          "score": 0.3502
-        },
-        {
-          "label": "a road",
-          "score": 0.3482
-        },
-        {
-          "label": "动物",
-          "score": 0.3441
-        },
-        {
-          "label": "a building",
-          "score": 0.3431
-        },
-        {
-          "label": "a mountain",
-          "score": 0.3416
-        }
-      ]
-    },
-    {
-      "id": "KRON_20261022_000000_KRON_4_News_at_5pm",
-      "title": "KRON｜KRON 4 News at 5pm",
-      "source": "KRON",
-      "date": "2026-10-22T00:00:00Z",
-      "image_url": "https://archive.org/services/img/KRON_20261022_000000_KRON_4_News_at_5pm/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/KRON_20261022_000000_KRON_4_News_at_5pm",
-      "description_zh": "画面候选标签：a news studio、text on screen、a protest、an explosion、smoke、police、a road、a speech、a sports match、屏幕文字、a city street、a train",
-      "description_en": "Visual candidate labels: a news studio, text on screen, a protest, an explosion, smoke, police, a road, a speech, a sports match, 屏幕文字, a city street, a train",
-      "keywords": "a news studio,text on screen,a protest,an explosion,smoke,police,a road,a speech,a sports match,屏幕文字,a city street,a train,soccer,警察,a map,an airplane,a river,a car,新闻演播室,basketball",
-      "visual_labels": [
-        {
-          "label": "a news studio",
-          "score": 0.4288
-        },
-        {
-          "label": "text on screen",
-          "score": 0.4232
-        },
-        {
-          "label": "a protest",
-          "score": 0.4031
+          "score": 0.4564
         },
         {
           "label": "an explosion",
-          "score": 0.401
+          "score": 0.4164
         },
         {
-          "label": "smoke",
-          "score": 0.3912
+          "label": "a news studio",
+          "score": 0.4088
         },
         {
-          "label": "police",
-          "score": 0.3907
-        },
-        {
-          "label": "a road",
-          "score": 0.3884
-        },
-        {
-          "label": "a speech",
-          "score": 0.3822
-        },
-        {
-          "label": "a sports match",
-          "score": 0.382
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3722
-        },
-        {
-          "label": "a city street",
-          "score": 0.371
-        },
-        {
-          "label": "a train",
-          "score": 0.3709
-        },
-        {
-          "label": "soccer",
-          "score": 0.3643
-        },
-        {
-          "label": "警察",
-          "score": 0.3638
+          "label": "text on screen",
+          "score": 0.4005
         },
         {
           "label": "a map",
-          "score": 0.3617
+          "score": 0.3892
         },
         {
-          "label": "an airplane",
-          "score": 0.3581
-        },
-        {
-          "label": "a river",
-          "score": 0.3579
-        },
-        {
-          "label": "a car",
-          "score": 0.3576
+          "label": "a protest",
+          "score": 0.3838
         },
         {
           "label": "新闻演播室",
+          "score": 0.3822
+        },
+        {
+          "label": "smoke",
+          "score": 0.3766
+        },
+        {
+          "label": "a mountain",
+          "score": 0.3733
+        },
+        {
+          "label": "a river",
+          "score": 0.37
+        },
+        {
+          "label": "fire",
+          "score": 0.3684
+        },
+        {
+          "label": "a speech",
+          "score": 0.3634
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3623
+        },
+        {
+          "label": "an airplane",
+          "score": 0.3609
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3582
+        },
+        {
+          "label": "洪水",
+          "score": 0.3581
+        },
+        {
+          "label": "a train",
           "score": 0.3566
         },
         {
-          "label": "basketball",
-          "score": 0.3561
+          "label": "military",
+          "score": 0.3557
+        },
+        {
+          "label": "a forest",
+          "score": 0.3528
+        },
+        {
+          "label": "police",
+          "score": 0.3502
         }
       ]
     }
