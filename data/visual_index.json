@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-23T07:29:20+00:00",
+  "generated_at": "2026-10-23T13:24:20+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
   "records": 3,
   "items": [
@@ -98,188 +98,188 @@
       ]
     },
     {
-      "id": "CSPAN_20261023_003800_Attorney_Gen._Blanche__FBI_Director_Patel_Announce_Indictment_Charges...",
-      "title": "CSPAN｜Attorney Gen. Blanche & FBI Director Patel Announce Indictment Charges Against VA State Sen.",
-      "source": "CSPAN",
+      "id": "DW_20261023_090000_DW_News",
+      "title": "the is really military says it has killed 2 men who launched an attack in the occupied westbank emergency responders say 5 people have been injured in hebron following the shooting…",
+      "source": "DW",
       "date": "2026-10-23T00:00:00Z",
-      "image_url": "https://archive.org/services/img/CSPAN_20261023_003800_Attorney_Gen._Blanche__FBI_Director_Patel_Announce_Indictment_Charges.../full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/CSPAN_20261023_003800_Attorney_Gen._Blanche__FBI_Director_Patel_Announce_Indictment_Charges...",
-      "description_zh": "画面候选标签：a protest、a news studio、a speech、police、新闻演播室、an explosion、a road、抗议活动、a flag、a ship、text on screen、fire",
-      "description_en": "Visual candidate labels: a protest, a news studio, a speech, police, 新闻演播室, an explosion, a road, 抗议活动, a flag, a ship, text on screen, fire",
-      "keywords": "a protest,a news studio,a speech,police,新闻演播室,an explosion,a road,抗议活动,a flag,a ship,text on screen,fire,a building,an animal,a crowd,smoke,a car,a truck,a beach,basketball",
+      "image_url": "https://archive.org/services/img/DW_20261023_090000_DW_News/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261023_090000_DW_News",
+      "description_zh": "画面候选标签：military、军队、抗议活动、a protest、an explosion、a flag、a crowd、fire、a news studio、text on screen、police、屏幕文字",
+      "description_en": "Visual candidate labels: military, 军队, 抗议活动, a protest, an explosion, a flag, a crowd, fire, a news studio, text on screen, police, 屏幕文字",
+      "keywords": "military,军队,抗议活动,a protest,an explosion,a flag,a crowd,fire,a news studio,text on screen,police,屏幕文字,旗帜,running,a beach,警察,flooding,a map,soccer,人群",
       "visual_labels": [
         {
-          "label": "a protest",
-          "score": 0.4477
+          "label": "military",
+          "score": 0.4047
         },
         {
-          "label": "a news studio",
-          "score": 0.4457
-        },
-        {
-          "label": "a speech",
-          "score": 0.426
-        },
-        {
-          "label": "police",
-          "score": 0.4217
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.3986
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3851
-        },
-        {
-          "label": "a road",
-          "score": 0.3817
+          "label": "军队",
+          "score": 0.3918
         },
         {
           "label": "抗议活动",
-          "score": 0.3811
-        },
-        {
-          "label": "a flag",
           "score": 0.3803
         },
         {
-          "label": "a ship",
-          "score": 0.3789
+          "label": "a protest",
+          "score": 0.3707
         },
         {
-          "label": "text on screen",
-          "score": 0.3761
+          "label": "an explosion",
+          "score": 0.3676
         },
         {
-          "label": "fire",
-          "score": 0.3755
-        },
-        {
-          "label": "a building",
-          "score": 0.3753
-        },
-        {
-          "label": "an animal",
-          "score": 0.3744
+          "label": "a flag",
+          "score": 0.3606
         },
         {
           "label": "a crowd",
-          "score": 0.3684
+          "score": 0.3604
         },
         {
-          "label": "smoke",
-          "score": 0.3653
+          "label": "fire",
+          "score": 0.3567
         },
         {
-          "label": "a car",
-          "score": 0.3639
+          "label": "a news studio",
+          "score": 0.3563
         },
         {
-          "label": "a truck",
-          "score": 0.3625
+          "label": "text on screen",
+          "score": 0.3541
+        },
+        {
+          "label": "police",
+          "score": 0.3535
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3513
+        },
+        {
+          "label": "旗帜",
+          "score": 0.3507
+        },
+        {
+          "label": "running",
+          "score": 0.3472
         },
         {
           "label": "a beach",
-          "score": 0.3624
+          "score": 0.3472
         },
         {
-          "label": "basketball",
-          "score": 0.362
+          "label": "警察",
+          "score": 0.341
+        },
+        {
+          "label": "flooding",
+          "score": 0.3379
+        },
+        {
+          "label": "a map",
+          "score": 0.3323
+        },
+        {
+          "label": "soccer",
+          "score": 0.3308
+        },
+        {
+          "label": "人群",
+          "score": 0.3293
         }
       ]
     },
     {
-      "id": "BBCNEWS_20261023_024500_BBC_Sport",
-      "title": "brilliant brilliant brook harry becomes the the first england batter to make make a double century in a one day day international and world cup winner winner phil vickery swaps rug…",
-      "source": "BBCNEWS",
+      "id": "CNNW_20261023_060000_Anderson_Cooper_360",
+      "title": "the president about to take the stage in iowa tonight.",
+      "source": "CNNW",
       "date": "2026-10-23T00:00:00Z",
-      "image_url": "https://archive.org/services/img/BBCNEWS_20261023_024500_BBC_Sport/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/BBCNEWS_20261023_024500_BBC_Sport",
-      "description_zh": "画面候选标签：a news studio、a sports match、basketball、soccer、a flag、text on screen、a protest、新闻演播室、a speech、体育比赛、a car、a forest",
-      "description_en": "Visual candidate labels: a news studio, a sports match, basketball, soccer, a flag, text on screen, a protest, 新闻演播室, a speech, 体育比赛, a car, a forest",
-      "keywords": "a news studio,a sports match,basketball,soccer,a flag,text on screen,a protest,新闻演播室,a speech,体育比赛,a car,a forest,a river,a beach,an animal,a building,a road,a mountain,屏幕文字,running",
+      "image_url": "https://archive.org/services/img/CNNW_20261023_060000_Anderson_Cooper_360/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/CNNW_20261023_060000_Anderson_Cooper_360",
+      "description_zh": "画面候选标签：a speech、a news studio、text on screen、演讲、屏幕文字、新闻演播室、a protest、人、a building、an explosion、a flag、抗议活动",
+      "description_en": "Visual candidate labels: a speech, a news studio, text on screen, 演讲, 屏幕文字, 新闻演播室, a protest, 人, a building, an explosion, a flag, 抗议活动",
+      "keywords": "a speech,a news studio,text on screen,演讲,屏幕文字,新闻演播室,a protest,人,a building,an explosion,a flag,抗议活动,a river,警察,an animal,fire,地图,a map,a road,建筑物",
       "visual_labels": [
         {
+          "label": "a speech",
+          "score": 0.4138
+        },
+        {
           "label": "a news studio",
-          "score": 0.4627
-        },
-        {
-          "label": "a sports match",
-          "score": 0.4573
-        },
-        {
-          "label": "basketball",
-          "score": 0.4109
-        },
-        {
-          "label": "soccer",
-          "score": 0.4072
-        },
-        {
-          "label": "a flag",
-          "score": 0.402
+          "score": 0.3922
         },
         {
           "label": "text on screen",
-          "score": 0.4005
+          "score": 0.3851
         },
         {
-          "label": "a protest",
-          "score": 0.3981
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.3917
-        },
-        {
-          "label": "a speech",
-          "score": 0.3915
-        },
-        {
-          "label": "体育比赛",
-          "score": 0.3844
-        },
-        {
-          "label": "a car",
-          "score": 0.3772
-        },
-        {
-          "label": "a forest",
-          "score": 0.3751
-        },
-        {
-          "label": "a river",
-          "score": 0.3749
-        },
-        {
-          "label": "a beach",
-          "score": 0.3736
-        },
-        {
-          "label": "an animal",
-          "score": 0.3732
-        },
-        {
-          "label": "a building",
-          "score": 0.3698
-        },
-        {
-          "label": "a road",
-          "score": 0.3689
-        },
-        {
-          "label": "a mountain",
-          "score": 0.3676
+          "label": "演讲",
+          "score": 0.3848
         },
         {
           "label": "屏幕文字",
-          "score": 0.3654
+          "score": 0.384
         },
         {
-          "label": "running",
-          "score": 0.365
+          "label": "新闻演播室",
+          "score": 0.3749
+        },
+        {
+          "label": "a protest",
+          "score": 0.3715
+        },
+        {
+          "label": "人",
+          "score": 0.3706
+        },
+        {
+          "label": "a building",
+          "score": 0.3652
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3617
+        },
+        {
+          "label": "a flag",
+          "score": 0.3553
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3503
+        },
+        {
+          "label": "a river",
+          "score": 0.345
+        },
+        {
+          "label": "警察",
+          "score": 0.3431
+        },
+        {
+          "label": "an animal",
+          "score": 0.3416
+        },
+        {
+          "label": "fire",
+          "score": 0.3413
+        },
+        {
+          "label": "地图",
+          "score": 0.3409
+        },
+        {
+          "label": "a map",
+          "score": 0.3405
+        },
+        {
+          "label": "a road",
+          "score": 0.3384
+        },
+        {
+          "label": "建筑物",
+          "score": 0.3375
         }
       ]
     }
