@@ -1,99 +1,285 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-22T18:31:21+00:00",
+  "generated_at": "2026-10-23T01:29:13+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
-  "records": 1,
+  "records": 3,
   "items": [
     {
-      "id": "KGO_20261022_010000_ABC7_Eyewitness_News_600PM",
-      "title": "lighter, spotty showers, as you will notice around linda mar boulevard, skyline boulevard on the peninsula and points southward from monterey down towards king city.",
-      "source": "KGO",
-      "date": "2026-10-22T00:00:00Z",
-      "image_url": "https://archive.org/services/img/KGO_20261022_010000_ABC7_Eyewitness_News_600PM/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/KGO_20261022_010000_ABC7_Eyewitness_News_600PM",
-      "description_zh": "画面候选标签：flooding、an explosion、a news studio、text on screen、a map、a protest、新闻演播室、smoke、a mountain、a river、fire、a speech",
-      "description_en": "Visual candidate labels: flooding, an explosion, a news studio, text on screen, a map, a protest, 新闻演播室, smoke, a mountain, a river, fire, a speech",
-      "keywords": "flooding,an explosion,a news studio,text on screen,a map,a protest,新闻演播室,smoke,a mountain,a river,fire,a speech,a crowd,an airplane,抗议活动,洪水,a train,military,a forest,police",
+      "id": "BBCNEWS_20261023_000000_BBC_News",
+      "title": "kyiv counts counts the cost of another night night of deadly russian missile strikes strikes as vladimir putin says any any negotiations to end the war in in ukraine should focus o…",
+      "source": "BBCNEWS",
+      "date": "2026-10-23T00:00:00Z",
+      "image_url": "https://archive.org/services/img/BBCNEWS_20261023_000000_BBC_News/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/BBCNEWS_20261023_000000_BBC_News",
+      "description_zh": "画面候选标签：a news studio、a building、新闻演播室、a city street、text on screen、an explosion、城市街道、fire、建筑物、police、烟雾、爆炸",
+      "description_en": "Visual candidate labels: a news studio, a building, 新闻演播室, a city street, text on screen, an explosion, 城市街道, fire, 建筑物, police, 烟雾, 爆炸",
+      "keywords": "a news studio,a building,新闻演播室,a city street,text on screen,an explosion,城市街道,fire,建筑物,police,烟雾,爆炸,a protest,屏幕文字,抗议活动,a road,a speech,basketball,a map,警察",
       "visual_labels": [
         {
-          "label": "flooding",
-          "score": 0.4564
-        },
-        {
-          "label": "an explosion",
-          "score": 0.4164
-        },
-        {
           "label": "a news studio",
-          "score": 0.4088
+          "score": 0.4809
         },
         {
-          "label": "text on screen",
-          "score": 0.4005
-        },
-        {
-          "label": "a map",
-          "score": 0.3892
-        },
-        {
-          "label": "a protest",
-          "score": 0.3838
+          "label": "a building",
+          "score": 0.4244
         },
         {
           "label": "新闻演播室",
-          "score": 0.3822
+          "score": 0.4197
         },
         {
-          "label": "smoke",
-          "score": 0.3766
+          "label": "a city street",
+          "score": 0.3875
         },
         {
-          "label": "a mountain",
-          "score": 0.3733
+          "label": "text on screen",
+          "score": 0.3847
         },
         {
-          "label": "a river",
-          "score": 0.37
+          "label": "an explosion",
+          "score": 0.381
+        },
+        {
+          "label": "城市街道",
+          "score": 0.3744
         },
         {
           "label": "fire",
-          "score": 0.3684
+          "score": 0.3716
         },
         {
-          "label": "a speech",
-          "score": 0.3634
-        },
-        {
-          "label": "a crowd",
-          "score": 0.3623
-        },
-        {
-          "label": "an airplane",
-          "score": 0.3609
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3582
-        },
-        {
-          "label": "洪水",
-          "score": 0.3581
-        },
-        {
-          "label": "a train",
-          "score": 0.3566
-        },
-        {
-          "label": "military",
-          "score": 0.3557
-        },
-        {
-          "label": "a forest",
-          "score": 0.3528
+          "label": "建筑物",
+          "score": 0.3703
         },
         {
           "label": "police",
-          "score": 0.3502
+          "score": 0.3682
+        },
+        {
+          "label": "烟雾",
+          "score": 0.3641
+        },
+        {
+          "label": "爆炸",
+          "score": 0.3637
+        },
+        {
+          "label": "a protest",
+          "score": 0.3623
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3597
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3585
+        },
+        {
+          "label": "a road",
+          "score": 0.3518
+        },
+        {
+          "label": "a speech",
+          "score": 0.3476
+        },
+        {
+          "label": "basketball",
+          "score": 0.3474
+        },
+        {
+          "label": "a map",
+          "score": 0.3474
+        },
+        {
+          "label": "警察",
+          "score": 0.3443
+        }
+      ]
+    },
+    {
+      "id": "DW_20261023_000200_The_Day",
+      "title": "welcome to the we stopped with the final days of campaigning in israel is problem entry elections next tuesday's balance will be one of the biggest political tests yet for prime mi…",
+      "source": "DW",
+      "date": "2026-10-23T00:00:00Z",
+      "image_url": "https://archive.org/services/img/DW_20261023_000200_The_Day/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261023_000200_The_Day",
+      "description_zh": "画面候选标签：a news studio、a protest、text on screen、新闻演播室、a speech、an explosion、a flag、police、a mountain、抗议活动、a river、a building",
+      "description_en": "Visual candidate labels: a news studio, a protest, text on screen, 新闻演播室, a speech, an explosion, a flag, police, a mountain, 抗议活动, a river, a building",
+      "keywords": "a news studio,a protest,text on screen,新闻演播室,a speech,an explosion,a flag,police,a mountain,抗议活动,a river,a building,屏幕文字,fire,a road,a crowd,a train,a ship,a map,flooding",
+      "visual_labels": [
+        {
+          "label": "a news studio",
+          "score": 0.4426
+        },
+        {
+          "label": "a protest",
+          "score": 0.4414
+        },
+        {
+          "label": "text on screen",
+          "score": 0.4138
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.4099
+        },
+        {
+          "label": "a speech",
+          "score": 0.3938
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3933
+        },
+        {
+          "label": "a flag",
+          "score": 0.3773
+        },
+        {
+          "label": "police",
+          "score": 0.3662
+        },
+        {
+          "label": "a mountain",
+          "score": 0.3656
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3652
+        },
+        {
+          "label": "a river",
+          "score": 0.3646
+        },
+        {
+          "label": "a building",
+          "score": 0.3631
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3615
+        },
+        {
+          "label": "fire",
+          "score": 0.3612
+        },
+        {
+          "label": "a road",
+          "score": 0.3582
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3571
+        },
+        {
+          "label": "a train",
+          "score": 0.3556
+        },
+        {
+          "label": "a ship",
+          "score": 0.3544
+        },
+        {
+          "label": "a map",
+          "score": 0.3511
+        },
+        {
+          "label": "flooding",
+          "score": 0.351
+        }
+      ]
+    },
+    {
+      "id": "ALJAZ_20261023_000000",
+      "title": "navy continues the sporting ships through the spray to form move is rarely troops push further beyond the gods of so called yellow line",
+      "source": "ALJAZ",
+      "date": "2026-10-23T00:00:00Z",
+      "image_url": "https://archive.org/services/img/ALJAZ_20261023_000000/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/ALJAZ_20261023_000000",
+      "description_zh": "画面候选标签：a speech、a protest、a news studio、an explosion、a crowd、人群、text on screen、新闻演播室、演讲、a building、屏幕文字、a flag",
+      "description_en": "Visual candidate labels: a speech, a protest, a news studio, an explosion, a crowd, 人群, text on screen, 新闻演播室, 演讲, a building, 屏幕文字, a flag",
+      "keywords": "a speech,a protest,a news studio,an explosion,a crowd,人群,text on screen,新闻演播室,演讲,a building,屏幕文字,a flag,the countryside,烟雾,police,fire,smoke,爆炸,a road,an animal",
+      "visual_labels": [
+        {
+          "label": "a speech",
+          "score": 0.4371
+        },
+        {
+          "label": "a protest",
+          "score": 0.4362
+        },
+        {
+          "label": "a news studio",
+          "score": 0.4308
+        },
+        {
+          "label": "an explosion",
+          "score": 0.4152
+        },
+        {
+          "label": "a crowd",
+          "score": 0.406
+        },
+        {
+          "label": "人群",
+          "score": 0.3978
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3973
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3922
+        },
+        {
+          "label": "演讲",
+          "score": 0.3885
+        },
+        {
+          "label": "a building",
+          "score": 0.3822
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3763
+        },
+        {
+          "label": "a flag",
+          "score": 0.3744
+        },
+        {
+          "label": "the countryside",
+          "score": 0.3669
+        },
+        {
+          "label": "烟雾",
+          "score": 0.3662
+        },
+        {
+          "label": "police",
+          "score": 0.3639
+        },
+        {
+          "label": "fire",
+          "score": 0.3637
+        },
+        {
+          "label": "smoke",
+          "score": 0.3637
+        },
+        {
+          "label": "爆炸",
+          "score": 0.363
+        },
+        {
+          "label": "a road",
+          "score": 0.3598
+        },
+        {
+          "label": "an animal",
+          "score": 0.3592
         }
       ]
     }
