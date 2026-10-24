@@ -1,7 +1,194 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-24T00:40:06+00:00",
+  "generated_at": "2026-10-24T10:56:03+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
-  "records": 0,
-  "items": []
+  "records": 2,
+  "items": [
+    {
+      "id": "DW_20261024_030200_DW_News_Focus",
+      "title": "those tensions, personal and rural communities, hunting, gun rights and family tradition remain powerful political issues and towns hit by economic decline.",
+      "source": "DW",
+      "date": "2026-10-24T00:00:00Z",
+      "image_url": "https://archive.org/services/img/DW_20261024_030200_DW_News_Focus/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261024_030200_DW_News_Focus",
+      "description_zh": "画面候选标签：fire、an explosion、火灾、smoke、a news studio、烟雾、抗议活动、爆炸、a train、text on screen、a truck、military",
+      "description_en": "Visual candidate labels: fire, an explosion, 火灾, smoke, a news studio, 烟雾, 抗议活动, 爆炸, a train, text on screen, a truck, military",
+      "keywords": "fire,an explosion,火灾,smoke,a news studio,烟雾,抗议活动,爆炸,a train,text on screen,a truck,military,a ship,an airplane,屏幕文字,basketball,新闻演播室,a protest,火车,军队",
+      "visual_labels": [
+        {
+          "label": "fire",
+          "score": 0.4371
+        },
+        {
+          "label": "an explosion",
+          "score": 0.4122
+        },
+        {
+          "label": "火灾",
+          "score": 0.4001
+        },
+        {
+          "label": "smoke",
+          "score": 0.3853
+        },
+        {
+          "label": "a news studio",
+          "score": 0.3712
+        },
+        {
+          "label": "烟雾",
+          "score": 0.37
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3672
+        },
+        {
+          "label": "爆炸",
+          "score": 0.3601
+        },
+        {
+          "label": "a train",
+          "score": 0.3594
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3593
+        },
+        {
+          "label": "a truck",
+          "score": 0.358
+        },
+        {
+          "label": "military",
+          "score": 0.3569
+        },
+        {
+          "label": "a ship",
+          "score": 0.3537
+        },
+        {
+          "label": "an airplane",
+          "score": 0.3462
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3447
+        },
+        {
+          "label": "basketball",
+          "score": 0.3447
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3438
+        },
+        {
+          "label": "a protest",
+          "score": 0.3427
+        },
+        {
+          "label": "火车",
+          "score": 0.341
+        },
+        {
+          "label": "军队",
+          "score": 0.3406
+        }
+      ]
+    },
+    {
+      "id": "KNTV_20261024_000000_NBC_Bay_Area_News_at_5",
+      "title": "san jose firefighters say their first calls came in just after two friday morning, reporting a fire burning cars just outside the new horizon condominiums in san jose.",
+      "source": "KNTV",
+      "date": "2026-10-24T00:00:00Z",
+      "image_url": "https://archive.org/services/img/KNTV_20261024_000000_NBC_Bay_Area_News_at_5/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/KNTV_20261024_000000_NBC_Bay_Area_News_at_5",
+      "description_zh": "画面候选标签：a news studio、an explosion、flooding、fire、a car、新闻演播室、a protest、抗议活动、a truck、text on screen、a road、a building",
+      "description_en": "Visual candidate labels: a news studio, an explosion, flooding, fire, a car, 新闻演播室, a protest, 抗议活动, a truck, text on screen, a road, a building",
+      "keywords": "a news studio,an explosion,flooding,fire,a car,新闻演播室,a protest,抗议活动,a truck,text on screen,a road,a building,a river,a map,police,屏幕文字,火灾,洪水,a forest,a flag",
+      "visual_labels": [
+        {
+          "label": "a news studio",
+          "score": 0.4224
+        },
+        {
+          "label": "an explosion",
+          "score": 0.4123
+        },
+        {
+          "label": "flooding",
+          "score": 0.4108
+        },
+        {
+          "label": "fire",
+          "score": 0.4052
+        },
+        {
+          "label": "a car",
+          "score": 0.3929
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3838
+        },
+        {
+          "label": "a protest",
+          "score": 0.3825
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3755
+        },
+        {
+          "label": "a truck",
+          "score": 0.3752
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3744
+        },
+        {
+          "label": "a road",
+          "score": 0.3711
+        },
+        {
+          "label": "a building",
+          "score": 0.3696
+        },
+        {
+          "label": "a river",
+          "score": 0.3694
+        },
+        {
+          "label": "a map",
+          "score": 0.3633
+        },
+        {
+          "label": "police",
+          "score": 0.358
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3563
+        },
+        {
+          "label": "火灾",
+          "score": 0.3519
+        },
+        {
+          "label": "洪水",
+          "score": 0.3519
+        },
+        {
+          "label": "a forest",
+          "score": 0.3508
+        },
+        {
+          "label": "a flag",
+          "score": 0.3503
+        }
+      ]
+    }
+  ]
 }
