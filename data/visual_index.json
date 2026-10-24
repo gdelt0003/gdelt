@@ -1,192 +1,99 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-24T14:30:56+00:00",
+  "generated_at": "2026-10-24T20:46:32+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
   "records": 3,
   "items": [
     {
-      "id": "DW_20261024_050000_DW_News",
-      "title": "benjamin netanyahu ordered a major military operation and occupied westbank after government killed.",
-      "source": "DW",
+      "id": "RT_20261024_050000_News",
+      "title": "for the murder of the mourners, government opened fire and a church in the jordan targeting a christian funeral service, leaving 7 people dead, dozens more wounded plus this our ju…",
+      "source": "RT",
       "date": "2026-10-24T00:00:00Z",
-      "image_url": "https://archive.org/services/img/DW_20261024_050000_DW_News/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/DW_20261024_050000_DW_News",
-      "description_zh": "画面候选标签：text on screen、a news studio、a speech、屏幕文字、a sports match、a crowd、a building、flooding、a map、新闻演播室、smoke、an explosion",
-      "description_en": "Visual candidate labels: text on screen, a news studio, a speech, 屏幕文字, a sports match, a crowd, a building, flooding, a map, 新闻演播室, smoke, an explosion",
-      "keywords": "text on screen,a news studio,a speech,屏幕文字,a sports match,a crowd,a building,flooding,a map,新闻演播室,smoke,an explosion,抗议活动,a mountain,soccer,a train,旗帜,a protest,basketball,an animal",
+      "image_url": "https://archive.org/services/img/RT_20261024_050000_News/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/RT_20261024_050000_News",
+      "description_zh": "画面候选标签：the countryside、a protest、flooding、a river、an explosion、a train、text on screen、a building、a road、running、抗议活动、a ship",
+      "description_en": "Visual candidate labels: the countryside, a protest, flooding, a river, an explosion, a train, text on screen, a building, a road, running, 抗议活动, a ship",
+      "keywords": "the countryside,a protest,flooding,a river,an explosion,a train,text on screen,a building,a road,running,抗议活动,a ship,a news studio,a city street,a crowd,a beach,a speech,洪水,a flag,a map",
       "visual_labels": [
         {
-          "label": "text on screen",
-          "score": 0.4077
+          "label": "the countryside",
+          "score": 0.4099
         },
         {
-          "label": "a news studio",
-          "score": 0.3939
-        },
-        {
-          "label": "a speech",
-          "score": 0.3687
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3645
-        },
-        {
-          "label": "a sports match",
-          "score": 0.3612
-        },
-        {
-          "label": "a crowd",
-          "score": 0.3554
-        },
-        {
-          "label": "a building",
-          "score": 0.352
+          "label": "a protest",
+          "score": 0.4082
         },
         {
           "label": "flooding",
-          "score": 0.3506
+          "score": 0.4053
         },
         {
-          "label": "a map",
-          "score": 0.3497
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.3484
-        },
-        {
-          "label": "smoke",
-          "score": 0.3469
+          "label": "a river",
+          "score": 0.4048
         },
         {
           "label": "an explosion",
-          "score": 0.3446
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3439
-        },
-        {
-          "label": "a mountain",
-          "score": 0.3436
-        },
-        {
-          "label": "soccer",
-          "score": 0.3426
+          "score": 0.3894
         },
         {
           "label": "a train",
-          "score": 0.3406
-        },
-        {
-          "label": "旗帜",
-          "score": 0.3395
-        },
-        {
-          "label": "a protest",
-          "score": 0.3395
-        },
-        {
-          "label": "basketball",
-          "score": 0.3369
-        },
-        {
-          "label": "an animal",
-          "score": 0.3361
-        }
-      ]
-    },
-    {
-      "id": "DW_20261024_030200_DW_News_Focus",
-      "title": "those tensions, personal and rural communities, hunting, gun rights and family tradition remain powerful political issues and towns hit by economic decline.",
-      "source": "DW",
-      "date": "2026-10-24T00:00:00Z",
-      "image_url": "https://archive.org/services/img/DW_20261024_030200_DW_News_Focus/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/DW_20261024_030200_DW_News_Focus",
-      "description_zh": "画面候选标签：fire、an explosion、火灾、smoke、a news studio、烟雾、抗议活动、爆炸、a train、text on screen、a truck、military",
-      "description_en": "Visual candidate labels: fire, an explosion, 火灾, smoke, a news studio, 烟雾, 抗议活动, 爆炸, a train, text on screen, a truck, military",
-      "keywords": "fire,an explosion,火灾,smoke,a news studio,烟雾,抗议活动,爆炸,a train,text on screen,a truck,military,a ship,an airplane,屏幕文字,basketball,新闻演播室,a protest,火车,军队",
-      "visual_labels": [
-        {
-          "label": "fire",
-          "score": 0.4371
-        },
-        {
-          "label": "an explosion",
-          "score": 0.4122
-        },
-        {
-          "label": "火灾",
-          "score": 0.4001
-        },
-        {
-          "label": "smoke",
           "score": 0.3853
         },
         {
-          "label": "a news studio",
-          "score": 0.3712
+          "label": "text on screen",
+          "score": 0.3811
         },
         {
-          "label": "烟雾",
-          "score": 0.37
+          "label": "a building",
+          "score": 0.3779
+        },
+        {
+          "label": "a road",
+          "score": 0.3756
+        },
+        {
+          "label": "running",
+          "score": 0.3692
         },
         {
           "label": "抗议活动",
-          "score": 0.3672
-        },
-        {
-          "label": "爆炸",
-          "score": 0.3601
-        },
-        {
-          "label": "a train",
-          "score": 0.3594
-        },
-        {
-          "label": "text on screen",
-          "score": 0.3593
-        },
-        {
-          "label": "a truck",
-          "score": 0.358
-        },
-        {
-          "label": "military",
-          "score": 0.3569
+          "score": 0.3679
         },
         {
           "label": "a ship",
-          "score": 0.3537
+          "score": 0.3635
         },
         {
-          "label": "an airplane",
-          "score": 0.3462
+          "label": "a news studio",
+          "score": 0.3613
         },
         {
-          "label": "屏幕文字",
-          "score": 0.3447
+          "label": "a city street",
+          "score": 0.3602
         },
         {
-          "label": "basketball",
-          "score": 0.3447
+          "label": "a crowd",
+          "score": 0.3588
         },
         {
-          "label": "新闻演播室",
-          "score": 0.3438
+          "label": "a beach",
+          "score": 0.3578
         },
         {
-          "label": "a protest",
-          "score": 0.3427
+          "label": "a speech",
+          "score": 0.3564
         },
         {
-          "label": "火车",
-          "score": 0.341
+          "label": "洪水",
+          "score": 0.3558
         },
         {
-          "label": "军队",
-          "score": 0.3406
+          "label": "a flag",
+          "score": 0.3548
+        },
+        {
+          "label": "a map",
+          "score": 0.3533
         }
       ]
     },
@@ -280,6 +187,99 @@
         {
           "label": "a flag",
           "score": 0.3503
+        }
+      ]
+    },
+    {
+      "id": "KQED_20261024_090000_Firing_Line_With_Margaret_Hoover",
+      "title": "israeli prime minister benjamin netanyahu has president trump's support going into tuesday's elections in israel.",
+      "source": "KQED",
+      "date": "2026-10-24T00:00:00Z",
+      "image_url": "https://archive.org/services/img/KQED_20261024_090000_Firing_Line_With_Margaret_Hoover/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/KQED_20261024_090000_Firing_Line_With_Margaret_Hoover",
+      "description_zh": "画面候选标签：a news studio、an explosion、text on screen、人群、a crowd、military、屏幕文字、a speech、a flag、a protest、fire、抗议活动",
+      "description_en": "Visual candidate labels: a news studio, an explosion, text on screen, 人群, a crowd, military, 屏幕文字, a speech, a flag, a protest, fire, 抗议活动",
+      "keywords": "a news studio,an explosion,text on screen,人群,a crowd,military,屏幕文字,a speech,a flag,a protest,fire,抗议活动,烟雾,smoke,police,an airplane,军队,新闻演播室,basketball,a sports match",
+      "visual_labels": [
+        {
+          "label": "a news studio",
+          "score": 0.393
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3883
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3827
+        },
+        {
+          "label": "人群",
+          "score": 0.3764
+        },
+        {
+          "label": "a crowd",
+          "score": 0.373
+        },
+        {
+          "label": "military",
+          "score": 0.3708
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3694
+        },
+        {
+          "label": "a speech",
+          "score": 0.3687
+        },
+        {
+          "label": "a flag",
+          "score": 0.3683
+        },
+        {
+          "label": "a protest",
+          "score": 0.3672
+        },
+        {
+          "label": "fire",
+          "score": 0.364
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3638
+        },
+        {
+          "label": "烟雾",
+          "score": 0.3597
+        },
+        {
+          "label": "smoke",
+          "score": 0.3582
+        },
+        {
+          "label": "police",
+          "score": 0.3573
+        },
+        {
+          "label": "an airplane",
+          "score": 0.3532
+        },
+        {
+          "label": "军队",
+          "score": 0.3524
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3521
+        },
+        {
+          "label": "basketball",
+          "score": 0.3498
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3466
         }
       ]
     }
