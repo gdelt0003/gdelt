@@ -1,9 +1,195 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-25T16:14:10+00:00",
+  "generated_at": "2026-10-25T19:03:46+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
-  "records": 1,
+  "records": 3,
   "items": [
+    {
+      "id": "RT_20261025_050000_News",
+      "title": "RT｜News",
+      "source": "RT",
+      "date": "2026-10-25T00:00:00Z",
+      "image_url": "https://archive.org/services/img/RT_20261025_050000_News/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/RT_20261025_050000_News",
+      "description_zh": "画面候选标签：a speech、a news studio、a protest、新闻演播室、演讲、fire、屏幕文字、text on screen、a flag、an explosion、抗议活动、a building",
+      "description_en": "Visual candidate labels: a speech, a news studio, a protest, 新闻演播室, 演讲, fire, 屏幕文字, text on screen, a flag, an explosion, 抗议活动, a building",
+      "keywords": "a speech,a news studio,a protest,新闻演播室,演讲,fire,屏幕文字,text on screen,a flag,an explosion,抗议活动,a building,a sports match,a forest,人,人群,a car,a river,basketball,an animal",
+      "visual_labels": [
+        {
+          "label": "a speech",
+          "score": 0.4091
+        },
+        {
+          "label": "a news studio",
+          "score": 0.3935
+        },
+        {
+          "label": "a protest",
+          "score": 0.3824
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3719
+        },
+        {
+          "label": "演讲",
+          "score": 0.3716
+        },
+        {
+          "label": "fire",
+          "score": 0.3607
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3593
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3558
+        },
+        {
+          "label": "a flag",
+          "score": 0.3522
+        },
+        {
+          "label": "an explosion",
+          "score": 0.345
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3443
+        },
+        {
+          "label": "a building",
+          "score": 0.3417
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3415
+        },
+        {
+          "label": "a forest",
+          "score": 0.3373
+        },
+        {
+          "label": "人",
+          "score": 0.336
+        },
+        {
+          "label": "人群",
+          "score": 0.3356
+        },
+        {
+          "label": "a car",
+          "score": 0.3343
+        },
+        {
+          "label": "a river",
+          "score": 0.3284
+        },
+        {
+          "label": "basketball",
+          "score": 0.3243
+        },
+        {
+          "label": "an animal",
+          "score": 0.3242
+        }
+      ]
+    },
+    {
+      "id": "SFGTV_20261025_020000_Arts_Commission_Visual_Arts_Committee",
+      "title": "committee on wednesday october 21st first 2026 i'd like to call the meeting to order paris can you take a chair for us here commissioner beltran present commissioner benevides is a…",
+      "source": "SFGTV",
+      "date": "2026-10-25T00:00:00Z",
+      "image_url": "https://archive.org/services/img/SFGTV_20261025_020000_Arts_Commission_Visual_Arts_Committee/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/SFGTV_20261025_020000_Arts_Commission_Visual_Arts_Committee",
+      "description_zh": "画面候选标签：a flag、a news studio、fire、text on screen、a map、a speech、旗帜、soccer、a building、屏幕文字、smoke、a ship",
+      "description_en": "Visual candidate labels: a flag, a news studio, fire, text on screen, a map, a speech, 旗帜, soccer, a building, 屏幕文字, smoke, a ship",
+      "keywords": "a flag,a news studio,fire,text on screen,a map,a speech,旗帜,soccer,a building,屏幕文字,smoke,a ship,新闻演播室,人群,体育比赛,a road,爆炸,演讲,a forest,a city street",
+      "visual_labels": [
+        {
+          "label": "a flag",
+          "score": 0.4037
+        },
+        {
+          "label": "a news studio",
+          "score": 0.3969
+        },
+        {
+          "label": "fire",
+          "score": 0.3886
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3743
+        },
+        {
+          "label": "a map",
+          "score": 0.3718
+        },
+        {
+          "label": "a speech",
+          "score": 0.371
+        },
+        {
+          "label": "旗帜",
+          "score": 0.3672
+        },
+        {
+          "label": "soccer",
+          "score": 0.3666
+        },
+        {
+          "label": "a building",
+          "score": 0.3657
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3616
+        },
+        {
+          "label": "smoke",
+          "score": 0.3603
+        },
+        {
+          "label": "a ship",
+          "score": 0.359
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3564
+        },
+        {
+          "label": "人群",
+          "score": 0.3558
+        },
+        {
+          "label": "体育比赛",
+          "score": 0.3548
+        },
+        {
+          "label": "a road",
+          "score": 0.3547
+        },
+        {
+          "label": "爆炸",
+          "score": 0.354
+        },
+        {
+          "label": "演讲",
+          "score": 0.354
+        },
+        {
+          "label": "a forest",
+          "score": 0.3536
+        },
+        {
+          "label": "a city street",
+          "score": 0.3536
+        }
+      ]
+    },
     {
       "id": "RT_20261025_023000_Documentary",
       "title": "they ruined my life, took away my rights, threw me in prison.",
