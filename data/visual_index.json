@@ -1,7 +1,101 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-26T00:21:12+00:00",
+  "generated_at": "2026-10-26T12:57:26+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
-  "records": 0,
-  "items": []
+  "records": 1,
+  "items": [
+    {
+      "id": "FOXNEWSW_20261026_010000_Sunday_Night_in_America_With_Trey_Gowdy",
+      "title": "folks you should be tripping over your furniture to get your precinct or get your ballot to the mailbox or whatever it takes and you should be doing the same for relatives and frie…",
+      "source": "FOXNEWSW",
+      "date": "2026-10-26T00:00:00Z",
+      "image_url": "https://archive.org/services/img/FOXNEWSW_20261026_010000_Sunday_Night_in_America_With_Trey_Gowdy/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/FOXNEWSW_20261026_010000_Sunday_Night_in_America_With_Trey_Gowdy",
+      "description_zh": "画面候选标签：a news studio、a protest、an explosion、a speech、text on screen、a flag、新闻演播室、a river、a sports match、flooding、basketball、an animal",
+      "description_en": "Visual candidate labels: a news studio, a protest, an explosion, a speech, text on screen, a flag, 新闻演播室, a river, a sports match, flooding, basketball, an animal",
+      "keywords": "a news studio,a protest,an explosion,a speech,text on screen,a flag,新闻演播室,a river,a sports match,flooding,basketball,an animal,a mountain,a crowd,a ship,a building,fire,military,抗议活动,a train",
+      "visual_labels": [
+        {
+          "label": "a news studio",
+          "score": 0.4396
+        },
+        {
+          "label": "a protest",
+          "score": 0.4157
+        },
+        {
+          "label": "an explosion",
+          "score": 0.4044
+        },
+        {
+          "label": "a speech",
+          "score": 0.3895
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3839
+        },
+        {
+          "label": "a flag",
+          "score": 0.3797
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3783
+        },
+        {
+          "label": "a river",
+          "score": 0.378
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3725
+        },
+        {
+          "label": "flooding",
+          "score": 0.3668
+        },
+        {
+          "label": "basketball",
+          "score": 0.3664
+        },
+        {
+          "label": "an animal",
+          "score": 0.3647
+        },
+        {
+          "label": "a mountain",
+          "score": 0.3637
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3587
+        },
+        {
+          "label": "a ship",
+          "score": 0.3586
+        },
+        {
+          "label": "a building",
+          "score": 0.3575
+        },
+        {
+          "label": "fire",
+          "score": 0.357
+        },
+        {
+          "label": "military",
+          "score": 0.3558
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3507
+        },
+        {
+          "label": "a train",
+          "score": 0.3486
+        }
+      ]
+    }
+  ]
 }
