@@ -1,285 +1,285 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-26T19:17:06+00:00",
+  "generated_at": "2026-10-27T02:04:03+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
   "records": 3,
   "items": [
     {
-      "id": "PHOENIXTV_20261026_010000",
-      "title": "the presidential candidate of the workers' party, the incumbent president lula, defeated the liberal party candidate, the son of former president jair bolsonaro, flavio bolsonaro…",
-      "source": "PHOENIXTV",
-      "date": "2026-10-26T00:00:00Z",
-      "image_url": "https://archive.org/services/img/PHOENIXTV_20261026_010000/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/PHOENIXTV_20261026_010000",
-      "description_zh": "画面候选标签：烟雾、text on screen、新闻演播室、a speech、a news studio、屏幕文字、爆炸、人群、running、演讲、an explosion、smoke",
-      "description_en": "Visual candidate labels: 烟雾, text on screen, 新闻演播室, a speech, a news studio, 屏幕文字, 爆炸, 人群, running, 演讲, an explosion, smoke",
-      "keywords": "烟雾,text on screen,新闻演播室,a speech,a news studio,屏幕文字,爆炸,人群,running,演讲,an explosion,smoke,fire,旗帜,抗议活动,汽车,a building,奔跑,a ship,a road",
+      "id": "BBCNEWS_20261027_000000_BBC_News",
+      "title": "former fbi director director james comey says he's still still innocent and still not afraid afraid after us justice department department files new charges against against him and…",
+      "source": "BBCNEWS",
+      "date": "2026-10-27T00:00:00Z",
+      "image_url": "https://archive.org/services/img/BBCNEWS_20261027_000000_BBC_News/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/BBCNEWS_20261027_000000_BBC_News",
+      "description_zh": "画面候选标签：a news studio、a building、新闻演播室、a city street、text on screen、an explosion、城市街道、fire、建筑物、police、烟雾、a protest",
+      "description_en": "Visual candidate labels: a news studio, a building, 新闻演播室, a city street, text on screen, an explosion, 城市街道, fire, 建筑物, police, 烟雾, a protest",
+      "keywords": "a news studio,a building,新闻演播室,a city street,text on screen,an explosion,城市街道,fire,建筑物,police,烟雾,a protest,爆炸,屏幕文字,抗议活动,a road,a map,a speech,basketball,a crowd",
       "visual_labels": [
         {
-          "label": "烟雾",
-          "score": 0.4046
+          "label": "a news studio",
+          "score": 0.4812
         },
         {
-          "label": "text on screen",
-          "score": 0.3787
+          "label": "a building",
+          "score": 0.4253
         },
         {
           "label": "新闻演播室",
-          "score": 0.3759
+          "score": 0.4183
         },
         {
-          "label": "a speech",
-          "score": 0.3749
+          "label": "a city street",
+          "score": 0.3881
         },
         {
-          "label": "a news studio",
-          "score": 0.3744
+          "label": "text on screen",
+          "score": 0.3849
         },
         {
-          "label": "屏幕文字",
-          "score": 0.3729
+          "label": "an explosion",
+          "score": 0.3827
+        },
+        {
+          "label": "城市街道",
+          "score": 0.373
+        },
+        {
+          "label": "fire",
+          "score": 0.3725
+        },
+        {
+          "label": "建筑物",
+          "score": 0.3697
+        },
+        {
+          "label": "police",
+          "score": 0.3693
+        },
+        {
+          "label": "烟雾",
+          "score": 0.364
+        },
+        {
+          "label": "a protest",
+          "score": 0.363
         },
         {
           "label": "爆炸",
-          "score": 0.3711
-        },
-        {
-          "label": "人群",
-          "score": 0.3687
-        },
-        {
-          "label": "running",
-          "score": 0.3656
-        },
-        {
-          "label": "演讲",
-          "score": 0.3637
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3637
-        },
-        {
-          "label": "smoke",
-          "score": 0.3607
-        },
-        {
-          "label": "fire",
-          "score": 0.3604
-        },
-        {
-          "label": "旗帜",
-          "score": 0.357
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3545
-        },
-        {
-          "label": "汽车",
-          "score": 0.3523
-        },
-        {
-          "label": "a building",
-          "score": 0.3522
-        },
-        {
-          "label": "奔跑",
-          "score": 0.3511
-        },
-        {
-          "label": "a ship",
-          "score": 0.3488
-        },
-        {
-          "label": "a road",
-          "score": 0.348
-        }
-      ]
-    },
-    {
-      "id": "ZVEZDA_20261026_053000",
-      "title": "strongest explosions in odesa region, a large group of drones attacked port ilyichovsk.",
-      "source": "ZVEZDA",
-      "date": "2026-10-26T00:00:00Z",
-      "image_url": "https://archive.org/services/img/ZVEZDA_20261026_053000/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/ZVEZDA_20261026_053000",
-      "description_zh": "画面候选标签：a news studio、text on screen、a speech、a protest、新闻演播室、a train、an explosion、an animal、fire、a road、a river、a horse",
-      "description_en": "Visual candidate labels: a news studio, text on screen, a speech, a protest, 新闻演播室, a train, an explosion, an animal, fire, a road, a river, a horse",
-      "keywords": "a news studio,text on screen,a speech,a protest,新闻演播室,a train,an explosion,an animal,fire,a road,a river,a horse,a sports match,smoke,a forest,屏幕文字,a building,a mountain,a map,抗议活动",
-      "visual_labels": [
-        {
-          "label": "a news studio",
-          "score": 0.4131
-        },
-        {
-          "label": "text on screen",
-          "score": 0.3829
-        },
-        {
-          "label": "a speech",
-          "score": 0.3811
-        },
-        {
-          "label": "a protest",
-          "score": 0.3684
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.3624
-        },
-        {
-          "label": "a train",
-          "score": 0.361
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3595
-        },
-        {
-          "label": "an animal",
-          "score": 0.3582
-        },
-        {
-          "label": "fire",
-          "score": 0.3578
-        },
-        {
-          "label": "a road",
-          "score": 0.357
-        },
-        {
-          "label": "a river",
-          "score": 0.3559
-        },
-        {
-          "label": "a horse",
-          "score": 0.3548
-        },
-        {
-          "label": "a sports match",
-          "score": 0.353
-        },
-        {
-          "label": "smoke",
-          "score": 0.3503
-        },
-        {
-          "label": "a forest",
-          "score": 0.3469
+          "score": 0.3626
         },
         {
           "label": "屏幕文字",
-          "score": 0.3448
-        },
-        {
-          "label": "a building",
-          "score": 0.3418
-        },
-        {
-          "label": "a mountain",
-          "score": 0.3407
-        },
-        {
-          "label": "a map",
-          "score": 0.3406
+          "score": 0.3586
         },
         {
           "label": "抗议活动",
-          "score": 0.3376
-        }
-      ]
-    },
-    {
-      "id": "TVRI_20261026_063000",
-      "title": "for innovation, the award was won by cosmin cristea in brașov county, where students are trained to become electricians, including in photovoltaic systems.",
-      "source": "TVRI",
-      "date": "2026-10-26T00:00:00Z",
-      "image_url": "https://archive.org/services/img/TVRI_20261026_063000/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/TVRI_20261026_063000",
-      "description_zh": "画面候选标签：text on screen、a news studio、a flag、屏幕文字、a sports match、a map、新闻演播室、a speech、a building、an explosion、a protest、soccer",
-      "description_en": "Visual candidate labels: text on screen, a news studio, a flag, 屏幕文字, a sports match, a map, 新闻演播室, a speech, a building, an explosion, a protest, soccer",
-      "keywords": "text on screen,a news studio,a flag,屏幕文字,a sports match,a map,新闻演播室,a speech,a building,an explosion,a protest,soccer,a river,a crowd,a road,a train,fire,basketball,抗议活动,a car",
-      "visual_labels": [
-        {
-          "label": "text on screen",
-          "score": 0.413
-        },
-        {
-          "label": "a news studio",
-          "score": 0.4086
-        },
-        {
-          "label": "a flag",
-          "score": 0.3835
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3757
-        },
-        {
-          "label": "a sports match",
-          "score": 0.3722
-        },
-        {
-          "label": "a map",
-          "score": 0.372
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.3714
-        },
-        {
-          "label": "a speech",
-          "score": 0.3683
-        },
-        {
-          "label": "a building",
-          "score": 0.3677
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3677
-        },
-        {
-          "label": "a protest",
-          "score": 0.365
-        },
-        {
-          "label": "soccer",
-          "score": 0.3588
-        },
-        {
-          "label": "a river",
-          "score": 0.3577
-        },
-        {
-          "label": "a crowd",
-          "score": 0.356
+          "score": 0.3583
         },
         {
           "label": "a road",
-          "score": 0.3546
+          "score": 0.3525
         },
         {
-          "label": "a train",
-          "score": 0.3526
+          "label": "a map",
+          "score": 0.3487
         },
         {
-          "label": "fire",
-          "score": 0.3512
+          "label": "a speech",
+          "score": 0.3477
         },
         {
           "label": "basketball",
-          "score": 0.3509
+          "score": 0.3477
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3444
+        }
+      ]
+    },
+    {
+      "id": "ALJAZ_20261027_000000",
+      "title": "it's not, as policy says, no legit, prison we enough here looted the silver victory results one election plus texas may be on the cost of, of electing his 1st democratic senator in…",
+      "source": "ALJAZ",
+      "date": "2026-10-27T00:00:00Z",
+      "image_url": "https://archive.org/services/img/ALJAZ_20261027_000000/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/ALJAZ_20261027_000000",
+      "description_zh": "画面候选标签：a protest、a news studio、an explosion、a building、text on screen、a flag、a sports match、屏幕文字、抗议活动、an animal、a mountain、military",
+      "description_en": "Visual candidate labels: a protest, a news studio, an explosion, a building, text on screen, a flag, a sports match, 屏幕文字, 抗议活动, an animal, a mountain, military",
+      "keywords": "a protest,a news studio,an explosion,a building,text on screen,a flag,a sports match,屏幕文字,抗议活动,an animal,a mountain,military,a map,a speech,the countryside,新闻演播室,旗帜,a crowd,flooding,a train",
+      "visual_labels": [
+        {
+          "label": "a protest",
+          "score": 0.4293
+        },
+        {
+          "label": "a news studio",
+          "score": 0.3941
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3917
+        },
+        {
+          "label": "a building",
+          "score": 0.3778
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3754
+        },
+        {
+          "label": "a flag",
+          "score": 0.3721
+        },
+        {
+          "label": "a sports match",
+          "score": 0.369
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3617
         },
         {
           "label": "抗议活动",
-          "score": 0.3501
+          "score": 0.3577
         },
         {
+          "label": "an animal",
+          "score": 0.3571
+        },
+        {
+          "label": "a mountain",
+          "score": 0.357
+        },
+        {
+          "label": "military",
+          "score": 0.3497
+        },
+        {
+          "label": "a map",
+          "score": 0.3458
+        },
+        {
+          "label": "a speech",
+          "score": 0.3452
+        },
+        {
+          "label": "the countryside",
+          "score": 0.3404
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3402
+        },
+        {
+          "label": "旗帜",
+          "score": 0.3398
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3394
+        },
+        {
+          "label": "flooding",
+          "score": 0.3324
+        },
+        {
+          "label": "a train",
+          "score": 0.3278
+        }
+      ]
+    },
+    {
+      "id": "KPIX_20261027_000000_CBS_News_Bay_Area_Evening_Edition_5pm",
+      "title": ">> my arms are just like, so excited >> we're going to take you in the middle of all the excitement as the valkyries look to move one step closer to making history with a champions…",
+      "source": "KPIX",
+      "date": "2026-10-27T00:00:00Z",
+      "image_url": "https://archive.org/services/img/KPIX_20261027_000000_CBS_News_Bay_Area_Evening_Edition_5pm/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/KPIX_20261027_000000_CBS_News_Bay_Area_Evening_Edition_5pm",
+      "description_zh": "画面候选标签：a car、屏幕文字、text on screen、a road、烟雾、汽车、an explosion、a city street、a news studio、fire、卡车、道路",
+      "description_en": "Visual candidate labels: a car, 屏幕文字, text on screen, a road, 烟雾, 汽车, an explosion, a city street, a news studio, fire, 卡车, 道路",
+      "keywords": "a car,屏幕文字,text on screen,a road,烟雾,汽车,an explosion,a city street,a news studio,fire,卡车,道路,城市街道,抗议活动,a river,旗帜,a truck,an animal,running,a building",
+      "visual_labels": [
+        {
           "label": "a car",
-          "score": 0.3481
+          "score": 0.3921
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3616
+        },
+        {
+          "label": "text on screen",
+          "score": 0.358
+        },
+        {
+          "label": "a road",
+          "score": 0.3487
+        },
+        {
+          "label": "烟雾",
+          "score": 0.3388
+        },
+        {
+          "label": "汽车",
+          "score": 0.3323
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3318
+        },
+        {
+          "label": "a city street",
+          "score": 0.3208
+        },
+        {
+          "label": "a news studio",
+          "score": 0.3198
+        },
+        {
+          "label": "fire",
+          "score": 0.3189
+        },
+        {
+          "label": "卡车",
+          "score": 0.3141
+        },
+        {
+          "label": "道路",
+          "score": 0.3131
+        },
+        {
+          "label": "城市街道",
+          "score": 0.3114
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3096
+        },
+        {
+          "label": "a river",
+          "score": 0.3081
+        },
+        {
+          "label": "旗帜",
+          "score": 0.3073
+        },
+        {
+          "label": "a truck",
+          "score": 0.3062
+        },
+        {
+          "label": "an animal",
+          "score": 0.3046
+        },
+        {
+          "label": "running",
+          "score": 0.3039
+        },
+        {
+          "label": "a building",
+          "score": 0.302
         }
       ]
     }
