@@ -1,285 +1,285 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-27T02:04:03+00:00",
+  "generated_at": "2026-10-27T07:49:30+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
   "records": 3,
   "items": [
     {
-      "id": "BBCNEWS_20261027_000000_BBC_News",
-      "title": "former fbi director director james comey says he's still still innocent and still not afraid afraid after us justice department department files new charges against against him and…",
-      "source": "BBCNEWS",
-      "date": "2026-10-27T00:00:00Z",
-      "image_url": "https://archive.org/services/img/BBCNEWS_20261027_000000_BBC_News/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/BBCNEWS_20261027_000000_BBC_News",
-      "description_zh": "画面候选标签：a news studio、a building、新闻演播室、a city street、text on screen、an explosion、城市街道、fire、建筑物、police、烟雾、a protest",
-      "description_en": "Visual candidate labels: a news studio, a building, 新闻演播室, a city street, text on screen, an explosion, 城市街道, fire, 建筑物, police, 烟雾, a protest",
-      "keywords": "a news studio,a building,新闻演播室,a city street,text on screen,an explosion,城市街道,fire,建筑物,police,烟雾,a protest,爆炸,屏幕文字,抗议活动,a road,a map,a speech,basketball,a crowd",
-      "visual_labels": [
-        {
-          "label": "a news studio",
-          "score": 0.4812
-        },
-        {
-          "label": "a building",
-          "score": 0.4253
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.4183
-        },
-        {
-          "label": "a city street",
-          "score": 0.3881
-        },
-        {
-          "label": "text on screen",
-          "score": 0.3849
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3827
-        },
-        {
-          "label": "城市街道",
-          "score": 0.373
-        },
-        {
-          "label": "fire",
-          "score": 0.3725
-        },
-        {
-          "label": "建筑物",
-          "score": 0.3697
-        },
-        {
-          "label": "police",
-          "score": 0.3693
-        },
-        {
-          "label": "烟雾",
-          "score": 0.364
-        },
-        {
-          "label": "a protest",
-          "score": 0.363
-        },
-        {
-          "label": "爆炸",
-          "score": 0.3626
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3586
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3583
-        },
-        {
-          "label": "a road",
-          "score": 0.3525
-        },
-        {
-          "label": "a map",
-          "score": 0.3487
-        },
-        {
-          "label": "a speech",
-          "score": 0.3477
-        },
-        {
-          "label": "basketball",
-          "score": 0.3477
-        },
-        {
-          "label": "a crowd",
-          "score": 0.3444
-        }
-      ]
-    },
-    {
-      "id": "ALJAZ_20261027_000000",
-      "title": "it's not, as policy says, no legit, prison we enough here looted the silver victory results one election plus texas may be on the cost of, of electing his 1st democratic senator in…",
+      "id": "ALJAZ_20261027_030000",
+      "title": "by closing the border crossing is route for pass to head to the polls for high stakes selection virtually begins in the next few hours.",
       "source": "ALJAZ",
       "date": "2026-10-27T00:00:00Z",
-      "image_url": "https://archive.org/services/img/ALJAZ_20261027_000000/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/ALJAZ_20261027_000000",
+      "image_url": "https://archive.org/services/img/ALJAZ_20261027_030000/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/ALJAZ_20261027_030000",
       "description_zh": "画面候选标签：a protest、a news studio、an explosion、a building、text on screen、a flag、a sports match、屏幕文字、抗议活动、an animal、a mountain、military",
       "description_en": "Visual candidate labels: a protest, a news studio, an explosion, a building, text on screen, a flag, a sports match, 屏幕文字, 抗议活动, an animal, a mountain, military",
-      "keywords": "a protest,a news studio,an explosion,a building,text on screen,a flag,a sports match,屏幕文字,抗议活动,an animal,a mountain,military,a map,a speech,the countryside,新闻演播室,旗帜,a crowd,flooding,a train",
+      "keywords": "a protest,a news studio,an explosion,a building,text on screen,a flag,a sports match,屏幕文字,抗议活动,an animal,a mountain,military,a map,a speech,旗帜,the countryside,a crowd,新闻演播室,flooding,a car",
       "visual_labels": [
         {
           "label": "a protest",
-          "score": 0.4293
+          "score": 0.4295
         },
         {
           "label": "a news studio",
-          "score": 0.3941
+          "score": 0.3933
         },
         {
           "label": "an explosion",
-          "score": 0.3917
+          "score": 0.3909
         },
         {
           "label": "a building",
-          "score": 0.3778
+          "score": 0.3777
         },
         {
           "label": "text on screen",
-          "score": 0.3754
+          "score": 0.3751
         },
         {
           "label": "a flag",
-          "score": 0.3721
+          "score": 0.3716
         },
         {
           "label": "a sports match",
-          "score": 0.369
+          "score": 0.3674
         },
         {
           "label": "屏幕文字",
-          "score": 0.3617
+          "score": 0.3626
         },
         {
           "label": "抗议活动",
-          "score": 0.3577
+          "score": 0.358
         },
         {
           "label": "an animal",
-          "score": 0.3571
-        },
-        {
-          "label": "a mountain",
           "score": 0.357
         },
         {
+          "label": "a mountain",
+          "score": 0.3552
+        },
+        {
           "label": "military",
-          "score": 0.3497
+          "score": 0.35
         },
         {
           "label": "a map",
-          "score": 0.3458
+          "score": 0.3454
         },
         {
           "label": "a speech",
-          "score": 0.3452
-        },
-        {
-          "label": "the countryside",
-          "score": 0.3404
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.3402
+          "score": 0.3439
         },
         {
           "label": "旗帜",
-          "score": 0.3398
+          "score": 0.3404
+        },
+        {
+          "label": "the countryside",
+          "score": 0.3397
         },
         {
           "label": "a crowd",
-          "score": 0.3394
+          "score": 0.3392
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3384
         },
         {
           "label": "flooding",
-          "score": 0.3324
+          "score": 0.3333
         },
         {
-          "label": "a train",
-          "score": 0.3278
+          "label": "a car",
+          "score": 0.327
         }
       ]
     },
     {
-      "id": "KPIX_20261027_000000_CBS_News_Bay_Area_Evening_Edition_5pm",
-      "title": ">> my arms are just like, so excited >> we're going to take you in the middle of all the excitement as the valkyries look to move one step closer to making history with a champions…",
-      "source": "KPIX",
+      "id": "ALJAZ_20261027_023000",
+      "title": "jordan strikes response to a church attack, killed at least 9 senior officials and saudi arabia took a.",
+      "source": "ALJAZ",
       "date": "2026-10-27T00:00:00Z",
-      "image_url": "https://archive.org/services/img/KPIX_20261027_000000_CBS_News_Bay_Area_Evening_Edition_5pm/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/KPIX_20261027_000000_CBS_News_Bay_Area_Evening_Edition_5pm",
-      "description_zh": "画面候选标签：a car、屏幕文字、text on screen、a road、烟雾、汽车、an explosion、a city street、a news studio、fire、卡车、道路",
-      "description_en": "Visual candidate labels: a car, 屏幕文字, text on screen, a road, 烟雾, 汽车, an explosion, a city street, a news studio, fire, 卡车, 道路",
-      "keywords": "a car,屏幕文字,text on screen,a road,烟雾,汽车,an explosion,a city street,a news studio,fire,卡车,道路,城市街道,抗议活动,a river,旗帜,a truck,an animal,running,a building",
+      "image_url": "https://archive.org/services/img/ALJAZ_20261027_023000/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/ALJAZ_20261027_023000",
+      "description_zh": "画面候选标签：smoke、fire、police、basketball、a city street、running、an explosion、a news studio、text on screen、a flag、a crowd、a speech",
+      "description_en": "Visual candidate labels: smoke, fire, police, basketball, a city street, running, an explosion, a news studio, text on screen, a flag, a crowd, a speech",
+      "keywords": "smoke,fire,police,basketball,a city street,running,an explosion,a news studio,text on screen,a flag,a crowd,a speech,a protest,a road,a train,抗议活动,soccer,a building,a car,a truck",
       "visual_labels": [
         {
-          "label": "a car",
-          "score": 0.3921
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3616
-        },
-        {
-          "label": "text on screen",
-          "score": 0.358
-        },
-        {
-          "label": "a road",
-          "score": 0.3487
-        },
-        {
-          "label": "烟雾",
-          "score": 0.3388
-        },
-        {
-          "label": "汽车",
-          "score": 0.3323
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3318
-        },
-        {
-          "label": "a city street",
-          "score": 0.3208
-        },
-        {
-          "label": "a news studio",
-          "score": 0.3198
+          "label": "smoke",
+          "score": 0.3803
         },
         {
           "label": "fire",
-          "score": 0.3189
+          "score": 0.3769
         },
         {
-          "label": "卡车",
-          "score": 0.3141
+          "label": "police",
+          "score": 0.3763
         },
         {
-          "label": "道路",
-          "score": 0.3131
+          "label": "basketball",
+          "score": 0.3763
         },
         {
-          "label": "城市街道",
-          "score": 0.3114
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3096
-        },
-        {
-          "label": "a river",
-          "score": 0.3081
-        },
-        {
-          "label": "旗帜",
-          "score": 0.3073
-        },
-        {
-          "label": "a truck",
-          "score": 0.3062
-        },
-        {
-          "label": "an animal",
-          "score": 0.3046
+          "label": "a city street",
+          "score": 0.3753
         },
         {
           "label": "running",
-          "score": 0.3039
+          "score": 0.3654
+        },
+        {
+          "label": "an explosion",
+          "score": 0.363
+        },
+        {
+          "label": "a news studio",
+          "score": 0.3613
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3581
+        },
+        {
+          "label": "a flag",
+          "score": 0.3547
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3535
+        },
+        {
+          "label": "a speech",
+          "score": 0.3526
+        },
+        {
+          "label": "a protest",
+          "score": 0.3517
+        },
+        {
+          "label": "a road",
+          "score": 0.3489
+        },
+        {
+          "label": "a train",
+          "score": 0.3481
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3461
+        },
+        {
+          "label": "soccer",
+          "score": 0.3456
         },
         {
           "label": "a building",
-          "score": 0.302
+          "score": 0.3424
+        },
+        {
+          "label": "a car",
+          "score": 0.3416
+        },
+        {
+          "label": "a truck",
+          "score": 0.3409
+        }
+      ]
+    },
+    {
+      "id": "ALJAZ_20261027_033000",
+      "title": "it's almost like children when it's christmas day, so i think it's, it's absolutely wonderful and so need it for london and it's been a long time coming.",
+      "source": "ALJAZ",
+      "date": "2026-10-27T00:00:00Z",
+      "image_url": "https://archive.org/services/img/ALJAZ_20261027_033000/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/ALJAZ_20261027_033000",
+      "description_zh": "画面候选标签：a road、a city street、a news studio、an explosion、抗议活动、running、a protest、text on screen、a map、城市街道、a building、police",
+      "description_en": "Visual candidate labels: a road, a city street, a news studio, an explosion, 抗议活动, running, a protest, text on screen, a map, 城市街道, a building, police",
+      "keywords": "a road,a city street,a news studio,an explosion,抗议活动,running,a protest,text on screen,a map,城市街道,a building,police,fire,a sports match,a flag,屏幕文字,flooding,basketball,a crowd,a car",
+      "visual_labels": [
+        {
+          "label": "a road",
+          "score": 0.3998
+        },
+        {
+          "label": "a city street",
+          "score": 0.3995
+        },
+        {
+          "label": "a news studio",
+          "score": 0.3925
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3873
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3861
+        },
+        {
+          "label": "running",
+          "score": 0.3736
+        },
+        {
+          "label": "a protest",
+          "score": 0.3735
+        },
+        {
+          "label": "text on screen",
+          "score": 0.372
+        },
+        {
+          "label": "a map",
+          "score": 0.3712
+        },
+        {
+          "label": "城市街道",
+          "score": 0.3691
+        },
+        {
+          "label": "a building",
+          "score": 0.3684
+        },
+        {
+          "label": "police",
+          "score": 0.3664
+        },
+        {
+          "label": "fire",
+          "score": 0.3645
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3604
+        },
+        {
+          "label": "a flag",
+          "score": 0.3587
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3561
+        },
+        {
+          "label": "flooding",
+          "score": 0.3535
+        },
+        {
+          "label": "basketball",
+          "score": 0.3524
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3495
+        },
+        {
+          "label": "a car",
+          "score": 0.3476
         }
       ]
     }
