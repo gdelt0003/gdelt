@@ -1,285 +1,285 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-27T20:05:14+00:00",
+  "generated_at": "2026-10-28T05:38:44+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
   "records": 3,
   "items": [
     {
-      "id": "ALJAZ_20261027_030000",
-      "title": "by closing the border crossing is route for pass to head to the polls for high stakes selection virtually begins in the next few hours.",
-      "source": "ALJAZ",
-      "date": "2026-10-27T00:00:00Z",
-      "image_url": "https://archive.org/services/img/ALJAZ_20261027_030000/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/ALJAZ_20261027_030000",
-      "description_zh": "画面候选标签：a protest、a news studio、an explosion、a building、text on screen、a flag、a sports match、屏幕文字、抗议活动、an animal、a mountain、military",
-      "description_en": "Visual candidate labels: a protest, a news studio, an explosion, a building, text on screen, a flag, a sports match, 屏幕文字, 抗议活动, an animal, a mountain, military",
-      "keywords": "a protest,a news studio,an explosion,a building,text on screen,a flag,a sports match,屏幕文字,抗议活动,an animal,a mountain,military,a map,a speech,旗帜,the countryside,a crowd,新闻演播室,flooding,a car",
+      "id": "DW_20261028_000200_The_Day",
+      "title": "but her candidacy is drawing criticism over the you are eas, alleged involvement ensued on civil war rights groups are urging member states to reject her candidacy, calling it a li…",
+      "source": "DW",
+      "date": "2026-10-28T00:00:00Z",
+      "image_url": "https://archive.org/services/img/DW_20261028_000200_The_Day/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261028_000200_The_Day",
+      "description_zh": "画面候选标签：a news studio、a protest、新闻演播室、a speech、text on screen、an explosion、a flag、屏幕文字、抗议活动、an animal、fire、a building",
+      "description_en": "Visual candidate labels: a news studio, a protest, 新闻演播室, a speech, text on screen, an explosion, a flag, 屏幕文字, 抗议活动, an animal, fire, a building",
+      "keywords": "a news studio,a protest,新闻演播室,a speech,text on screen,an explosion,a flag,屏幕文字,抗议活动,an animal,fire,a building,a crowd,military,演讲,police,flooding,a river,a mountain,a sports match",
       "visual_labels": [
         {
-          "label": "a protest",
-          "score": 0.4295
-        },
-        {
           "label": "a news studio",
-          "score": 0.3933
+          "score": 0.4316
         },
         {
-          "label": "an explosion",
-          "score": 0.3909
-        },
-        {
-          "label": "a building",
-          "score": 0.3777
-        },
-        {
-          "label": "text on screen",
-          "score": 0.3751
-        },
-        {
-          "label": "a flag",
-          "score": 0.3716
-        },
-        {
-          "label": "a sports match",
-          "score": 0.3674
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3626
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.358
-        },
-        {
-          "label": "an animal",
-          "score": 0.357
-        },
-        {
-          "label": "a mountain",
-          "score": 0.3552
-        },
-        {
-          "label": "military",
-          "score": 0.35
-        },
-        {
-          "label": "a map",
-          "score": 0.3454
-        },
-        {
-          "label": "a speech",
-          "score": 0.3439
-        },
-        {
-          "label": "旗帜",
-          "score": 0.3404
-        },
-        {
-          "label": "the countryside",
-          "score": 0.3397
-        },
-        {
-          "label": "a crowd",
-          "score": 0.3392
+          "label": "a protest",
+          "score": 0.4096
         },
         {
           "label": "新闻演播室",
-          "score": 0.3384
-        },
-        {
-          "label": "flooding",
-          "score": 0.3333
-        },
-        {
-          "label": "a car",
-          "score": 0.327
-        }
-      ]
-    },
-    {
-      "id": "ALJAZ_20261027_023000",
-      "title": "jordan strikes response to a church attack, killed at least 9 senior officials and saudi arabia took a.",
-      "source": "ALJAZ",
-      "date": "2026-10-27T00:00:00Z",
-      "image_url": "https://archive.org/services/img/ALJAZ_20261027_023000/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/ALJAZ_20261027_023000",
-      "description_zh": "画面候选标签：smoke、fire、police、basketball、a city street、running、an explosion、a news studio、text on screen、a flag、a crowd、a speech",
-      "description_en": "Visual candidate labels: smoke, fire, police, basketball, a city street, running, an explosion, a news studio, text on screen, a flag, a crowd, a speech",
-      "keywords": "smoke,fire,police,basketball,a city street,running,an explosion,a news studio,text on screen,a flag,a crowd,a speech,a protest,a road,a train,抗议活动,soccer,a building,a car,a truck",
-      "visual_labels": [
-        {
-          "label": "smoke",
-          "score": 0.3803
-        },
-        {
-          "label": "fire",
-          "score": 0.3769
-        },
-        {
-          "label": "police",
-          "score": 0.3763
-        },
-        {
-          "label": "basketball",
-          "score": 0.3763
-        },
-        {
-          "label": "a city street",
-          "score": 0.3753
-        },
-        {
-          "label": "running",
-          "score": 0.3654
-        },
-        {
-          "label": "an explosion",
-          "score": 0.363
-        },
-        {
-          "label": "a news studio",
-          "score": 0.3613
-        },
-        {
-          "label": "text on screen",
-          "score": 0.3581
-        },
-        {
-          "label": "a flag",
-          "score": 0.3547
-        },
-        {
-          "label": "a crowd",
-          "score": 0.3535
+          "score": 0.4009
         },
         {
           "label": "a speech",
-          "score": 0.3526
+          "score": 0.4006
         },
         {
-          "label": "a protest",
-          "score": 0.3517
+          "label": "text on screen",
+          "score": 0.3983
         },
         {
-          "label": "a road",
-          "score": 0.3489
+          "label": "an explosion",
+          "score": 0.378
         },
         {
-          "label": "a train",
-          "score": 0.3481
+          "label": "a flag",
+          "score": 0.3711
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3696
         },
         {
           "label": "抗议活动",
-          "score": 0.3461
+          "score": 0.3613
         },
         {
-          "label": "soccer",
-          "score": 0.3456
+          "label": "an animal",
+          "score": 0.344
+        },
+        {
+          "label": "fire",
+          "score": 0.3436
         },
         {
           "label": "a building",
           "score": 0.3424
         },
         {
-          "label": "a car",
-          "score": 0.3416
+          "label": "a crowd",
+          "score": 0.342
         },
         {
-          "label": "a truck",
-          "score": 0.3409
+          "label": "military",
+          "score": 0.3408
+        },
+        {
+          "label": "演讲",
+          "score": 0.3398
+        },
+        {
+          "label": "police",
+          "score": 0.3364
+        },
+        {
+          "label": "flooding",
+          "score": 0.3362
+        },
+        {
+          "label": "a river",
+          "score": 0.3351
+        },
+        {
+          "label": "a mountain",
+          "score": 0.3338
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3308
         }
       ]
     },
     {
-      "id": "CTV_20261027_000000",
-      "title": "cao ruiyuan stated that the competition between \"city startup,\" \"assembled love,\" and \"the distance between us and evil 2\" was extremely fierce.",
-      "source": "CTV",
-      "date": "2026-10-27T00:00:00Z",
-      "image_url": "https://archive.org/services/img/CTV_20261027_000000/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/CTV_20261027_000000",
-      "description_zh": "画面候选标签：a river、屏幕文字、河流、抗议活动、体育比赛、a crowd、新闻演播室、船、人群、烟雾、洪水、a news studio",
-      "description_en": "Visual candidate labels: a river, 屏幕文字, 河流, 抗议活动, 体育比赛, a crowd, 新闻演播室, 船, 人群, 烟雾, 洪水, a news studio",
-      "keywords": "a river,屏幕文字,河流,抗议活动,体育比赛,a crowd,新闻演播室,船,人群,烟雾,洪水,a news studio,爆炸,旗帜,text on screen,flooding,奔跑,an explosion,警察,a protest",
+      "id": "BELARUSTV_20261028_015000",
+      "title": "alexander dmitrievich will be awarded the order of honor, it's pleasant to start with something pleasant, very pleasant.",
+      "source": "BELARUSTV",
+      "date": "2026-10-28T00:00:00Z",
+      "image_url": "https://archive.org/services/img/BELARUSTV_20261028_015000/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/BELARUSTV_20261028_015000",
+      "description_zh": "画面候选标签：a protest、a news studio、an explosion、text on screen、police、新闻演播室、抗议活动、running、a speech、a flag、a crowd、military",
+      "description_en": "Visual candidate labels: a protest, a news studio, an explosion, text on screen, police, 新闻演播室, 抗议活动, running, a speech, a flag, a crowd, military",
+      "keywords": "a protest,a news studio,an explosion,text on screen,police,新闻演播室,抗议活动,running,a speech,a flag,a crowd,military,a road,a sports match,a map,a building,a river,屏幕文字,a mountain,fire",
       "visual_labels": [
         {
-          "label": "a river",
-          "score": 0.3786
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.342
-        },
-        {
-          "label": "河流",
-          "score": 0.3297
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3281
-        },
-        {
-          "label": "体育比赛",
-          "score": 0.3228
-        },
-        {
-          "label": "a crowd",
-          "score": 0.3203
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.3192
-        },
-        {
-          "label": "船",
-          "score": 0.3177
-        },
-        {
-          "label": "人群",
-          "score": 0.3161
-        },
-        {
-          "label": "烟雾",
-          "score": 0.315
-        },
-        {
-          "label": "洪水",
-          "score": 0.3138
+          "label": "a protest",
+          "score": 0.4099
         },
         {
           "label": "a news studio",
-          "score": 0.3095
-        },
-        {
-          "label": "爆炸",
-          "score": 0.3066
-        },
-        {
-          "label": "旗帜",
-          "score": 0.3065
-        },
-        {
-          "label": "text on screen",
-          "score": 0.3004
-        },
-        {
-          "label": "flooding",
-          "score": 0.3002
-        },
-        {
-          "label": "奔跑",
-          "score": 0.2997
+          "score": 0.3861
         },
         {
           "label": "an explosion",
-          "score": 0.2991
+          "score": 0.3793
         },
         {
-          "label": "警察",
-          "score": 0.2966
+          "label": "text on screen",
+          "score": 0.3793
+        },
+        {
+          "label": "police",
+          "score": 0.3766
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3662
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3649
+        },
+        {
+          "label": "running",
+          "score": 0.3582
+        },
+        {
+          "label": "a speech",
+          "score": 0.3551
+        },
+        {
+          "label": "a flag",
+          "score": 0.3543
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3513
+        },
+        {
+          "label": "military",
+          "score": 0.3498
+        },
+        {
+          "label": "a road",
+          "score": 0.3434
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3415
+        },
+        {
+          "label": "a map",
+          "score": 0.3401
+        },
+        {
+          "label": "a building",
+          "score": 0.3398
+        },
+        {
+          "label": "a river",
+          "score": 0.3392
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3389
+        },
+        {
+          "label": "a mountain",
+          "score": 0.3363
+        },
+        {
+          "label": "fire",
+          "score": 0.3341
+        }
+      ]
+    },
+    {
+      "id": "BBCNEWS_20261028_000000_BBC_News",
+      "title": "the trump administration administration says it will issue issue visas to brazil's defeated defeated presidential candidate, candidate, flavio bolsonaro, amid amid growing reports…",
+      "source": "BBCNEWS",
+      "date": "2026-10-28T00:00:00Z",
+      "image_url": "https://archive.org/services/img/BBCNEWS_20261028_000000_BBC_News/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/BBCNEWS_20261028_000000_BBC_News",
+      "description_zh": "画面候选标签：a news studio、a building、新闻演播室、a city street、text on screen、an explosion、城市街道、fire、建筑物、police、烟雾、爆炸",
+      "description_en": "Visual candidate labels: a news studio, a building, 新闻演播室, a city street, text on screen, an explosion, 城市街道, fire, 建筑物, police, 烟雾, 爆炸",
+      "keywords": "a news studio,a building,新闻演播室,a city street,text on screen,an explosion,城市街道,fire,建筑物,police,烟雾,爆炸,a protest,抗议活动,屏幕文字,a road,a speech,a map,a crowd,basketball",
+      "visual_labels": [
+        {
+          "label": "a news studio",
+          "score": 0.4814
+        },
+        {
+          "label": "a building",
+          "score": 0.4259
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.4173
+        },
+        {
+          "label": "a city street",
+          "score": 0.3896
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3837
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3822
+        },
+        {
+          "label": "城市街道",
+          "score": 0.3751
+        },
+        {
+          "label": "fire",
+          "score": 0.3721
+        },
+        {
+          "label": "建筑物",
+          "score": 0.3702
+        },
+        {
+          "label": "police",
+          "score": 0.3681
+        },
+        {
+          "label": "烟雾",
+          "score": 0.3649
+        },
+        {
+          "label": "爆炸",
+          "score": 0.3635
         },
         {
           "label": "a protest",
-          "score": 0.2963
+          "score": 0.3631
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3591
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3585
+        },
+        {
+          "label": "a road",
+          "score": 0.3535
+        },
+        {
+          "label": "a speech",
+          "score": 0.3481
+        },
+        {
+          "label": "a map",
+          "score": 0.3476
+        },
+        {
+          "label": "a crowd",
+          "score": 0.346
+        },
+        {
+          "label": "basketball",
+          "score": 0.346
         }
       ]
     }
