@@ -1,99 +1,99 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-28T12:50:45+00:00",
+  "generated_at": "2026-10-28T18:51:35+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
   "records": 3,
   "items": [
     {
-      "id": "BELARUSTV_20261028_015000",
-      "title": "alexander dmitrievich will be awarded the order of honor, it's pleasant to start with something pleasant, very pleasant.",
-      "source": "BELARUSTV",
+      "id": "DW_20261028_000200_The_Day",
+      "title": "but her candidacy is drawing criticism over the you are eas, alleged involvement ensued on civil war rights groups are urging member states to reject her candidacy, calling it a li…",
+      "source": "DW",
       "date": "2026-10-28T00:00:00Z",
-      "image_url": "https://archive.org/services/img/BELARUSTV_20261028_015000/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/BELARUSTV_20261028_015000",
-      "description_zh": "画面候选标签：a protest、a news studio、an explosion、text on screen、police、新闻演播室、抗议活动、running、a speech、a flag、a crowd、military",
-      "description_en": "Visual candidate labels: a protest, a news studio, an explosion, text on screen, police, 新闻演播室, 抗议活动, running, a speech, a flag, a crowd, military",
-      "keywords": "a protest,a news studio,an explosion,text on screen,police,新闻演播室,抗议活动,running,a speech,a flag,a crowd,military,a road,a sports match,a map,a building,a river,屏幕文字,a mountain,fire",
+      "image_url": "https://archive.org/services/img/DW_20261028_000200_The_Day/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261028_000200_The_Day",
+      "description_zh": "画面候选标签：a news studio、a protest、新闻演播室、a speech、text on screen、an explosion、a flag、屏幕文字、抗议活动、an animal、fire、a building",
+      "description_en": "Visual candidate labels: a news studio, a protest, 新闻演播室, a speech, text on screen, an explosion, a flag, 屏幕文字, 抗议活动, an animal, fire, a building",
+      "keywords": "a news studio,a protest,新闻演播室,a speech,text on screen,an explosion,a flag,屏幕文字,抗议活动,an animal,fire,a building,a crowd,military,演讲,police,flooding,a river,a mountain,a sports match",
       "visual_labels": [
         {
-          "label": "a protest",
-          "score": 0.4099
-        },
-        {
           "label": "a news studio",
-          "score": 0.3861
+          "score": 0.4316
         },
         {
-          "label": "an explosion",
-          "score": 0.3793
-        },
-        {
-          "label": "text on screen",
-          "score": 0.3793
-        },
-        {
-          "label": "police",
-          "score": 0.3766
+          "label": "a protest",
+          "score": 0.4096
         },
         {
           "label": "新闻演播室",
-          "score": 0.3662
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3649
-        },
-        {
-          "label": "running",
-          "score": 0.3582
+          "score": 0.4009
         },
         {
           "label": "a speech",
-          "score": 0.3551
+          "score": 0.4006
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3983
+        },
+        {
+          "label": "an explosion",
+          "score": 0.378
         },
         {
           "label": "a flag",
-          "score": 0.3543
-        },
-        {
-          "label": "a crowd",
-          "score": 0.3513
-        },
-        {
-          "label": "military",
-          "score": 0.3498
-        },
-        {
-          "label": "a road",
-          "score": 0.3434
-        },
-        {
-          "label": "a sports match",
-          "score": 0.3415
-        },
-        {
-          "label": "a map",
-          "score": 0.3401
-        },
-        {
-          "label": "a building",
-          "score": 0.3398
-        },
-        {
-          "label": "a river",
-          "score": 0.3392
+          "score": 0.3711
         },
         {
           "label": "屏幕文字",
-          "score": 0.3389
+          "score": 0.3696
         },
         {
-          "label": "a mountain",
-          "score": 0.3363
+          "label": "抗议活动",
+          "score": 0.3613
+        },
+        {
+          "label": "an animal",
+          "score": 0.344
         },
         {
           "label": "fire",
-          "score": 0.3341
+          "score": 0.3436
+        },
+        {
+          "label": "a building",
+          "score": 0.3424
+        },
+        {
+          "label": "a crowd",
+          "score": 0.342
+        },
+        {
+          "label": "military",
+          "score": 0.3408
+        },
+        {
+          "label": "演讲",
+          "score": 0.3398
+        },
+        {
+          "label": "police",
+          "score": 0.3364
+        },
+        {
+          "label": "flooding",
+          "score": 0.3362
+        },
+        {
+          "label": "a river",
+          "score": 0.3351
+        },
+        {
+          "label": "a mountain",
+          "score": 0.3338
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3308
         }
       ]
     },
@@ -191,95 +191,95 @@
       ]
     },
     {
-      "id": "CURRENTTIME_20261028_003000",
-      "title": "however, the ministry of defense is not obliged to follow these recommendations, and the first deputy chairman of the state duma committee for cis affairs, viktor volodatsky, repli…",
-      "source": "CURRENTTIME",
+      "id": "DW_20261028_053000_Made_in_Germany",
+      "title": "DW｜Made in Germany",
+      "source": "DW",
       "date": "2026-10-28T00:00:00Z",
-      "image_url": "https://archive.org/services/img/CURRENTTIME_20261028_003000/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/CURRENTTIME_20261028_003000",
-      "description_zh": "画面候选标签：text on screen、an explosion、a news studio、屏幕文字、fire、抗议活动、a protest、police、smoke、a sports match、新闻演播室、military",
-      "description_en": "Visual candidate labels: text on screen, an explosion, a news studio, 屏幕文字, fire, 抗议活动, a protest, police, smoke, a sports match, 新闻演播室, military",
-      "keywords": "text on screen,an explosion,a news studio,屏幕文字,fire,抗议活动,a protest,police,smoke,a sports match,新闻演播室,military,running,a map,爆炸,a ship,a car,a mountain,an animal,a train",
+      "image_url": "https://archive.org/services/img/DW_20261028_053000_Made_in_Germany/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261028_053000_Made_in_Germany",
+      "description_zh": "画面候选标签：text on screen、a river、a mountain、an animal、屏幕文字、fire、a forest、a beach、a road、新闻演播室、an explosion、running",
+      "description_en": "Visual candidate labels: text on screen, a river, a mountain, an animal, 屏幕文字, fire, a forest, a beach, a road, 新闻演播室, an explosion, running",
+      "keywords": "text on screen,a river,a mountain,an animal,屏幕文字,fire,a forest,a beach,a road,新闻演播室,an explosion,running,动物,smoke,a crowd,flooding,a flag,basketball,河流,a horse",
       "visual_labels": [
         {
           "label": "text on screen",
-          "score": 0.4121
+          "score": 0.3838
         },
         {
-          "label": "an explosion",
-          "score": 0.3709
-        },
-        {
-          "label": "a news studio",
-          "score": 0.3666
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3661
-        },
-        {
-          "label": "fire",
-          "score": 0.3547
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3518
-        },
-        {
-          "label": "a protest",
-          "score": 0.3516
-        },
-        {
-          "label": "police",
-          "score": 0.35
-        },
-        {
-          "label": "smoke",
-          "score": 0.349
-        },
-        {
-          "label": "a sports match",
-          "score": 0.3462
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.3454
-        },
-        {
-          "label": "military",
-          "score": 0.344
-        },
-        {
-          "label": "running",
-          "score": 0.3434
-        },
-        {
-          "label": "a map",
-          "score": 0.3393
-        },
-        {
-          "label": "爆炸",
-          "score": 0.3374
-        },
-        {
-          "label": "a ship",
-          "score": 0.3346
-        },
-        {
-          "label": "a car",
-          "score": 0.3329
+          "label": "a river",
+          "score": 0.3636
         },
         {
           "label": "a mountain",
-          "score": 0.3317
+          "score": 0.3556
         },
         {
           "label": "an animal",
-          "score": 0.3305
+          "score": 0.3523
         },
         {
-          "label": "a train",
-          "score": 0.3291
+          "label": "屏幕文字",
+          "score": 0.3522
+        },
+        {
+          "label": "fire",
+          "score": 0.3498
+        },
+        {
+          "label": "a forest",
+          "score": 0.3478
+        },
+        {
+          "label": "a beach",
+          "score": 0.347
+        },
+        {
+          "label": "a road",
+          "score": 0.3457
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3424
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3421
+        },
+        {
+          "label": "running",
+          "score": 0.3403
+        },
+        {
+          "label": "动物",
+          "score": 0.3399
+        },
+        {
+          "label": "smoke",
+          "score": 0.3387
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3376
+        },
+        {
+          "label": "flooding",
+          "score": 0.3376
+        },
+        {
+          "label": "a flag",
+          "score": 0.336
+        },
+        {
+          "label": "basketball",
+          "score": 0.3358
+        },
+        {
+          "label": "河流",
+          "score": 0.3357
+        },
+        {
+          "label": "a horse",
+          "score": 0.3352
         }
       ]
     }
