@@ -1,285 +1,99 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-28T18:51:35+00:00",
+  "generated_at": "2026-10-29T02:26:49+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
-  "records": 3,
+  "records": 1,
   "items": [
     {
-      "id": "DW_20261028_000200_The_Day",
-      "title": "but her candidacy is drawing criticism over the you are eas, alleged involvement ensued on civil war rights groups are urging member states to reject her candidacy, calling it a li…",
+      "id": "DW_20261029_000000_DW_News",
+      "title": "spanish prime minister pay that are sanchez has announced 3 days of national morning after at least 68 people were killed in a high speed train crash.",
       "source": "DW",
-      "date": "2026-10-28T00:00:00Z",
-      "image_url": "https://archive.org/services/img/DW_20261028_000200_The_Day/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/DW_20261028_000200_The_Day",
-      "description_zh": "画面候选标签：a news studio、a protest、新闻演播室、a speech、text on screen、an explosion、a flag、屏幕文字、抗议活动、an animal、fire、a building",
-      "description_en": "Visual candidate labels: a news studio, a protest, 新闻演播室, a speech, text on screen, an explosion, a flag, 屏幕文字, 抗议活动, an animal, fire, a building",
-      "keywords": "a news studio,a protest,新闻演播室,a speech,text on screen,an explosion,a flag,屏幕文字,抗议活动,an animal,fire,a building,a crowd,military,演讲,police,flooding,a river,a mountain,a sports match",
+      "date": "2026-10-29T00:00:00Z",
+      "image_url": "https://archive.org/services/img/DW_20261029_000000_DW_News/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261029_000000_DW_News",
+      "description_zh": "画面候选标签：a news studio、新闻演播室、a speech、a protest、a flag、text on screen、smoke、fire、屏幕文字、演讲、a building、an explosion",
+      "description_en": "Visual candidate labels: a news studio, 新闻演播室, a speech, a protest, a flag, text on screen, smoke, fire, 屏幕文字, 演讲, a building, an explosion",
+      "keywords": "a news studio,新闻演播室,a speech,a protest,a flag,text on screen,smoke,fire,屏幕文字,演讲,a building,an explosion,烟雾,a ship,basketball,a sports match,a road,抗议活动,a map,a river",
       "visual_labels": [
         {
           "label": "a news studio",
-          "score": 0.4316
-        },
-        {
-          "label": "a protest",
-          "score": 0.4096
+          "score": 0.4275
         },
         {
           "label": "新闻演播室",
-          "score": 0.4009
+          "score": 0.4085
         },
         {
           "label": "a speech",
-          "score": 0.4006
+          "score": 0.3811
         },
         {
-          "label": "text on screen",
-          "score": 0.3983
-        },
-        {
-          "label": "an explosion",
-          "score": 0.378
+          "label": "a protest",
+          "score": 0.3732
         },
         {
           "label": "a flag",
-          "score": 0.3711
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3696
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3613
-        },
-        {
-          "label": "an animal",
-          "score": 0.344
-        },
-        {
-          "label": "fire",
-          "score": 0.3436
-        },
-        {
-          "label": "a building",
-          "score": 0.3424
-        },
-        {
-          "label": "a crowd",
-          "score": 0.342
-        },
-        {
-          "label": "military",
-          "score": 0.3408
-        },
-        {
-          "label": "演讲",
-          "score": 0.3398
-        },
-        {
-          "label": "police",
-          "score": 0.3364
-        },
-        {
-          "label": "flooding",
-          "score": 0.3362
-        },
-        {
-          "label": "a river",
-          "score": 0.3351
-        },
-        {
-          "label": "a mountain",
-          "score": 0.3338
-        },
-        {
-          "label": "a sports match",
-          "score": 0.3308
-        }
-      ]
-    },
-    {
-      "id": "BBCNEWS_20261028_000000_BBC_News",
-      "title": "the trump administration administration says it will issue issue visas to brazil's defeated defeated presidential candidate, candidate, flavio bolsonaro, amid amid growing reports…",
-      "source": "BBCNEWS",
-      "date": "2026-10-28T00:00:00Z",
-      "image_url": "https://archive.org/services/img/BBCNEWS_20261028_000000_BBC_News/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/BBCNEWS_20261028_000000_BBC_News",
-      "description_zh": "画面候选标签：a news studio、a building、新闻演播室、a city street、text on screen、an explosion、城市街道、fire、建筑物、police、烟雾、爆炸",
-      "description_en": "Visual candidate labels: a news studio, a building, 新闻演播室, a city street, text on screen, an explosion, 城市街道, fire, 建筑物, police, 烟雾, 爆炸",
-      "keywords": "a news studio,a building,新闻演播室,a city street,text on screen,an explosion,城市街道,fire,建筑物,police,烟雾,爆炸,a protest,抗议活动,屏幕文字,a road,a speech,a map,a crowd,basketball",
-      "visual_labels": [
-        {
-          "label": "a news studio",
-          "score": 0.4814
-        },
-        {
-          "label": "a building",
-          "score": 0.4259
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.4173
-        },
-        {
-          "label": "a city street",
-          "score": 0.3896
+          "score": 0.3608
         },
         {
           "label": "text on screen",
-          "score": 0.3837
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3822
-        },
-        {
-          "label": "城市街道",
-          "score": 0.3751
-        },
-        {
-          "label": "fire",
-          "score": 0.3721
-        },
-        {
-          "label": "建筑物",
-          "score": 0.3702
-        },
-        {
-          "label": "police",
-          "score": 0.3681
-        },
-        {
-          "label": "烟雾",
-          "score": 0.3649
-        },
-        {
-          "label": "爆炸",
-          "score": 0.3635
-        },
-        {
-          "label": "a protest",
-          "score": 0.3631
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3591
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3585
-        },
-        {
-          "label": "a road",
-          "score": 0.3535
-        },
-        {
-          "label": "a speech",
-          "score": 0.3481
-        },
-        {
-          "label": "a map",
-          "score": 0.3476
-        },
-        {
-          "label": "a crowd",
-          "score": 0.346
-        },
-        {
-          "label": "basketball",
-          "score": 0.346
-        }
-      ]
-    },
-    {
-      "id": "DW_20261028_053000_Made_in_Germany",
-      "title": "DW｜Made in Germany",
-      "source": "DW",
-      "date": "2026-10-28T00:00:00Z",
-      "image_url": "https://archive.org/services/img/DW_20261028_053000_Made_in_Germany/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/DW_20261028_053000_Made_in_Germany",
-      "description_zh": "画面候选标签：text on screen、a river、a mountain、an animal、屏幕文字、fire、a forest、a beach、a road、新闻演播室、an explosion、running",
-      "description_en": "Visual candidate labels: text on screen, a river, a mountain, an animal, 屏幕文字, fire, a forest, a beach, a road, 新闻演播室, an explosion, running",
-      "keywords": "text on screen,a river,a mountain,an animal,屏幕文字,fire,a forest,a beach,a road,新闻演播室,an explosion,running,动物,smoke,a crowd,flooding,a flag,basketball,河流,a horse",
-      "visual_labels": [
-        {
-          "label": "text on screen",
-          "score": 0.3838
-        },
-        {
-          "label": "a river",
-          "score": 0.3636
-        },
-        {
-          "label": "a mountain",
-          "score": 0.3556
-        },
-        {
-          "label": "an animal",
-          "score": 0.3523
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3522
-        },
-        {
-          "label": "fire",
-          "score": 0.3498
-        },
-        {
-          "label": "a forest",
-          "score": 0.3478
-        },
-        {
-          "label": "a beach",
-          "score": 0.347
-        },
-        {
-          "label": "a road",
-          "score": 0.3457
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.3424
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3421
-        },
-        {
-          "label": "running",
-          "score": 0.3403
-        },
-        {
-          "label": "动物",
-          "score": 0.3399
+          "score": 0.3577
         },
         {
           "label": "smoke",
-          "score": 0.3387
+          "score": 0.3548
         },
         {
-          "label": "a crowd",
-          "score": 0.3376
+          "label": "fire",
+          "score": 0.3526
         },
         {
-          "label": "flooding",
-          "score": 0.3376
+          "label": "屏幕文字",
+          "score": 0.3479
         },
         {
-          "label": "a flag",
-          "score": 0.336
+          "label": "演讲",
+          "score": 0.3454
+        },
+        {
+          "label": "a building",
+          "score": 0.3437
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3436
+        },
+        {
+          "label": "烟雾",
+          "score": 0.3422
+        },
+        {
+          "label": "a ship",
+          "score": 0.3422
         },
         {
           "label": "basketball",
-          "score": 0.3358
+          "score": 0.3407
         },
         {
-          "label": "河流",
-          "score": 0.3357
+          "label": "a sports match",
+          "score": 0.3405
         },
         {
-          "label": "a horse",
-          "score": 0.3352
+          "label": "a road",
+          "score": 0.3402
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3397
+        },
+        {
+          "label": "a map",
+          "score": 0.3363
+        },
+        {
+          "label": "a river",
+          "score": 0.336
         }
       ]
     }
