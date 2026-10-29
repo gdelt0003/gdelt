@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-29T09:55:26+00:00",
+  "generated_at": "2026-10-29T21:48:26+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
-  "records": 2,
+  "records": 1,
   "items": [
     {
       "id": "KGO_20261029_000000_ABC7_Eyewitness_News_500PM",
@@ -94,99 +94,6 @@
         {
           "label": "a mountain",
           "score": 0.3426
-        }
-      ]
-    },
-    {
-      "id": "KSTS_20261029_060000_Noticiero_Telemundo_48",
-      "title": "este miércoles, una de las activistas hispanas más influyentes del país fue una gran mujer, una gran madre, una gran compañera.",
-      "source": "KSTS",
-      "date": "2026-10-29T00:00:00Z",
-      "image_url": "https://archive.org/services/img/KSTS_20261029_060000_Noticiero_Telemundo_48/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/KSTS_20261029_060000_Noticiero_Telemundo_48",
-      "description_zh": "画面候选标签：a news studio、a protest、text on screen、police、an explosion、smoke、a road、a train、fire、屏幕文字、a river、抗议活动",
-      "description_en": "Visual candidate labels: a news studio, a protest, text on screen, police, an explosion, smoke, a road, a train, fire, 屏幕文字, a river, 抗议活动",
-      "keywords": "a news studio,a protest,text on screen,police,an explosion,smoke,a road,a train,fire,屏幕文字,a river,抗议活动,a speech,a flag,an animal,a city street,a building,新闻演播室,a map,a mountain",
-      "visual_labels": [
-        {
-          "label": "a news studio",
-          "score": 0.39
-        },
-        {
-          "label": "a protest",
-          "score": 0.3722
-        },
-        {
-          "label": "text on screen",
-          "score": 0.3701
-        },
-        {
-          "label": "police",
-          "score": 0.369
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3664
-        },
-        {
-          "label": "smoke",
-          "score": 0.365
-        },
-        {
-          "label": "a road",
-          "score": 0.3565
-        },
-        {
-          "label": "a train",
-          "score": 0.3563
-        },
-        {
-          "label": "fire",
-          "score": 0.3561
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3542
-        },
-        {
-          "label": "a river",
-          "score": 0.3531
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3526
-        },
-        {
-          "label": "a speech",
-          "score": 0.3504
-        },
-        {
-          "label": "a flag",
-          "score": 0.3487
-        },
-        {
-          "label": "an animal",
-          "score": 0.3473
-        },
-        {
-          "label": "a city street",
-          "score": 0.3449
-        },
-        {
-          "label": "a building",
-          "score": 0.3441
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.3438
-        },
-        {
-          "label": "a map",
-          "score": 0.343
-        },
-        {
-          "label": "a mountain",
-          "score": 0.3425
         }
       ]
     }
