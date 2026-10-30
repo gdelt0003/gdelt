@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-30T08:37:23+00:00",
+  "generated_at": "2026-10-30T20:46:53+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
   "records": 3,
   "items": [
@@ -98,188 +98,188 @@
       ]
     },
     {
-      "id": "KTVU_20261030_000000_KTVU_FOX_2_News_at_5pm",
-      "title": "no matter what happens, it's going to be a historic night as golden state and atlanta both looking for their first title.",
-      "source": "KTVU",
+      "id": "RT_20261030_010000_America_Now",
+      "title": "i will just say this, their plan is in see once a night, new reports of incoming installation in the warranty wrong, and some us lawmakers are sounding the alarm.",
+      "source": "RT",
       "date": "2026-10-30T00:00:00Z",
-      "image_url": "https://archive.org/services/img/KTVU_20261030_000000_KTVU_FOX_2_News_at_5pm/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/KTVU_20261030_000000_KTVU_FOX_2_News_at_5pm",
-      "description_zh": "画面候选标签：basketball、a sports match、text on screen、a protest、篮球、an explosion、a news studio、体育比赛、新闻演播室、a crowd、soccer、屏幕文字",
-      "description_en": "Visual candidate labels: basketball, a sports match, text on screen, a protest, 篮球, an explosion, a news studio, 体育比赛, 新闻演播室, a crowd, soccer, 屏幕文字",
-      "keywords": "basketball,a sports match,text on screen,a protest,篮球,an explosion,a news studio,体育比赛,新闻演播室,a crowd,soccer,屏幕文字,a flag,人群,a speech,爆炸,烟雾,a forest,a road,fire",
+      "image_url": "https://archive.org/services/img/RT_20261030_010000_America_Now/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/RT_20261030_010000_America_Now",
+      "description_zh": "画面候选标签：a city street、a crowd、a map、text on screen、an explosion、police、a road、the countryside、fire、flooding、smoke、a building",
+      "description_en": "Visual candidate labels: a city street, a crowd, a map, text on screen, an explosion, police, a road, the countryside, fire, flooding, smoke, a building",
+      "keywords": "a city street,a crowd,a map,text on screen,an explosion,police,a road,the countryside,fire,flooding,smoke,a building,military,a protest,a horse,a mountain,a train,城市街道,抗议活动,a river",
       "visual_labels": [
         {
-          "label": "basketball",
-          "score": 0.432
-        },
-        {
-          "label": "a sports match",
-          "score": 0.4115
-        },
-        {
-          "label": "text on screen",
-          "score": 0.3921
-        },
-        {
-          "label": "a protest",
-          "score": 0.3867
-        },
-        {
-          "label": "篮球",
-          "score": 0.3815
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3767
-        },
-        {
-          "label": "a news studio",
-          "score": 0.3756
-        },
-        {
-          "label": "体育比赛",
-          "score": 0.3705
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.359
+          "label": "a city street",
+          "score": 0.4152
         },
         {
           "label": "a crowd",
-          "score": 0.3587
+          "score": 0.3907
         },
         {
-          "label": "soccer",
-          "score": 0.3567
+          "label": "a map",
+          "score": 0.3902
         },
         {
-          "label": "屏幕文字",
-          "score": 0.3564
+          "label": "text on screen",
+          "score": 0.3885
         },
         {
-          "label": "a flag",
-          "score": 0.3496
+          "label": "an explosion",
+          "score": 0.3847
         },
         {
-          "label": "人群",
-          "score": 0.3477
-        },
-        {
-          "label": "a speech",
-          "score": 0.3445
-        },
-        {
-          "label": "爆炸",
-          "score": 0.3415
-        },
-        {
-          "label": "烟雾",
-          "score": 0.3407
-        },
-        {
-          "label": "a forest",
-          "score": 0.3405
+          "label": "police",
+          "score": 0.378
         },
         {
           "label": "a road",
-          "score": 0.3395
+          "score": 0.3775
+        },
+        {
+          "label": "the countryside",
+          "score": 0.3754
         },
         {
           "label": "fire",
-          "score": 0.3385
+          "score": 0.3746
+        },
+        {
+          "label": "flooding",
+          "score": 0.3739
+        },
+        {
+          "label": "smoke",
+          "score": 0.3728
+        },
+        {
+          "label": "a building",
+          "score": 0.3712
+        },
+        {
+          "label": "military",
+          "score": 0.371
+        },
+        {
+          "label": "a protest",
+          "score": 0.3705
+        },
+        {
+          "label": "a horse",
+          "score": 0.3693
+        },
+        {
+          "label": "a mountain",
+          "score": 0.3689
+        },
+        {
+          "label": "a train",
+          "score": 0.364
+        },
+        {
+          "label": "城市街道",
+          "score": 0.3637
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3633
+        },
+        {
+          "label": "a river",
+          "score": 0.362
         }
       ]
     },
     {
-      "id": "KDTV_20261030_010000_Noticias_14",
-      "title": ">> la organización comunitaria anunció durante la madrugada de este jueves que se está realizando un operativo contra el hospital, sino que se encuentran vigilando el paciente que…",
-      "source": "KDTV",
+      "id": "CSPAN_20261030_035000_Campaign_2026_Trump_Campaigns_at_Midterm_Rally_in_Rock_Hill_SC",
+      "title": "CSPAN｜Campaign 2026 Trump Campaigns at Midterm Rally in Rock Hill, SC",
+      "source": "CSPAN",
       "date": "2026-10-30T00:00:00Z",
-      "image_url": "https://archive.org/services/img/KDTV_20261030_010000_Noticias_14/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/KDTV_20261030_010000_Noticias_14",
-      "description_zh": "画面候选标签：text on screen、an explosion、a news studio、police、a protest、fire、smoke、a flag、抗议活动、soccer、flooding、a speech",
-      "description_en": "Visual candidate labels: text on screen, an explosion, a news studio, police, a protest, fire, smoke, a flag, 抗议活动, soccer, flooding, a speech",
-      "keywords": "text on screen,an explosion,a news studio,police,a protest,fire,smoke,a flag,抗议活动,soccer,flooding,a speech,a building,a road,a crowd,a horse,a car,a map,屏幕文字,a forest",
+      "image_url": "https://archive.org/services/img/CSPAN_20261030_035000_Campaign_2026_Trump_Campaigns_at_Midterm_Rally_in_Rock_Hill_SC/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/CSPAN_20261030_035000_Campaign_2026_Trump_Campaigns_at_Midterm_Rally_in_Rock_Hill_SC",
+      "description_zh": "画面候选标签：a speech、a protest、a news studio、新闻演播室、text on screen、a sports match、basketball、an explosion、a flag、a car、演讲、屏幕文字",
+      "description_en": "Visual candidate labels: a speech, a protest, a news studio, 新闻演播室, text on screen, a sports match, basketball, an explosion, a flag, a car, 演讲, 屏幕文字",
+      "keywords": "a speech,a protest,a news studio,新闻演播室,text on screen,a sports match,basketball,an explosion,a flag,a car,演讲,屏幕文字,抗议活动,a road,police,a river,a train,military,fire,smoke",
       "visual_labels": [
         {
-          "label": "text on screen",
-          "score": 0.427
-        },
-        {
-          "label": "an explosion",
-          "score": 0.4237
-        },
-        {
-          "label": "a news studio",
-          "score": 0.4057
-        },
-        {
-          "label": "police",
-          "score": 0.4045
+          "label": "a speech",
+          "score": 0.4138
         },
         {
           "label": "a protest",
-          "score": 0.391
+          "score": 0.4123
         },
         {
-          "label": "fire",
-          "score": 0.3904
+          "label": "a news studio",
+          "score": 0.4042
         },
         {
-          "label": "smoke",
-          "score": 0.3816
+          "label": "新闻演播室",
+          "score": 0.401
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3964
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3807
+        },
+        {
+          "label": "basketball",
+          "score": 0.3786
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3682
         },
         {
           "label": "a flag",
-          "score": 0.38
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3782
-        },
-        {
-          "label": "soccer",
-          "score": 0.3752
-        },
-        {
-          "label": "flooding",
-          "score": 0.375
-        },
-        {
-          "label": "a speech",
-          "score": 0.3732
-        },
-        {
-          "label": "a building",
-          "score": 0.3697
-        },
-        {
-          "label": "a road",
-          "score": 0.367
-        },
-        {
-          "label": "a crowd",
-          "score": 0.3648
-        },
-        {
-          "label": "a horse",
-          "score": 0.3609
+          "score": 0.3613
         },
         {
           "label": "a car",
-          "score": 0.3604
+          "score": 0.3575
         },
         {
-          "label": "a map",
-          "score": 0.3602
+          "label": "演讲",
+          "score": 0.3569
         },
         {
           "label": "屏幕文字",
-          "score": 0.3587
+          "score": 0.3501
         },
         {
-          "label": "a forest",
-          "score": 0.3579
+          "label": "抗议活动",
+          "score": 0.344
+        },
+        {
+          "label": "a road",
+          "score": 0.3434
+        },
+        {
+          "label": "police",
+          "score": 0.3407
+        },
+        {
+          "label": "a river",
+          "score": 0.3403
+        },
+        {
+          "label": "a train",
+          "score": 0.3385
+        },
+        {
+          "label": "military",
+          "score": 0.3379
+        },
+        {
+          "label": "fire",
+          "score": 0.3371
+        },
+        {
+          "label": "smoke",
+          "score": 0.337
         }
       ]
     }
