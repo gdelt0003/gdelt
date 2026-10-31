@@ -1,7 +1,287 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-31T00:46:49+00:00",
+  "generated_at": "2026-10-31T06:59:02+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
-  "records": 0,
-  "items": []
+  "records": 3,
+  "items": [
+    {
+      "id": "DW_20261031_010200_DW_News_Focus",
+      "title": "we just need to know how to reset these conflicts and their histories mapped out brings maps to life and to help you make sense of i will the pakistan is in the middle of a poly cr…",
+      "source": "DW",
+      "date": "2026-10-31T00:00:00Z",
+      "image_url": "https://archive.org/services/img/DW_20261031_010200_DW_News_Focus/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261031_010200_DW_News_Focus",
+      "description_zh": "画面候选标签：a news studio、a speech、新闻演播室、a protest、text on screen、屏幕文字、an explosion、a flag、抗议活动、a road、a sports match、演讲",
+      "description_en": "Visual candidate labels: a news studio, a speech, 新闻演播室, a protest, text on screen, 屏幕文字, an explosion, a flag, 抗议活动, a road, a sports match, 演讲",
+      "keywords": "a news studio,a speech,新闻演播室,a protest,text on screen,屏幕文字,an explosion,a flag,抗议活动,a road,a sports match,演讲,a beach,smoke,fire,人,爆炸,a mountain,a train,basketball",
+      "visual_labels": [
+        {
+          "label": "a news studio",
+          "score": 0.4036
+        },
+        {
+          "label": "a speech",
+          "score": 0.3913
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3898
+        },
+        {
+          "label": "a protest",
+          "score": 0.3871
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3849
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3718
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3666
+        },
+        {
+          "label": "a flag",
+          "score": 0.3663
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3644
+        },
+        {
+          "label": "a road",
+          "score": 0.3642
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3621
+        },
+        {
+          "label": "演讲",
+          "score": 0.3602
+        },
+        {
+          "label": "a beach",
+          "score": 0.3566
+        },
+        {
+          "label": "smoke",
+          "score": 0.3566
+        },
+        {
+          "label": "fire",
+          "score": 0.3557
+        },
+        {
+          "label": "人",
+          "score": 0.3549
+        },
+        {
+          "label": "爆炸",
+          "score": 0.3534
+        },
+        {
+          "label": "a mountain",
+          "score": 0.3505
+        },
+        {
+          "label": "a train",
+          "score": 0.3481
+        },
+        {
+          "label": "basketball",
+          "score": 0.3476
+        }
+      ]
+    },
+    {
+      "id": "ALJAZ_20261031_030000",
+      "title": "and so a simple moose of cool fire optis striking mines hundreds of hungry and exhausted residents leave the russian occupied town of alaska and southern you crate.",
+      "source": "ALJAZ",
+      "date": "2026-10-31T00:00:00Z",
+      "image_url": "https://archive.org/services/img/ALJAZ_20261031_030000/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/ALJAZ_20261031_030000",
+      "description_zh": "画面候选标签：a river、an explosion、a mountain、a forest、烟雾、flooding、河流、fire、an animal、火灾、洪水、a map",
+      "description_en": "Visual candidate labels: a river, an explosion, a mountain, a forest, 烟雾, flooding, 河流, fire, an animal, 火灾, 洪水, a map",
+      "keywords": "a river,an explosion,a mountain,a forest,烟雾,flooding,河流,fire,an animal,火灾,洪水,a map,smoke,屏幕文字,树林,a horse,动物,森林,山,text on screen",
+      "visual_labels": [
+        {
+          "label": "a river",
+          "score": 0.3875
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3837
+        },
+        {
+          "label": "a mountain",
+          "score": 0.381
+        },
+        {
+          "label": "a forest",
+          "score": 0.3781
+        },
+        {
+          "label": "烟雾",
+          "score": 0.3736
+        },
+        {
+          "label": "flooding",
+          "score": 0.3716
+        },
+        {
+          "label": "河流",
+          "score": 0.3696
+        },
+        {
+          "label": "fire",
+          "score": 0.3689
+        },
+        {
+          "label": "an animal",
+          "score": 0.3681
+        },
+        {
+          "label": "火灾",
+          "score": 0.3612
+        },
+        {
+          "label": "洪水",
+          "score": 0.3603
+        },
+        {
+          "label": "a map",
+          "score": 0.3593
+        },
+        {
+          "label": "smoke",
+          "score": 0.3581
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3567
+        },
+        {
+          "label": "树林",
+          "score": 0.3556
+        },
+        {
+          "label": "a horse",
+          "score": 0.3554
+        },
+        {
+          "label": "动物",
+          "score": 0.3545
+        },
+        {
+          "label": "森林",
+          "score": 0.3534
+        },
+        {
+          "label": "山",
+          "score": 0.3526
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3511
+        }
+      ]
+    },
+    {
+      "id": "DW_20261031_010000_DW_News",
+      "title": "honestly choose the b, c, d, w, news, our top stories, crypto currency platform, finance saves it is beginning to recover phones of to hawk is still $6300000000.00, which is though…",
+      "source": "DW",
+      "date": "2026-10-31T00:00:00Z",
+      "image_url": "https://archive.org/services/img/DW_20261031_010000_DW_News/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261031_010000_DW_News",
+      "description_zh": "画面候选标签：船、a ship、洪水、a beach、flooding、text on screen、a news studio、a river、河流、屏幕文字、旗帜、海滩",
+      "description_en": "Visual candidate labels: 船, a ship, 洪水, a beach, flooding, text on screen, a news studio, a river, 河流, 屏幕文字, 旗帜, 海滩",
+      "keywords": "船,a ship,洪水,a beach,flooding,text on screen,a news studio,a river,河流,屏幕文字,旗帜,海滩,烟雾,a protest,体育比赛,an explosion,人群,basketball,a crowd,soccer",
+      "visual_labels": [
+        {
+          "label": "船",
+          "score": 0.3833
+        },
+        {
+          "label": "a ship",
+          "score": 0.3755
+        },
+        {
+          "label": "洪水",
+          "score": 0.3736
+        },
+        {
+          "label": "a beach",
+          "score": 0.3638
+        },
+        {
+          "label": "flooding",
+          "score": 0.3638
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3571
+        },
+        {
+          "label": "a news studio",
+          "score": 0.3561
+        },
+        {
+          "label": "a river",
+          "score": 0.3559
+        },
+        {
+          "label": "河流",
+          "score": 0.3518
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3506
+        },
+        {
+          "label": "旗帜",
+          "score": 0.3485
+        },
+        {
+          "label": "海滩",
+          "score": 0.3467
+        },
+        {
+          "label": "烟雾",
+          "score": 0.3445
+        },
+        {
+          "label": "a protest",
+          "score": 0.3429
+        },
+        {
+          "label": "体育比赛",
+          "score": 0.3423
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3417
+        },
+        {
+          "label": "人群",
+          "score": 0.3411
+        },
+        {
+          "label": "basketball",
+          "score": 0.3398
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3383
+        },
+        {
+          "label": "soccer",
+          "score": 0.3352
+        }
+      ]
+    }
+  ]
 }
