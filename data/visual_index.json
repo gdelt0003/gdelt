@@ -1,285 +1,285 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-31T18:32:30+00:00",
+  "generated_at": "2026-11-01T02:13:01+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
   "records": 3,
   "items": [
     {
-      "id": "BBCNEWS_20261031_043000_The_Travel_Show",
-      "title": "music music out out here, it's easy to see why people people have always been drawn to to places like this.",
-      "source": "BBCNEWS",
-      "date": "2026-10-31T00:00:00Z",
-      "image_url": "https://archive.org/services/img/BBCNEWS_20261031_043000_The_Travel_Show/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/BBCNEWS_20261031_043000_The_Travel_Show",
-      "description_zh": "画面候选标签：a news studio、a river、a protest、text on screen、a road、the countryside、a crowd、a map、新闻演播室、a flag、a train、a beach",
-      "description_en": "Visual candidate labels: a news studio, a river, a protest, text on screen, a road, the countryside, a crowd, a map, 新闻演播室, a flag, a train, a beach",
-      "keywords": "a news studio,a river,a protest,text on screen,a road,the countryside,a crowd,a map,新闻演播室,a flag,a train,a beach,a forest,flooding,a building,an explosion,a truck,a city street,an airplane,basketball",
+      "id": "DW_20261101_000000_DW_News",
+      "title": "the evacuation is a possible localized ceasefire negotiated by the us 1st lady, maloney, a trump that will end on sunday by non c o richard tang saves 90 percent of the stolen asse…",
+      "source": "DW",
+      "date": "2026-11-01T00:00:00Z",
+      "image_url": "https://archive.org/services/img/DW_20261101_000000_DW_News/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261101_000000_DW_News",
+      "description_zh": "画面候选标签：a protest、a news studio、抗议活动、a crowd、police、text on screen、a building、an explosion、a flag、a map、屏幕文字、新闻演播室",
+      "description_en": "Visual candidate labels: a protest, a news studio, 抗议活动, a crowd, police, text on screen, a building, an explosion, a flag, a map, 屏幕文字, 新闻演播室",
+      "keywords": "a protest,a news studio,抗议活动,a crowd,police,text on screen,a building,an explosion,a flag,a map,屏幕文字,新闻演播室,a road,人群,警察,a train,a beach,running,basketball,fire",
       "visual_labels": [
         {
-          "label": "a news studio",
-          "score": 0.4621
-        },
-        {
-          "label": "a river",
-          "score": 0.4067
-        },
-        {
           "label": "a protest",
-          "score": 0.405
+          "score": 0.4068
         },
         {
-          "label": "text on screen",
-          "score": 0.404
+          "label": "a news studio",
+          "score": 0.4053
         },
         {
-          "label": "a road",
-          "score": 0.4026
-        },
-        {
-          "label": "the countryside",
-          "score": 0.3952
+          "label": "抗议活动",
+          "score": 0.3957
         },
         {
           "label": "a crowd",
-          "score": 0.3896
+          "score": 0.3921
         },
         {
-          "label": "a map",
-          "score": 0.3874
+          "label": "police",
+          "score": 0.3909
         },
         {
-          "label": "新闻演播室",
-          "score": 0.3858
-        },
-        {
-          "label": "a flag",
-          "score": 0.3834
-        },
-        {
-          "label": "a train",
-          "score": 0.3833
-        },
-        {
-          "label": "a beach",
-          "score": 0.3811
-        },
-        {
-          "label": "a forest",
-          "score": 0.3789
-        },
-        {
-          "label": "flooding",
-          "score": 0.3779
+          "label": "text on screen",
+          "score": 0.3814
         },
         {
           "label": "a building",
-          "score": 0.3772
-        },
-        {
-          "label": "an explosion",
           "score": 0.3746
         },
         {
-          "label": "a truck",
-          "score": 0.3745
+          "label": "an explosion",
+          "score": 0.3737
         },
         {
-          "label": "a city street",
-          "score": 0.3729
-        },
-        {
-          "label": "an airplane",
+          "label": "a flag",
           "score": 0.3723
         },
         {
-          "label": "basketball",
-          "score": 0.3707
-        }
-      ]
-    },
-    {
-      "id": "DW_20261031_041500_Shift",
-      "title": "what's really happening in the climate crisis and what can we do with offices to need whenever you get to the this is a i making a summer and couldn't make social media even more t…",
-      "source": "DW",
-      "date": "2026-10-31T00:00:00Z",
-      "image_url": "https://archive.org/services/img/DW_20261031_041500_Shift/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/DW_20261031_041500_Shift",
-      "description_zh": "画面候选标签：a protest、a news studio、抗议活动、an explosion、a crowd、flooding、a flag、a speech、police、a river、a train、新闻演播室",
-      "description_en": "Visual candidate labels: a protest, a news studio, 抗议活动, an explosion, a crowd, flooding, a flag, a speech, police, a river, a train, 新闻演播室",
-      "keywords": "a protest,a news studio,抗议活动,an explosion,a crowd,flooding,a flag,a speech,police,a river,a train,新闻演播室,a building,a road,a sports match,text on screen,an animal,a city street,a ship,basketball",
-      "visual_labels": [
-        {
-          "label": "a protest",
-          "score": 0.4082
-        },
-        {
-          "label": "a news studio",
-          "score": 0.4005
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3955
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3926
-        },
-        {
-          "label": "a crowd",
-          "score": 0.3885
-        },
-        {
-          "label": "flooding",
-          "score": 0.3851
-        },
-        {
-          "label": "a flag",
-          "score": 0.3738
-        },
-        {
-          "label": "a speech",
-          "score": 0.3613
-        },
-        {
-          "label": "police",
-          "score": 0.3607
-        },
-        {
-          "label": "a river",
-          "score": 0.3575
-        },
-        {
-          "label": "a train",
-          "score": 0.3524
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.3519
-        },
-        {
-          "label": "a building",
-          "score": 0.3472
-        },
-        {
-          "label": "a road",
-          "score": 0.3463
-        },
-        {
-          "label": "a sports match",
-          "score": 0.345
-        },
-        {
-          "label": "text on screen",
-          "score": 0.3443
-        },
-        {
-          "label": "an animal",
-          "score": 0.3418
-        },
-        {
-          "label": "a city street",
-          "score": 0.3379
-        },
-        {
-          "label": "a ship",
-          "score": 0.3359
-        },
-        {
-          "label": "basketball",
-          "score": 0.3358
-        }
-      ]
-    },
-    {
-      "id": "ALJAZ_20261031_063000",
-      "title": "in an exclusive interview with al jazeera curtsey coventry, the 1st african and 1st woman to lead, the international olympic committee says, this is a moment of pride.",
-      "source": "ALJAZ",
-      "date": "2026-10-31T00:00:00Z",
-      "image_url": "https://archive.org/services/img/ALJAZ_20261031_063000/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/ALJAZ_20261031_063000",
-      "description_zh": "画面候选标签：a sports match、a crowd、a news studio、a protest、a flag、an explosion、text on screen、running、police、soccer、抗议活动、a building",
-      "description_en": "Visual candidate labels: a sports match, a crowd, a news studio, a protest, a flag, an explosion, text on screen, running, police, soccer, 抗议活动, a building",
-      "keywords": "a sports match,a crowd,a news studio,a protest,a flag,an explosion,text on screen,running,police,soccer,抗议活动,a building,a road,fire,basketball,a speech,smoke,military,a train,屏幕文字",
-      "visual_labels": [
-        {
-          "label": "a sports match",
-          "score": 0.4126
-        },
-        {
-          "label": "a crowd",
-          "score": 0.4111
-        },
-        {
-          "label": "a news studio",
-          "score": 0.4066
-        },
-        {
-          "label": "a protest",
-          "score": 0.403
-        },
-        {
-          "label": "a flag",
-          "score": 0.3951
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3926
-        },
-        {
-          "label": "text on screen",
-          "score": 0.3822
-        },
-        {
-          "label": "running",
-          "score": 0.3773
-        },
-        {
-          "label": "police",
-          "score": 0.3772
-        },
-        {
-          "label": "soccer",
-          "score": 0.3746
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3721
-        },
-        {
-          "label": "a building",
-          "score": 0.3664
-        },
-        {
-          "label": "a road",
-          "score": 0.3657
-        },
-        {
-          "label": "fire",
-          "score": 0.365
-        },
-        {
-          "label": "basketball",
-          "score": 0.365
-        },
-        {
-          "label": "a speech",
-          "score": 0.3626
-        },
-        {
-          "label": "smoke",
-          "score": 0.3533
-        },
-        {
-          "label": "military",
-          "score": 0.3521
-        },
-        {
-          "label": "a train",
-          "score": 0.3508
+          "label": "a map",
+          "score": 0.3675
         },
         {
           "label": "屏幕文字",
-          "score": 0.3507
+          "score": 0.3673
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3645
+        },
+        {
+          "label": "a road",
+          "score": 0.3638
+        },
+        {
+          "label": "人群",
+          "score": 0.3626
+        },
+        {
+          "label": "警察",
+          "score": 0.3607
+        },
+        {
+          "label": "a train",
+          "score": 0.3606
+        },
+        {
+          "label": "a beach",
+          "score": 0.3585
+        },
+        {
+          "label": "running",
+          "score": 0.3571
+        },
+        {
+          "label": "basketball",
+          "score": 0.3564
+        },
+        {
+          "label": "fire",
+          "score": 0.3552
+        }
+      ]
+    },
+    {
+      "id": "BBCNEWS_20261101_003000_Talking_Movies",
+      "title": "looking looking at the movies that have made made waves at october's bfi london london film festival and the new new york film festival with a warning warning that the programme in…",
+      "source": "BBCNEWS",
+      "date": "2026-11-01T00:00:00Z",
+      "image_url": "https://archive.org/services/img/BBCNEWS_20261101_003000_Talking_Movies/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/BBCNEWS_20261101_003000_Talking_Movies",
+      "description_zh": "画面候选标签：a news studio、text on screen、a building、an animal、新闻演播室、a flag、a protest、an explosion、a crowd、a sports match、烟雾、屏幕文字",
+      "description_en": "Visual candidate labels: a news studio, text on screen, a building, an animal, 新闻演播室, a flag, a protest, an explosion, a crowd, a sports match, 烟雾, 屏幕文字",
+      "keywords": "a news studio,text on screen,a building,an animal,新闻演播室,a flag,a protest,an explosion,a crowd,a sports match,烟雾,屏幕文字,a speech,basketball,抗议活动,the countryside,a city street,a horse,人,fire",
+      "visual_labels": [
+        {
+          "label": "a news studio",
+          "score": 0.4971
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3955
+        },
+        {
+          "label": "a building",
+          "score": 0.3934
+        },
+        {
+          "label": "an animal",
+          "score": 0.3787
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3758
+        },
+        {
+          "label": "a flag",
+          "score": 0.371
+        },
+        {
+          "label": "a protest",
+          "score": 0.3693
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3675
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3659
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3647
+        },
+        {
+          "label": "烟雾",
+          "score": 0.3644
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3638
+        },
+        {
+          "label": "a speech",
+          "score": 0.3634
+        },
+        {
+          "label": "basketball",
+          "score": 0.3599
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3568
+        },
+        {
+          "label": "the countryside",
+          "score": 0.3568
+        },
+        {
+          "label": "a city street",
+          "score": 0.3559
+        },
+        {
+          "label": "a horse",
+          "score": 0.3554
+        },
+        {
+          "label": "人",
+          "score": 0.3523
+        },
+        {
+          "label": "fire",
+          "score": 0.3519
+        }
+      ]
+    },
+    {
+      "id": "DW_20261101_000200_Goodbye_Germany",
+      "title": "DW｜Goodbye, Germany",
+      "source": "DW",
+      "date": "2026-11-01T00:00:00Z",
+      "image_url": "https://archive.org/services/img/DW_20261101_000200_Goodbye_Germany/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261101_000200_Goodbye_Germany",
+      "description_zh": "画面候选标签：a news studio、a protest、police、a building、text on screen、a road、an explosion、smoke、抗议活动、an animal、a flag、soccer",
+      "description_en": "Visual candidate labels: a news studio, a protest, police, a building, text on screen, a road, an explosion, smoke, 抗议活动, an animal, a flag, soccer",
+      "keywords": "a news studio,a protest,police,a building,text on screen,a road,an explosion,smoke,抗议活动,an animal,a flag,soccer,a speech,a river,a map,a beach,a city street,a mountain,flooding,a train",
+      "visual_labels": [
+        {
+          "label": "a news studio",
+          "score": 0.4022
+        },
+        {
+          "label": "a protest",
+          "score": 0.3992
+        },
+        {
+          "label": "police",
+          "score": 0.3853
+        },
+        {
+          "label": "a building",
+          "score": 0.3801
+        },
+        {
+          "label": "text on screen",
+          "score": 0.379
+        },
+        {
+          "label": "a road",
+          "score": 0.3787
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3787
+        },
+        {
+          "label": "smoke",
+          "score": 0.3773
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3767
+        },
+        {
+          "label": "an animal",
+          "score": 0.376
+        },
+        {
+          "label": "a flag",
+          "score": 0.3723
+        },
+        {
+          "label": "soccer",
+          "score": 0.3707
+        },
+        {
+          "label": "a speech",
+          "score": 0.3705
+        },
+        {
+          "label": "a river",
+          "score": 0.3703
+        },
+        {
+          "label": "a map",
+          "score": 0.3697
+        },
+        {
+          "label": "a beach",
+          "score": 0.3695
+        },
+        {
+          "label": "a city street",
+          "score": 0.3652
+        },
+        {
+          "label": "a mountain",
+          "score": 0.3649
+        },
+        {
+          "label": "flooding",
+          "score": 0.3647
+        },
+        {
+          "label": "a train",
+          "score": 0.3637
         }
       ]
     }
