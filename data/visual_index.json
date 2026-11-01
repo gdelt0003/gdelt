@@ -1,102 +1,9 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-01T16:02:47+00:00",
+  "generated_at": "2026-11-01T20:29:38+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
   "records": 3,
   "items": [
-    {
-      "id": "CSPAN3_20261101_080400_Campaign_2026_Alaska_U.S._Senate_Debate",
-      "title": "we need an america we can count on with live victory and concession speeches from the first polls closing to the final races being called, don't just watch election night.",
-      "source": "CSPAN3",
-      "date": "2026-11-01T00:00:00Z",
-      "image_url": "https://archive.org/services/img/CSPAN3_20261101_080400_Campaign_2026_Alaska_U.S._Senate_Debate/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/CSPAN3_20261101_080400_Campaign_2026_Alaska_U.S._Senate_Debate",
-      "description_zh": "画面候选标签：a protest、a news studio、text on screen、新闻演播室、an explosion、a speech、a flag、屏幕文字、抗议活动、a map、a sports match、smoke",
-      "description_en": "Visual candidate labels: a protest, a news studio, text on screen, 新闻演播室, an explosion, a speech, a flag, 屏幕文字, 抗议活动, a map, a sports match, smoke",
-      "keywords": "a protest,a news studio,text on screen,新闻演播室,an explosion,a speech,a flag,屏幕文字,抗议活动,a map,a sports match,smoke,military,a mountain,a river,a building,police,an animal,演讲,a ship",
-      "visual_labels": [
-        {
-          "label": "a protest",
-          "score": 0.4296
-        },
-        {
-          "label": "a news studio",
-          "score": 0.4241
-        },
-        {
-          "label": "text on screen",
-          "score": 0.4157
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.4022
-        },
-        {
-          "label": "an explosion",
-          "score": 0.394
-        },
-        {
-          "label": "a speech",
-          "score": 0.3923
-        },
-        {
-          "label": "a flag",
-          "score": 0.3727
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3708
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3678
-        },
-        {
-          "label": "a map",
-          "score": 0.3658
-        },
-        {
-          "label": "a sports match",
-          "score": 0.3633
-        },
-        {
-          "label": "smoke",
-          "score": 0.362
-        },
-        {
-          "label": "military",
-          "score": 0.36
-        },
-        {
-          "label": "a mountain",
-          "score": 0.3533
-        },
-        {
-          "label": "a river",
-          "score": 0.3529
-        },
-        {
-          "label": "a building",
-          "score": 0.3522
-        },
-        {
-          "label": "police",
-          "score": 0.3495
-        },
-        {
-          "label": "an animal",
-          "score": 0.3488
-        },
-        {
-          "label": "演讲",
-          "score": 0.3475
-        },
-        {
-          "label": "a ship",
-          "score": 0.3456
-        }
-      ]
-    },
     {
       "id": "DW_20261101_000000_DW_News",
       "title": "the evacuation is a possible localized ceasefire negotiated by the us 1st lady, maloney, a trump that will end on sunday by non c o richard tang saves 90 percent of the stolen asse…",
@@ -280,6 +187,99 @@
         {
           "label": "fire",
           "score": 0.3519
+        }
+      ]
+    },
+    {
+      "id": "CSPAN2_20261101_010900_America_250_Historian_Richard_Norton_Smith_on_President_Gerald_Ford",
+      "title": "you know, in the farmworkers movement, we had by farmworkers that were killed, two of them here in kern county.",
+      "source": "CSPAN2",
+      "date": "2026-11-01T00:00:00Z",
+      "image_url": "https://archive.org/services/img/CSPAN2_20261101_010900_America_250_Historian_Richard_Norton_Smith_on_President_Gerald_Ford/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/CSPAN2_20261101_010900_America_250_Historian_Richard_Norton_Smith_on_President_Gerald_Ford",
+      "description_zh": "画面候选标签：a news studio、a protest、a speech、a flag、an explosion、text on screen、a crowd、新闻演播室、a train、a river、a road、an animal",
+      "description_en": "Visual candidate labels: a news studio, a protest, a speech, a flag, an explosion, text on screen, a crowd, 新闻演播室, a train, a river, a road, an animal",
+      "keywords": "a news studio,a protest,a speech,a flag,an explosion,text on screen,a crowd,新闻演播室,a train,a river,a road,an animal,fire,a mountain,a sports match,抗议活动,a building,a ship,flooding,military",
+      "visual_labels": [
+        {
+          "label": "a news studio",
+          "score": 0.389
+        },
+        {
+          "label": "a protest",
+          "score": 0.3863
+        },
+        {
+          "label": "a speech",
+          "score": 0.3839
+        },
+        {
+          "label": "a flag",
+          "score": 0.3791
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3672
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3671
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3613
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3531
+        },
+        {
+          "label": "a train",
+          "score": 0.3491
+        },
+        {
+          "label": "a river",
+          "score": 0.3468
+        },
+        {
+          "label": "a road",
+          "score": 0.3455
+        },
+        {
+          "label": "an animal",
+          "score": 0.344
+        },
+        {
+          "label": "fire",
+          "score": 0.344
+        },
+        {
+          "label": "a mountain",
+          "score": 0.3411
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3399
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3395
+        },
+        {
+          "label": "a building",
+          "score": 0.3376
+        },
+        {
+          "label": "a ship",
+          "score": 0.3369
+        },
+        {
+          "label": "flooding",
+          "score": 0.3367
+        },
+        {
+          "label": "military",
+          "score": 0.3358
         }
       ]
     }
