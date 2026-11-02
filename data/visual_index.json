@@ -1,7 +1,194 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-02T00:42:46+00:00",
+  "generated_at": "2026-11-02T18:19:55+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
-  "records": 0,
-  "items": []
+  "records": 2,
+  "items": [
+    {
+      "id": "DW_20261102_000200_Euromaxx",
+      "title": "where europe, large of the community is a thriving, we made a young woman navigating face and modern life.",
+      "source": "DW",
+      "date": "2026-11-02T00:00:00Z",
+      "image_url": "https://archive.org/services/img/DW_20261102_000200_Euromaxx/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261102_000200_Euromaxx",
+      "description_zh": "画面候选标签：a news studio、running、text on screen、an explosion、basketball、soccer、fire、a sports match、a train、flooding、a ship、抗议活动",
+      "description_en": "Visual candidate labels: a news studio, running, text on screen, an explosion, basketball, soccer, fire, a sports match, a train, flooding, a ship, 抗议活动",
+      "keywords": "a news studio,running,text on screen,an explosion,basketball,soccer,fire,a sports match,a train,flooding,a ship,抗议活动,a map,a protest,a beach,an animal,an airplane,a speech,smoke,a river",
+      "visual_labels": [
+        {
+          "label": "a news studio",
+          "score": 0.3979
+        },
+        {
+          "label": "running",
+          "score": 0.3852
+        },
+        {
+          "label": "text on screen",
+          "score": 0.382
+        },
+        {
+          "label": "an explosion",
+          "score": 0.376
+        },
+        {
+          "label": "basketball",
+          "score": 0.3701
+        },
+        {
+          "label": "soccer",
+          "score": 0.3648
+        },
+        {
+          "label": "fire",
+          "score": 0.3642
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3622
+        },
+        {
+          "label": "a train",
+          "score": 0.3616
+        },
+        {
+          "label": "flooding",
+          "score": 0.3591
+        },
+        {
+          "label": "a ship",
+          "score": 0.3589
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3576
+        },
+        {
+          "label": "a map",
+          "score": 0.3534
+        },
+        {
+          "label": "a protest",
+          "score": 0.3494
+        },
+        {
+          "label": "a beach",
+          "score": 0.349
+        },
+        {
+          "label": "an animal",
+          "score": 0.3466
+        },
+        {
+          "label": "an airplane",
+          "score": 0.3465
+        },
+        {
+          "label": "a speech",
+          "score": 0.3458
+        },
+        {
+          "label": "smoke",
+          "score": 0.3456
+        },
+        {
+          "label": "a river",
+          "score": 0.3446
+        }
+      ]
+    },
+    {
+      "id": "CSPAN2_20261102_005600_Americas_Book_Club_The_Treasures_with_Newt_Gingrich",
+      "title": ">>   >> author and former speaker >>   >> of the house, newt gingrich, viewed artifacts from the library of congress archive.",
+      "source": "CSPAN2",
+      "date": "2026-11-02T00:00:00Z",
+      "image_url": "https://archive.org/services/img/CSPAN2_20261102_005600_Americas_Book_Club_The_Treasures_with_Newt_Gingrich/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/CSPAN2_20261102_005600_Americas_Book_Club_The_Treasures_with_Newt_Gingrich",
+      "description_zh": "画面候选标签：a news studio、a speech、a protest、text on screen、a flag、a sports match、an explosion、新闻演播室、a ship、a building、an airplane、a road",
+      "description_en": "Visual candidate labels: a news studio, a speech, a protest, text on screen, a flag, a sports match, an explosion, 新闻演播室, a ship, a building, an airplane, a road",
+      "keywords": "a news studio,a speech,a protest,text on screen,a flag,a sports match,an explosion,新闻演播室,a ship,a building,an airplane,a road,an animal,a river,a map,a horse,flooding,smoke,basketball,a crowd",
+      "visual_labels": [
+        {
+          "label": "a news studio",
+          "score": 0.4248
+        },
+        {
+          "label": "a speech",
+          "score": 0.3826
+        },
+        {
+          "label": "a protest",
+          "score": 0.3777
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3673
+        },
+        {
+          "label": "a flag",
+          "score": 0.3653
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3648
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3625
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3596
+        },
+        {
+          "label": "a ship",
+          "score": 0.3593
+        },
+        {
+          "label": "a building",
+          "score": 0.3574
+        },
+        {
+          "label": "an airplane",
+          "score": 0.3555
+        },
+        {
+          "label": "a road",
+          "score": 0.3533
+        },
+        {
+          "label": "an animal",
+          "score": 0.352
+        },
+        {
+          "label": "a river",
+          "score": 0.3509
+        },
+        {
+          "label": "a map",
+          "score": 0.3471
+        },
+        {
+          "label": "a horse",
+          "score": 0.3466
+        },
+        {
+          "label": "flooding",
+          "score": 0.3449
+        },
+        {
+          "label": "smoke",
+          "score": 0.3412
+        },
+        {
+          "label": "basketball",
+          "score": 0.3378
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3362
+        }
+      ]
+    }
+  ]
 }
