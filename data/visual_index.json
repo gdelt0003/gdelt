@@ -1,192 +1,285 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-04T06:15:19+00:00",
+  "generated_at": "2026-11-04T14:34:56+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
-  "records": 2,
+  "records": 3,
   "items": [
     {
-      "id": "ALJAZ_20261104_003000",
-      "title": "i heard scott talking about the early returns there, because of course, this is one of the battle ground that democrats are trying to flip its been in republican hands for a very l…",
-      "source": "ALJAZ",
+      "id": "CSPAN3_20261104_052300_Campaign_2026_Speaker_Johnson_Election_Night_Watch_Party",
+      "title": ">> c-span service has offered americans unfiltered gavel to gavel coverage of their government in action.",
+      "source": "CSPAN3",
       "date": "2026-11-04T00:00:00Z",
-      "image_url": "https://archive.org/services/img/ALJAZ_20261104_003000/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/ALJAZ_20261104_003000",
-      "description_zh": "画面候选标签：a news studio、a protest、新闻演播室、a speech、text on screen、an explosion、flooding、a river、a building、a flag、police、a road",
-      "description_en": "Visual candidate labels: a news studio, a protest, 新闻演播室, a speech, text on screen, an explosion, flooding, a river, a building, a flag, police, a road",
-      "keywords": "a news studio,a protest,新闻演播室,a speech,text on screen,an explosion,flooding,a river,a building,a flag,police,a road,a sports match,a mountain,a map,military,屏幕文字,fire,an animal,a city street",
+      "image_url": "https://archive.org/services/img/CSPAN3_20261104_052300_Campaign_2026_Speaker_Johnson_Election_Night_Watch_Party/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/CSPAN3_20261104_052300_Campaign_2026_Speaker_Johnson_Election_Night_Watch_Party",
+      "description_zh": "画面候选标签：a protest、a news studio、a speech、an explosion、text on screen、新闻演播室、a flag、police、a ship、a building、flooding、抗议活动",
+      "description_en": "Visual candidate labels: a protest, a news studio, a speech, an explosion, text on screen, 新闻演播室, a flag, police, a ship, a building, flooding, 抗议活动",
+      "keywords": "a protest,a news studio,a speech,an explosion,text on screen,新闻演播室,a flag,police,a ship,a building,flooding,抗议活动,a road,a river,a crowd,屏幕文字,a train,fire,an animal,an airplane",
       "visual_labels": [
         {
-          "label": "a news studio",
-          "score": 0.4555
-        },
-        {
           "label": "a protest",
-          "score": 0.4424
+          "score": 0.4289
         },
         {
-          "label": "新闻演播室",
-          "score": 0.425
+          "label": "a news studio",
+          "score": 0.4286
         },
         {
           "label": "a speech",
-          "score": 0.4159
-        },
-        {
-          "label": "text on screen",
-          "score": 0.4102
+          "score": 0.4021
         },
         {
           "label": "an explosion",
-          "score": 0.4082
+          "score": 0.401
         },
         {
-          "label": "flooding",
-          "score": 0.3865
+          "label": "text on screen",
+          "score": 0.3987
         },
         {
-          "label": "a river",
-          "score": 0.3815
-        },
-        {
-          "label": "a building",
-          "score": 0.3796
+          "label": "新闻演播室",
+          "score": 0.3933
         },
         {
           "label": "a flag",
-          "score": 0.3791
+          "score": 0.3929
         },
         {
           "label": "police",
-          "score": 0.3719
+          "score": 0.3693
         },
         {
-          "label": "a road",
-          "score": 0.3705
+          "label": "a ship",
+          "score": 0.3637
         },
         {
-          "label": "a sports match",
-          "score": 0.3661
+          "label": "a building",
+          "score": 0.3632
         },
         {
-          "label": "a mountain",
-          "score": 0.364
+          "label": "flooding",
+          "score": 0.3607
         },
         {
-          "label": "a map",
-          "score": 0.3639
-        },
-        {
-          "label": "military",
-          "score": 0.3626
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.361
-        },
-        {
-          "label": "fire",
+          "label": "抗议活动",
           "score": 0.3606
         },
         {
-          "label": "an animal",
-          "score": 0.3601
+          "label": "a road",
+          "score": 0.3585
         },
         {
-          "label": "a city street",
-          "score": 0.3598
+          "label": "a river",
+          "score": 0.356
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3556
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3531
+        },
+        {
+          "label": "a train",
+          "score": 0.3517
+        },
+        {
+          "label": "fire",
+          "score": 0.3506
+        },
+        {
+          "label": "an animal",
+          "score": 0.35
+        },
+        {
+          "label": "an airplane",
+          "score": 0.3471
         }
       ]
     },
     {
-      "id": "KRON_20261104_013000_KRON_4_News_at_530pm",
-      "title": "but the republicans control the house going in and the democrats only need to pick up 3 house seats flipped those 2 gain",
-      "source": "KRON",
+      "id": "CSPAN3_20261104_044400_Campaign_2026_U.S._Senate_Candidate_Chris_Pappas_D-NH_Speaks_to...",
+      "title": ">> c-span's respected nonprofit service has offered americans unfiltered gavel the-to-gavel coverage of their government in action.",
+      "source": "CSPAN3",
       "date": "2026-11-04T00:00:00Z",
-      "image_url": "https://archive.org/services/img/KRON_20261104_013000_KRON_4_News_at_530pm/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/KRON_20261104_013000_KRON_4_News_at_530pm",
-      "description_zh": "画面候选标签：an explosion、text on screen、a news studio、basketball、a sports match、flooding、a truck、a train、屏幕文字、a protest、police、a car",
-      "description_en": "Visual candidate labels: an explosion, text on screen, a news studio, basketball, a sports match, flooding, a truck, a train, 屏幕文字, a protest, police, a car",
-      "keywords": "an explosion,text on screen,a news studio,basketball,a sports match,flooding,a truck,a train,屏幕文字,a protest,police,a car,a city street,a horse,抗议活动,a speech,fire,a building,a road,新闻演播室",
+      "image_url": "https://archive.org/services/img/CSPAN3_20261104_044400_Campaign_2026_U.S._Senate_Candidate_Chris_Pappas_D-NH_Speaks_to.../full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/CSPAN3_20261104_044400_Campaign_2026_U.S._Senate_Candidate_Chris_Pappas_D-NH_Speaks_to...",
+      "description_zh": "画面候选标签：a news studio、a protest、新闻演播室、text on screen、a flag、an explosion、a speech、a ship、抗议活动、屏幕文字、an animal、police",
+      "description_en": "Visual candidate labels: a news studio, a protest, 新闻演播室, text on screen, a flag, an explosion, a speech, a ship, 抗议活动, 屏幕文字, an animal, police",
+      "keywords": "a news studio,a protest,新闻演播室,text on screen,a flag,an explosion,a speech,a ship,抗议活动,屏幕文字,an animal,police,a road,a river,an airplane,military,a sports match,flooding,a map,a train",
       "visual_labels": [
         {
-          "label": "an explosion",
-          "score": 0.4108
-        },
-        {
-          "label": "text on screen",
-          "score": 0.4026
-        },
-        {
           "label": "a news studio",
-          "score": 0.387
-        },
-        {
-          "label": "basketball",
-          "score": 0.3861
-        },
-        {
-          "label": "a sports match",
-          "score": 0.3697
-        },
-        {
-          "label": "flooding",
-          "score": 0.3695
-        },
-        {
-          "label": "a truck",
-          "score": 0.3685
-        },
-        {
-          "label": "a train",
-          "score": 0.3614
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3612
+          "score": 0.4296
         },
         {
           "label": "a protest",
-          "score": 0.3605
-        },
-        {
-          "label": "police",
-          "score": 0.3592
-        },
-        {
-          "label": "a car",
-          "score": 0.3539
-        },
-        {
-          "label": "a city street",
-          "score": 0.3531
-        },
-        {
-          "label": "a horse",
-          "score": 0.3509
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3508
-        },
-        {
-          "label": "a speech",
-          "score": 0.3497
-        },
-        {
-          "label": "fire",
-          "score": 0.3473
-        },
-        {
-          "label": "a building",
-          "score": 0.3456
-        },
-        {
-          "label": "a road",
-          "score": 0.3453
+          "score": 0.4146
         },
         {
           "label": "新闻演播室",
-          "score": 0.3448
+          "score": 0.4026
+        },
+        {
+          "label": "text on screen",
+          "score": 0.4019
+        },
+        {
+          "label": "a flag",
+          "score": 0.3913
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3895
+        },
+        {
+          "label": "a speech",
+          "score": 0.3878
+        },
+        {
+          "label": "a ship",
+          "score": 0.3567
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3552
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3546
+        },
+        {
+          "label": "an animal",
+          "score": 0.3525
+        },
+        {
+          "label": "police",
+          "score": 0.3517
+        },
+        {
+          "label": "a road",
+          "score": 0.3507
+        },
+        {
+          "label": "a river",
+          "score": 0.3504
+        },
+        {
+          "label": "an airplane",
+          "score": 0.3487
+        },
+        {
+          "label": "military",
+          "score": 0.3486
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3485
+        },
+        {
+          "label": "flooding",
+          "score": 0.3459
+        },
+        {
+          "label": "a map",
+          "score": 0.3442
+        },
+        {
+          "label": "a train",
+          "score": 0.3441
+        }
+      ]
+    },
+    {
+      "id": "CSPAN3_20261104_102900_Campaign_2026_House_Democratic_Leader_Jeffries_NY_Speaks_on_Election...",
+      "title": "CSPAN3｜Campaign 2026 House Democratic Leader Jeffries (NY) Speaks on Election Night",
+      "source": "CSPAN3",
+      "date": "2026-11-04T00:00:00Z",
+      "image_url": "https://archive.org/services/img/CSPAN3_20261104_102900_Campaign_2026_House_Democratic_Leader_Jeffries_NY_Speaks_on_Election.../full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/CSPAN3_20261104_102900_Campaign_2026_House_Democratic_Leader_Jeffries_NY_Speaks_on_Election...",
+      "description_zh": "画面候选标签：新闻演播室、a protest、a news studio、an explosion、an animal、text on screen、烟雾、屏幕文字、a horse、抗议活动、演讲、旗帜",
+      "description_en": "Visual candidate labels: 新闻演播室, a protest, a news studio, an explosion, an animal, text on screen, 烟雾, 屏幕文字, a horse, 抗议活动, 演讲, 旗帜",
+      "keywords": "新闻演播室,a protest,a news studio,an explosion,an animal,text on screen,烟雾,屏幕文字,a horse,抗议活动,演讲,旗帜,a flag,a speech,动物,马,the countryside,体育比赛,人群,police",
+      "visual_labels": [
+        {
+          "label": "新闻演播室",
+          "score": 0.4052
+        },
+        {
+          "label": "a protest",
+          "score": 0.4049
+        },
+        {
+          "label": "a news studio",
+          "score": 0.396
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3841
+        },
+        {
+          "label": "an animal",
+          "score": 0.3837
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3714
+        },
+        {
+          "label": "烟雾",
+          "score": 0.3664
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3607
+        },
+        {
+          "label": "a horse",
+          "score": 0.3579
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3561
+        },
+        {
+          "label": "演讲",
+          "score": 0.3503
+        },
+        {
+          "label": "旗帜",
+          "score": 0.3503
+        },
+        {
+          "label": "a flag",
+          "score": 0.348
+        },
+        {
+          "label": "a speech",
+          "score": 0.3477
+        },
+        {
+          "label": "动物",
+          "score": 0.3436
+        },
+        {
+          "label": "马",
+          "score": 0.3431
+        },
+        {
+          "label": "the countryside",
+          "score": 0.3391
+        },
+        {
+          "label": "体育比赛",
+          "score": 0.3367
+        },
+        {
+          "label": "人群",
+          "score": 0.3364
+        },
+        {
+          "label": "police",
+          "score": 0.3331
         }
       ]
     }
