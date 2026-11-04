@@ -1,285 +1,192 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-03T17:51:34+00:00",
+  "generated_at": "2026-11-04T06:15:19+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
-  "records": 3,
+  "records": 2,
   "items": [
     {
-      "id": "BBCNEWS_20261103_073000_Business_Today",
-      "title": "plus, plus, as americans go to the polls polls for the midterm elections, elections, we find out how the rising rising cost of living is impacting impacting farmers and billionaire…",
-      "source": "BBCNEWS",
-      "date": "2026-11-03T00:00:00Z",
-      "image_url": "https://archive.org/services/img/BBCNEWS_20261103_073000_Business_Today/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/BBCNEWS_20261103_073000_Business_Today",
-      "description_zh": "画面候选标签：a news studio、新闻演播室、a building、a speech、text on screen、an explosion、屏幕文字、a crowd、a protest、an animal、a car、an airplane",
-      "description_en": "Visual candidate labels: a news studio, 新闻演播室, a building, a speech, text on screen, an explosion, 屏幕文字, a crowd, a protest, an animal, a car, an airplane",
-      "keywords": "a news studio,新闻演播室,a building,a speech,text on screen,an explosion,屏幕文字,a crowd,a protest,an animal,a car,an airplane,fire,basketball,a city street,a river,police,抗议活动,a road,a truck",
+      "id": "ALJAZ_20261104_003000",
+      "title": "i heard scott talking about the early returns there, because of course, this is one of the battle ground that democrats are trying to flip its been in republican hands for a very l…",
+      "source": "ALJAZ",
+      "date": "2026-11-04T00:00:00Z",
+      "image_url": "https://archive.org/services/img/ALJAZ_20261104_003000/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/ALJAZ_20261104_003000",
+      "description_zh": "画面候选标签：a news studio、a protest、新闻演播室、a speech、text on screen、an explosion、flooding、a river、a building、a flag、police、a road",
+      "description_en": "Visual candidate labels: a news studio, a protest, 新闻演播室, a speech, text on screen, an explosion, flooding, a river, a building, a flag, police, a road",
+      "keywords": "a news studio,a protest,新闻演播室,a speech,text on screen,an explosion,flooding,a river,a building,a flag,police,a road,a sports match,a mountain,a map,military,屏幕文字,fire,an animal,a city street",
       "visual_labels": [
         {
           "label": "a news studio",
-          "score": 0.4863
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.4038
-        },
-        {
-          "label": "a building",
-          "score": 0.3913
-        },
-        {
-          "label": "a speech",
-          "score": 0.3894
-        },
-        {
-          "label": "text on screen",
-          "score": 0.387
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3862
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3725
-        },
-        {
-          "label": "a crowd",
-          "score": 0.3675
+          "score": 0.4555
         },
         {
           "label": "a protest",
-          "score": 0.3666
-        },
-        {
-          "label": "an animal",
-          "score": 0.3656
-        },
-        {
-          "label": "a car",
-          "score": 0.3654
-        },
-        {
-          "label": "an airplane",
-          "score": 0.3652
-        },
-        {
-          "label": "fire",
-          "score": 0.3635
-        },
-        {
-          "label": "basketball",
-          "score": 0.3629
-        },
-        {
-          "label": "a city street",
-          "score": 0.3581
-        },
-        {
-          "label": "a river",
-          "score": 0.3578
-        },
-        {
-          "label": "police",
-          "score": 0.3573
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3572
-        },
-        {
-          "label": "a road",
-          "score": 0.3569
-        },
-        {
-          "label": "a truck",
-          "score": 0.3558
-        }
-      ]
-    },
-    {
-      "id": "DW_20261103_030200_DW_News_Focus",
-      "title": "i've did your part of a world wide movement, made the west great again, fluoride parties across europe used to show off their good relations with donald trump and his market moveme…",
-      "source": "DW",
-      "date": "2026-11-03T00:00:00Z",
-      "image_url": "https://archive.org/services/img/DW_20261103_030200_DW_News_Focus/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/DW_20261103_030200_DW_News_Focus",
-      "description_zh": "画面候选标签：a speech、a news studio、新闻演播室、text on screen、a protest、演讲、屏幕文字、a road、a flag、a sports match、人、an explosion",
-      "description_en": "Visual candidate labels: a speech, a news studio, 新闻演播室, text on screen, a protest, 演讲, 屏幕文字, a road, a flag, a sports match, 人, an explosion",
-      "keywords": "a speech,a news studio,新闻演播室,text on screen,a protest,演讲,屏幕文字,a road,a flag,a sports match,人,an explosion,basketball,爆炸,抗议活动,fire,烟雾,a beach,a train,flooding",
-      "visual_labels": [
-        {
-          "label": "a speech",
-          "score": 0.4018
-        },
-        {
-          "label": "a news studio",
-          "score": 0.3999
+          "score": 0.4424
         },
         {
           "label": "新闻演播室",
-          "score": 0.3942
+          "score": 0.425
+        },
+        {
+          "label": "a speech",
+          "score": 0.4159
         },
         {
           "label": "text on screen",
-          "score": 0.3815
-        },
-        {
-          "label": "a protest",
-          "score": 0.3799
-        },
-        {
-          "label": "演讲",
-          "score": 0.3782
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3774
-        },
-        {
-          "label": "a road",
-          "score": 0.3623
-        },
-        {
-          "label": "a flag",
-          "score": 0.3601
-        },
-        {
-          "label": "a sports match",
-          "score": 0.3546
-        },
-        {
-          "label": "人",
-          "score": 0.3528
+          "score": 0.4102
         },
         {
           "label": "an explosion",
-          "score": 0.3523
-        },
-        {
-          "label": "basketball",
-          "score": 0.3503
-        },
-        {
-          "label": "爆炸",
-          "score": 0.3495
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3491
-        },
-        {
-          "label": "fire",
-          "score": 0.3475
-        },
-        {
-          "label": "烟雾",
-          "score": 0.3451
-        },
-        {
-          "label": "a beach",
-          "score": 0.3421
-        },
-        {
-          "label": "a train",
-          "score": 0.3383
+          "score": 0.4082
         },
         {
           "label": "flooding",
-          "score": 0.3381
+          "score": 0.3865
+        },
+        {
+          "label": "a river",
+          "score": 0.3815
+        },
+        {
+          "label": "a building",
+          "score": 0.3796
+        },
+        {
+          "label": "a flag",
+          "score": 0.3791
+        },
+        {
+          "label": "police",
+          "score": 0.3719
+        },
+        {
+          "label": "a road",
+          "score": 0.3705
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3661
+        },
+        {
+          "label": "a mountain",
+          "score": 0.364
+        },
+        {
+          "label": "a map",
+          "score": 0.3639
+        },
+        {
+          "label": "military",
+          "score": 0.3626
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.361
+        },
+        {
+          "label": "fire",
+          "score": 0.3606
+        },
+        {
+          "label": "an animal",
+          "score": 0.3601
+        },
+        {
+          "label": "a city street",
+          "score": 0.3598
         }
       ]
     },
     {
-      "id": "TVRIN_20261103_003000",
-      "title": "has there been any research from brin that shows regional governments have made efforts towards a better direction regarding ecological awareness, especially in urban areas, sir?",
-      "source": "TVRIN",
-      "date": "2026-11-03T00:00:00Z",
-      "image_url": "https://archive.org/services/img/TVRIN_20261103_003000/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/TVRIN_20261103_003000",
-      "description_zh": "画面候选标签：a news studio、a road、a city street、text on screen、a car、fire、basketball、a map、running、屏幕文字、新闻演播室、a sports match",
-      "description_en": "Visual candidate labels: a news studio, a road, a city street, text on screen, a car, fire, basketball, a map, running, 屏幕文字, 新闻演播室, a sports match",
-      "keywords": "a news studio,a road,a city street,text on screen,a car,fire,basketball,a map,running,屏幕文字,新闻演播室,a sports match,a protest,抗议活动,a building,soccer,a beach,police,a speech,a forest",
+      "id": "KRON_20261104_013000_KRON_4_News_at_530pm",
+      "title": "but the republicans control the house going in and the democrats only need to pick up 3 house seats flipped those 2 gain",
+      "source": "KRON",
+      "date": "2026-11-04T00:00:00Z",
+      "image_url": "https://archive.org/services/img/KRON_20261104_013000_KRON_4_News_at_530pm/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/KRON_20261104_013000_KRON_4_News_at_530pm",
+      "description_zh": "画面候选标签：an explosion、text on screen、a news studio、basketball、a sports match、flooding、a truck、a train、屏幕文字、a protest、police、a car",
+      "description_en": "Visual candidate labels: an explosion, text on screen, a news studio, basketball, a sports match, flooding, a truck, a train, 屏幕文字, a protest, police, a car",
+      "keywords": "an explosion,text on screen,a news studio,basketball,a sports match,flooding,a truck,a train,屏幕文字,a protest,police,a car,a city street,a horse,抗议活动,a speech,fire,a building,a road,新闻演播室",
       "visual_labels": [
         {
-          "label": "a news studio",
-          "score": 0.3714
-        },
-        {
-          "label": "a road",
-          "score": 0.3569
-        },
-        {
-          "label": "a city street",
-          "score": 0.3498
+          "label": "an explosion",
+          "score": 0.4108
         },
         {
           "label": "text on screen",
-          "score": 0.3417
+          "score": 0.4026
         },
         {
-          "label": "a car",
-          "score": 0.3408
-        },
-        {
-          "label": "fire",
-          "score": 0.3389
+          "label": "a news studio",
+          "score": 0.387
         },
         {
           "label": "basketball",
-          "score": 0.336
-        },
-        {
-          "label": "a map",
-          "score": 0.3358
-        },
-        {
-          "label": "running",
-          "score": 0.3323
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3235
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.3232
+          "score": 0.3861
         },
         {
           "label": "a sports match",
-          "score": 0.3214
+          "score": 0.3697
+        },
+        {
+          "label": "flooding",
+          "score": 0.3695
+        },
+        {
+          "label": "a truck",
+          "score": 0.3685
+        },
+        {
+          "label": "a train",
+          "score": 0.3614
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3612
         },
         {
           "label": "a protest",
-          "score": 0.3176
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3153
-        },
-        {
-          "label": "a building",
-          "score": 0.3143
-        },
-        {
-          "label": "soccer",
-          "score": 0.3122
-        },
-        {
-          "label": "a beach",
-          "score": 0.311
+          "score": 0.3605
         },
         {
           "label": "police",
-          "score": 0.311
+          "score": 0.3592
+        },
+        {
+          "label": "a car",
+          "score": 0.3539
+        },
+        {
+          "label": "a city street",
+          "score": 0.3531
+        },
+        {
+          "label": "a horse",
+          "score": 0.3509
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3508
         },
         {
           "label": "a speech",
-          "score": 0.3101
+          "score": 0.3497
         },
         {
-          "label": "a forest",
-          "score": 0.3089
+          "label": "fire",
+          "score": 0.3473
+        },
+        {
+          "label": "a building",
+          "score": 0.3456
+        },
+        {
+          "label": "a road",
+          "score": 0.3453
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3448
         }
       ]
     }
