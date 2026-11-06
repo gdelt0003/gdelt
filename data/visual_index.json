@@ -1,285 +1,285 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-05T18:44:06+00:00",
+  "generated_at": "2026-11-06T06:45:06+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
   "records": 3,
   "items": [
     {
-      "id": "ALJAZ_20261105_020000",
-      "title": "how these are the top stories this our us president, donald trump says the wrong war is largely to blame for republican losses in the mid term elections, but insist the offensive i…",
-      "source": "ALJAZ",
-      "date": "2026-11-05T00:00:00Z",
-      "image_url": "https://archive.org/services/img/ALJAZ_20261105_020000/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/ALJAZ_20261105_020000",
-      "description_zh": "画面候选标签：smoke、a horse、烟雾、an explosion、a mountain、an animal、a river、fire、flooding、a forest、text on screen、a ship",
-      "description_en": "Visual candidate labels: smoke, a horse, 烟雾, an explosion, a mountain, an animal, a river, fire, flooding, a forest, text on screen, a ship",
-      "keywords": "smoke,a horse,烟雾,an explosion,a mountain,an animal,a river,fire,flooding,a forest,text on screen,a ship,a map,a beach,爆炸,a road,a news studio,河流,动物,a crowd",
+      "id": "BBCNEWS_20261106_000000_BBC_News",
+      "title": "the evidence showed showed brand to be a calculated sexual sexual predator using his growing growing fame and power to create create situations in which he could could pursue women…",
+      "source": "BBCNEWS",
+      "date": "2026-11-06T00:00:00Z",
+      "image_url": "https://archive.org/services/img/BBCNEWS_20261106_000000_BBC_News/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/BBCNEWS_20261106_000000_BBC_News",
+      "description_zh": "画面候选标签：a news studio、新闻演播室、a building、an explosion、text on screen、a city street、烟雾、fire、a protest、城市街道、police、抗议活动",
+      "description_en": "Visual candidate labels: a news studio, 新闻演播室, a building, an explosion, text on screen, a city street, 烟雾, fire, a protest, 城市街道, police, 抗议活动",
+      "keywords": "a news studio,新闻演播室,a building,an explosion,text on screen,a city street,烟雾,fire,a protest,城市街道,police,抗议活动,建筑物,爆炸,屏幕文字,a flag,a road,a river,basketball,an animal",
       "visual_labels": [
         {
-          "label": "smoke",
-          "score": 0.4051
-        },
-        {
-          "label": "a horse",
-          "score": 0.388
-        },
-        {
-          "label": "烟雾",
-          "score": 0.3782
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3765
-        },
-        {
-          "label": "a mountain",
-          "score": 0.375
-        },
-        {
-          "label": "an animal",
-          "score": 0.3736
-        },
-        {
-          "label": "a river",
-          "score": 0.3727
-        },
-        {
-          "label": "fire",
-          "score": 0.3679
-        },
-        {
-          "label": "flooding",
-          "score": 0.367
-        },
-        {
-          "label": "a forest",
-          "score": 0.3638
-        },
-        {
-          "label": "text on screen",
-          "score": 0.3624
-        },
-        {
-          "label": "a ship",
-          "score": 0.3572
-        },
-        {
-          "label": "a map",
-          "score": 0.3556
-        },
-        {
-          "label": "a beach",
-          "score": 0.3544
-        },
-        {
-          "label": "爆炸",
-          "score": 0.3539
-        },
-        {
-          "label": "a road",
-          "score": 0.3537
-        },
-        {
           "label": "a news studio",
-          "score": 0.3517
-        },
-        {
-          "label": "河流",
-          "score": 0.3495
-        },
-        {
-          "label": "动物",
-          "score": 0.3454
-        },
-        {
-          "label": "a crowd",
-          "score": 0.3454
-        }
-      ]
-    },
-    {
-      "id": "KNTV_20261105_010000_NBC_Bay_Area_News_at_5",
-      "title": "prop e gives the mayor more control or city contracting, and prop e gives the mayor more control over hiring and firing people in city administration.",
-      "source": "KNTV",
-      "date": "2026-11-05T00:00:00Z",
-      "image_url": "https://archive.org/services/img/KNTV_20261105_010000_NBC_Bay_Area_News_at_5/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/KNTV_20261105_010000_NBC_Bay_Area_News_at_5",
-      "description_zh": "画面候选标签：a protest、a news studio、text on screen、an explosion、抗议活动、a flag、a sports match、a crowd、新闻演播室、屏幕文字、a speech、military",
-      "description_en": "Visual candidate labels: a protest, a news studio, text on screen, an explosion, 抗议活动, a flag, a sports match, a crowd, 新闻演播室, 屏幕文字, a speech, military",
-      "keywords": "a protest,a news studio,text on screen,an explosion,抗议活动,a flag,a sports match,a crowd,新闻演播室,屏幕文字,a speech,military,police,basketball,the countryside,a ship,flooding,a train,a horse,a building",
-      "visual_labels": [
-        {
-          "label": "a protest",
-          "score": 0.451
-        },
-        {
-          "label": "a news studio",
-          "score": 0.4154
-        },
-        {
-          "label": "text on screen",
-          "score": 0.4116
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3863
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3752
-        },
-        {
-          "label": "a flag",
-          "score": 0.3739
-        },
-        {
-          "label": "a sports match",
-          "score": 0.3714
-        },
-        {
-          "label": "a crowd",
-          "score": 0.3699
+          "score": 0.4927
         },
         {
           "label": "新闻演播室",
-          "score": 0.3599
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3598
-        },
-        {
-          "label": "a speech",
-          "score": 0.3566
-        },
-        {
-          "label": "military",
-          "score": 0.3562
-        },
-        {
-          "label": "police",
-          "score": 0.3536
-        },
-        {
-          "label": "basketball",
-          "score": 0.3505
-        },
-        {
-          "label": "the countryside",
-          "score": 0.3408
-        },
-        {
-          "label": "a ship",
-          "score": 0.3406
-        },
-        {
-          "label": "flooding",
-          "score": 0.3391
-        },
-        {
-          "label": "a train",
-          "score": 0.3383
-        },
-        {
-          "label": "a horse",
-          "score": 0.337
+          "score": 0.4293
         },
         {
           "label": "a building",
-          "score": 0.3344
+          "score": 0.4177
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3867
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3865
+        },
+        {
+          "label": "a city street",
+          "score": 0.3834
+        },
+        {
+          "label": "烟雾",
+          "score": 0.3771
+        },
+        {
+          "label": "fire",
+          "score": 0.377
+        },
+        {
+          "label": "a protest",
+          "score": 0.3737
+        },
+        {
+          "label": "城市街道",
+          "score": 0.3724
+        },
+        {
+          "label": "police",
+          "score": 0.3711
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3702
+        },
+        {
+          "label": "建筑物",
+          "score": 0.3655
+        },
+        {
+          "label": "爆炸",
+          "score": 0.3648
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3635
+        },
+        {
+          "label": "a flag",
+          "score": 0.3626
+        },
+        {
+          "label": "a road",
+          "score": 0.3596
+        },
+        {
+          "label": "a river",
+          "score": 0.3568
+        },
+        {
+          "label": "basketball",
+          "score": 0.3518
+        },
+        {
+          "label": "an animal",
+          "score": 0.3485
         }
       ]
     },
     {
-      "id": "MSNOW_20261105_030000_The_Last_Word_With_Lawrence_ODonnell",
-      "title": "what if your wifi could detect people coming in or going out?",
-      "source": "MSNOW",
-      "date": "2026-11-05T00:00:00Z",
-      "image_url": "https://archive.org/services/img/MSNOW_20261105_030000_The_Last_Word_With_Lawrence_ODonnell/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/MSNOW_20261105_030000_The_Last_Word_With_Lawrence_ODonnell",
-      "description_zh": "画面候选标签：text on screen、fire、smoke、an explosion、a news studio、a city street、a forest、抗议活动、屏幕文字、the countryside、a protest、a road",
-      "description_en": "Visual candidate labels: text on screen, fire, smoke, an explosion, a news studio, a city street, a forest, 抗议活动, 屏幕文字, the countryside, a protest, a road",
-      "keywords": "text on screen,fire,smoke,an explosion,a news studio,a city street,a forest,抗议活动,屏幕文字,the countryside,a protest,a road,a building,a speech,a flag,a train,flooding,running,a crowd,a ship",
+      "id": "KSTS_20261106_020000_Noticiero_Telemundo_48",
+      "title": "queremos agradecer por informarse con noticiero telemundo 48 y vamos a continuar con esta historia que también hemos estado siguiendo muy, pero que muy de cerca.",
+      "source": "KSTS",
+      "date": "2026-11-06T00:00:00Z",
+      "image_url": "https://archive.org/services/img/KSTS_20261106_020000_Noticiero_Telemundo_48/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/KSTS_20261106_020000_Noticiero_Telemundo_48",
+      "description_zh": "画面候选标签：police、a protest、a truck、text on screen、a car、an explosion、a news studio、the countryside、抗议活动、a horse、flooding、a speech",
+      "description_en": "Visual candidate labels: police, a protest, a truck, text on screen, a car, an explosion, a news studio, the countryside, 抗议活动, a horse, flooding, a speech",
+      "keywords": "police,a protest,a truck,text on screen,a car,an explosion,a news studio,the countryside,抗议活动,a horse,flooding,a speech,警察,a road,military,fire,a mountain,a ship,a building,a forest",
       "visual_labels": [
         {
-          "label": "text on screen",
-          "score": 0.3752
-        },
-        {
-          "label": "fire",
-          "score": 0.3734
-        },
-        {
-          "label": "smoke",
-          "score": 0.3672
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3637
-        },
-        {
-          "label": "a news studio",
-          "score": 0.3628
-        },
-        {
-          "label": "a city street",
-          "score": 0.3513
-        },
-        {
-          "label": "a forest",
-          "score": 0.3502
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3475
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3475
-        },
-        {
-          "label": "the countryside",
-          "score": 0.346
+          "label": "police",
+          "score": 0.4421
         },
         {
           "label": "a protest",
-          "score": 0.3459
+          "score": 0.4412
         },
         {
-          "label": "a road",
-          "score": 0.3442
+          "label": "a truck",
+          "score": 0.4143
         },
         {
-          "label": "a building",
-          "score": 0.344
+          "label": "text on screen",
+          "score": 0.4135
         },
         {
-          "label": "a speech",
-          "score": 0.3439
+          "label": "a car",
+          "score": 0.406
         },
         {
-          "label": "a flag",
-          "score": 0.3437
+          "label": "an explosion",
+          "score": 0.3952
         },
         {
-          "label": "a train",
-          "score": 0.3428
+          "label": "a news studio",
+          "score": 0.3935
+        },
+        {
+          "label": "the countryside",
+          "score": 0.3795
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3756
+        },
+        {
+          "label": "a horse",
+          "score": 0.371
         },
         {
           "label": "flooding",
-          "score": 0.3398
+          "score": 0.369
         },
         {
-          "label": "running",
-          "score": 0.3383
+          "label": "a speech",
+          "score": 0.3684
         },
         {
-          "label": "a crowd",
-          "score": 0.3367
+          "label": "警察",
+          "score": 0.3667
+        },
+        {
+          "label": "a road",
+          "score": 0.3652
+        },
+        {
+          "label": "military",
+          "score": 0.3623
+        },
+        {
+          "label": "fire",
+          "score": 0.3622
+        },
+        {
+          "label": "a mountain",
+          "score": 0.3576
         },
         {
           "label": "a ship",
-          "score": 0.3366
+          "score": 0.3574
+        },
+        {
+          "label": "a building",
+          "score": 0.3566
+        },
+        {
+          "label": "a forest",
+          "score": 0.3562
+        }
+      ]
+    },
+    {
+      "id": "DW_20261106_011500_Piedmont",
+      "title": "this part of italy is famous for its wines of vibrant regional capital with a rich cultural heritage and exciting cuisine and for its good",
+      "source": "DW",
+      "date": "2026-11-06T00:00:00Z",
+      "image_url": "https://archive.org/services/img/DW_20261106_011500_Piedmont/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261106_011500_Piedmont",
+      "description_zh": "画面候选标签：text on screen、a news studio、屏幕文字、a flag、新闻演播室、an explosion、a sports match、a building、flooding、fire、basketball、soccer",
+      "description_en": "Visual candidate labels: text on screen, a news studio, 屏幕文字, a flag, 新闻演播室, an explosion, a sports match, a building, flooding, fire, basketball, soccer",
+      "keywords": "text on screen,a news studio,屏幕文字,a flag,新闻演播室,an explosion,a sports match,a building,flooding,fire,basketball,soccer,an animal,a train,a map,smoke,a crowd,military,police,旗帜",
+      "visual_labels": [
+        {
+          "label": "text on screen",
+          "score": 0.4554
+        },
+        {
+          "label": "a news studio",
+          "score": 0.4238
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.4037
+        },
+        {
+          "label": "a flag",
+          "score": 0.3917
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3871
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3824
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3794
+        },
+        {
+          "label": "a building",
+          "score": 0.3778
+        },
+        {
+          "label": "flooding",
+          "score": 0.3774
+        },
+        {
+          "label": "fire",
+          "score": 0.3768
+        },
+        {
+          "label": "basketball",
+          "score": 0.3762
+        },
+        {
+          "label": "soccer",
+          "score": 0.3684
+        },
+        {
+          "label": "an animal",
+          "score": 0.3649
+        },
+        {
+          "label": "a train",
+          "score": 0.3643
+        },
+        {
+          "label": "a map",
+          "score": 0.3638
+        },
+        {
+          "label": "smoke",
+          "score": 0.3614
+        },
+        {
+          "label": "a crowd",
+          "score": 0.36
+        },
+        {
+          "label": "military",
+          "score": 0.3594
+        },
+        {
+          "label": "police",
+          "score": 0.359
+        },
+        {
+          "label": "旗帜",
+          "score": 0.3583
         }
       ]
     }
