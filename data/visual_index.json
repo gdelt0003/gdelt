@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-06T06:45:06+00:00",
+  "generated_at": "2026-11-06T15:00:19+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
-  "records": 3,
+  "records": 2,
   "items": [
     {
       "id": "BBCNEWS_20261106_000000_BBC_News",
@@ -11,89 +11,89 @@
       "date": "2026-11-06T00:00:00Z",
       "image_url": "https://archive.org/services/img/BBCNEWS_20261106_000000_BBC_News/full/pct:200/0/default.jpg",
       "replay_url": "https://archive.org/details/BBCNEWS_20261106_000000_BBC_News",
-      "description_zh": "画面候选标签：a news studio、新闻演播室、a building、an explosion、text on screen、a city street、烟雾、fire、a protest、城市街道、police、抗议活动",
-      "description_en": "Visual candidate labels: a news studio, 新闻演播室, a building, an explosion, text on screen, a city street, 烟雾, fire, a protest, 城市街道, police, 抗议活动",
-      "keywords": "a news studio,新闻演播室,a building,an explosion,text on screen,a city street,烟雾,fire,a protest,城市街道,police,抗议活动,建筑物,爆炸,屏幕文字,a flag,a road,a river,basketball,an animal",
+      "description_zh": "画面候选标签：a news studio、a building、新闻演播室、a city street、text on screen、an explosion、城市街道、烟雾、fire、建筑物、a protest、爆炸",
+      "description_en": "Visual candidate labels: a news studio, a building, 新闻演播室, a city street, text on screen, an explosion, 城市街道, 烟雾, fire, 建筑物, a protest, 爆炸",
+      "keywords": "a news studio,a building,新闻演播室,a city street,text on screen,an explosion,城市街道,烟雾,fire,建筑物,a protest,爆炸,police,抗议活动,屏幕文字,a road,a flag,a map,演讲,a speech",
       "visual_labels": [
         {
           "label": "a news studio",
-          "score": 0.4927
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.4293
+          "score": 0.4862
         },
         {
           "label": "a building",
-          "score": 0.4177
+          "score": 0.4242
         },
         {
-          "label": "an explosion",
-          "score": 0.3867
-        },
-        {
-          "label": "text on screen",
-          "score": 0.3865
+          "label": "新闻演播室",
+          "score": 0.4227
         },
         {
           "label": "a city street",
-          "score": 0.3834
+          "score": 0.3892
         },
         {
-          "label": "烟雾",
-          "score": 0.3771
+          "label": "text on screen",
+          "score": 0.3831
         },
         {
-          "label": "fire",
-          "score": 0.377
-        },
-        {
-          "label": "a protest",
-          "score": 0.3737
+          "label": "an explosion",
+          "score": 0.3814
         },
         {
           "label": "城市街道",
-          "score": 0.3724
+          "score": 0.3791
         },
         {
-          "label": "police",
-          "score": 0.3711
+          "label": "烟雾",
+          "score": 0.3745
         },
         {
-          "label": "抗议活动",
-          "score": 0.3702
+          "label": "fire",
+          "score": 0.3736
         },
         {
           "label": "建筑物",
-          "score": 0.3655
+          "score": 0.3713
+        },
+        {
+          "label": "a protest",
+          "score": 0.3706
         },
         {
           "label": "爆炸",
-          "score": 0.3648
+          "score": 0.3686
+        },
+        {
+          "label": "police",
+          "score": 0.3655
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3651
         },
         {
           "label": "屏幕文字",
-          "score": 0.3635
-        },
-        {
-          "label": "a flag",
-          "score": 0.3626
+          "score": 0.3644
         },
         {
           "label": "a road",
-          "score": 0.3596
+          "score": 0.3557
         },
         {
-          "label": "a river",
-          "score": 0.3568
+          "label": "a flag",
+          "score": 0.3511
         },
         {
-          "label": "basketball",
-          "score": 0.3518
+          "label": "a map",
+          "score": 0.3493
         },
         {
-          "label": "an animal",
-          "score": 0.3485
+          "label": "演讲",
+          "score": 0.3491
+        },
+        {
+          "label": "a speech",
+          "score": 0.3487
         }
       ]
     },
@@ -104,182 +104,89 @@
       "date": "2026-11-06T00:00:00Z",
       "image_url": "https://archive.org/services/img/KSTS_20261106_020000_Noticiero_Telemundo_48/full/pct:200/0/default.jpg",
       "replay_url": "https://archive.org/details/KSTS_20261106_020000_Noticiero_Telemundo_48",
-      "description_zh": "画面候选标签：police、a protest、a truck、text on screen、a car、an explosion、a news studio、the countryside、抗议活动、a horse、flooding、a speech",
-      "description_en": "Visual candidate labels: police, a protest, a truck, text on screen, a car, an explosion, a news studio, the countryside, 抗议活动, a horse, flooding, a speech",
-      "keywords": "police,a protest,a truck,text on screen,a car,an explosion,a news studio,the countryside,抗议活动,a horse,flooding,a speech,警察,a road,military,fire,a mountain,a ship,a building,a forest",
+      "description_zh": "画面候选标签：police、a protest、text on screen、a truck、a car、a news studio、an explosion、the countryside、抗议活动、flooding、a speech、a road",
+      "description_en": "Visual candidate labels: police, a protest, text on screen, a truck, a car, a news studio, an explosion, the countryside, 抗议活动, flooding, a speech, a road",
+      "keywords": "police,a protest,text on screen,a truck,a car,a news studio,an explosion,the countryside,抗议活动,flooding,a speech,a road,fire,警察,military,a horse,a mountain,a ship,a building,a city street",
       "visual_labels": [
         {
           "label": "police",
-          "score": 0.4421
+          "score": 0.4425
         },
         {
           "label": "a protest",
-          "score": 0.4412
+          "score": 0.4322
+        },
+        {
+          "label": "text on screen",
+          "score": 0.4118
         },
         {
           "label": "a truck",
-          "score": 0.4143
-        },
-        {
-          "label": "text on screen",
-          "score": 0.4135
+          "score": 0.4089
         },
         {
           "label": "a car",
-          "score": 0.406
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3952
+          "score": 0.4028
         },
         {
           "label": "a news studio",
-          "score": 0.3935
+          "score": 0.3951
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3929
         },
         {
           "label": "the countryside",
-          "score": 0.3795
+          "score": 0.3758
         },
         {
           "label": "抗议活动",
-          "score": 0.3756
-        },
-        {
-          "label": "a horse",
-          "score": 0.371
+          "score": 0.3744
         },
         {
           "label": "flooding",
-          "score": 0.369
+          "score": 0.3711
         },
         {
           "label": "a speech",
-          "score": 0.3684
-        },
-        {
-          "label": "警察",
-          "score": 0.3667
+          "score": 0.3672
         },
         {
           "label": "a road",
-          "score": 0.3652
-        },
-        {
-          "label": "military",
-          "score": 0.3623
+          "score": 0.3669
         },
         {
           "label": "fire",
-          "score": 0.3622
+          "score": 0.3658
+        },
+        {
+          "label": "警察",
+          "score": 0.3654
+        },
+        {
+          "label": "military",
+          "score": 0.3635
+        },
+        {
+          "label": "a horse",
+          "score": 0.3624
         },
         {
           "label": "a mountain",
-          "score": 0.3576
+          "score": 0.3615
         },
         {
           "label": "a ship",
-          "score": 0.3574
+          "score": 0.3599
         },
         {
           "label": "a building",
-          "score": 0.3566
+          "score": 0.3568
         },
         {
-          "label": "a forest",
-          "score": 0.3562
-        }
-      ]
-    },
-    {
-      "id": "DW_20261106_011500_Piedmont",
-      "title": "this part of italy is famous for its wines of vibrant regional capital with a rich cultural heritage and exciting cuisine and for its good",
-      "source": "DW",
-      "date": "2026-11-06T00:00:00Z",
-      "image_url": "https://archive.org/services/img/DW_20261106_011500_Piedmont/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/DW_20261106_011500_Piedmont",
-      "description_zh": "画面候选标签：text on screen、a news studio、屏幕文字、a flag、新闻演播室、an explosion、a sports match、a building、flooding、fire、basketball、soccer",
-      "description_en": "Visual candidate labels: text on screen, a news studio, 屏幕文字, a flag, 新闻演播室, an explosion, a sports match, a building, flooding, fire, basketball, soccer",
-      "keywords": "text on screen,a news studio,屏幕文字,a flag,新闻演播室,an explosion,a sports match,a building,flooding,fire,basketball,soccer,an animal,a train,a map,smoke,a crowd,military,police,旗帜",
-      "visual_labels": [
-        {
-          "label": "text on screen",
-          "score": 0.4554
-        },
-        {
-          "label": "a news studio",
-          "score": 0.4238
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.4037
-        },
-        {
-          "label": "a flag",
-          "score": 0.3917
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.3871
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3824
-        },
-        {
-          "label": "a sports match",
-          "score": 0.3794
-        },
-        {
-          "label": "a building",
-          "score": 0.3778
-        },
-        {
-          "label": "flooding",
-          "score": 0.3774
-        },
-        {
-          "label": "fire",
-          "score": 0.3768
-        },
-        {
-          "label": "basketball",
-          "score": 0.3762
-        },
-        {
-          "label": "soccer",
-          "score": 0.3684
-        },
-        {
-          "label": "an animal",
-          "score": 0.3649
-        },
-        {
-          "label": "a train",
-          "score": 0.3643
-        },
-        {
-          "label": "a map",
-          "score": 0.3638
-        },
-        {
-          "label": "smoke",
-          "score": 0.3614
-        },
-        {
-          "label": "a crowd",
-          "score": 0.36
-        },
-        {
-          "label": "military",
-          "score": 0.3594
-        },
-        {
-          "label": "police",
-          "score": 0.359
-        },
-        {
-          "label": "旗帜",
-          "score": 0.3583
+          "label": "a city street",
+          "score": 0.3546
         }
       ]
     }
