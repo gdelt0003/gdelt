@@ -1,7 +1,287 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-07T00:54:59+00:00",
+  "generated_at": "2026-11-07T07:07:08+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
-  "records": 0,
-  "items": []
+  "records": 3,
+  "items": [
+    {
+      "id": "DW_20261107_041500_Shift",
+      "title": "DW｜Shift",
+      "source": "DW",
+      "date": "2026-11-07T00:00:00Z",
+      "image_url": "https://archive.org/services/img/DW_20261107_041500_Shift/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261107_041500_Shift",
+      "description_zh": "画面候选标签：a protest、a speech、an explosion、text on screen、a news studio、flooding、抗议活动、a flag、屏幕文字、演讲、a truck、running",
+      "description_en": "Visual candidate labels: a protest, a speech, an explosion, text on screen, a news studio, flooding, 抗议活动, a flag, 屏幕文字, 演讲, a truck, running",
+      "keywords": "a protest,a speech,an explosion,text on screen,a news studio,flooding,抗议活动,a flag,屏幕文字,演讲,a truck,running,a crowd,fire,a ship,新闻演播室,a train,a river,a car,a horse",
+      "visual_labels": [
+        {
+          "label": "a protest",
+          "score": 0.4034
+        },
+        {
+          "label": "a speech",
+          "score": 0.3796
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3794
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3723
+        },
+        {
+          "label": "a news studio",
+          "score": 0.3693
+        },
+        {
+          "label": "flooding",
+          "score": 0.3644
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3637
+        },
+        {
+          "label": "a flag",
+          "score": 0.3467
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3456
+        },
+        {
+          "label": "演讲",
+          "score": 0.3428
+        },
+        {
+          "label": "a truck",
+          "score": 0.3349
+        },
+        {
+          "label": "running",
+          "score": 0.3285
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3271
+        },
+        {
+          "label": "fire",
+          "score": 0.3252
+        },
+        {
+          "label": "a ship",
+          "score": 0.324
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3216
+        },
+        {
+          "label": "a train",
+          "score": 0.3215
+        },
+        {
+          "label": "a river",
+          "score": 0.3202
+        },
+        {
+          "label": "a car",
+          "score": 0.3201
+        },
+        {
+          "label": "a horse",
+          "score": 0.3186
+        }
+      ]
+    },
+    {
+      "id": "DW_20261107_050200_Focus_on_Europe",
+      "title": "one time, chinese woman that was often physically boring workers like a new from egypt or the alleged victims of human trafficking and chinese run firms in serbia.",
+      "source": "DW",
+      "date": "2026-11-07T00:00:00Z",
+      "image_url": "https://archive.org/services/img/DW_20261107_050200_Focus_on_Europe/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261107_050200_Focus_on_Europe",
+      "description_zh": "画面候选标签：a news studio、新闻演播室、an explosion、text on screen、a speech、a protest、a flag、抗议活动、flooding、屏幕文字、soccer、a car",
+      "description_en": "Visual candidate labels: a news studio, 新闻演播室, an explosion, text on screen, a speech, a protest, a flag, 抗议活动, flooding, 屏幕文字, soccer, a car",
+      "keywords": "a news studio,新闻演播室,an explosion,text on screen,a speech,a protest,a flag,抗议活动,flooding,屏幕文字,soccer,a car,fire,a road,police,a map,a building,smoke,a truck,running",
+      "visual_labels": [
+        {
+          "label": "a news studio",
+          "score": 0.4222
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3951
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3905
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3875
+        },
+        {
+          "label": "a speech",
+          "score": 0.3852
+        },
+        {
+          "label": "a protest",
+          "score": 0.3848
+        },
+        {
+          "label": "a flag",
+          "score": 0.3719
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3702
+        },
+        {
+          "label": "flooding",
+          "score": 0.368
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3657
+        },
+        {
+          "label": "soccer",
+          "score": 0.36
+        },
+        {
+          "label": "a car",
+          "score": 0.3582
+        },
+        {
+          "label": "fire",
+          "score": 0.3561
+        },
+        {
+          "label": "a road",
+          "score": 0.3548
+        },
+        {
+          "label": "police",
+          "score": 0.3524
+        },
+        {
+          "label": "a map",
+          "score": 0.35
+        },
+        {
+          "label": "a building",
+          "score": 0.3496
+        },
+        {
+          "label": "smoke",
+          "score": 0.3494
+        },
+        {
+          "label": "a truck",
+          "score": 0.3416
+        },
+        {
+          "label": "running",
+          "score": 0.3414
+        }
+      ]
+    },
+    {
+      "id": "MSNOW_20261107_010000_All_in_With_Chris_Hayes",
+      "title": "i mean, if i was giving advice to congress, i'd say pass three bills on affordability, you know, something on affordable housing, bringing down the price of groceries for every one…",
+      "source": "MSNOW",
+      "date": "2026-11-07T00:00:00Z",
+      "image_url": "https://archive.org/services/img/MSNOW_20261107_010000_All_in_With_Chris_Hayes/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/MSNOW_20261107_010000_All_in_With_Chris_Hayes",
+      "description_zh": "画面候选标签：a speech、a news studio、text on screen、a protest、an explosion、新闻演播室、an animal、屏幕文字、a crowd、a horse、a sports match、a road",
+      "description_en": "Visual candidate labels: a speech, a news studio, text on screen, a protest, an explosion, 新闻演播室, an animal, 屏幕文字, a crowd, a horse, a sports match, a road",
+      "keywords": "a speech,a news studio,text on screen,a protest,an explosion,新闻演播室,an animal,屏幕文字,a crowd,a horse,a sports match,a road,flooding,a city street,演讲,抗议活动,the countryside,a river,a map,a building",
+      "visual_labels": [
+        {
+          "label": "a speech",
+          "score": 0.4308
+        },
+        {
+          "label": "a news studio",
+          "score": 0.3993
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3973
+        },
+        {
+          "label": "a protest",
+          "score": 0.3916
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3794
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3722
+        },
+        {
+          "label": "an animal",
+          "score": 0.3644
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3588
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3574
+        },
+        {
+          "label": "a horse",
+          "score": 0.3549
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3508
+        },
+        {
+          "label": "a road",
+          "score": 0.3505
+        },
+        {
+          "label": "flooding",
+          "score": 0.3481
+        },
+        {
+          "label": "a city street",
+          "score": 0.3471
+        },
+        {
+          "label": "演讲",
+          "score": 0.3466
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3444
+        },
+        {
+          "label": "the countryside",
+          "score": 0.3442
+        },
+        {
+          "label": "a river",
+          "score": 0.343
+        },
+        {
+          "label": "a map",
+          "score": 0.3428
+        },
+        {
+          "label": "a building",
+          "score": 0.3417
+        }
+      ]
+    }
+  ]
 }
