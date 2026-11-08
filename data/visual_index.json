@@ -1,285 +1,285 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-08T02:28:03+00:00",
+  "generated_at": "2026-11-08T10:16:37+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
   "records": 3,
   "items": [
     {
-      "id": "RT_20261108_010000_Going_Underground",
-      "title": "was recorded in the world history as the year of africa, and it became the point of no return for the colonial system, the nation redundancy, welcome back to going underground book…",
-      "source": "RT",
+      "id": "BBCNEWS_20261108_070000_Signed",
+      "title": "i'm live at the cenotaph cenotaph in central london, where where the king will lead the nation nation in remembrance, honouring honouring the millions who have died died serving br…",
+      "source": "BBCNEWS",
       "date": "2026-11-08T00:00:00Z",
-      "image_url": "https://archive.org/services/img/RT_20261108_010000_Going_Underground/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/RT_20261108_010000_Going_Underground",
-      "description_zh": "画面候选标签：a protest、抗议活动、a news studio、a flag、a speech、an explosion、a ship、text on screen、a building、屏幕文字、a road、a train",
-      "description_en": "Visual candidate labels: a protest, 抗议活动, a news studio, a flag, a speech, an explosion, a ship, text on screen, a building, 屏幕文字, a road, a train",
-      "keywords": "a protest,抗议活动,a news studio,a flag,a speech,an explosion,a ship,text on screen,a building,屏幕文字,a road,a train,an animal,新闻演播室,a map,a sports match,a city street,a horse,a crowd,the countryside",
+      "image_url": "https://archive.org/services/img/BBCNEWS_20261108_070000_Signed/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/BBCNEWS_20261108_070000_Signed",
+      "description_zh": "画面候选标签：a news studio、a building、新闻演播室、a city street、text on screen、an explosion、城市街道、烟雾、fire、建筑物、a protest、爆炸",
+      "description_en": "Visual candidate labels: a news studio, a building, 新闻演播室, a city street, text on screen, an explosion, 城市街道, 烟雾, fire, 建筑物, a protest, 爆炸",
+      "keywords": "a news studio,a building,新闻演播室,a city street,text on screen,an explosion,城市街道,烟雾,fire,建筑物,a protest,爆炸,police,抗议活动,屏幕文字,a road,a flag,a map,演讲,a speech",
       "visual_labels": [
         {
-          "label": "a protest",
-          "score": 0.461
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.4107
-        },
-        {
           "label": "a news studio",
-          "score": 0.4073
-        },
-        {
-          "label": "a flag",
-          "score": 0.3934
-        },
-        {
-          "label": "a speech",
-          "score": 0.3901
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3801
-        },
-        {
-          "label": "a ship",
-          "score": 0.3761
-        },
-        {
-          "label": "text on screen",
-          "score": 0.3747
+          "score": 0.4862
         },
         {
           "label": "a building",
-          "score": 0.3733
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3705
-        },
-        {
-          "label": "a road",
-          "score": 0.3691
-        },
-        {
-          "label": "a train",
-          "score": 0.3629
-        },
-        {
-          "label": "an animal",
-          "score": 0.3627
+          "score": 0.4242
         },
         {
           "label": "新闻演播室",
-          "score": 0.353
-        },
-        {
-          "label": "a map",
-          "score": 0.3524
-        },
-        {
-          "label": "a sports match",
-          "score": 0.3508
+          "score": 0.4227
         },
         {
           "label": "a city street",
-          "score": 0.3497
-        },
-        {
-          "label": "a horse",
-          "score": 0.3486
-        },
-        {
-          "label": "a crowd",
-          "score": 0.3466
-        },
-        {
-          "label": "the countryside",
-          "score": 0.3449
-        }
-      ]
-    },
-    {
-      "id": "CSPAN3_20261108_005500_Americas_Book_Club_The_Treasures_with_Newt_Gingrich",
-      "title": "[captioning performed by the national captioning institute, which is responsible for its caption content and accuracy.",
-      "source": "CSPAN3",
-      "date": "2026-11-08T00:00:00Z",
-      "image_url": "https://archive.org/services/img/CSPAN3_20261108_005500_Americas_Book_Club_The_Treasures_with_Newt_Gingrich/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/CSPAN3_20261108_005500_Americas_Book_Club_The_Treasures_with_Newt_Gingrich",
-      "description_zh": "画面候选标签：a news studio、a speech、text on screen、a protest、a building、新闻演播室、flooding、an explosion、a train、a ship、a flag、a river",
-      "description_en": "Visual candidate labels: a news studio, a speech, text on screen, a protest, a building, 新闻演播室, flooding, an explosion, a train, a ship, a flag, a river",
-      "keywords": "a news studio,a speech,text on screen,a protest,a building,新闻演播室,flooding,an explosion,a train,a ship,a flag,a river,fire,演讲,a truck,smoke,a horse,an animal,a crowd,a road",
-      "visual_labels": [
-        {
-          "label": "a news studio",
-          "score": 0.4296
-        },
-        {
-          "label": "a speech",
-          "score": 0.4079
+          "score": 0.3892
         },
         {
           "label": "text on screen",
-          "score": 0.3939
-        },
-        {
-          "label": "a protest",
-          "score": 0.3896
-        },
-        {
-          "label": "a building",
-          "score": 0.3842
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.3779
-        },
-        {
-          "label": "flooding",
-          "score": 0.3634
+          "score": 0.3831
         },
         {
           "label": "an explosion",
-          "score": 0.3616
+          "score": 0.3814
         },
         {
-          "label": "a train",
-          "score": 0.3547
+          "label": "城市街道",
+          "score": 0.3791
         },
         {
-          "label": "a ship",
-          "score": 0.3525
-        },
-        {
-          "label": "a flag",
-          "score": 0.3485
-        },
-        {
-          "label": "a river",
-          "score": 0.3461
+          "label": "烟雾",
+          "score": 0.3745
         },
         {
           "label": "fire",
-          "score": 0.3461
+          "score": 0.3736
         },
         {
-          "label": "演讲",
-          "score": 0.344
+          "label": "建筑物",
+          "score": 0.3713
         },
         {
-          "label": "a truck",
-          "score": 0.3426
+          "label": "a protest",
+          "score": 0.3706
         },
         {
-          "label": "smoke",
-          "score": 0.3421
+          "label": "爆炸",
+          "score": 0.3686
         },
         {
-          "label": "a horse",
-          "score": 0.3404
+          "label": "police",
+          "score": 0.3655
         },
         {
-          "label": "an animal",
-          "score": 0.3403
+          "label": "抗议活动",
+          "score": 0.3651
         },
         {
-          "label": "a crowd",
-          "score": 0.3398
+          "label": "屏幕文字",
+          "score": 0.3644
         },
         {
           "label": "a road",
-          "score": 0.3397
+          "score": 0.3557
+        },
+        {
+          "label": "a flag",
+          "score": 0.3511
+        },
+        {
+          "label": "a map",
+          "score": 0.3493
+        },
+        {
+          "label": "演讲",
+          "score": 0.3491
+        },
+        {
+          "label": "a speech",
+          "score": 0.3487
         }
       ]
     },
     {
-      "id": "DW_20261108_003000_In_Good_Shape",
-      "title": "DW｜In Good Shape",
-      "source": "DW",
+      "id": "BBCNEWS_20261108_063000_The_Travel_Show",
+      "title": "israel's president gives gives opposition leader gadi eisenkot eisenkot the opportunity to form form a new coalition government after after both main parties failed to to win a par…",
+      "source": "BBCNEWS",
       "date": "2026-11-08T00:00:00Z",
-      "image_url": "https://archive.org/services/img/DW_20261108_003000_In_Good_Shape/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/DW_20261108_003000_In_Good_Shape",
-      "description_zh": "画面候选标签：a sports match、a protest、a news studio、a speech、an explosion、text on screen、体育比赛、running、an animal、a flag、a beach、a train",
-      "description_en": "Visual candidate labels: a sports match, a protest, a news studio, a speech, an explosion, text on screen, 体育比赛, running, an animal, a flag, a beach, a train",
-      "keywords": "a sports match,a protest,a news studio,a speech,an explosion,text on screen,体育比赛,running,an animal,a flag,a beach,a train,a crowd,a building,military,a horse,flooding,a mountain,抗议活动,a ship",
+      "image_url": "https://archive.org/services/img/BBCNEWS_20261108_063000_The_Travel_Show/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/BBCNEWS_20261108_063000_The_Travel_Show",
+      "description_zh": "画面候选标签：a news studio、text on screen、a road、a crowd、a protest、an explosion、the countryside、新闻演播室、a river、a map、a speech、a beach",
+      "description_en": "Visual candidate labels: a news studio, text on screen, a road, a crowd, a protest, an explosion, the countryside, 新闻演播室, a river, a map, a speech, a beach",
+      "keywords": "a news studio,text on screen,a road,a crowd,a protest,an explosion,the countryside,新闻演播室,a river,a map,a speech,a beach,a building,屏幕文字,a train,flooding,a city street,an airplane,a sports match,a flag",
       "visual_labels": [
         {
-          "label": "a sports match",
-          "score": 0.4093
-        },
-        {
-          "label": "a protest",
-          "score": 0.3961
-        },
-        {
           "label": "a news studio",
-          "score": 0.3843
-        },
-        {
-          "label": "a speech",
-          "score": 0.3797
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3758
+          "score": 0.4657
         },
         {
           "label": "text on screen",
-          "score": 0.3718
+          "score": 0.4172
         },
         {
-          "label": "体育比赛",
-          "score": 0.3618
-        },
-        {
-          "label": "running",
-          "score": 0.3606
-        },
-        {
-          "label": "an animal",
-          "score": 0.3588
-        },
-        {
-          "label": "a flag",
-          "score": 0.3584
-        },
-        {
-          "label": "a beach",
-          "score": 0.3542
-        },
-        {
-          "label": "a train",
-          "score": 0.3502
+          "label": "a road",
+          "score": 0.4139
         },
         {
           "label": "a crowd",
-          "score": 0.3499
+          "score": 0.4058
+        },
+        {
+          "label": "a protest",
+          "score": 0.4017
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3948
+        },
+        {
+          "label": "the countryside",
+          "score": 0.389
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3873
+        },
+        {
+          "label": "a river",
+          "score": 0.3867
+        },
+        {
+          "label": "a map",
+          "score": 0.3856
+        },
+        {
+          "label": "a speech",
+          "score": 0.3844
+        },
+        {
+          "label": "a beach",
+          "score": 0.3775
         },
         {
           "label": "a building",
-          "score": 0.347
+          "score": 0.3775
         },
         {
-          "label": "military",
-          "score": 0.3442
+          "label": "屏幕文字",
+          "score": 0.3753
         },
         {
-          "label": "a horse",
-          "score": 0.3401
+          "label": "a train",
+          "score": 0.3735
         },
         {
           "label": "flooding",
-          "score": 0.3387
+          "score": 0.373
+        },
+        {
+          "label": "a city street",
+          "score": 0.3713
+        },
+        {
+          "label": "an airplane",
+          "score": 0.3693
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3692
+        },
+        {
+          "label": "a flag",
+          "score": 0.3685
+        }
+      ]
+    },
+    {
+      "id": "CNNW_20261108_040000_Real_Time_With_Bill_Maher",
+      "title": "CNNW｜Real Time With Bill Maher",
+      "source": "CNNW",
+      "date": "2026-11-08T00:00:00Z",
+      "image_url": "https://archive.org/services/img/CNNW_20261108_040000_Real_Time_With_Bill_Maher/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/CNNW_20261108_040000_Real_Time_With_Bill_Maher",
+      "description_zh": "画面候选标签：an animal、a protest、a news studio、a crowd、text on screen、a flag、a mountain、a map、动物、抗议活动、旗帜、屏幕文字",
+      "description_en": "Visual candidate labels: an animal, a protest, a news studio, a crowd, text on screen, a flag, a mountain, a map, 动物, 抗议活动, 旗帜, 屏幕文字",
+      "keywords": "an animal,a protest,a news studio,a crowd,text on screen,a flag,a mountain,a map,动物,抗议活动,旗帜,屏幕文字,an explosion,新闻演播室,police,a speech,演讲,a building,a sports match,人群",
+      "visual_labels": [
+        {
+          "label": "an animal",
+          "score": 0.4045
+        },
+        {
+          "label": "a protest",
+          "score": 0.3907
+        },
+        {
+          "label": "a news studio",
+          "score": 0.3873
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3751
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3642
+        },
+        {
+          "label": "a flag",
+          "score": 0.3624
         },
         {
           "label": "a mountain",
-          "score": 0.3368
+          "score": 0.3533
+        },
+        {
+          "label": "a map",
+          "score": 0.3495
+        },
+        {
+          "label": "动物",
+          "score": 0.345
         },
         {
           "label": "抗议活动",
-          "score": 0.3358
+          "score": 0.3446
         },
         {
-          "label": "a ship",
-          "score": 0.3358
+          "label": "旗帜",
+          "score": 0.3381
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3324
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3298
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3293
+        },
+        {
+          "label": "police",
+          "score": 0.3282
+        },
+        {
+          "label": "a speech",
+          "score": 0.3266
+        },
+        {
+          "label": "演讲",
+          "score": 0.3262
+        },
+        {
+          "label": "a building",
+          "score": 0.3249
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3248
+        },
+        {
+          "label": "人群",
+          "score": 0.3223
         }
       ]
     }
