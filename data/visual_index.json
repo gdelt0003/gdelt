@@ -1,7 +1,287 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-09T00:51:54+00:00",
+  "generated_at": "2026-11-09T18:45:35+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
-  "records": 0,
-  "items": []
+  "records": 3,
+  "items": [
+    {
+      "id": "ALJAZ_20261109_043000",
+      "title": "it's kind of eye opening to me in a way that allows people to see these quotes just how that governance works, how that policy is, affect the young people, how people react to the…",
+      "source": "ALJAZ",
+      "date": "2026-11-09T00:00:00Z",
+      "image_url": "https://archive.org/services/img/ALJAZ_20261109_043000/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/ALJAZ_20261109_043000",
+      "description_zh": "画面候选标签：a news studio、a protest、新闻演播室、a speech、an explosion、text on screen、a flag、a river、fire、smoke、a road、a mountain",
+      "description_en": "Visual candidate labels: a news studio, a protest, 新闻演播室, a speech, an explosion, text on screen, a flag, a river, fire, smoke, a road, a mountain",
+      "keywords": "a news studio,a protest,新闻演播室,a speech,an explosion,text on screen,a flag,a river,fire,smoke,a road,a mountain,flooding,a ship,a building,抗议活动,an airplane,a map,屏幕文字,an animal",
+      "visual_labels": [
+        {
+          "label": "a news studio",
+          "score": 0.4321
+        },
+        {
+          "label": "a protest",
+          "score": 0.4079
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.4033
+        },
+        {
+          "label": "a speech",
+          "score": 0.396
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3911
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3897
+        },
+        {
+          "label": "a flag",
+          "score": 0.3851
+        },
+        {
+          "label": "a river",
+          "score": 0.3814
+        },
+        {
+          "label": "fire",
+          "score": 0.3752
+        },
+        {
+          "label": "smoke",
+          "score": 0.3734
+        },
+        {
+          "label": "a road",
+          "score": 0.3715
+        },
+        {
+          "label": "a mountain",
+          "score": 0.3707
+        },
+        {
+          "label": "flooding",
+          "score": 0.3702
+        },
+        {
+          "label": "a ship",
+          "score": 0.3698
+        },
+        {
+          "label": "a building",
+          "score": 0.3694
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3644
+        },
+        {
+          "label": "an airplane",
+          "score": 0.363
+        },
+        {
+          "label": "a map",
+          "score": 0.3626
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3622
+        },
+        {
+          "label": "an animal",
+          "score": 0.3599
+        }
+      ]
+    },
+    {
+      "id": "ALJAZ_20261109_110000",
+      "title": "donald trump says there's no reason to escalate the war with iran and insist the",
+      "source": "ALJAZ",
+      "date": "2026-11-09T00:00:00Z",
+      "image_url": "https://archive.org/services/img/ALJAZ_20261109_110000/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/ALJAZ_20261109_110000",
+      "description_zh": "画面候选标签：a flag、text on screen、fire、a news studio、an animal、旗帜、人群、a speech、爆炸、屏幕文字、a forest、动物",
+      "description_en": "Visual candidate labels: a flag, text on screen, fire, a news studio, an animal, 旗帜, 人群, a speech, 爆炸, 屏幕文字, a forest, 动物",
+      "keywords": "a flag,text on screen,fire,a news studio,an animal,旗帜,人群,a speech,爆炸,屏幕文字,a forest,动物,an explosion,烟雾,a mountain,a river,新闻演播室,a ship,smoke,a beach",
+      "visual_labels": [
+        {
+          "label": "a flag",
+          "score": 0.3594
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3568
+        },
+        {
+          "label": "fire",
+          "score": 0.3525
+        },
+        {
+          "label": "a news studio",
+          "score": 0.3523
+        },
+        {
+          "label": "an animal",
+          "score": 0.3519
+        },
+        {
+          "label": "旗帜",
+          "score": 0.3505
+        },
+        {
+          "label": "人群",
+          "score": 0.3448
+        },
+        {
+          "label": "a speech",
+          "score": 0.3425
+        },
+        {
+          "label": "爆炸",
+          "score": 0.3421
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3409
+        },
+        {
+          "label": "a forest",
+          "score": 0.3402
+        },
+        {
+          "label": "动物",
+          "score": 0.34
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3398
+        },
+        {
+          "label": "烟雾",
+          "score": 0.3392
+        },
+        {
+          "label": "a mountain",
+          "score": 0.3357
+        },
+        {
+          "label": "a river",
+          "score": 0.3325
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3322
+        },
+        {
+          "label": "a ship",
+          "score": 0.3318
+        },
+        {
+          "label": "smoke",
+          "score": 0.3289
+        },
+        {
+          "label": "a beach",
+          "score": 0.3284
+        }
+      ]
+    },
+    {
+      "id": "RT_20261109_040000_Documentary",
+      "title": "i suppose if i was, if i put these outside of that method to manage that i put the man that's good 0 again, these good know you need the last the by, by the other is no and it's, u…",
+      "source": "RT",
+      "date": "2026-11-09T00:00:00Z",
+      "image_url": "https://archive.org/services/img/RT_20261109_040000_Documentary/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/RT_20261109_040000_Documentary",
+      "description_zh": "画面候选标签：a flag、military、a news studio、an explosion、a protest、警察、police、fire、军队、a speech、text on screen、屏幕文字",
+      "description_en": "Visual candidate labels: a flag, military, a news studio, an explosion, a protest, 警察, police, fire, 军队, a speech, text on screen, 屏幕文字",
+      "keywords": "a flag,military,a news studio,an explosion,a protest,警察,police,fire,军队,a speech,text on screen,屏幕文字,a sports match,a train,新闻演播室,an animal,a road,抗议活动,a ship,a crowd",
+      "visual_labels": [
+        {
+          "label": "a flag",
+          "score": 0.402
+        },
+        {
+          "label": "military",
+          "score": 0.4017
+        },
+        {
+          "label": "a news studio",
+          "score": 0.4003
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3878
+        },
+        {
+          "label": "a protest",
+          "score": 0.3853
+        },
+        {
+          "label": "警察",
+          "score": 0.3792
+        },
+        {
+          "label": "police",
+          "score": 0.3786
+        },
+        {
+          "label": "fire",
+          "score": 0.3748
+        },
+        {
+          "label": "军队",
+          "score": 0.3745
+        },
+        {
+          "label": "a speech",
+          "score": 0.3742
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3726
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3639
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3632
+        },
+        {
+          "label": "a train",
+          "score": 0.363
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3574
+        },
+        {
+          "label": "an animal",
+          "score": 0.3557
+        },
+        {
+          "label": "a road",
+          "score": 0.3545
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3538
+        },
+        {
+          "label": "a ship",
+          "score": 0.3538
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3533
+        }
+      ]
+    }
+  ]
 }
