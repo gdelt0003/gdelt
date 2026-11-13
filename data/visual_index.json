@@ -1,7 +1,287 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-13T00:19:15+00:00",
+  "generated_at": "2026-11-13T16:18:39+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
-  "records": 0,
-  "items": []
+  "records": 3,
+  "items": [
+    {
+      "id": "DW_20261113_000200_The_Day",
+      "title": "i was trading live last night and we got the news breaking just before 5 o'clock that there was a 2nd affair and i'm like, oh my gosh, they're going to fire.",
+      "source": "DW",
+      "date": "2026-11-13T00:00:00Z",
+      "image_url": "https://archive.org/services/img/DW_20261113_000200_The_Day/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261113_000200_The_Day",
+      "description_zh": "画面候选标签：text on screen、a news studio、a building、屏幕文字、a map、an explosion、a crowd、a sports match、a speech、a river、a train、a mountain",
+      "description_en": "Visual candidate labels: text on screen, a news studio, a building, 屏幕文字, a map, an explosion, a crowd, a sports match, a speech, a river, a train, a mountain",
+      "keywords": "text on screen,a news studio,a building,屏幕文字,a map,an explosion,a crowd,a sports match,a speech,a river,a train,a mountain,a ship,a protest,a forest,a road,抗议活动,新闻演播室,an animal,a beach",
+      "visual_labels": [
+        {
+          "label": "text on screen",
+          "score": 0.3984
+        },
+        {
+          "label": "a news studio",
+          "score": 0.3961
+        },
+        {
+          "label": "a building",
+          "score": 0.3815
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3766
+        },
+        {
+          "label": "a map",
+          "score": 0.3709
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3634
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3573
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3438
+        },
+        {
+          "label": "a speech",
+          "score": 0.342
+        },
+        {
+          "label": "a river",
+          "score": 0.3372
+        },
+        {
+          "label": "a train",
+          "score": 0.3366
+        },
+        {
+          "label": "a mountain",
+          "score": 0.3356
+        },
+        {
+          "label": "a ship",
+          "score": 0.3309
+        },
+        {
+          "label": "a protest",
+          "score": 0.3306
+        },
+        {
+          "label": "a forest",
+          "score": 0.3295
+        },
+        {
+          "label": "a road",
+          "score": 0.3266
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3253
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.324
+        },
+        {
+          "label": "an animal",
+          "score": 0.3236
+        },
+        {
+          "label": "a beach",
+          "score": 0.3191
+        }
+      ]
+    },
+    {
+      "id": "CSPAN3_20261113_011200_Public_Affairs_Events",
+      "title": "navy blue angels flight demonstration squadron tour, the african-american civil war memorial museum in washington, d.c., and then hear about president harry truman's decision to dr…",
+      "source": "CSPAN3",
+      "date": "2026-11-13T00:00:00Z",
+      "image_url": "https://archive.org/services/img/CSPAN3_20261113_011200_Public_Affairs_Events/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/CSPAN3_20261113_011200_Public_Affairs_Events",
+      "description_zh": "画面候选标签：a news studio、a protest、text on screen、新闻演播室、an explosion、a speech、屏幕文字、police、a flag、抗议活动、a building、a river",
+      "description_en": "Visual candidate labels: a news studio, a protest, text on screen, 新闻演播室, an explosion, a speech, 屏幕文字, police, a flag, 抗议活动, a building, a river",
+      "keywords": "a news studio,a protest,text on screen,新闻演播室,an explosion,a speech,屏幕文字,police,a flag,抗议活动,a building,a river,flooding,a city street,an animal,a sports match,a ship,an airplane,a truck,a mountain",
+      "visual_labels": [
+        {
+          "label": "a news studio",
+          "score": 0.4288
+        },
+        {
+          "label": "a protest",
+          "score": 0.4257
+        },
+        {
+          "label": "text on screen",
+          "score": 0.4032
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3921
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3913
+        },
+        {
+          "label": "a speech",
+          "score": 0.3877
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3585
+        },
+        {
+          "label": "police",
+          "score": 0.3581
+        },
+        {
+          "label": "a flag",
+          "score": 0.3549
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3507
+        },
+        {
+          "label": "a building",
+          "score": 0.3492
+        },
+        {
+          "label": "a river",
+          "score": 0.3396
+        },
+        {
+          "label": "flooding",
+          "score": 0.335
+        },
+        {
+          "label": "a city street",
+          "score": 0.334
+        },
+        {
+          "label": "an animal",
+          "score": 0.3329
+        },
+        {
+          "label": "a sports match",
+          "score": 0.332
+        },
+        {
+          "label": "a ship",
+          "score": 0.3315
+        },
+        {
+          "label": "an airplane",
+          "score": 0.3303
+        },
+        {
+          "label": "a truck",
+          "score": 0.3276
+        },
+        {
+          "label": "a mountain",
+          "score": 0.3275
+        }
+      ]
+    },
+    {
+      "id": "CSPAN3_20261113_010200_First_Lady_Melania_Trump__Second_Lady_Usha_Vance_Visit_Military_Families...",
+      "title": "first lady melania trump and second lady lucia vance visited fort rucker, alabama, ahead of thanksgiving to meet with military families and express their gratitude, food for their…",
+      "source": "CSPAN3",
+      "date": "2026-11-13T00:00:00Z",
+      "image_url": "https://archive.org/services/img/CSPAN3_20261113_010200_First_Lady_Melania_Trump__Second_Lady_Usha_Vance_Visit_Military_Families.../full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/CSPAN3_20261113_010200_First_Lady_Melania_Trump__Second_Lady_Usha_Vance_Visit_Military_Families...",
+      "description_zh": "画面候选标签：a speech、a protest、a news studio、an explosion、a flag、text on screen、抗议活动、fire、新闻演播室、演讲、a road、police",
+      "description_en": "Visual candidate labels: a speech, a protest, a news studio, an explosion, a flag, text on screen, 抗议活动, fire, 新闻演播室, 演讲, a road, police",
+      "keywords": "a speech,a protest,a news studio,an explosion,a flag,text on screen,抗议活动,fire,新闻演播室,演讲,a road,police,a building,a car,a train,a ship,basketball,屏幕文字,military,a map",
+      "visual_labels": [
+        {
+          "label": "a speech",
+          "score": 0.4177
+        },
+        {
+          "label": "a protest",
+          "score": 0.4085
+        },
+        {
+          "label": "a news studio",
+          "score": 0.3997
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3824
+        },
+        {
+          "label": "a flag",
+          "score": 0.3824
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3747
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3698
+        },
+        {
+          "label": "fire",
+          "score": 0.3696
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3572
+        },
+        {
+          "label": "演讲",
+          "score": 0.3538
+        },
+        {
+          "label": "a road",
+          "score": 0.3512
+        },
+        {
+          "label": "police",
+          "score": 0.3502
+        },
+        {
+          "label": "a building",
+          "score": 0.3498
+        },
+        {
+          "label": "a car",
+          "score": 0.3494
+        },
+        {
+          "label": "a train",
+          "score": 0.3476
+        },
+        {
+          "label": "a ship",
+          "score": 0.3474
+        },
+        {
+          "label": "basketball",
+          "score": 0.3461
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3451
+        },
+        {
+          "label": "military",
+          "score": 0.3415
+        },
+        {
+          "label": "a map",
+          "score": 0.3366
+        }
+      ]
+    }
+  ]
 }
