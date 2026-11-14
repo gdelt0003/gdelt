@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-14T03:12:03+00:00",
+  "generated_at": "2026-11-14T17:04:05+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
-  "records": 3,
+  "records": 2,
   "items": [
     {
       "id": "DW_20261114_000200_The_Day_-_News_in_Review",
@@ -98,188 +98,95 @@
       ]
     },
     {
-      "id": "ALJAZ_20261114_000000",
-      "title": "new york to los angeles across the united states flights are grounded, the f a says the measure follows disruptions to communication systems and radar capabilities used by air traf…",
+      "id": "ALJAZ_20261114_033000",
+      "title": "feel affection your support and especially feel concern regarding my health during this challenging time of a trial that with god's help, i am of it coming tens of thousands of rub…",
       "source": "ALJAZ",
       "date": "2026-11-14T00:00:00Z",
-      "image_url": "https://archive.org/services/img/ALJAZ_20261114_000000/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/ALJAZ_20261114_000000",
-      "description_zh": "画面候选标签：an airplane、an explosion、a news studio、flooding、a map、text on screen、屏幕文字、a flag、a protest、抗议活动、a building、飞机",
-      "description_en": "Visual candidate labels: an airplane, an explosion, a news studio, flooding, a map, text on screen, 屏幕文字, a flag, a protest, 抗议活动, a building, 飞机",
-      "keywords": "an airplane,an explosion,a news studio,flooding,a map,text on screen,屏幕文字,a flag,a protest,抗议活动,a building,飞机,新闻演播室,a crowd,police,a sports match,a road,a mountain,military,a speech",
+      "image_url": "https://archive.org/services/img/ALJAZ_20261114_033000/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/ALJAZ_20261114_033000",
+      "description_zh": "画面候选标签：a map、a news studio、a protest、a flag、新闻演播室、text on screen、police、抗议活动、flooding、a building、地图、an explosion",
+      "description_en": "Visual candidate labels: a map, a news studio, a protest, a flag, 新闻演播室, text on screen, police, 抗议活动, flooding, a building, 地图, an explosion",
+      "keywords": "a map,a news studio,a protest,a flag,新闻演播室,text on screen,police,抗议活动,flooding,a building,地图,an explosion,a mountain,屏幕文字,a road,a river,fire,a forest,a speech,military",
       "visual_labels": [
         {
-          "label": "an airplane",
-          "score": 0.4168
-        },
-        {
-          "label": "an explosion",
-          "score": 0.4038
+          "label": "a map",
+          "score": 0.4334
         },
         {
           "label": "a news studio",
-          "score": 0.3923
+          "score": 0.4122
         },
         {
-          "label": "flooding",
-          "score": 0.3914
-        },
-        {
-          "label": "a map",
-          "score": 0.385
-        },
-        {
-          "label": "text on screen",
-          "score": 0.3783
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3634
+          "label": "a protest",
+          "score": 0.3928
         },
         {
           "label": "a flag",
-          "score": 0.3634
-        },
-        {
-          "label": "a protest",
-          "score": 0.3623
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3604
-        },
-        {
-          "label": "a building",
-          "score": 0.3489
-        },
-        {
-          "label": "飞机",
-          "score": 0.3463
+          "score": 0.3846
         },
         {
           "label": "新闻演播室",
-          "score": 0.3453
-        },
-        {
-          "label": "a crowd",
-          "score": 0.3445
-        },
-        {
-          "label": "police",
-          "score": 0.3437
-        },
-        {
-          "label": "a sports match",
-          "score": 0.3436
-        },
-        {
-          "label": "a road",
-          "score": 0.3398
-        },
-        {
-          "label": "a mountain",
-          "score": 0.3327
-        },
-        {
-          "label": "military",
-          "score": 0.3318
-        },
-        {
-          "label": "a speech",
-          "score": 0.3314
-        }
-      ]
-    },
-    {
-      "id": "DW_20261114_000000_DW_News",
-      "title": "jensen, whining has agreed to appear before us, and it will make us according to us media, the former ceo of and video step down off to allegations of extramarital affairs, one wit…",
-      "source": "DW",
-      "date": "2026-11-14T00:00:00Z",
-      "image_url": "https://archive.org/services/img/DW_20261114_000000_DW_News/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/DW_20261114_000000_DW_News",
-      "description_zh": "画面候选标签：a news studio、text on screen、an explosion、新闻演播室、a speech、an animal、屏幕文字、a train、flooding、soccer、a crowd、a map",
-      "description_en": "Visual candidate labels: a news studio, text on screen, an explosion, 新闻演播室, a speech, an animal, 屏幕文字, a train, flooding, soccer, a crowd, a map",
-      "keywords": "a news studio,text on screen,an explosion,新闻演播室,a speech,an animal,屏幕文字,a train,flooding,soccer,a crowd,a map,a sports match,抗议活动,a mountain,basketball,a protest,a car,a building,running",
-      "visual_labels": [
-        {
-          "label": "a news studio",
-          "score": 0.421
+          "score": 0.3811
         },
         {
           "label": "text on screen",
-          "score": 0.4083
+          "score": 0.3789
         },
         {
-          "label": "an explosion",
-          "score": 0.3906
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.3843
-        },
-        {
-          "label": "a speech",
-          "score": 0.3774
-        },
-        {
-          "label": "an animal",
-          "score": 0.3687
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3676
-        },
-        {
-          "label": "a train",
-          "score": 0.3664
-        },
-        {
-          "label": "flooding",
-          "score": 0.3602
-        },
-        {
-          "label": "soccer",
-          "score": 0.3577
-        },
-        {
-          "label": "a crowd",
-          "score": 0.3574
-        },
-        {
-          "label": "a map",
-          "score": 0.3553
-        },
-        {
-          "label": "a sports match",
-          "score": 0.3548
+          "label": "police",
+          "score": 0.3779
         },
         {
           "label": "抗议活动",
-          "score": 0.3546
+          "score": 0.3742
         },
         {
-          "label": "a mountain",
-          "score": 0.3542
-        },
-        {
-          "label": "basketball",
-          "score": 0.3538
-        },
-        {
-          "label": "a protest",
-          "score": 0.3525
-        },
-        {
-          "label": "a car",
-          "score": 0.3524
+          "label": "flooding",
+          "score": 0.3661
         },
         {
           "label": "a building",
-          "score": 0.3504
+          "score": 0.3648
         },
         {
-          "label": "running",
-          "score": 0.3497
+          "label": "地图",
+          "score": 0.3635
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3589
+        },
+        {
+          "label": "a mountain",
+          "score": 0.358
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.356
+        },
+        {
+          "label": "a road",
+          "score": 0.3532
+        },
+        {
+          "label": "a river",
+          "score": 0.3516
+        },
+        {
+          "label": "fire",
+          "score": 0.3512
+        },
+        {
+          "label": "a forest",
+          "score": 0.3485
+        },
+        {
+          "label": "a speech",
+          "score": 0.3481
+        },
+        {
+          "label": "military",
+          "score": 0.3479
         }
       ]
     }
