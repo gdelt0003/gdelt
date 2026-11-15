@@ -1,7 +1,287 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-15T01:53:02+00:00",
+  "generated_at": "2026-11-15T17:06:40+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
-  "records": 0,
-  "items": []
+  "records": 3,
+  "items": [
+    {
+      "id": "ALJAZ_20261115_050000",
+      "title": "has suggested ukraine give up part of the don baths in exchange for joining nato security forces of sealed off a damascus suburb after a car bomb killed at least 2 people as winter…",
+      "source": "ALJAZ",
+      "date": "2026-11-15T00:00:00Z",
+      "image_url": "https://archive.org/services/img/ALJAZ_20261115_050000/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/ALJAZ_20261115_050000",
+      "description_zh": "画面候选标签：an explosion、a ship、a beach、a news studio、an animal、a mountain、flooding、爆炸、a river、text on screen、海滩、烟雾",
+      "description_en": "Visual candidate labels: an explosion, a ship, a beach, a news studio, an animal, a mountain, flooding, 爆炸, a river, text on screen, 海滩, 烟雾",
+      "keywords": "an explosion,a ship,a beach,a news studio,an animal,a mountain,flooding,爆炸,a river,text on screen,海滩,烟雾,洪水,船,抗议活动,a crowd,a speech,动物,屏幕文字,人群",
+      "visual_labels": [
+        {
+          "label": "an explosion",
+          "score": 0.3815
+        },
+        {
+          "label": "a ship",
+          "score": 0.3677
+        },
+        {
+          "label": "a beach",
+          "score": 0.3673
+        },
+        {
+          "label": "a news studio",
+          "score": 0.364
+        },
+        {
+          "label": "an animal",
+          "score": 0.3608
+        },
+        {
+          "label": "a mountain",
+          "score": 0.3599
+        },
+        {
+          "label": "flooding",
+          "score": 0.3586
+        },
+        {
+          "label": "爆炸",
+          "score": 0.3562
+        },
+        {
+          "label": "a river",
+          "score": 0.3511
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3477
+        },
+        {
+          "label": "海滩",
+          "score": 0.3475
+        },
+        {
+          "label": "烟雾",
+          "score": 0.3467
+        },
+        {
+          "label": "洪水",
+          "score": 0.3438
+        },
+        {
+          "label": "船",
+          "score": 0.3433
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3427
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3423
+        },
+        {
+          "label": "a speech",
+          "score": 0.3418
+        },
+        {
+          "label": "动物",
+          "score": 0.3413
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3407
+        },
+        {
+          "label": "人群",
+          "score": 0.3383
+        }
+      ]
+    },
+    {
+      "id": "ALJAZ_20261115_020000",
+      "title": "senior iraqi officials, including a regional police chief of floods in connection with an oil smuggling operation with up to $30000000.00 come on as winter groups call.",
+      "source": "ALJAZ",
+      "date": "2026-11-15T00:00:00Z",
+      "image_url": "https://archive.org/services/img/ALJAZ_20261115_020000/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/ALJAZ_20261115_020000",
+      "description_zh": "画面候选标签：an explosion、fire、a mountain、烟雾、火灾、爆炸、a beach、smoke、a ship、抗议活动、旗帜、a flag",
+      "description_en": "Visual candidate labels: an explosion, fire, a mountain, 烟雾, 火灾, 爆炸, a beach, smoke, a ship, 抗议活动, 旗帜, a flag",
+      "keywords": "an explosion,fire,a mountain,烟雾,火灾,爆炸,a beach,smoke,a ship,抗议活动,旗帜,a flag,an animal,a forest,flooding,屏幕文字,a map,a news studio,海滩,动物",
+      "visual_labels": [
+        {
+          "label": "an explosion",
+          "score": 0.4002
+        },
+        {
+          "label": "fire",
+          "score": 0.3949
+        },
+        {
+          "label": "a mountain",
+          "score": 0.3642
+        },
+        {
+          "label": "烟雾",
+          "score": 0.3593
+        },
+        {
+          "label": "火灾",
+          "score": 0.3584
+        },
+        {
+          "label": "爆炸",
+          "score": 0.3533
+        },
+        {
+          "label": "a beach",
+          "score": 0.3487
+        },
+        {
+          "label": "smoke",
+          "score": 0.3462
+        },
+        {
+          "label": "a ship",
+          "score": 0.3459
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3454
+        },
+        {
+          "label": "旗帜",
+          "score": 0.3446
+        },
+        {
+          "label": "a flag",
+          "score": 0.3422
+        },
+        {
+          "label": "an animal",
+          "score": 0.3421
+        },
+        {
+          "label": "a forest",
+          "score": 0.3416
+        },
+        {
+          "label": "flooding",
+          "score": 0.3398
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3394
+        },
+        {
+          "label": "a map",
+          "score": 0.3359
+        },
+        {
+          "label": "a news studio",
+          "score": 0.3357
+        },
+        {
+          "label": "海滩",
+          "score": 0.3299
+        },
+        {
+          "label": "动物",
+          "score": 0.3294
+        }
+      ]
+    },
+    {
+      "id": "DW_20261115_020200_Sports_Life",
+      "title": "thing hasn't been the same since i couldn't practice the whole 2020 now she's fighting to re discover have passion to break the",
+      "source": "DW",
+      "date": "2026-11-15T00:00:00Z",
+      "image_url": "https://archive.org/services/img/DW_20261115_020200_Sports_Life/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261115_020200_Sports_Life",
+      "description_zh": "画面候选标签：running、a sports match、text on screen、basketball、a news studio、a road、soccer、a protest、fire、police、抗议活动、体育比赛",
+      "description_en": "Visual candidate labels: running, a sports match, text on screen, basketball, a news studio, a road, soccer, a protest, fire, police, 抗议活动, 体育比赛",
+      "keywords": "running,a sports match,text on screen,basketball,a news studio,a road,soccer,a protest,fire,police,抗议活动,体育比赛,a flag,an explosion,旗帜,屏幕文字,a crowd,新闻演播室,a beach,a mountain",
+      "visual_labels": [
+        {
+          "label": "running",
+          "score": 0.3739
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3734
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3615
+        },
+        {
+          "label": "basketball",
+          "score": 0.3611
+        },
+        {
+          "label": "a news studio",
+          "score": 0.3541
+        },
+        {
+          "label": "a road",
+          "score": 0.3531
+        },
+        {
+          "label": "soccer",
+          "score": 0.352
+        },
+        {
+          "label": "a protest",
+          "score": 0.3515
+        },
+        {
+          "label": "fire",
+          "score": 0.3476
+        },
+        {
+          "label": "police",
+          "score": 0.3473
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3445
+        },
+        {
+          "label": "体育比赛",
+          "score": 0.3443
+        },
+        {
+          "label": "a flag",
+          "score": 0.3429
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3318
+        },
+        {
+          "label": "旗帜",
+          "score": 0.3312
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3302
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3281
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.328
+        },
+        {
+          "label": "a beach",
+          "score": 0.323
+        },
+        {
+          "label": "a mountain",
+          "score": 0.3226
+        }
+      ]
+    }
+  ]
 }
