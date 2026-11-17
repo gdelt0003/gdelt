@@ -1,9 +1,102 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-17T03:50:02+00:00",
+  "generated_at": "2026-11-17T13:20:29+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
   "records": 3,
   "items": [
+    {
+      "id": "BBCNEWS_20261117_020000_Newsday",
+      "title": "the british government government launches an urgent investigation investigation to see if prison rules rules have been broken after russell russell brand's wife reads a message me…",
+      "source": "BBCNEWS",
+      "date": "2026-11-17T00:00:00Z",
+      "image_url": "https://archive.org/services/img/BBCNEWS_20261117_020000_Newsday/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/BBCNEWS_20261117_020000_Newsday",
+      "description_zh": "画面候选标签：a news studio、a building、新闻演播室、text on screen、an explosion、a flag、a protest、police、a city street、fire、basketball、屏幕文字",
+      "description_en": "Visual candidate labels: a news studio, a building, 新闻演播室, text on screen, an explosion, a flag, a protest, police, a city street, fire, basketball, 屏幕文字",
+      "keywords": "a news studio,a building,新闻演播室,text on screen,an explosion,a flag,a protest,police,a city street,fire,basketball,屏幕文字,烟雾,a road,a river,建筑物,抗议活动,a speech,an animal,a crowd",
+      "visual_labels": [
+        {
+          "label": "a news studio",
+          "score": 0.4782
+        },
+        {
+          "label": "a building",
+          "score": 0.4239
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.4235
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3815
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3804
+        },
+        {
+          "label": "a flag",
+          "score": 0.3793
+        },
+        {
+          "label": "a protest",
+          "score": 0.3772
+        },
+        {
+          "label": "police",
+          "score": 0.3749
+        },
+        {
+          "label": "a city street",
+          "score": 0.3727
+        },
+        {
+          "label": "fire",
+          "score": 0.3721
+        },
+        {
+          "label": "basketball",
+          "score": 0.3674
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3663
+        },
+        {
+          "label": "烟雾",
+          "score": 0.364
+        },
+        {
+          "label": "a road",
+          "score": 0.3629
+        },
+        {
+          "label": "a river",
+          "score": 0.3629
+        },
+        {
+          "label": "建筑物",
+          "score": 0.3627
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3613
+        },
+        {
+          "label": "a speech",
+          "score": 0.361
+        },
+        {
+          "label": "an animal",
+          "score": 0.3603
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3583
+        }
+      ]
+    },
     {
       "id": "BBCNEWS_20261117_010000_BBC_News",
       "title": "president trump is en route route to asia for a series of key key meetings as his us commerce department department moves to restrict china's china's access to advanced us computin…",
@@ -98,188 +191,95 @@
       ]
     },
     {
-      "id": "ERT1_20261117_000000",
-      "title": "these seem, you know, as isolated incidents, there are also some who come and put it all together and tell you that the global blackout is coming and it's coming tomorrow specifica…",
-      "source": "ERT1",
+      "id": "N1BOS_20261117_003000",
+      "title": "in fact, many expected that this session would go smoothly, because yesterday the ruling majority informed us that they had secured that two-thirds majority and that they would not…",
+      "source": "N1BOS",
       "date": "2026-11-17T00:00:00Z",
-      "image_url": "https://archive.org/services/img/ERT1_20261117_000000/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/ERT1_20261117_000000",
-      "description_zh": "画面候选标签：a news studio、新闻演播室、a protest、text on screen、a speech、flooding、a building、an explosion、屏幕文字、a sports match、演讲、soccer",
-      "description_en": "Visual candidate labels: a news studio, 新闻演播室, a protest, text on screen, a speech, flooding, a building, an explosion, 屏幕文字, a sports match, 演讲, soccer",
-      "keywords": "a news studio,新闻演播室,a protest,text on screen,a speech,flooding,a building,an explosion,屏幕文字,a sports match,演讲,soccer,fire,basketball,a crowd,a flag,抗议活动,a map,smoke,人",
+      "image_url": "https://archive.org/services/img/N1BOS_20261117_003000/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/N1BOS_20261117_003000",
+      "description_zh": "画面候选标签：a news studio、新闻演播室、text on screen、a protest、an explosion、police、a speech、屏幕文字、a flag、an animal、a sports match、a ship",
+      "description_en": "Visual candidate labels: a news studio, 新闻演播室, text on screen, a protest, an explosion, police, a speech, 屏幕文字, a flag, an animal, a sports match, a ship",
+      "keywords": "a news studio,新闻演播室,text on screen,a protest,an explosion,police,a speech,屏幕文字,a flag,an animal,a sports match,a ship,a building,a train,fire,a road,抗议活动,a river,smoke,an airplane",
       "visual_labels": [
         {
           "label": "a news studio",
-          "score": 0.4536
+          "score": 0.4706
         },
         {
           "label": "新闻演播室",
-          "score": 0.4246
-        },
-        {
-          "label": "a protest",
-          "score": 0.408
+          "score": 0.4305
         },
         {
           "label": "text on screen",
-          "score": 0.3975
-        },
-        {
-          "label": "a speech",
-          "score": 0.3902
-        },
-        {
-          "label": "flooding",
-          "score": 0.386
-        },
-        {
-          "label": "a building",
-          "score": 0.3784
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3777
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3772
-        },
-        {
-          "label": "a sports match",
-          "score": 0.3743
-        },
-        {
-          "label": "演讲",
-          "score": 0.3724
-        },
-        {
-          "label": "soccer",
-          "score": 0.369
-        },
-        {
-          "label": "fire",
-          "score": 0.3653
-        },
-        {
-          "label": "basketball",
-          "score": 0.3634
-        },
-        {
-          "label": "a crowd",
-          "score": 0.3605
-        },
-        {
-          "label": "a flag",
-          "score": 0.3575
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3539
-        },
-        {
-          "label": "a map",
-          "score": 0.351
-        },
-        {
-          "label": "smoke",
-          "score": 0.3484
-        },
-        {
-          "label": "人",
-          "score": 0.3446
-        }
-      ]
-    },
-    {
-      "id": "SFGTV_20261117_000000_Municipal_Transportation_Agency",
-      "title": "so it's really for us a balancing act and kind of determining the numbers so just to be very frank, i just can't tell you when exactly the numbers will be up but i know it's a cons…",
-      "source": "SFGTV",
-      "date": "2026-11-17T00:00:00Z",
-      "image_url": "https://archive.org/services/img/SFGTV_20261117_000000_Municipal_Transportation_Agency/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/SFGTV_20261117_000000_Municipal_Transportation_Agency",
-      "description_zh": "画面候选标签：a speech、a protest、police、an explosion、a city street、text on screen、a road、警察、抗议活动、a news studio、fire、flooding",
-      "description_en": "Visual candidate labels: a speech, a protest, police, an explosion, a city street, text on screen, a road, 警察, 抗议活动, a news studio, fire, flooding",
-      "keywords": "a speech,a protest,police,an explosion,a city street,text on screen,a road,警察,抗议活动,a news studio,fire,flooding,a truck,屏幕文字,a crowd,a building,a car,a flag,a river,smoke",
-      "visual_labels": [
-        {
-          "label": "a speech",
-          "score": 0.4089
+          "score": 0.4287
         },
         {
           "label": "a protest",
-          "score": 0.4009
+          "score": 0.4205
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3977
         },
         {
           "label": "police",
           "score": 0.3954
         },
         {
-          "label": "an explosion",
-          "score": 0.3845
-        },
-        {
-          "label": "a city street",
-          "score": 0.3843
-        },
-        {
-          "label": "text on screen",
-          "score": 0.379
-        },
-        {
-          "label": "a road",
-          "score": 0.3769
-        },
-        {
-          "label": "警察",
-          "score": 0.3763
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3758
-        },
-        {
-          "label": "a news studio",
-          "score": 0.3709
-        },
-        {
-          "label": "fire",
-          "score": 0.3684
-        },
-        {
-          "label": "flooding",
-          "score": 0.3638
-        },
-        {
-          "label": "a truck",
-          "score": 0.3633
+          "label": "a speech",
+          "score": 0.3896
         },
         {
           "label": "屏幕文字",
-          "score": 0.3618
-        },
-        {
-          "label": "a crowd",
-          "score": 0.3613
-        },
-        {
-          "label": "a building",
-          "score": 0.3548
-        },
-        {
-          "label": "a car",
-          "score": 0.3536
+          "score": 0.3847
         },
         {
           "label": "a flag",
-          "score": 0.3481
+          "score": 0.3792
+        },
+        {
+          "label": "an animal",
+          "score": 0.3763
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3721
+        },
+        {
+          "label": "a ship",
+          "score": 0.3712
+        },
+        {
+          "label": "a building",
+          "score": 0.3704
+        },
+        {
+          "label": "a train",
+          "score": 0.3691
+        },
+        {
+          "label": "fire",
+          "score": 0.3687
+        },
+        {
+          "label": "a road",
+          "score": 0.3683
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3678
         },
         {
           "label": "a river",
-          "score": 0.3446
+          "score": 0.3678
         },
         {
           "label": "smoke",
-          "score": 0.3411
+          "score": 0.3676
+        },
+        {
+          "label": "an airplane",
+          "score": 0.3673
         }
       ]
     }
