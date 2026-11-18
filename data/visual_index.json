@@ -1,7 +1,287 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-18T04:17:17+00:00",
+  "generated_at": "2026-11-18T13:08:50+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
-  "records": 0,
-  "items": []
+  "records": 3,
+  "items": [
+    {
+      "id": "CHANNELSTV_20261118_003000",
+      "title": "they were the real corporates, mean kits that were arrested and uh the president to of understanding the mode of the season during that this election period, every grand gester mea…",
+      "source": "CHANNELSTV",
+      "date": "2026-11-18T00:00:00Z",
+      "image_url": "https://archive.org/services/img/CHANNELSTV_20261118_003000/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/CHANNELSTV_20261118_003000",
+      "description_zh": "画面候选标签：a news studio、text on screen、a protest、a speech、a crowd、屏幕文字、新闻演播室、a flag、抗议活动、fire、an explosion、basketball",
+      "description_en": "Visual candidate labels: a news studio, text on screen, a protest, a speech, a crowd, 屏幕文字, 新闻演播室, a flag, 抗议活动, fire, an explosion, basketball",
+      "keywords": "a news studio,text on screen,a protest,a speech,a crowd,屏幕文字,新闻演播室,a flag,抗议活动,fire,an explosion,basketball,a train,running,演讲,a beach,a building,a road,police,flooding",
+      "visual_labels": [
+        {
+          "label": "a news studio",
+          "score": 0.4377
+        },
+        {
+          "label": "text on screen",
+          "score": 0.4136
+        },
+        {
+          "label": "a protest",
+          "score": 0.4098
+        },
+        {
+          "label": "a speech",
+          "score": 0.3966
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3787
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3767
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.367
+        },
+        {
+          "label": "a flag",
+          "score": 0.365
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3639
+        },
+        {
+          "label": "fire",
+          "score": 0.3593
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3575
+        },
+        {
+          "label": "basketball",
+          "score": 0.3563
+        },
+        {
+          "label": "a train",
+          "score": 0.3535
+        },
+        {
+          "label": "running",
+          "score": 0.3521
+        },
+        {
+          "label": "演讲",
+          "score": 0.3503
+        },
+        {
+          "label": "a beach",
+          "score": 0.3495
+        },
+        {
+          "label": "a building",
+          "score": 0.3472
+        },
+        {
+          "label": "a road",
+          "score": 0.3467
+        },
+        {
+          "label": "police",
+          "score": 0.3445
+        },
+        {
+          "label": "flooding",
+          "score": 0.3414
+        }
+      ]
+    },
+    {
+      "id": "CSPAN2_20261118_031800_NATO_Secretary_General_Speaks_to_Reporters_at_Ukraine_Defense_Contact...",
+      "title": ">> now, remarks from nato secretary general mark rutte ahead of a meeting on supporting ukraine in its ongoing war with russia.",
+      "source": "CSPAN2",
+      "date": "2026-11-18T00:00:00Z",
+      "image_url": "https://archive.org/services/img/CSPAN2_20261118_031800_NATO_Secretary_General_Speaks_to_Reporters_at_Ukraine_Defense_Contact.../full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/CSPAN2_20261118_031800_NATO_Secretary_General_Speaks_to_Reporters_at_Ukraine_Defense_Contact...",
+      "description_zh": "画面候选标签：text on screen、a speech、a news studio、basketball、新闻演播室、a map、屏幕文字、a flag、a protest、演讲、an explosion、an airplane",
+      "description_en": "Visual candidate labels: text on screen, a speech, a news studio, basketball, 新闻演播室, a map, 屏幕文字, a flag, a protest, 演讲, an explosion, an airplane",
+      "keywords": "text on screen,a speech,a news studio,basketball,新闻演播室,a map,屏幕文字,a flag,a protest,演讲,an explosion,an airplane,a sports match,a building,soccer,a crowd,抗议活动,a ship,police,a beach",
+      "visual_labels": [
+        {
+          "label": "text on screen",
+          "score": 0.4241
+        },
+        {
+          "label": "a speech",
+          "score": 0.4231
+        },
+        {
+          "label": "a news studio",
+          "score": 0.4215
+        },
+        {
+          "label": "basketball",
+          "score": 0.3997
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3978
+        },
+        {
+          "label": "a map",
+          "score": 0.3941
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3927
+        },
+        {
+          "label": "a flag",
+          "score": 0.389
+        },
+        {
+          "label": "a protest",
+          "score": 0.3778
+        },
+        {
+          "label": "演讲",
+          "score": 0.376
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3738
+        },
+        {
+          "label": "an airplane",
+          "score": 0.3702
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3689
+        },
+        {
+          "label": "a building",
+          "score": 0.3675
+        },
+        {
+          "label": "soccer",
+          "score": 0.3673
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3651
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3641
+        },
+        {
+          "label": "a ship",
+          "score": 0.3586
+        },
+        {
+          "label": "police",
+          "score": 0.3563
+        },
+        {
+          "label": "a beach",
+          "score": 0.3551
+        }
+      ]
+    },
+    {
+      "id": "KNTV_20261118_023000_NBC_Nightly_News_With_Tom_Llamas",
+      "title": "systems for apple, marriott, even the nsa going down the world's largest company seeing systems crashing.",
+      "source": "KNTV",
+      "date": "2026-11-18T00:00:00Z",
+      "image_url": "https://archive.org/services/img/KNTV_20261118_023000_NBC_Nightly_News_With_Tom_Llamas/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/KNTV_20261118_023000_NBC_Nightly_News_With_Tom_Llamas",
+      "description_zh": "画面候选标签：a news studio、a protest、新闻演播室、text on screen、a speech、an explosion、抗议活动、an airplane、a building、a flag、a ship、police",
+      "description_en": "Visual candidate labels: a news studio, a protest, 新闻演播室, text on screen, a speech, an explosion, 抗议活动, an airplane, a building, a flag, a ship, police",
+      "keywords": "a news studio,a protest,新闻演播室,text on screen,a speech,an explosion,抗议活动,an airplane,a building,a flag,a ship,police,an animal,fire,烟雾,basketball,屏幕文字,a truck,a beach,a river",
+      "visual_labels": [
+        {
+          "label": "a news studio",
+          "score": 0.4489
+        },
+        {
+          "label": "a protest",
+          "score": 0.4041
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3963
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3785
+        },
+        {
+          "label": "a speech",
+          "score": 0.3776
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3673
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3614
+        },
+        {
+          "label": "an airplane",
+          "score": 0.3535
+        },
+        {
+          "label": "a building",
+          "score": 0.3529
+        },
+        {
+          "label": "a flag",
+          "score": 0.3501
+        },
+        {
+          "label": "a ship",
+          "score": 0.3477
+        },
+        {
+          "label": "police",
+          "score": 0.3467
+        },
+        {
+          "label": "an animal",
+          "score": 0.3464
+        },
+        {
+          "label": "fire",
+          "score": 0.3463
+        },
+        {
+          "label": "烟雾",
+          "score": 0.3458
+        },
+        {
+          "label": "basketball",
+          "score": 0.3458
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3426
+        },
+        {
+          "label": "a truck",
+          "score": 0.3407
+        },
+        {
+          "label": "a beach",
+          "score": 0.3389
+        },
+        {
+          "label": "a river",
+          "score": 0.3387
+        }
+      ]
+    }
+  ]
 }
