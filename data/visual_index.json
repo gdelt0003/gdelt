@@ -1,7 +1,287 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-21T01:29:55+00:00",
+  "generated_at": "2026-11-21T17:28:54+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
-  "records": 0,
-  "items": []
+  "records": 3,
+  "items": [
+    {
+      "id": "TELESUR_20261121_000000",
+      "title": "president claudia sheinbaum mentioned that these groups that have tried to undermine the popular will that was won in the polls 8 years ago will fail in all these attempts.",
+      "source": "TELESUR",
+      "date": "2026-11-21T00:00:00Z",
+      "image_url": "https://archive.org/services/img/TELESUR_20261121_000000/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/TELESUR_20261121_000000",
+      "description_zh": "画面候选标签：a protest、a news studio、抗议活动、police、text on screen、an explosion、a city street、soccer、a road、新闻演播室、a crowd、城市街道",
+      "description_en": "Visual candidate labels: a protest, a news studio, 抗议活动, police, text on screen, an explosion, a city street, soccer, a road, 新闻演播室, a crowd, 城市街道",
+      "keywords": "a protest,a news studio,抗议活动,police,text on screen,an explosion,a city street,soccer,a road,新闻演播室,a crowd,城市街道,a flag,a map,警察,fire,a car,smoke,屏幕文字,a building",
+      "visual_labels": [
+        {
+          "label": "a protest",
+          "score": 0.3975
+        },
+        {
+          "label": "a news studio",
+          "score": 0.3953
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3928
+        },
+        {
+          "label": "police",
+          "score": 0.3804
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3733
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3685
+        },
+        {
+          "label": "a city street",
+          "score": 0.3673
+        },
+        {
+          "label": "soccer",
+          "score": 0.3624
+        },
+        {
+          "label": "a road",
+          "score": 0.3604
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3578
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3574
+        },
+        {
+          "label": "城市街道",
+          "score": 0.3529
+        },
+        {
+          "label": "a flag",
+          "score": 0.3528
+        },
+        {
+          "label": "a map",
+          "score": 0.3513
+        },
+        {
+          "label": "警察",
+          "score": 0.3502
+        },
+        {
+          "label": "fire",
+          "score": 0.3498
+        },
+        {
+          "label": "a car",
+          "score": 0.3492
+        },
+        {
+          "label": "smoke",
+          "score": 0.349
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3483
+        },
+        {
+          "label": "a building",
+          "score": 0.3449
+        }
+      ]
+    },
+    {
+      "id": "ALJAZ_20261121_010000",
+      "title": "prime minister and the burnham, to strike new deals for them says, breaks it hasn't worked and the president has lost more than it gained his hopes for a reset.",
+      "source": "ALJAZ",
+      "date": "2026-11-21T00:00:00Z",
+      "image_url": "https://archive.org/services/img/ALJAZ_20261121_010000/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/ALJAZ_20261121_010000",
+      "description_zh": "画面候选标签：fire、a news studio、an explosion、a horse、an animal、a flag、smoke、a speech、text on screen、a road、a forest、a map",
+      "description_en": "Visual candidate labels: fire, a news studio, an explosion, a horse, an animal, a flag, smoke, a speech, text on screen, a road, a forest, a map",
+      "keywords": "fire,a news studio,an explosion,a horse,an animal,a flag,smoke,a speech,text on screen,a road,a forest,a map,a building,a river,烟雾,an airplane,a mountain,soccer,屏幕文字,basketball",
+      "visual_labels": [
+        {
+          "label": "fire",
+          "score": 0.4115
+        },
+        {
+          "label": "a news studio",
+          "score": 0.4095
+        },
+        {
+          "label": "an explosion",
+          "score": 0.391
+        },
+        {
+          "label": "a horse",
+          "score": 0.3884
+        },
+        {
+          "label": "an animal",
+          "score": 0.3822
+        },
+        {
+          "label": "a flag",
+          "score": 0.3807
+        },
+        {
+          "label": "smoke",
+          "score": 0.3796
+        },
+        {
+          "label": "a speech",
+          "score": 0.3789
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3789
+        },
+        {
+          "label": "a road",
+          "score": 0.3786
+        },
+        {
+          "label": "a forest",
+          "score": 0.3775
+        },
+        {
+          "label": "a map",
+          "score": 0.3773
+        },
+        {
+          "label": "a building",
+          "score": 0.377
+        },
+        {
+          "label": "a river",
+          "score": 0.3764
+        },
+        {
+          "label": "烟雾",
+          "score": 0.3747
+        },
+        {
+          "label": "an airplane",
+          "score": 0.3735
+        },
+        {
+          "label": "a mountain",
+          "score": 0.3685
+        },
+        {
+          "label": "soccer",
+          "score": 0.3643
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3638
+        },
+        {
+          "label": "basketball",
+          "score": 0.363
+        }
+      ]
+    },
+    {
+      "id": "DW_20261121_030000_DW_News",
+      "title": "in the crossfire inside starts november 28th on dw the w news with our top story to danish man, we have been charged with the russian intelligence servers and just wanted plug to a…",
+      "source": "DW",
+      "date": "2026-11-21T00:00:00Z",
+      "image_url": "https://archive.org/services/img/DW_20261121_030000_DW_News/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261121_030000_DW_News",
+      "description_zh": "画面候选标签：a building、an explosion、a city street、flooding、a news studio、text on screen、抗议活动、fire、a crowd、a protest、military、爆炸",
+      "description_en": "Visual candidate labels: a building, an explosion, a city street, flooding, a news studio, text on screen, 抗议活动, fire, a crowd, a protest, military, 爆炸",
+      "keywords": "a building,an explosion,a city street,flooding,a news studio,text on screen,抗议活动,fire,a crowd,a protest,military,爆炸,a road,建筑物,a flag,新闻演播室,a map,火灾,a car,a ship",
+      "visual_labels": [
+        {
+          "label": "a building",
+          "score": 0.4155
+        },
+        {
+          "label": "an explosion",
+          "score": 0.4126
+        },
+        {
+          "label": "a city street",
+          "score": 0.3891
+        },
+        {
+          "label": "flooding",
+          "score": 0.3886
+        },
+        {
+          "label": "a news studio",
+          "score": 0.3777
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3724
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3713
+        },
+        {
+          "label": "fire",
+          "score": 0.3688
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3682
+        },
+        {
+          "label": "a protest",
+          "score": 0.3677
+        },
+        {
+          "label": "military",
+          "score": 0.3662
+        },
+        {
+          "label": "爆炸",
+          "score": 0.3642
+        },
+        {
+          "label": "a road",
+          "score": 0.362
+        },
+        {
+          "label": "建筑物",
+          "score": 0.3616
+        },
+        {
+          "label": "a flag",
+          "score": 0.3612
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3594
+        },
+        {
+          "label": "a map",
+          "score": 0.3585
+        },
+        {
+          "label": "火灾",
+          "score": 0.3529
+        },
+        {
+          "label": "a car",
+          "score": 0.3526
+        },
+        {
+          "label": "a ship",
+          "score": 0.3524
+        }
+      ]
+    }
+  ]
 }
