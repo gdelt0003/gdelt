@@ -1,7 +1,287 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-22T03:09:31+00:00",
+  "generated_at": "2026-11-22T19:34:54+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
-  "records": 0,
-  "items": []
+  "records": 3,
+  "items": [
+    {
+      "id": "ALJAZ_20261122_100000",
+      "title": "it runs the president says his country faces the silence economic war, which is harder to defend against than miss all the times and still no deal.",
+      "source": "ALJAZ",
+      "date": "2026-11-22T00:00:00Z",
+      "image_url": "https://archive.org/services/img/ALJAZ_20261122_100000/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/ALJAZ_20261122_100000",
+      "description_zh": "画面候选标签：fire、smoke、a news studio、a mountain、a river、a beach、an animal、烟雾、text on screen、a horse、running、河流",
+      "description_en": "Visual candidate labels: fire, smoke, a news studio, a mountain, a river, a beach, an animal, 烟雾, text on screen, a horse, running, 河流",
+      "keywords": "fire,smoke,a news studio,a mountain,a river,a beach,an animal,烟雾,text on screen,a horse,running,河流,山,a map,旗帜,a ship,新闻演播室,a speech,a road,military",
+      "visual_labels": [
+        {
+          "label": "fire",
+          "score": 0.417
+        },
+        {
+          "label": "smoke",
+          "score": 0.4103
+        },
+        {
+          "label": "a news studio",
+          "score": 0.3945
+        },
+        {
+          "label": "a mountain",
+          "score": 0.3931
+        },
+        {
+          "label": "a river",
+          "score": 0.3914
+        },
+        {
+          "label": "a beach",
+          "score": 0.3777
+        },
+        {
+          "label": "an animal",
+          "score": 0.3766
+        },
+        {
+          "label": "烟雾",
+          "score": 0.3737
+        },
+        {
+          "label": "text on screen",
+          "score": 0.372
+        },
+        {
+          "label": "a horse",
+          "score": 0.3703
+        },
+        {
+          "label": "running",
+          "score": 0.3701
+        },
+        {
+          "label": "河流",
+          "score": 0.3676
+        },
+        {
+          "label": "山",
+          "score": 0.3648
+        },
+        {
+          "label": "a map",
+          "score": 0.3638
+        },
+        {
+          "label": "旗帜",
+          "score": 0.3628
+        },
+        {
+          "label": "a ship",
+          "score": 0.3626
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3618
+        },
+        {
+          "label": "a speech",
+          "score": 0.3614
+        },
+        {
+          "label": "a road",
+          "score": 0.3609
+        },
+        {
+          "label": "military",
+          "score": 0.36
+        }
+      ]
+    },
+    {
+      "id": "ALJAZ_20261122_000000",
+      "title": "the more missiles israel submitted to re launches you rage across the occupied west bank and waves of settler tax killers, least one posted in the report from lots america home to…",
+      "source": "ALJAZ",
+      "date": "2026-11-22T00:00:00Z",
+      "image_url": "https://archive.org/services/img/ALJAZ_20261122_000000/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/ALJAZ_20261122_000000",
+      "description_zh": "画面候选标签：an animal、动物、an explosion、烟雾、a beach、a ship、屏幕文字、人群、a news studio、海滩、text on screen、新闻演播室",
+      "description_en": "Visual candidate labels: an animal, 动物, an explosion, 烟雾, a beach, a ship, 屏幕文字, 人群, a news studio, 海滩, text on screen, 新闻演播室",
+      "keywords": "an animal,动物,an explosion,烟雾,a beach,a ship,屏幕文字,人群,a news studio,海滩,text on screen,新闻演播室,船,旗帜,a forest,fire,a speech,爆炸,奔跑,a mountain",
+      "visual_labels": [
+        {
+          "label": "an animal",
+          "score": 0.3825
+        },
+        {
+          "label": "动物",
+          "score": 0.3741
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3697
+        },
+        {
+          "label": "烟雾",
+          "score": 0.3624
+        },
+        {
+          "label": "a beach",
+          "score": 0.3522
+        },
+        {
+          "label": "a ship",
+          "score": 0.3504
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3499
+        },
+        {
+          "label": "人群",
+          "score": 0.3492
+        },
+        {
+          "label": "a news studio",
+          "score": 0.349
+        },
+        {
+          "label": "海滩",
+          "score": 0.3474
+        },
+        {
+          "label": "text on screen",
+          "score": 0.346
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3444
+        },
+        {
+          "label": "船",
+          "score": 0.3432
+        },
+        {
+          "label": "旗帜",
+          "score": 0.3425
+        },
+        {
+          "label": "a forest",
+          "score": 0.3408
+        },
+        {
+          "label": "fire",
+          "score": 0.3388
+        },
+        {
+          "label": "a speech",
+          "score": 0.3385
+        },
+        {
+          "label": "爆炸",
+          "score": 0.3379
+        },
+        {
+          "label": "奔跑",
+          "score": 0.3366
+        },
+        {
+          "label": "a mountain",
+          "score": 0.3339
+        }
+      ]
+    },
+    {
+      "id": "BBCNEWS_20261122_060000_BBC_News",
+      "title": "while while negotiators say they could could have found a compromise, the the former prime minister theresa theresa may tells andy burnham to to move on from brexit as she criticis…",
+      "source": "BBCNEWS",
+      "date": "2026-11-22T00:00:00Z",
+      "image_url": "https://archive.org/services/img/BBCNEWS_20261122_060000_BBC_News/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/BBCNEWS_20261122_060000_BBC_News",
+      "description_zh": "画面候选标签：a news studio、新闻演播室、a building、text on screen、an explosion、a flag、a protest、police、fire、a city street、屏幕文字、basketball",
+      "description_en": "Visual candidate labels: a news studio, 新闻演播室, a building, text on screen, an explosion, a flag, a protest, police, fire, a city street, 屏幕文字, basketball",
+      "keywords": "a news studio,新闻演播室,a building,text on screen,an explosion,a flag,a protest,police,fire,a city street,屏幕文字,basketball,烟雾,建筑物,a river,a road,抗议活动,a crowd,a speech,an animal",
+      "visual_labels": [
+        {
+          "label": "a news studio",
+          "score": 0.4745
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.421
+        },
+        {
+          "label": "a building",
+          "score": 0.4197
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3804
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3782
+        },
+        {
+          "label": "a flag",
+          "score": 0.3756
+        },
+        {
+          "label": "a protest",
+          "score": 0.3721
+        },
+        {
+          "label": "police",
+          "score": 0.3715
+        },
+        {
+          "label": "fire",
+          "score": 0.3695
+        },
+        {
+          "label": "a city street",
+          "score": 0.3686
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3652
+        },
+        {
+          "label": "basketball",
+          "score": 0.3645
+        },
+        {
+          "label": "烟雾",
+          "score": 0.3616
+        },
+        {
+          "label": "建筑物",
+          "score": 0.3595
+        },
+        {
+          "label": "a river",
+          "score": 0.3594
+        },
+        {
+          "label": "a road",
+          "score": 0.3592
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3584
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3563
+        },
+        {
+          "label": "a speech",
+          "score": 0.3563
+        },
+        {
+          "label": "an animal",
+          "score": 0.3557
+        }
+      ]
+    }
+  ]
 }
