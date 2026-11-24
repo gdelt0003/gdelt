@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-23T19:20:30.127260+00:00",
+  "generated_at": "2026-11-24T18:57:59.050621+00:00",
   "source": "Eastmoney push2 quote API",
   "source_url": "https://push2.eastmoney.com/api/qt/ulist.np/get?fltt=2&fields=f2,f3,f4,f12,f14,f15,f16,f17,f18&secids=1.000001,0.399001,0.399006",
   "market": "中国 A 股主要指数",
@@ -8,44 +8,44 @@
     {
       "code": "000001",
       "name": "上证指数",
-      "price": 3538.95,
-      "change_percent": 0.15,
-      "change": 5.16,
-      "open": 3503.52,
-      "previous_close": 3533.79,
-      "high": 3544.6,
-      "low": 3476.65
+      "price": 3548.37,
+      "change_percent": 0.27,
+      "change": 9.42,
+      "open": 3567.84,
+      "previous_close": 3538.95,
+      "high": 3585.22,
+      "low": 3539.01
     },
     {
       "code": "399001",
       "name": "深证成指",
-      "price": 10454.37,
-      "change_percent": 1.93,
-      "change": 197.98,
-      "open": 10155.6,
-      "previous_close": 10256.39,
-      "high": 10510.18,
-      "low": 10118.02
+      "price": 10423.6,
+      "change_percent": -0.29,
+      "change": -30.77,
+      "open": 10708.62,
+      "previous_close": 10454.37,
+      "high": 10729.13,
+      "low": 10418.11
     },
     {
       "code": "399006",
       "name": "创业板指",
-      "price": 2280.2,
-      "change_percent": 3.08,
-      "change": 68.07,
-      "open": 2195.52,
-      "previous_close": 2212.13,
-      "high": 2297.73,
-      "low": 2188.45
+      "price": 2278.99,
+      "change_percent": -0.05,
+      "change": -1.21,
+      "open": 2368.7,
+      "previous_close": 2280.2,
+      "high": 2376.34,
+      "low": 2278.99
     }
   ],
   "judgment": {
-    "choice": "up",
-    "label": "上涨",
+    "choice": "flat",
+    "label": "持平",
     "probabilities": {
-      "up": 1.0,
+      "up": 0.0,
       "down": 0.0,
-      "flat": 0.0,
+      "flat": 1.0,
       "insufficient": 0.0
     },
     "confidence": 0.35,
