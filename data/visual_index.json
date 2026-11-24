@@ -1,7 +1,287 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-23T00:49:52+00:00",
+  "generated_at": "2026-11-23T21:18:15+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
-  "records": 0,
-  "items": []
+  "records": 3,
+  "items": [
+    {
+      "id": "DW_20261123_010000_DW_News",
+      "title": "ukrainian officials say at least 3 people were killed in more injured when the rest in your district destroyed a 5 story apartment building north of keys rescue workers searched fo…",
+      "source": "DW",
+      "date": "2026-11-23T00:00:00Z",
+      "image_url": "https://archive.org/services/img/DW_20261123_010000_DW_News/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261123_010000_DW_News",
+      "description_zh": "画面候选标签：a mountain、the countryside、police、a truck、乡村、military、警察、a news studio、森林、a road、fire、running",
+      "description_en": "Visual candidate labels: a mountain, the countryside, police, a truck, 乡村, military, 警察, a news studio, 森林, a road, fire, running",
+      "keywords": "a mountain,the countryside,police,a truck,乡村,military,警察,a news studio,森林,a road,fire,running,an explosion,an animal,屏幕文字,text on screen,山,a river,smoke,抗议活动",
+      "visual_labels": [
+        {
+          "label": "a mountain",
+          "score": 0.3842
+        },
+        {
+          "label": "the countryside",
+          "score": 0.3826
+        },
+        {
+          "label": "police",
+          "score": 0.3803
+        },
+        {
+          "label": "a truck",
+          "score": 0.3796
+        },
+        {
+          "label": "乡村",
+          "score": 0.3769
+        },
+        {
+          "label": "military",
+          "score": 0.3769
+        },
+        {
+          "label": "警察",
+          "score": 0.3744
+        },
+        {
+          "label": "a news studio",
+          "score": 0.3734
+        },
+        {
+          "label": "森林",
+          "score": 0.3722
+        },
+        {
+          "label": "a road",
+          "score": 0.372
+        },
+        {
+          "label": "fire",
+          "score": 0.3714
+        },
+        {
+          "label": "running",
+          "score": 0.3708
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3697
+        },
+        {
+          "label": "an animal",
+          "score": 0.3684
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3681
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3678
+        },
+        {
+          "label": "山",
+          "score": 0.3648
+        },
+        {
+          "label": "a river",
+          "score": 0.364
+        },
+        {
+          "label": "smoke",
+          "score": 0.3633
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3628
+        }
+      ]
+    },
+    {
+      "id": "ALJAZ_20261123_013000",
+      "title": "you booty, the man who dares on out to 0 or the the shake award for translation and international understanding announces its 12th edition award ceremony.",
+      "source": "ALJAZ",
+      "date": "2026-11-23T00:00:00Z",
+      "image_url": "https://archive.org/services/img/ALJAZ_20261123_013000/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/ALJAZ_20261123_013000",
+      "description_zh": "画面候选标签：a news studio、text on screen、basketball、soccer、a sports match、an explosion、屏幕文字、fire、抗议活动、a protest、a car、a speech",
+      "description_en": "Visual candidate labels: a news studio, text on screen, basketball, soccer, a sports match, an explosion, 屏幕文字, fire, 抗议活动, a protest, a car, a speech",
+      "keywords": "a news studio,text on screen,basketball,soccer,a sports match,an explosion,屏幕文字,fire,抗议活动,a protest,a car,a speech,a flag,新闻演播室,a map,smoke,an airplane,体育比赛,a road,military",
+      "visual_labels": [
+        {
+          "label": "a news studio",
+          "score": 0.3874
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3854
+        },
+        {
+          "label": "basketball",
+          "score": 0.3818
+        },
+        {
+          "label": "soccer",
+          "score": 0.372
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3688
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3686
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3545
+        },
+        {
+          "label": "fire",
+          "score": 0.352
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3518
+        },
+        {
+          "label": "a protest",
+          "score": 0.3514
+        },
+        {
+          "label": "a car",
+          "score": 0.3485
+        },
+        {
+          "label": "a speech",
+          "score": 0.3481
+        },
+        {
+          "label": "a flag",
+          "score": 0.3462
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3443
+        },
+        {
+          "label": "a map",
+          "score": 0.3364
+        },
+        {
+          "label": "smoke",
+          "score": 0.3356
+        },
+        {
+          "label": "an airplane",
+          "score": 0.3344
+        },
+        {
+          "label": "体育比赛",
+          "score": 0.3335
+        },
+        {
+          "label": "a road",
+          "score": 0.3328
+        },
+        {
+          "label": "military",
+          "score": 0.3321
+        }
+      ]
+    },
+    {
+      "id": "DW_20261123_010200_DW_News_Focus",
+      "title": "mercury's orbit is called pepe colombo and is a joint commission between 2 space agencies, the european space agency and the japanese aerospace exploration, the agency and its hope…",
+      "source": "DW",
+      "date": "2026-11-23T00:00:00Z",
+      "image_url": "https://archive.org/services/img/DW_20261123_010200_DW_News_Focus/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/DW_20261123_010200_DW_News_Focus",
+      "description_zh": "画面候选标签：text on screen、a news studio、屏幕文字、新闻演播室、an explosion、a road、a city street、a building、抗议活动、旗帜、建筑物、basketball",
+      "description_en": "Visual candidate labels: text on screen, a news studio, 屏幕文字, 新闻演播室, an explosion, a road, a city street, a building, 抗议活动, 旗帜, 建筑物, basketball",
+      "keywords": "text on screen,a news studio,屏幕文字,新闻演播室,an explosion,a road,a city street,a building,抗议活动,旗帜,建筑物,basketball,a flag,police,城市街道,a map,烟雾,警察,an airplane,人群",
+      "visual_labels": [
+        {
+          "label": "text on screen",
+          "score": 0.3792
+        },
+        {
+          "label": "a news studio",
+          "score": 0.3696
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3667
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3552
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3508
+        },
+        {
+          "label": "a road",
+          "score": 0.3507
+        },
+        {
+          "label": "a city street",
+          "score": 0.3496
+        },
+        {
+          "label": "a building",
+          "score": 0.3488
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3464
+        },
+        {
+          "label": "旗帜",
+          "score": 0.3421
+        },
+        {
+          "label": "建筑物",
+          "score": 0.3374
+        },
+        {
+          "label": "basketball",
+          "score": 0.3373
+        },
+        {
+          "label": "a flag",
+          "score": 0.335
+        },
+        {
+          "label": "police",
+          "score": 0.3347
+        },
+        {
+          "label": "城市街道",
+          "score": 0.3337
+        },
+        {
+          "label": "a map",
+          "score": 0.3331
+        },
+        {
+          "label": "烟雾",
+          "score": 0.3309
+        },
+        {
+          "label": "警察",
+          "score": 0.328
+        },
+        {
+          "label": "an airplane",
+          "score": 0.3249
+        },
+        {
+          "label": "人群",
+          "score": 0.3248
+        }
+      ]
+    }
+  ]
 }
