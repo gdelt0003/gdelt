@@ -1,285 +1,285 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-24T17:38:54+00:00",
+  "generated_at": "2026-11-25T02:23:30+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
   "records": 3,
   "items": [
     {
-      "id": "METROTV_20261124_000000",
-      "title": "from monday to friday live at 7 am for the president and vice president, western indonesia time, i am leonard samosir viewers president prabo subianto submitted two names of vice p…",
-      "source": "METROTV",
-      "date": "2026-11-24T00:00:00Z",
-      "image_url": "https://archive.org/services/img/METROTV_20261124_000000/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/METROTV_20261124_000000",
-      "description_zh": "画面候选标签：a protest、running、a news studio、新闻演播室、抗议活动、体育比赛、text on screen、a sports match、basketball、police、a road、屏幕文字",
-      "description_en": "Visual candidate labels: a protest, running, a news studio, 新闻演播室, 抗议活动, 体育比赛, text on screen, a sports match, basketball, police, a road, 屏幕文字",
-      "keywords": "a protest,running,a news studio,新闻演播室,抗议活动,体育比赛,text on screen,a sports match,basketball,police,a road,屏幕文字,a train,烟雾,fire,a river,an explosion,人群,演讲,a map",
-      "visual_labels": [
-        {
-          "label": "a protest",
-          "score": 0.3896
-        },
-        {
-          "label": "running",
-          "score": 0.3759
-        },
-        {
-          "label": "a news studio",
-          "score": 0.3736
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.3711
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3672
-        },
-        {
-          "label": "体育比赛",
-          "score": 0.3655
-        },
-        {
-          "label": "text on screen",
-          "score": 0.3645
-        },
-        {
-          "label": "a sports match",
-          "score": 0.3591
-        },
-        {
-          "label": "basketball",
-          "score": 0.3502
-        },
-        {
-          "label": "police",
-          "score": 0.3471
-        },
-        {
-          "label": "a road",
-          "score": 0.3458
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3446
-        },
-        {
-          "label": "a train",
-          "score": 0.3445
-        },
-        {
-          "label": "烟雾",
-          "score": 0.3434
-        },
-        {
-          "label": "fire",
-          "score": 0.3421
-        },
-        {
-          "label": "a river",
-          "score": 0.3361
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3361
-        },
-        {
-          "label": "人群",
-          "score": 0.3347
-        },
-        {
-          "label": "演讲",
-          "score": 0.3319
-        },
-        {
-          "label": "a map",
-          "score": 0.3312
-        }
-      ]
-    },
-    {
-      "id": "CNNW_20261124_010000_Anderson_Cooper_360",
-      "title": "security agencies about >> just like they always say, there is one set of rules for a billionaire tech leaders who sleep with alleged chinese spies in a different set of rules.",
-      "source": "CNNW",
-      "date": "2026-11-24T00:00:00Z",
-      "image_url": "https://archive.org/services/img/CNNW_20261124_010000_Anderson_Cooper_360/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/CNNW_20261124_010000_Anderson_Cooper_360",
-      "description_zh": "画面候选标签：a news studio、a protest、text on screen、an explosion、新闻演播室、police、a sports match、a mountain、a train、a speech、flooding、抗议活动",
-      "description_en": "Visual candidate labels: a news studio, a protest, text on screen, an explosion, 新闻演播室, police, a sports match, a mountain, a train, a speech, flooding, 抗议活动",
-      "keywords": "a news studio,a protest,text on screen,an explosion,新闻演播室,police,a sports match,a mountain,a train,a speech,flooding,抗议活动,a crowd,a building,屏幕文字,smoke,fire,an animal,a river,military",
+      "id": "BBCNEWS_20261125_000000_BBC_News",
+      "title": "the us army says it it will detonate several tonnes of of highly volatile bomb making chemicals chemicals in the state of iowa wednesday wednesday that's been sparking concerns con…",
+      "source": "BBCNEWS",
+      "date": "2026-11-25T00:00:00Z",
+      "image_url": "https://archive.org/services/img/BBCNEWS_20261125_000000_BBC_News/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/BBCNEWS_20261125_000000_BBC_News",
+      "description_zh": "画面候选标签：a news studio、a building、新闻演播室、a city street、text on screen、an explosion、城市街道、fire、建筑物、police、烟雾、爆炸",
+      "description_en": "Visual candidate labels: a news studio, a building, 新闻演播室, a city street, text on screen, an explosion, 城市街道, fire, 建筑物, police, 烟雾, 爆炸",
+      "keywords": "a news studio,a building,新闻演播室,a city street,text on screen,an explosion,城市街道,fire,建筑物,police,烟雾,爆炸,a protest,屏幕文字,抗议活动,a road,a speech,basketball,a map,警察",
       "visual_labels": [
         {
           "label": "a news studio",
-          "score": 0.4571
-        },
-        {
-          "label": "a protest",
-          "score": 0.4119
-        },
-        {
-          "label": "text on screen",
-          "score": 0.4094
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3899
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.3837
-        },
-        {
-          "label": "police",
-          "score": 0.3783
-        },
-        {
-          "label": "a sports match",
-          "score": 0.3711
-        },
-        {
-          "label": "a mountain",
-          "score": 0.3677
-        },
-        {
-          "label": "a train",
-          "score": 0.3639
-        },
-        {
-          "label": "a speech",
-          "score": 0.3639
-        },
-        {
-          "label": "flooding",
-          "score": 0.363
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3625
-        },
-        {
-          "label": "a crowd",
-          "score": 0.3621
+          "score": 0.481
         },
         {
           "label": "a building",
-          "score": 0.3588
+          "score": 0.4244
         },
         {
-          "label": "屏幕文字",
-          "score": 0.3577
+          "label": "新闻演播室",
+          "score": 0.4198
         },
         {
-          "label": "smoke",
-          "score": 0.3571
+          "label": "a city street",
+          "score": 0.3874
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3846
+        },
+        {
+          "label": "an explosion",
+          "score": 0.381
+        },
+        {
+          "label": "城市街道",
+          "score": 0.3744
         },
         {
           "label": "fire",
-          "score": 0.3558
+          "score": 0.3716
         },
         {
-          "label": "an animal",
-          "score": 0.3548
+          "label": "建筑物",
+          "score": 0.3703
         },
         {
-          "label": "a river",
-          "score": 0.3513
+          "label": "police",
+          "score": 0.368
         },
         {
-          "label": "military",
-          "score": 0.3496
+          "label": "烟雾",
+          "score": 0.3641
+        },
+        {
+          "label": "爆炸",
+          "score": 0.3636
+        },
+        {
+          "label": "a protest",
+          "score": 0.3621
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3596
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3585
+        },
+        {
+          "label": "a road",
+          "score": 0.3519
+        },
+        {
+          "label": "a speech",
+          "score": 0.3475
+        },
+        {
+          "label": "basketball",
+          "score": 0.3474
+        },
+        {
+          "label": "a map",
+          "score": 0.3474
+        },
+        {
+          "label": "警察",
+          "score": 0.3442
         }
       ]
     },
     {
-      "id": "BBCPERSIAN_20261124_003000",
-      "title": "the indian government also intends to equip 15,000 women's self-help groups across the country with these drones.",
-      "source": "BBCPERSIAN",
-      "date": "2026-11-24T00:00:00Z",
-      "image_url": "https://archive.org/services/img/BBCPERSIAN_20261124_003000/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/BBCPERSIAN_20261124_003000",
-      "description_zh": "画面候选标签：a crowd、a protest、the countryside、flooding、a river、a news studio、running、police、抗议活动、text on screen、a road、a flag",
-      "description_en": "Visual candidate labels: a crowd, a protest, the countryside, flooding, a river, a news studio, running, police, 抗议活动, text on screen, a road, a flag",
-      "keywords": "a crowd,a protest,the countryside,flooding,a river,a news studio,running,police,抗议活动,text on screen,a road,a flag,an animal,an explosion,a forest,a map,乡村,人群,soccer,洪水",
+      "id": "FOXNEWSW_20261125_000000_The_Ingraham_Angle",
+      "title": "you know, which is just that people do not trust you anymore when you stand up in front of these people and say trust us and i think that the administration needs to understand tha…",
+      "source": "FOXNEWSW",
+      "date": "2026-11-25T00:00:00Z",
+      "image_url": "https://archive.org/services/img/FOXNEWSW_20261125_000000_The_Ingraham_Angle/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/FOXNEWSW_20261125_000000_The_Ingraham_Angle",
+      "description_zh": "画面候选标签：a news studio、a protest、新闻演播室、text on screen、an explosion、a speech、屏幕文字、police、a crowd、抗议活动、a beach、fire",
+      "description_en": "Visual candidate labels: a news studio, a protest, 新闻演播室, text on screen, an explosion, a speech, 屏幕文字, police, a crowd, 抗议活动, a beach, fire",
+      "keywords": "a news studio,a protest,新闻演播室,text on screen,an explosion,a speech,屏幕文字,police,a crowd,抗议活动,a beach,fire,military,a flag,a truck,a river,flooding,a building,爆炸,a ship",
       "visual_labels": [
         {
-          "label": "a crowd",
-          "score": 0.4188
+          "label": "a news studio",
+          "score": 0.4314
         },
         {
           "label": "a protest",
-          "score": 0.4053
+          "score": 0.4087
         },
         {
-          "label": "the countryside",
-          "score": 0.3939
-        },
-        {
-          "label": "flooding",
-          "score": 0.3892
-        },
-        {
-          "label": "a river",
-          "score": 0.381
-        },
-        {
-          "label": "a news studio",
-          "score": 0.3723
-        },
-        {
-          "label": "running",
-          "score": 0.3649
-        },
-        {
-          "label": "police",
-          "score": 0.3641
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3635
+          "label": "新闻演播室",
+          "score": 0.3997
         },
         {
           "label": "text on screen",
-          "score": 0.3634
-        },
-        {
-          "label": "a road",
-          "score": 0.3629
-        },
-        {
-          "label": "a flag",
-          "score": 0.3612
-        },
-        {
-          "label": "an animal",
-          "score": 0.3611
+          "score": 0.3994
         },
         {
           "label": "an explosion",
-          "score": 0.3611
+          "score": 0.3931
         },
         {
-          "label": "a forest",
-          "score": 0.3546
+          "label": "a speech",
+          "score": 0.3767
         },
         {
-          "label": "a map",
-          "score": 0.3535
+          "label": "屏幕文字",
+          "score": 0.3676
         },
         {
-          "label": "乡村",
-          "score": 0.3515
+          "label": "police",
+          "score": 0.3643
         },
         {
-          "label": "人群",
-          "score": 0.3496
+          "label": "a crowd",
+          "score": 0.3632
         },
         {
-          "label": "soccer",
+          "label": "抗议活动",
+          "score": 0.3609
+        },
+        {
+          "label": "a beach",
           "score": 0.3479
         },
         {
-          "label": "洪水",
-          "score": 0.3477
+          "label": "fire",
+          "score": 0.347
+        },
+        {
+          "label": "military",
+          "score": 0.3467
+        },
+        {
+          "label": "a flag",
+          "score": 0.3454
+        },
+        {
+          "label": "a truck",
+          "score": 0.3451
+        },
+        {
+          "label": "a river",
+          "score": 0.3416
+        },
+        {
+          "label": "flooding",
+          "score": 0.3388
+        },
+        {
+          "label": "a building",
+          "score": 0.3374
+        },
+        {
+          "label": "爆炸",
+          "score": 0.3363
+        },
+        {
+          "label": "a ship",
+          "score": 0.3357
+        }
+      ]
+    },
+    {
+      "id": "METROTV_20261125_000500_Editorial_Media_Indonesia",
+      "title": "essential things that are very important and should not be forgotten, should not be neglected, because what happened yesterday in the cikande industrial area, in serang, banten, th…",
+      "source": "METROTV",
+      "date": "2026-11-25T00:00:00Z",
+      "image_url": "https://archive.org/services/img/METROTV_20261125_000500_Editorial_Media_Indonesia/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/METROTV_20261125_000500_Editorial_Media_Indonesia",
+      "description_zh": "画面候选标签：a news studio、a building、an explosion、新闻演播室、a crowd、a protest、a train、text on screen、a road、a map、a river、a speech",
+      "description_en": "Visual candidate labels: a news studio, a building, an explosion, 新闻演播室, a crowd, a protest, a train, text on screen, a road, a map, a river, a speech",
+      "keywords": "a news studio,a building,an explosion,新闻演播室,a crowd,a protest,a train,text on screen,a road,a map,a river,a speech,a mountain,a sports match,a flag,抗议活动,an animal,an airplane,flooding,屏幕文字",
+      "visual_labels": [
+        {
+          "label": "a news studio",
+          "score": 0.4442
+        },
+        {
+          "label": "a building",
+          "score": 0.3928
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3916
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3891
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3827
+        },
+        {
+          "label": "a protest",
+          "score": 0.3685
+        },
+        {
+          "label": "a train",
+          "score": 0.3678
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3662
+        },
+        {
+          "label": "a road",
+          "score": 0.3655
+        },
+        {
+          "label": "a map",
+          "score": 0.3614
+        },
+        {
+          "label": "a river",
+          "score": 0.361
+        },
+        {
+          "label": "a speech",
+          "score": 0.3529
+        },
+        {
+          "label": "a mountain",
+          "score": 0.3516
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3513
+        },
+        {
+          "label": "a flag",
+          "score": 0.3502
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3494
+        },
+        {
+          "label": "an animal",
+          "score": 0.348
+        },
+        {
+          "label": "an airplane",
+          "score": 0.3474
+        },
+        {
+          "label": "flooding",
+          "score": 0.3425
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3401
         }
       ]
     }
