@@ -1,99 +1,99 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-26T05:00:01+00:00",
+  "generated_at": "2026-11-26T15:10:23+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
   "records": 3,
   "items": [
     {
-      "id": "BBCPERSIAN_20261126_010000",
-      "title": "according to the lawyer, the judiciary insists that the sentence of these two detainees the us president expresses confidence in securing funding for the continuation of the war wi…",
-      "source": "BBCPERSIAN",
+      "id": "PALESTINETV_20261126_010500",
+      "title": "that limited the ability of women the egyptian public prosecution ordered taking dna samples from the bodies of the deceased who had not been identified, in preparation for conduct…",
+      "source": "PALESTINETV",
       "date": "2026-11-26T00:00:00Z",
-      "image_url": "https://archive.org/services/img/BBCPERSIAN_20261126_010000/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/BBCPERSIAN_20261126_010000",
-      "description_zh": "画面候选标签：a news studio、a road、a protest、text on screen、a car、police、抗议活动、fire、新闻演播室、an explosion、running、military",
-      "description_en": "Visual candidate labels: a news studio, a road, a protest, text on screen, a car, police, 抗议活动, fire, 新闻演播室, an explosion, running, military",
-      "keywords": "a news studio,a road,a protest,text on screen,a car,police,抗议活动,fire,新闻演播室,an explosion,running,military,屏幕文字,a city street,a truck,道路,the countryside,a flag,smoke,a crowd",
+      "image_url": "https://archive.org/services/img/PALESTINETV_20261126_010500/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/PALESTINETV_20261126_010500",
+      "description_zh": "画面候选标签：fire、an explosion、a news studio、抗议活动、a protest、police、text on screen、火灾、新闻演播室、a crowd、爆炸、military",
+      "description_en": "Visual candidate labels: fire, an explosion, a news studio, 抗议活动, a protest, police, text on screen, 火灾, 新闻演播室, a crowd, 爆炸, military",
+      "keywords": "fire,an explosion,a news studio,抗议活动,a protest,police,text on screen,火灾,新闻演播室,a crowd,爆炸,military,smoke,a car,a building,a flag,屏幕文字,烟雾,a truck,旗帜",
       "visual_labels": [
         {
-          "label": "a news studio",
-          "score": 0.4441
-        },
-        {
-          "label": "a road",
-          "score": 0.4056
-        },
-        {
-          "label": "a protest",
-          "score": 0.3837
-        },
-        {
-          "label": "text on screen",
-          "score": 0.3832
-        },
-        {
-          "label": "a car",
-          "score": 0.3826
-        },
-        {
-          "label": "police",
-          "score": 0.3826
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3821
-        },
-        {
           "label": "fire",
-          "score": 0.3812
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.3804
+          "score": 0.4072
         },
         {
           "label": "an explosion",
-          "score": 0.3765
+          "score": 0.4048
         },
         {
-          "label": "running",
-          "score": 0.3672
+          "label": "a news studio",
+          "score": 0.381
         },
         {
-          "label": "military",
-          "score": 0.365
+          "label": "抗议活动",
+          "score": 0.3786
         },
         {
-          "label": "屏幕文字",
-          "score": 0.3625
+          "label": "a protest",
+          "score": 0.3688
         },
         {
-          "label": "a city street",
-          "score": 0.3622
+          "label": "police",
+          "score": 0.3547
         },
         {
-          "label": "a truck",
-          "score": 0.3619
+          "label": "text on screen",
+          "score": 0.3501
         },
         {
-          "label": "道路",
-          "score": 0.3614
+          "label": "火灾",
+          "score": 0.3464
         },
         {
-          "label": "the countryside",
-          "score": 0.3551
-        },
-        {
-          "label": "a flag",
-          "score": 0.355
-        },
-        {
-          "label": "smoke",
-          "score": 0.3541
+          "label": "新闻演播室",
+          "score": 0.3452
         },
         {
           "label": "a crowd",
-          "score": 0.3534
+          "score": 0.3432
+        },
+        {
+          "label": "爆炸",
+          "score": 0.3419
+        },
+        {
+          "label": "military",
+          "score": 0.3373
+        },
+        {
+          "label": "smoke",
+          "score": 0.3366
+        },
+        {
+          "label": "a car",
+          "score": 0.3326
+        },
+        {
+          "label": "a building",
+          "score": 0.3313
+        },
+        {
+          "label": "a flag",
+          "score": 0.331
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3301
+        },
+        {
+          "label": "烟雾",
+          "score": 0.3231
+        },
+        {
+          "label": "a truck",
+          "score": 0.3215
+        },
+        {
+          "label": "旗帜",
+          "score": 0.3203
         }
       ]
     },
@@ -191,95 +191,95 @@
       ]
     },
     {
-      "id": "METROTV_20261126_020500_Selamat_Pagi_Indonesia",
-      "title": "zailani, yes, it's complete today, the health examination, as stated in article 227 of the election law, the health examination is conducted at a hospital appointed by the kpu.",
-      "source": "METROTV",
+      "id": "CANALCATORCE_20261126_003000",
+      "title": "the first one states that from the bodies of the federal judicial state police, suani little higher than the portillo established links with cells of the sinaloa cartel, and a port…",
+      "source": "CANALCATORCE",
       "date": "2026-11-26T00:00:00Z",
-      "image_url": "https://archive.org/services/img/METROTV_20261126_020500_Selamat_Pagi_Indonesia/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/METROTV_20261126_020500_Selamat_Pagi_Indonesia",
-      "description_zh": "画面候选标签：抗议活动、a protest、新闻演播室、a news studio、text on screen、a flag、旗帜、a speech、演讲、an explosion、屏幕文字、a crowd",
-      "description_en": "Visual candidate labels: 抗议活动, a protest, 新闻演播室, a news studio, text on screen, a flag, 旗帜, a speech, 演讲, an explosion, 屏幕文字, a crowd",
-      "keywords": "抗议活动,a protest,新闻演播室,a news studio,text on screen,a flag,旗帜,a speech,演讲,an explosion,屏幕文字,a crowd,人群,running,police,建筑物,a road,a train,警察,军队",
+      "image_url": "https://archive.org/services/img/CANALCATORCE_20261126_003000/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/CANALCATORCE_20261126_003000",
+      "description_zh": "画面候选标签：a protest、a news studio、a speech、a flag、police、抗议活动、text on screen、smoke、an explosion、a building、新闻演播室、fire",
+      "description_en": "Visual candidate labels: a protest, a news studio, a speech, a flag, police, 抗议活动, text on screen, smoke, an explosion, a building, 新闻演播室, fire",
+      "keywords": "a protest,a news studio,a speech,a flag,police,抗议活动,text on screen,smoke,an explosion,a building,新闻演播室,fire,a road,演讲,a river,flooding,屏幕文字,a forest,an animal,a horse",
       "visual_labels": [
         {
-          "label": "抗议活动",
-          "score": 0.3567
-        },
-        {
           "label": "a protest",
-          "score": 0.3476
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.3411
+          "score": 0.4203
         },
         {
           "label": "a news studio",
-          "score": 0.3376
-        },
-        {
-          "label": "text on screen",
-          "score": 0.3344
-        },
-        {
-          "label": "a flag",
-          "score": 0.3343
-        },
-        {
-          "label": "旗帜",
-          "score": 0.3316
+          "score": 0.4181
         },
         {
           "label": "a speech",
-          "score": 0.3316
+          "score": 0.4153
         },
         {
-          "label": "演讲",
-          "score": 0.3281
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3274
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3271
-        },
-        {
-          "label": "a crowd",
-          "score": 0.3264
-        },
-        {
-          "label": "人群",
-          "score": 0.3183
-        },
-        {
-          "label": "running",
-          "score": 0.3136
+          "label": "a flag",
+          "score": 0.3946
         },
         {
           "label": "police",
-          "score": 0.3135
+          "score": 0.3849
         },
         {
-          "label": "建筑物",
-          "score": 0.3115
+          "label": "抗议活动",
+          "score": 0.3776
+        },
+        {
+          "label": "text on screen",
+          "score": 0.376
+        },
+        {
+          "label": "smoke",
+          "score": 0.3746
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3743
+        },
+        {
+          "label": "a building",
+          "score": 0.3715
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3685
+        },
+        {
+          "label": "fire",
+          "score": 0.3626
         },
         {
           "label": "a road",
-          "score": 0.3096
+          "score": 0.362
         },
         {
-          "label": "a train",
-          "score": 0.308
+          "label": "演讲",
+          "score": 0.3611
         },
         {
-          "label": "警察",
-          "score": 0.3065
+          "label": "a river",
+          "score": 0.359
         },
         {
-          "label": "军队",
-          "score": 0.3061
+          "label": "flooding",
+          "score": 0.3588
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.358
+        },
+        {
+          "label": "a forest",
+          "score": 0.3572
+        },
+        {
+          "label": "an animal",
+          "score": 0.3561
+        },
+        {
+          "label": "a horse",
+          "score": 0.3546
         }
       ]
     }
