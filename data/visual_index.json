@@ -1,285 +1,285 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-25T12:48:26+00:00",
+  "generated_at": "2026-11-26T05:00:01+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
   "records": 3,
   "items": [
     {
-      "id": "BBCNEWS_20261125_060000_BBC_News",
-      "title": "a bbc journalist journalist returns to her family's family's village in ukraine to investigate investigate how her father and grandparents grandparents died and the shenzou-24 shen…",
-      "source": "BBCNEWS",
-      "date": "2026-11-25T00:00:00Z",
-      "image_url": "https://archive.org/services/img/BBCNEWS_20261125_060000_BBC_News/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/BBCNEWS_20261125_060000_BBC_News",
-      "description_zh": "画面候选标签：a news studio、新闻演播室、a building、text on screen、an explosion、a flag、a protest、police、a city street、fire、屏幕文字、basketball",
-      "description_en": "Visual candidate labels: a news studio, 新闻演播室, a building, text on screen, an explosion, a flag, a protest, police, a city street, fire, 屏幕文字, basketball",
-      "keywords": "a news studio,新闻演播室,a building,text on screen,an explosion,a flag,a protest,police,a city street,fire,屏幕文字,basketball,烟雾,建筑物,抗议活动,a road,a river,an animal,a speech,a crowd",
+      "id": "BBCPERSIAN_20261126_010000",
+      "title": "according to the lawyer, the judiciary insists that the sentence of these two detainees the us president expresses confidence in securing funding for the continuation of the war wi…",
+      "source": "BBCPERSIAN",
+      "date": "2026-11-26T00:00:00Z",
+      "image_url": "https://archive.org/services/img/BBCPERSIAN_20261126_010000/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/BBCPERSIAN_20261126_010000",
+      "description_zh": "画面候选标签：a news studio、a road、a protest、text on screen、a car、police、抗议活动、fire、新闻演播室、an explosion、running、military",
+      "description_en": "Visual candidate labels: a news studio, a road, a protest, text on screen, a car, police, 抗议活动, fire, 新闻演播室, an explosion, running, military",
+      "keywords": "a news studio,a road,a protest,text on screen,a car,police,抗议活动,fire,新闻演播室,an explosion,running,military,屏幕文字,a city street,a truck,道路,the countryside,a flag,smoke,a crowd",
       "visual_labels": [
         {
           "label": "a news studio",
-          "score": 0.4761
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.4239
-        },
-        {
-          "label": "a building",
-          "score": 0.4219
-        },
-        {
-          "label": "text on screen",
-          "score": 0.3802
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3797
-        },
-        {
-          "label": "a flag",
-          "score": 0.3788
-        },
-        {
-          "label": "a protest",
-          "score": 0.3742
-        },
-        {
-          "label": "police",
-          "score": 0.3728
-        },
-        {
-          "label": "a city street",
-          "score": 0.3718
-        },
-        {
-          "label": "fire",
-          "score": 0.3717
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3673
-        },
-        {
-          "label": "basketball",
-          "score": 0.3664
-        },
-        {
-          "label": "烟雾",
-          "score": 0.3656
-        },
-        {
-          "label": "建筑物",
-          "score": 0.364
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3622
+          "score": 0.4441
         },
         {
           "label": "a road",
-          "score": 0.3606
-        },
-        {
-          "label": "a river",
-          "score": 0.3605
-        },
-        {
-          "label": "an animal",
-          "score": 0.3575
-        },
-        {
-          "label": "a speech",
-          "score": 0.357
-        },
-        {
-          "label": "a crowd",
-          "score": 0.3569
-        }
-      ]
-    },
-    {
-      "id": "CANALCATORCE_20261125_023000",
-      "title": "every day your habits make you win or lose seconds, a sweet bread, a soda, hours on the for money laundering, let's couch, seconds go by and your body is getting tired, but you're…",
-      "source": "CANALCATORCE",
-      "date": "2026-11-25T00:00:00Z",
-      "image_url": "https://archive.org/services/img/CANALCATORCE_20261125_023000/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/CANALCATORCE_20261125_023000",
-      "description_zh": "画面候选标签：text on screen、屏幕文字、fire、抗议活动、a news studio、a train、a speech、police、an explosion、flooding、a protest、a car",
-      "description_en": "Visual candidate labels: text on screen, 屏幕文字, fire, 抗议活动, a news studio, a train, a speech, police, an explosion, flooding, a protest, a car",
-      "keywords": "text on screen,屏幕文字,fire,抗议活动,a news studio,a train,a speech,police,an explosion,flooding,a protest,a car,a flag,人,演讲,basketball,an animal,a road,a map,smoke",
-      "visual_labels": [
-        {
-          "label": "text on screen",
-          "score": 0.389
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3775
-        },
-        {
-          "label": "fire",
-          "score": 0.3589
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3577
-        },
-        {
-          "label": "a news studio",
-          "score": 0.3529
-        },
-        {
-          "label": "a train",
-          "score": 0.35
-        },
-        {
-          "label": "a speech",
-          "score": 0.3499
-        },
-        {
-          "label": "police",
-          "score": 0.3497
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3453
-        },
-        {
-          "label": "flooding",
-          "score": 0.3435
+          "score": 0.4056
         },
         {
           "label": "a protest",
-          "score": 0.3417
+          "score": 0.3837
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3832
         },
         {
           "label": "a car",
-          "score": 0.3398
+          "score": 0.3826
+        },
+        {
+          "label": "police",
+          "score": 0.3826
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3821
+        },
+        {
+          "label": "fire",
+          "score": 0.3812
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3804
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3765
+        },
+        {
+          "label": "running",
+          "score": 0.3672
+        },
+        {
+          "label": "military",
+          "score": 0.365
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3625
+        },
+        {
+          "label": "a city street",
+          "score": 0.3622
+        },
+        {
+          "label": "a truck",
+          "score": 0.3619
+        },
+        {
+          "label": "道路",
+          "score": 0.3614
+        },
+        {
+          "label": "the countryside",
+          "score": 0.3551
         },
         {
           "label": "a flag",
-          "score": 0.3388
-        },
-        {
-          "label": "人",
-          "score": 0.3381
-        },
-        {
-          "label": "演讲",
-          "score": 0.3376
-        },
-        {
-          "label": "basketball",
-          "score": 0.3371
-        },
-        {
-          "label": "an animal",
-          "score": 0.3337
-        },
-        {
-          "label": "a road",
-          "score": 0.3335
-        },
-        {
-          "label": "a map",
-          "score": 0.3329
+          "score": 0.355
         },
         {
           "label": "smoke",
-          "score": 0.3326
+          "score": 0.3541
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3534
         }
       ]
     },
     {
-      "id": "ALJAZ_20261125_050000",
-      "title": "ready the their own scott mclean, this is out just of your life from don't coming up is out of that coalition steps of attacks on gammon, getting an equestrian club and send the an…",
-      "source": "ALJAZ",
-      "date": "2026-11-25T00:00:00Z",
-      "image_url": "https://archive.org/services/img/ALJAZ_20261125_050000/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/ALJAZ_20261125_050000",
-      "description_zh": "画面候选标签：新闻演播室、烟雾、a news studio、an animal、动物、屏幕文字、smoke、text on screen、人群、河流、旗帜、a speech",
-      "description_en": "Visual candidate labels: 新闻演播室, 烟雾, a news studio, an animal, 动物, 屏幕文字, smoke, text on screen, 人群, 河流, 旗帜, a speech",
-      "keywords": "新闻演播室,烟雾,a news studio,an animal,动物,屏幕文字,smoke,text on screen,人群,河流,旗帜,a speech,演讲,a beach,海滩,a river,人,体育比赛,fire,船",
+      "id": "CHILEVISION_20261126_000000",
+      "title": "it wasn't a delivery person, upon following him, i realized that he was telling another person that they had caught him and then i realized that it wasn't just one person but two p…",
+      "source": "CHILEVISION",
+      "date": "2026-11-26T00:00:00Z",
+      "image_url": "https://archive.org/services/img/CHILEVISION_20261126_000000/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/CHILEVISION_20261126_000000",
+      "description_zh": "画面候选标签：police、a news studio、a building、a protest、an explosion、a city street、text on screen、flooding、a truck、a crowd、smoke、a flag",
+      "description_en": "Visual candidate labels: police, a news studio, a building, a protest, an explosion, a city street, text on screen, flooding, a truck, a crowd, smoke, a flag",
+      "keywords": "police,a news studio,a building,a protest,an explosion,a city street,text on screen,flooding,a truck,a crowd,smoke,a flag,a road,soccer,a car,basketball,fire,a map,a horse,an animal",
       "visual_labels": [
         {
-          "label": "新闻演播室",
-          "score": 0.401
-        },
-        {
-          "label": "烟雾",
-          "score": 0.4005
+          "label": "police",
+          "score": 0.4052
         },
         {
           "label": "a news studio",
-          "score": 0.3987
+          "score": 0.3864
         },
         {
-          "label": "an animal",
-          "score": 0.3805
+          "label": "a building",
+          "score": 0.3861
         },
         {
-          "label": "动物",
-          "score": 0.3783
+          "label": "a protest",
+          "score": 0.386
         },
         {
-          "label": "屏幕文字",
-          "score": 0.3779
+          "label": "an explosion",
+          "score": 0.3818
         },
         {
-          "label": "smoke",
-          "score": 0.3755
+          "label": "a city street",
+          "score": 0.3806
         },
         {
           "label": "text on screen",
-          "score": 0.3754
+          "score": 0.375
         },
         {
-          "label": "人群",
-          "score": 0.3716
+          "label": "flooding",
+          "score": 0.3687
         },
         {
-          "label": "河流",
-          "score": 0.3701
+          "label": "a truck",
+          "score": 0.3666
         },
         {
-          "label": "旗帜",
-          "score": 0.3689
+          "label": "a crowd",
+          "score": 0.3619
         },
         {
-          "label": "a speech",
-          "score": 0.3671
-        },
-        {
-          "label": "演讲",
-          "score": 0.3647
-        },
-        {
-          "label": "a beach",
-          "score": 0.363
-        },
-        {
-          "label": "海滩",
-          "score": 0.3626
-        },
-        {
-          "label": "a river",
-          "score": 0.3617
-        },
-        {
-          "label": "人",
+          "label": "smoke",
           "score": 0.3605
         },
         {
-          "label": "体育比赛",
-          "score": 0.3595
+          "label": "a flag",
+          "score": 0.357
+        },
+        {
+          "label": "a road",
+          "score": 0.3556
+        },
+        {
+          "label": "soccer",
+          "score": 0.3554
+        },
+        {
+          "label": "a car",
+          "score": 0.3544
+        },
+        {
+          "label": "basketball",
+          "score": 0.3527
         },
         {
           "label": "fire",
-          "score": 0.3595
+          "score": 0.3523
         },
         {
-          "label": "船",
-          "score": 0.3591
+          "label": "a map",
+          "score": 0.351
+        },
+        {
+          "label": "a horse",
+          "score": 0.3492
+        },
+        {
+          "label": "an animal",
+          "score": 0.3486
+        }
+      ]
+    },
+    {
+      "id": "METROTV_20261126_020500_Selamat_Pagi_Indonesia",
+      "title": "zailani, yes, it's complete today, the health examination, as stated in article 227 of the election law, the health examination is conducted at a hospital appointed by the kpu.",
+      "source": "METROTV",
+      "date": "2026-11-26T00:00:00Z",
+      "image_url": "https://archive.org/services/img/METROTV_20261126_020500_Selamat_Pagi_Indonesia/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/METROTV_20261126_020500_Selamat_Pagi_Indonesia",
+      "description_zh": "画面候选标签：抗议活动、a protest、新闻演播室、a news studio、text on screen、a flag、旗帜、a speech、演讲、an explosion、屏幕文字、a crowd",
+      "description_en": "Visual candidate labels: 抗议活动, a protest, 新闻演播室, a news studio, text on screen, a flag, 旗帜, a speech, 演讲, an explosion, 屏幕文字, a crowd",
+      "keywords": "抗议活动,a protest,新闻演播室,a news studio,text on screen,a flag,旗帜,a speech,演讲,an explosion,屏幕文字,a crowd,人群,running,police,建筑物,a road,a train,警察,军队",
+      "visual_labels": [
+        {
+          "label": "抗议活动",
+          "score": 0.3567
+        },
+        {
+          "label": "a protest",
+          "score": 0.3476
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3411
+        },
+        {
+          "label": "a news studio",
+          "score": 0.3376
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3344
+        },
+        {
+          "label": "a flag",
+          "score": 0.3343
+        },
+        {
+          "label": "旗帜",
+          "score": 0.3316
+        },
+        {
+          "label": "a speech",
+          "score": 0.3316
+        },
+        {
+          "label": "演讲",
+          "score": 0.3281
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3274
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3271
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3264
+        },
+        {
+          "label": "人群",
+          "score": 0.3183
+        },
+        {
+          "label": "running",
+          "score": 0.3136
+        },
+        {
+          "label": "police",
+          "score": 0.3135
+        },
+        {
+          "label": "建筑物",
+          "score": 0.3115
+        },
+        {
+          "label": "a road",
+          "score": 0.3096
+        },
+        {
+          "label": "a train",
+          "score": 0.308
+        },
+        {
+          "label": "警察",
+          "score": 0.3065
+        },
+        {
+          "label": "军队",
+          "score": 0.3061
         }
       ]
     }
