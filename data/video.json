@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-27T08:24:17+00:00",
+  "generated_at": "2026-11-27T18:56:05+00:00",
   "source": "https://data.gdeltproject.org/gdeltv2_iatelevision/",
   "source_label": "GDELT TV-GKG / Internet Archive Television News Archive",
   "data_day": "20230324",
@@ -300,7 +300,7 @@
       },
       "tone": -4.854,
       "replay_url": "https://archive.org/details/DW_20230324_000000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 96,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -412,7 +412,7 @@
       },
       "tone": -2.242,
       "replay_url": "https://archive.org/details/KGO_20230324_000000_ABC7_News_500PM",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 73,
       "jev_label": "可选",
       "jev_reasons": [
@@ -518,7 +518,7 @@
       },
       "tone": -1.564,
       "replay_url": "https://archive.org/details/KRON_20230324_000000_KRON_4_News_at_5pm",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 75,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -628,7 +628,7 @@
       },
       "tone": -1.602,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_000000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -746,7 +746,7 @@
       },
       "tone": -0.816,
       "replay_url": "https://archive.org/details/DW_20230324_000200_The_Day",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -864,7 +864,7 @@
       },
       "tone": -2.138,
       "replay_url": "https://archive.org/details/RT_20230324_000000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -976,7 +976,7 @@
       },
       "tone": 0.0,
       "replay_url": "https://archive.org/details/KRON_20230324_003000_KRON_4_News_at_530pm",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 75,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -1088,7 +1088,7 @@
       },
       "tone": -1.99,
       "replay_url": "https://archive.org/details/RT_20230324_003000_The_Modus_Operandi",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -1206,7 +1206,7 @@
       },
       "tone": -1.24,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_003000_Inside_Story",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -1318,7 +1318,7 @@
       },
       "tone": -0.381,
       "replay_url": "https://archive.org/details/DW_20230324_003000_To_the_Point",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -1408,7 +1408,7 @@
       },
       "tone": -2.532,
       "replay_url": "https://archive.org/details/DW_20230324_010000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -1519,7 +1519,7 @@
       },
       "tone": -1.684,
       "replay_url": "https://archive.org/details/KRON_20230324_010000_KRON_4_News_at_6pm",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 73,
       "jev_label": "可选",
       "jev_reasons": [
@@ -1631,7 +1631,7 @@
       },
       "tone": -1.57,
       "replay_url": "https://archive.org/details/RT_20230324_010000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -1733,7 +1733,7 @@
       },
       "tone": 0.123,
       "replay_url": "https://archive.org/details/CSPAN_20230324_013000_U.S._House_of_Representatives_U.S._House_of_Representatives",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 82,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -1818,7 +1818,7 @@
       },
       "tone": -4.444,
       "replay_url": "https://archive.org/details/DW_20230324_020000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 96,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -1931,7 +1931,7 @@
       },
       "tone": -2.176,
       "replay_url": "https://archive.org/details/RT_20230324_013000_Documentary",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 76,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -2042,7 +2042,7 @@
       },
       "tone": -1.421,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_010000_Witness__This_is_Congo",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -2125,7 +2125,7 @@
       },
       "tone": -0.879,
       "replay_url": "https://archive.org/details/DW_20230324_011500_The_Plight_of_the_Pangolin",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 72,
       "jev_label": "可选",
       "jev_reasons": [
@@ -2242,7 +2242,7 @@
       },
       "tone": -1.556,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_020000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -2360,7 +2360,7 @@
       },
       "tone": -0.961,
       "replay_url": "https://archive.org/details/DW_20230324_020200_The_Day",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -2478,7 +2478,7 @@
       },
       "tone": -1.651,
       "replay_url": "https://archive.org/details/RT_20230324_020000_Documentary",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -2590,7 +2590,7 @@
       },
       "tone": -2.812,
       "replay_url": "https://archive.org/details/CSPAN3_20230324_012500_Members_of_Congress_Testify_on_Oversight_of_Justice_Department__FBI",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -2665,7 +2665,7 @@
       },
       "tone": 2.148,
       "replay_url": "https://archive.org/details/SFGTV_20230324_010000_BOS_Public_Safety__Neighborhood_Services_Committee",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -2741,7 +2741,7 @@
       },
       "tone": -0.354,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_023000_The_Forbidden_Reel__The_Era_of_Darkness",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 70,
       "jev_label": "可选",
       "jev_reasons": [
@@ -2858,7 +2858,7 @@
       },
       "tone": -1.96,
       "replay_url": "https://archive.org/details/DW_20230324_023000_Focus_on_Europe",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -2975,7 +2975,7 @@
       },
       "tone": -3.865,
       "replay_url": "https://archive.org/details/RT_20230324_023000_The_Cost_of_Everything",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 96,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -3092,7 +3092,7 @@
       },
       "tone": -1.292,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_030000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 82,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -3210,7 +3210,7 @@
       },
       "tone": -2.649,
       "replay_url": "https://archive.org/details/DW_20230324_030000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -3323,7 +3323,7 @@
       },
       "tone": -1.54,
       "replay_url": "https://archive.org/details/DW_20230324_031500_Business_-_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 82,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -3434,7 +3434,7 @@
       },
       "tone": -0.459,
       "replay_url": "https://archive.org/details/RT_20230324_030000_CrossTalk",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 72,
       "jev_label": "可选",
       "jev_reasons": [
@@ -3535,7 +3535,7 @@
       },
       "tone": 0.535,
       "replay_url": "https://archive.org/details/CSPAN_20230324_000000_U.S._House_of_Representatives",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 82,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -3621,7 +3621,7 @@
       },
       "tone": -1.972,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_033000_People__Power__Europes_New_Moral_Crusade",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -3739,7 +3739,7 @@
       },
       "tone": -1.256,
       "replay_url": "https://archive.org/details/RT_20230324_033000_Documentary",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -3851,7 +3851,7 @@
       },
       "tone": -1.141,
       "replay_url": "https://archive.org/details/DW_20230324_033000_Made_in_Germany",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 74,
       "jev_label": "可选",
       "jev_reasons": [
@@ -3962,7 +3962,7 @@
       },
       "tone": -2.385,
       "replay_url": "https://archive.org/details/DW_20230324_040000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 74,
       "jev_label": "可选",
       "jev_reasons": [
@@ -4077,7 +4077,7 @@
       },
       "tone": -1.514,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_040000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 82,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -4195,7 +4195,7 @@
       },
       "tone": -1.624,
       "replay_url": "https://archive.org/details/RT_20230324_040000_Documentary",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -4313,7 +4313,7 @@
       },
       "tone": -0.175,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_043000_The_Stream",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -4429,7 +4429,7 @@
       },
       "tone": -4.469,
       "replay_url": "https://archive.org/details/DW_20230324_050000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 96,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -4548,7 +4548,7 @@
       },
       "tone": -0.702,
       "replay_url": "https://archive.org/details/RT_20230324_043000_The_360_View",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -4653,7 +4653,7 @@
       },
       "tone": -0.966,
       "replay_url": "https://archive.org/details/KRON_20230324_040000_KRON_4_News_at_9",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 65,
       "jev_label": "可选",
       "jev_reasons": [
@@ -4763,7 +4763,7 @@
       },
       "tone": -1.966,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_050000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 82,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -4875,7 +4875,7 @@
       },
       "tone": -0.84,
       "replay_url": "https://archive.org/details/DW_20230324_041500_The_Plight_of_the_Pangolin",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 74,
       "jev_label": "可选",
       "jev_reasons": [
@@ -4992,7 +4992,7 @@
       },
       "tone": -1.195,
       "replay_url": "https://archive.org/details/DW_20230324_050200_The_Day",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -5110,7 +5110,7 @@
       },
       "tone": -2.408,
       "replay_url": "https://archive.org/details/RT_20230324_050000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -5225,7 +5225,7 @@
       },
       "tone": -0.599,
       "replay_url": "https://archive.org/details/CSPAN3_20230324_024100_Hearing_on_Oversight_of_Justice_Department__FBI",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -5333,7 +5333,7 @@
       },
       "tone": 1.621,
       "replay_url": "https://archive.org/details/SFGTV_20230324_023000_Entertainment_Commission",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 77,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -5443,7 +5443,7 @@
       },
       "tone": -0.07,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_053000_Witness__Defending_French_Justice",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 80,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -5559,7 +5559,7 @@
       },
       "tone": 0.917,
       "replay_url": "https://archive.org/details/RT_20230324_053000_Inland_Visions",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -5659,7 +5659,7 @@
       },
       "tone": 2.381,
       "replay_url": "https://archive.org/details/CSPAN3_20230324_050400_Heritage_Foundation_Lecture_on_Natural_Law",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 75,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -5743,7 +5743,7 @@
       },
       "tone": -0.591,
       "replay_url": "https://archive.org/details/DW_20230324_053000_To_the_Point",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -5855,7 +5855,7 @@
       },
       "tone": -1.541,
       "replay_url": "https://archive.org/details/DW_20230324_060000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 74,
       "jev_label": "可选",
       "jev_reasons": [
@@ -5967,7 +5967,7 @@
       },
       "tone": -2.319,
       "replay_url": "https://archive.org/details/DW_20230324_061500_Business_-_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 76,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -6084,7 +6084,7 @@
       },
       "tone": -1.921,
       "replay_url": "https://archive.org/details/RT_20230324_060000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -6200,7 +6200,7 @@
       },
       "tone": -1.135,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_060000_Al_Jazeera_World__A_New_Face_Of_Palestinian_Resistance",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 82,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -6318,7 +6318,7 @@
       },
       "tone": -2.375,
       "replay_url": "https://archive.org/details/DW_20230324_063000_Conflict_Zone",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -6427,7 +6427,7 @@
       },
       "tone": -0.856,
       "replay_url": "https://archive.org/details/RT_20230324_063000_CrossTalk",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 70,
       "jev_label": "可选",
       "jev_reasons": [
@@ -6544,7 +6544,7 @@
       },
       "tone": -1.743,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_070000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -6657,7 +6657,7 @@
       },
       "tone": -2.091,
       "replay_url": "https://archive.org/details/DW_20230324_070000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 76,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -6774,7 +6774,7 @@
       },
       "tone": -2.101,
       "replay_url": "https://archive.org/details/RT_20230324_070000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -6889,7 +6889,7 @@
       },
       "tone": 1.417,
       "replay_url": "https://archive.org/details/SFGTV_20230324_050000_Retirement_Board",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -7002,7 +7002,7 @@
       },
       "tone": -1.184,
       "replay_url": "https://archive.org/details/CNNW_20230324_020000_CNN_Tonight",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -7116,7 +7116,7 @@
       },
       "tone": -0.232,
       "replay_url": "https://archive.org/details/CNNW_20230324_050000_CNN_Primetime",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -7233,7 +7233,7 @@
       },
       "tone": -0.751,
       "replay_url": "https://archive.org/details/RT_20230324_073000_Documentary",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -7339,7 +7339,7 @@
       },
       "tone": 1.307,
       "replay_url": "https://archive.org/details/SFGTV_20230324_070000_Small_Business_Commission",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -7423,7 +7423,7 @@
       },
       "tone": -0.961,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_073000_Inside_Story",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -7541,7 +7541,7 @@
       },
       "tone": -0.721,
       "replay_url": "https://archive.org/details/DW_20230324_073000_To_the_Point",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -7649,7 +7649,7 @@
       },
       "tone": -0.118,
       "replay_url": "https://archive.org/details/CSPAN_20230324_062500_U.S._House_of_Representatives_Debate_on_the_GOP_Parents_Bill_of_Rights",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 78,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -7762,7 +7762,7 @@
       },
       "tone": -2.153,
       "replay_url": "https://archive.org/details/RT_20230324_080000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -7879,7 +7879,7 @@
       },
       "tone": -2.158,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_080000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 84,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -7991,7 +7991,7 @@
       },
       "tone": -2.812,
       "replay_url": "https://archive.org/details/CSPAN3_20230324_072000_Members_of_Congress_Testify_on_Oversight_of_Justice_Department__FBI",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -8053,7 +8053,7 @@
       },
       "tone": -1.913,
       "replay_url": "https://archive.org/details/DW_20230324_080000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 70,
       "jev_label": "可选",
       "jev_reasons": [
@@ -8142,7 +8142,7 @@
       },
       "tone": -0.292,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_083000_The_Stream",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -8260,7 +8260,7 @@
       },
       "tone": -0.629,
       "replay_url": "https://archive.org/details/RT_20230324_083000_The_360_View",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -8372,7 +8372,7 @@
       },
       "tone": 0.942,
       "replay_url": "https://archive.org/details/CSPAN2_20230324_060200_Defense_Secretary_Testifies_on_Presidents_2024_Budget",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -8451,7 +8451,7 @@
       },
       "tone": -0.755,
       "replay_url": "https://archive.org/details/DW_20230324_083000_Global_3000",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 74,
       "jev_label": "可选",
       "jev_reasons": [
@@ -8535,7 +8535,7 @@
       },
       "tone": -0.524,
       "replay_url": "https://archive.org/details/KPIX_20230324_083700_The_Late_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 61,
       "jev_label": "可选",
       "jev_reasons": [
@@ -8619,7 +8619,7 @@
       },
       "tone": -2.019,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_090000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -8737,7 +8737,7 @@
       },
       "tone": -2.224,
       "replay_url": "https://archive.org/details/RT_20230324_090000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -8846,7 +8846,7 @@
       },
       "tone": -1.585,
       "replay_url": "https://archive.org/details/DW_20230324_090000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 70,
       "jev_label": "可选",
       "jev_reasons": [
@@ -8963,7 +8963,7 @@
       },
       "tone": 0.462,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_093000_101_East__North_Koreas_Most_Powerful_Woman",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -9076,7 +9076,7 @@
       },
       "tone": -0.088,
       "replay_url": "https://archive.org/details/CNBC_20230324_080000_Squawk_Box_Europe",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 71,
       "jev_label": "可选",
       "jev_reasons": [
@@ -9188,7 +9188,7 @@
       },
       "tone": -0.758,
       "replay_url": "https://archive.org/details/DW_20230324_091500_The_Invisible_River_that_Flows",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -9297,7 +9297,7 @@
       },
       "tone": -2.5,
       "replay_url": "https://archive.org/details/DW_20230324_100000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 70,
       "jev_label": "可选",
       "jev_reasons": [
@@ -9414,7 +9414,7 @@
       },
       "tone": -1.667,
       "replay_url": "https://archive.org/details/DW_20230324_101500_Business_-_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -9531,7 +9531,7 @@
       },
       "tone": 0.962,
       "replay_url": "https://archive.org/details/RT_20230324_093000_Inland_Visions",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -9646,7 +9646,7 @@
       },
       "tone": -1.263,
       "replay_url": "https://archive.org/details/CNNW_20230324_090000_Early_Start_With_Christine_Romans",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 75,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -9762,7 +9762,7 @@
       },
       "tone": -2.48,
       "replay_url": "https://archive.org/details/RT_20230324_100000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -9880,7 +9880,7 @@
       },
       "tone": -0.492,
       "replay_url": "https://archive.org/details/RT_20230324_103000_CrossTalk",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -9998,7 +9998,7 @@
       },
       "tone": -2.206,
       "replay_url": "https://archive.org/details/DW_20230324_103000_Conflict_Zone",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -10113,7 +10113,7 @@
       },
       "tone": -0.06,
       "replay_url": "https://archive.org/details/KRON_20230324_110000_KRON_4_News_at_4am",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -10219,7 +10219,7 @@
       },
       "tone": -1.059,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_100000_NEWSHOUR",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 72,
       "jev_label": "可选",
       "jev_reasons": [
@@ -10336,7 +10336,7 @@
       },
       "tone": -2.581,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_110000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -10454,7 +10454,7 @@
       },
       "tone": -2.287,
       "replay_url": "https://archive.org/details/RT_20230324_110000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -10569,7 +10569,7 @@
       },
       "tone": -0.618,
       "replay_url": "https://archive.org/details/CSPAN3_20230324_083600_Hearing_on_Oversight_of_Justice_Department__FBI",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -10673,7 +10673,7 @@
       },
       "tone": -1.945,
       "replay_url": "https://archive.org/details/DW_20230324_110000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 70,
       "jev_label": "可选",
       "jev_reasons": [
@@ -10789,7 +10789,7 @@
       },
       "tone": -1.206,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_113000_Inside_Story",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -10889,7 +10889,7 @@
       },
       "tone": 2.38,
       "replay_url": "https://archive.org/details/CSPAN3_20230324_105800_Heritage_Foundation_Lecture_on_Natural_Law",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 75,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -10969,7 +10969,7 @@
       },
       "tone": -0.822,
       "replay_url": "https://archive.org/details/KRON_20230324_113000_KRON_4_News_at_430am",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 79,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -11081,7 +11081,7 @@
       },
       "tone": -1.26,
       "replay_url": "https://archive.org/details/RT_20230324_113000_Documentary",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 84,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -11199,7 +11199,7 @@
       },
       "tone": -0.361,
       "replay_url": "https://archive.org/details/DW_20230324_113000_To_the_Point",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -11308,7 +11308,7 @@
       },
       "tone": -2.114,
       "replay_url": "https://archive.org/details/DW_20230324_120000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 70,
       "jev_label": "可选",
       "jev_reasons": [
@@ -11425,7 +11425,7 @@
       },
       "tone": -2.066,
       "replay_url": "https://archive.org/details/RT_20230324_120000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -11538,7 +11538,7 @@
       },
       "tone": -0.378,
       "replay_url": "https://archive.org/details/KRON_20230324_120000_KRON_4_News_at_5am",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 77,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -11651,7 +11651,7 @@
       },
       "tone": -0.397,
       "replay_url": "https://archive.org/details/RT_20230324_123000_The_360_View",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -11769,7 +11769,7 @@
       },
       "tone": 0.015,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_120000_Al_Jazeera_Investigations__The_Gold_Mafia_The_Laundry_Service",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -11886,7 +11886,7 @@
       },
       "tone": -0.023,
       "replay_url": "https://archive.org/details/DW_20230324_123000_In_Good_Shape",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -11999,7 +11999,7 @@
       },
       "tone": -0.632,
       "replay_url": "https://archive.org/details/DW_20230324_130000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 76,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -12112,7 +12112,7 @@
       },
       "tone": -0.711,
       "replay_url": "https://archive.org/details/KPIX_20230324_120000_CBS_News_Bay_Area_Morning_Edition_5am",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 75,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -12214,7 +12214,7 @@
       },
       "tone": 1.331,
       "replay_url": "https://archive.org/details/SFGTV_20230324_040500_BOS_Government_Audits_and_Oversight_Committee",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -12290,7 +12290,7 @@
       },
       "tone": -1.544,
       "replay_url": "https://archive.org/details/DW_20230324_133000_DW_News_Asia",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 70,
       "jev_label": "可选",
       "jev_reasons": [
@@ -12407,7 +12407,7 @@
       },
       "tone": -2.367,
       "replay_url": "https://archive.org/details/RT_20230324_130000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -12519,7 +12519,7 @@
       },
       "tone": -1.739,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_130000_NEWSHOUR",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 74,
       "jev_label": "可选",
       "jev_reasons": [
@@ -12629,7 +12629,7 @@
       },
       "tone": -0.714,
       "replay_url": "https://archive.org/details/DW_20230324_134500_Business_-_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 72,
       "jev_label": "可选",
       "jev_reasons": [
@@ -12746,7 +12746,7 @@
       },
       "tone": 0.801,
       "replay_url": "https://archive.org/details/RT_20230324_133000_Inland_Visions",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -12860,7 +12860,7 @@
       },
       "tone": -0.192,
       "replay_url": "https://archive.org/details/KRON_20230324_130000_KRON_4_News_at_6am",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 79,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -12973,7 +12973,7 @@
       },
       "tone": -2.789,
       "replay_url": "https://archive.org/details/RT_20230324_140000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -13091,7 +13091,7 @@
       },
       "tone": -3.502,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_140000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 96,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -13190,7 +13190,7 @@
       },
       "tone": -0.471,
       "replay_url": "https://archive.org/details/CSPAN3_20230324_131800_Former_White_House_Lawyer_on_Democracy__Presidential_Elections",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 73,
       "jev_label": "可选",
       "jev_reasons": [
@@ -13265,7 +13265,7 @@
       },
       "tone": -2.14,
       "replay_url": "https://archive.org/details/DW_20230324_140000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 70,
       "jev_label": "可选",
       "jev_reasons": [
@@ -13371,7 +13371,7 @@
       },
       "tone": -1.486,
       "replay_url": "https://archive.org/details/DW_20230324_143000_DW_News_Asia",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 70,
       "jev_label": "可选",
       "jev_reasons": [
@@ -13488,7 +13488,7 @@
       },
       "tone": -0.441,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_143000_The_Stream",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -13605,7 +13605,7 @@
       },
       "tone": -0.249,
       "replay_url": "https://archive.org/details/KRON_20230324_140000_KRON_4_News_at_7am",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -13711,7 +13711,7 @@
       },
       "tone": -0.703,
       "replay_url": "https://archive.org/details/RT_20230324_143000_CrossTalk",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 72,
       "jev_label": "可选",
       "jev_reasons": [
@@ -13819,7 +13819,7 @@
       },
       "tone": -2.145,
       "replay_url": "https://archive.org/details/DW_20230324_150000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 70,
       "jev_label": "可选",
       "jev_reasons": [
@@ -13936,7 +13936,7 @@
       },
       "tone": -2.058,
       "replay_url": "https://archive.org/details/RT_20230324_150000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -14054,7 +14054,7 @@
       },
       "tone": -0.765,
       "replay_url": "https://archive.org/details/DW_20230324_144500_Business_-_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -14172,7 +14172,7 @@
       },
       "tone": -0.189,
       "replay_url": "https://archive.org/details/RT_20230324_153000_Documentary",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -14283,7 +14283,7 @@
       },
       "tone": -1.359,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_150000_NEWSHOUR",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 72,
       "jev_label": "可选",
       "jev_reasons": [
@@ -14400,7 +14400,7 @@
       },
       "tone": 0.073,
       "replay_url": "https://archive.org/details/DW_20230324_153000_Eco_India",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -14518,7 +14518,7 @@
       },
       "tone": -1.417,
       "replay_url": "https://archive.org/details/RT_20230324_160000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -14636,7 +14636,7 @@
       },
       "tone": -2.727,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_160000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -14736,7 +14736,7 @@
       },
       "tone": 3.842,
       "replay_url": "https://archive.org/details/CSPAN3_20230324_153300_Michigan_Governor_Gives_State_of_the_State_Address",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 85,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -14812,7 +14812,7 @@
       },
       "tone": -2.306,
       "replay_url": "https://archive.org/details/DW_20230324_160000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 70,
       "jev_label": "可选",
       "jev_reasons": [
@@ -14920,7 +14920,7 @@
       },
       "tone": -1.5,
       "replay_url": "https://archive.org/details/DW_20230324_163000_DW_News_Asia",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 70,
       "jev_label": "可选",
       "jev_reasons": [
@@ -15037,7 +15037,7 @@
       },
       "tone": -0.892,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_163000_The_Forbidden_Reel__The_Era_of_Darkness",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -15149,7 +15149,7 @@
       },
       "tone": 1.144,
       "replay_url": "https://archive.org/details/CSPAN2_20230324_130400_U.S._Trade_Representative_Testifies_on_2023_Agenda",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -15234,7 +15234,7 @@
       },
       "tone": -0.517,
       "replay_url": "https://archive.org/details/DW_20230324_164500_Business_-_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -15352,7 +15352,7 @@
       },
       "tone": -0.584,
       "replay_url": "https://archive.org/details/RT_20230324_163000_The_360_View",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -15461,7 +15461,7 @@
       },
       "tone": -2.501,
       "replay_url": "https://archive.org/details/DW_20230324_170000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 70,
       "jev_label": "可选",
       "jev_reasons": [
@@ -15578,7 +15578,7 @@
       },
       "tone": -2.82,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_170000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -15687,7 +15687,7 @@
       },
       "tone": -0.843,
       "replay_url": "https://archive.org/details/DW_20230324_171500_DW_News_Asia",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 70,
       "jev_label": "可选",
       "jev_reasons": [
@@ -15804,7 +15804,7 @@
       },
       "tone": -2.222,
       "replay_url": "https://archive.org/details/RT_20230324_170000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -15922,7 +15922,7 @@
       },
       "tone": -1.869,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_173000_Inside_Story",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -16020,7 +16020,7 @@
       },
       "tone": -0.741,
       "replay_url": "https://archive.org/details/CSPAN_20230324_175600_President__First_Lady_Greet_Canadian_PM_Trudeau__His_Wife",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 78,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -16105,7 +16105,7 @@
       },
       "tone": 2.083,
       "replay_url": "https://archive.org/details/DW_20230324_173000_Afrimaxx",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -16223,7 +16223,7 @@
       },
       "tone": -0.08,
       "replay_url": "https://archive.org/details/CSPAN2_20230324_173200_Secretary_of_State_on_Foreign_Policy_Priorities__2024_Budget",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -16327,7 +16327,7 @@
       },
       "tone": -2.196,
       "replay_url": "https://archive.org/details/DW_20230324_180000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 70,
       "jev_label": "可选",
       "jev_reasons": [
@@ -16441,7 +16441,7 @@
       },
       "tone": 1.069,
       "replay_url": "https://archive.org/details/RT_20230324_173000_Inland_Visions",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -16559,7 +16559,7 @@
       },
       "tone": -1.955,
       "replay_url": "https://archive.org/details/RT_20230324_180000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -16671,7 +16671,7 @@
       },
       "tone": 1.174,
       "replay_url": "https://archive.org/details/CSPAN3_20230324_170900_European_Union_Commissioner_on_Relations_With_U.S.",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -16756,7 +16756,7 @@
       },
       "tone": -0.767,
       "replay_url": "https://archive.org/details/RT_20230324_183000_CrossTalk",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -16869,7 +16869,7 @@
       },
       "tone": -0.646,
       "replay_url": "https://archive.org/details/DW_20230324_181500_The_Plight_of_the_Pangolin",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 76,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -16986,7 +16986,7 @@
       },
       "tone": -2.763,
       "replay_url": "https://archive.org/details/RT_20230324_190000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -17097,7 +17097,7 @@
       },
       "tone": -1.91,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_180000_NEWSHOUR",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 72,
       "jev_label": "可选",
       "jev_reasons": [
@@ -17214,7 +17214,7 @@
       },
       "tone": -3.04,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_190000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 96,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -17326,7 +17326,7 @@
       },
       "tone": -1.766,
       "replay_url": "https://archive.org/details/DW_20230324_190000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 72,
       "jev_label": "可选",
       "jev_reasons": [
@@ -17425,7 +17425,7 @@
       },
       "tone": 1.473,
       "replay_url": "https://archive.org/details/CSPAN_20230324_130000_U.S._House_of_Representatives_U.S._House_of_Representatives",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 66,
       "jev_label": "可选",
       "jev_reasons": [
@@ -17519,7 +17519,7 @@
       },
       "tone": -1.668,
       "replay_url": "https://archive.org/details/CSPAN_20230324_175900_Washington_Journal_Rep._Andy_Biggs",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 80,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -17597,7 +17597,7 @@
       },
       "tone": -0.358,
       "replay_url": "https://archive.org/details/CSPAN_20230324_194000_House_Speaker_Holds_Briefing_on_Parents_Bill_of_Rights",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 78,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -17710,7 +17710,7 @@
       },
       "tone": -1.28,
       "replay_url": "https://archive.org/details/RT_20230324_193000_Documentary",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -17828,7 +17828,7 @@
       },
       "tone": 1.045,
       "replay_url": "https://archive.org/details/SFGTV_20230324_160000_Full_Board_of_Supervisors",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -17941,7 +17941,7 @@
       },
       "tone": -2.94,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_193000_UpFront",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -18059,7 +18059,7 @@
       },
       "tone": 0.302,
       "replay_url": "https://archive.org/details/CNNW_20230324_190000_CNN_Newsroom",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -18174,7 +18174,7 @@
       },
       "tone": -0.051,
       "replay_url": "https://archive.org/details/DW_20230324_193000_Eco_Africa",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 82,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -18282,7 +18282,7 @@
       },
       "tone": 0.066,
       "replay_url": "https://archive.org/details/KRON_20230324_190000_KRON_4_News_at_12Noon",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 69,
       "jev_label": "可选",
       "jev_reasons": [
@@ -18394,7 +18394,7 @@
       },
       "tone": -3.064,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_200000_The_Bottom_Line",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 96,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -18506,7 +18506,7 @@
       },
       "tone": -2.099,
       "replay_url": "https://archive.org/details/DW_20230324_200000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 72,
       "jev_label": "可选",
       "jev_reasons": [
@@ -18623,7 +18623,7 @@
       },
       "tone": -1.536,
       "replay_url": "https://archive.org/details/RT_20230324_200000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -18741,7 +18741,7 @@
       },
       "tone": -3.064,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_200000_The_Bottom_Line",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 96,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -18853,7 +18853,7 @@
       },
       "tone": -2.099,
       "replay_url": "https://archive.org/details/DW_20230324_200000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 72,
       "jev_label": "可选",
       "jev_reasons": [
@@ -18970,7 +18970,7 @@
       },
       "tone": -1.536,
       "replay_url": "https://archive.org/details/RT_20230324_200000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -19068,7 +19068,7 @@
       },
       "tone": -0.488,
       "replay_url": "https://archive.org/details/CSPAN3_20230324_193100_Former_White_House_Lawyer_on_Democracy__Presidential_Elections",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 73,
       "jev_label": "可选",
       "jev_reasons": [
@@ -19144,7 +19144,7 @@
       },
       "tone": -0.365,
       "replay_url": "https://archive.org/details/CSPAN_20230324_194500_President_Biden__Canadian_Prime_Minister_Hold_Press_Coference",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -19225,7 +19225,7 @@
       },
       "tone": 0.585,
       "replay_url": "https://archive.org/details/SFGTV_20230324_120000_Full_Board_of_Supervisors",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 77,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -19338,7 +19338,7 @@
       },
       "tone": 0.106,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_203000_Women_Make_Science__Kyrgyzstans_Space_School",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -19456,7 +19456,7 @@
       },
       "tone": -0.576,
       "replay_url": "https://archive.org/details/DW_20230324_203000_The_Day",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -19562,7 +19562,7 @@
       },
       "tone": 0.908,
       "replay_url": "https://archive.org/details/SFGTV_20230324_220000_Women_at_Work",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -19644,7 +19644,7 @@
       },
       "tone": -0.302,
       "replay_url": "https://archive.org/details/CSPAN_20230324_200600_Public_Affairs_Events",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -19758,7 +19758,7 @@
       },
       "tone": 0.163,
       "replay_url": "https://archive.org/details/CSPAN_20230324_204400_President_Biden__Canadian_Prime_Minister_Hold_Press_Coference",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -19869,7 +19869,7 @@
       },
       "tone": -0.859,
       "replay_url": "https://archive.org/details/CSPAN_20230324_212900_House_Minority_Leader_Holds_Weekly_Briefing",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -19983,7 +19983,7 @@
       },
       "tone": 1.296,
       "replay_url": "https://archive.org/details/RT_20230324_213000_Inland_Visions",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -20096,7 +20096,7 @@
       },
       "tone": -1.259,
       "replay_url": "https://archive.org/details/DW_20230324_213000_DW_News_Africa",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 76,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -20213,7 +20213,7 @@
       },
       "tone": -2.222,
       "replay_url": "https://archive.org/details/RT_20230324_220000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -20329,7 +20329,7 @@
       },
       "tone": -3.285,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_210000_NEWSHOUR",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 96,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -20448,7 +20448,7 @@
       },
       "tone": -3.349,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_220000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 96,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -20567,7 +20567,7 @@
       },
       "tone": -0.532,
       "replay_url": "https://archive.org/details/CNNW_20230324_200000_The_Lead_With_Jake_Tapper",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -20678,7 +20678,7 @@
       },
       "tone": -0.075,
       "replay_url": "https://archive.org/details/CNNW_20230324_210000_The_Lead_With_Jake_Tapper",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 69,
       "jev_label": "可选",
       "jev_reasons": [
@@ -20776,7 +20776,7 @@
       },
       "tone": 3.842,
       "replay_url": "https://archive.org/details/CSPAN3_20230324_214500_Michigan_Governor_Gives_State_of_the_State_Address",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 85,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -20852,7 +20852,7 @@
       },
       "tone": -0.23,
       "replay_url": "https://archive.org/details/CSPAN_20230324_221300_Boris_Johnson_Testifies_on_Allegations_He_Misled_Parliament_Part_2",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 76,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -20965,7 +20965,7 @@
       },
       "tone": -0.583,
       "replay_url": "https://archive.org/details/DW_20230324_220200_The_Day",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -21077,7 +21077,7 @@
       },
       "tone": -0.595,
       "replay_url": "https://archive.org/details/RT_20230324_223000_CrossTalk",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 74,
       "jev_label": "可选",
       "jev_reasons": [
@@ -21194,7 +21194,7 @@
       },
       "tone": -2.095,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_223000_Counting_the_Cost",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -21309,7 +21309,7 @@
       },
       "tone": -0.073,
       "replay_url": "https://archive.org/details/KRON_20230324_220000_KRON_4_News_at_3pm",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -21419,7 +21419,7 @@
       },
       "tone": -3.495,
       "replay_url": "https://archive.org/details/DW_20230324_220000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 96,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -21531,7 +21531,7 @@
       },
       "tone": 0.779,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_233000_Studio_B_Unscripted__Ai_Weiwei__Anish_Kapoor_P1",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 72,
       "jev_label": "可选",
       "jev_reasons": [
@@ -21648,7 +21648,7 @@
       },
       "tone": -1.024,
       "replay_url": "https://archive.org/details/DW_20230324_233000_DW_News_Africa",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -21766,7 +21766,7 @@
       },
       "tone": -2.032,
       "replay_url": "https://archive.org/details/RT_20230324_230000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -21878,7 +21878,7 @@
       },
       "tone": 1.174,
       "replay_url": "https://archive.org/details/CSPAN3_20230324_231800_European_Union_Commissioner_on_Relations_With_U.S.",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -21954,7 +21954,7 @@
       },
       "tone": -2.833,
       "replay_url": "https://archive.org/details/DW_20230324_210000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 70,
       "jev_label": "可选",
       "jev_reasons": [
@@ -22071,7 +22071,7 @@
       },
       "tone": -0.682,
       "replay_url": "https://archive.org/details/RT_20230324_203000_The_360_View",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -22189,7 +22189,7 @@
       },
       "tone": -1.813,
       "replay_url": "https://archive.org/details/DW_20230324_211500_Business_-_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -22300,7 +22300,7 @@
       },
       "tone": -3.005,
       "replay_url": "https://archive.org/details/DW_20230324_230000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 82,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -22418,7 +22418,7 @@
       },
       "tone": -2.203,
       "replay_url": "https://archive.org/details/RT_20230324_210000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -22536,7 +22536,7 @@
       },
       "tone": -2.27,
       "replay_url": "https://archive.org/details/DW_20230324_231500_Business_-_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -22654,7 +22654,7 @@
       },
       "tone": -2.987,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_230000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -22772,7 +22772,7 @@
       },
       "tone": -0.757,
       "replay_url": "https://archive.org/details/RT_20230324_233000_Documentary",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -22890,7 +22890,7 @@
       },
       "tone": 0.072,
       "replay_url": "https://archive.org/details/DW_20230324_223000_Eco_India",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -23008,7 +23008,7 @@
       },
       "tone": -4.854,
       "replay_url": "https://archive.org/details/DW_20230324_000000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 96,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -23120,7 +23120,7 @@
       },
       "tone": -2.242,
       "replay_url": "https://archive.org/details/KGO_20230324_000000_ABC7_News_500PM",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 73,
       "jev_label": "可选",
       "jev_reasons": [
@@ -23226,7 +23226,7 @@
       },
       "tone": -1.564,
       "replay_url": "https://archive.org/details/KRON_20230324_000000_KRON_4_News_at_5pm",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 75,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -23336,7 +23336,7 @@
       },
       "tone": -1.602,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_000000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -23454,7 +23454,7 @@
       },
       "tone": -0.816,
       "replay_url": "https://archive.org/details/DW_20230324_000200_The_Day",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -23572,7 +23572,7 @@
       },
       "tone": -2.138,
       "replay_url": "https://archive.org/details/RT_20230324_000000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -23684,7 +23684,7 @@
       },
       "tone": 0.0,
       "replay_url": "https://archive.org/details/KRON_20230324_003000_KRON_4_News_at_530pm",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 75,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -23796,7 +23796,7 @@
       },
       "tone": -1.99,
       "replay_url": "https://archive.org/details/RT_20230324_003000_The_Modus_Operandi",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -23914,7 +23914,7 @@
       },
       "tone": -1.24,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_003000_Inside_Story",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -24026,7 +24026,7 @@
       },
       "tone": -0.381,
       "replay_url": "https://archive.org/details/DW_20230324_003000_To_the_Point",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -24116,7 +24116,7 @@
       },
       "tone": -2.532,
       "replay_url": "https://archive.org/details/DW_20230324_010000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -24227,7 +24227,7 @@
       },
       "tone": -1.684,
       "replay_url": "https://archive.org/details/KRON_20230324_010000_KRON_4_News_at_6pm",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 73,
       "jev_label": "可选",
       "jev_reasons": [
@@ -24339,7 +24339,7 @@
       },
       "tone": -1.57,
       "replay_url": "https://archive.org/details/RT_20230324_010000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -24441,7 +24441,7 @@
       },
       "tone": 0.123,
       "replay_url": "https://archive.org/details/CSPAN_20230324_013000_U.S._House_of_Representatives_U.S._House_of_Representatives",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 82,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -24526,7 +24526,7 @@
       },
       "tone": -4.444,
       "replay_url": "https://archive.org/details/DW_20230324_020000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 96,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -24639,7 +24639,7 @@
       },
       "tone": -2.176,
       "replay_url": "https://archive.org/details/RT_20230324_013000_Documentary",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 76,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -24750,7 +24750,7 @@
       },
       "tone": -1.421,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_010000_Witness__This_is_Congo",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -24833,7 +24833,7 @@
       },
       "tone": -0.879,
       "replay_url": "https://archive.org/details/DW_20230324_011500_The_Plight_of_the_Pangolin",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 72,
       "jev_label": "可选",
       "jev_reasons": [
@@ -24950,7 +24950,7 @@
       },
       "tone": -1.556,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_020000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -25068,7 +25068,7 @@
       },
       "tone": -0.961,
       "replay_url": "https://archive.org/details/DW_20230324_020200_The_Day",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -25186,7 +25186,7 @@
       },
       "tone": -1.651,
       "replay_url": "https://archive.org/details/RT_20230324_020000_Documentary",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -25298,7 +25298,7 @@
       },
       "tone": -2.812,
       "replay_url": "https://archive.org/details/CSPAN3_20230324_012500_Members_of_Congress_Testify_on_Oversight_of_Justice_Department__FBI",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -25373,7 +25373,7 @@
       },
       "tone": 2.148,
       "replay_url": "https://archive.org/details/SFGTV_20230324_010000_BOS_Public_Safety__Neighborhood_Services_Committee",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -25449,7 +25449,7 @@
       },
       "tone": -0.354,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_023000_The_Forbidden_Reel__The_Era_of_Darkness",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 70,
       "jev_label": "可选",
       "jev_reasons": [
@@ -25566,7 +25566,7 @@
       },
       "tone": -1.96,
       "replay_url": "https://archive.org/details/DW_20230324_023000_Focus_on_Europe",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -25683,7 +25683,7 @@
       },
       "tone": -3.865,
       "replay_url": "https://archive.org/details/RT_20230324_023000_The_Cost_of_Everything",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 96,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -25800,7 +25800,7 @@
       },
       "tone": -1.292,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_030000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 82,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -25918,7 +25918,7 @@
       },
       "tone": -2.649,
       "replay_url": "https://archive.org/details/DW_20230324_030000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -26031,7 +26031,7 @@
       },
       "tone": -1.54,
       "replay_url": "https://archive.org/details/DW_20230324_031500_Business_-_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 82,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -26142,7 +26142,7 @@
       },
       "tone": -0.459,
       "replay_url": "https://archive.org/details/RT_20230324_030000_CrossTalk",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 72,
       "jev_label": "可选",
       "jev_reasons": [
@@ -26243,7 +26243,7 @@
       },
       "tone": 0.535,
       "replay_url": "https://archive.org/details/CSPAN_20230324_000000_U.S._House_of_Representatives",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 82,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -26329,7 +26329,7 @@
       },
       "tone": -1.972,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_033000_People__Power__Europes_New_Moral_Crusade",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -26447,7 +26447,7 @@
       },
       "tone": -1.256,
       "replay_url": "https://archive.org/details/RT_20230324_033000_Documentary",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -26559,7 +26559,7 @@
       },
       "tone": -1.141,
       "replay_url": "https://archive.org/details/DW_20230324_033000_Made_in_Germany",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 74,
       "jev_label": "可选",
       "jev_reasons": [
@@ -26670,7 +26670,7 @@
       },
       "tone": -2.385,
       "replay_url": "https://archive.org/details/DW_20230324_040000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 74,
       "jev_label": "可选",
       "jev_reasons": [
@@ -26785,7 +26785,7 @@
       },
       "tone": -1.514,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_040000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 82,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -26903,7 +26903,7 @@
       },
       "tone": -1.624,
       "replay_url": "https://archive.org/details/RT_20230324_040000_Documentary",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -27021,7 +27021,7 @@
       },
       "tone": -0.175,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_043000_The_Stream",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -27137,7 +27137,7 @@
       },
       "tone": -4.469,
       "replay_url": "https://archive.org/details/DW_20230324_050000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 96,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -27256,7 +27256,7 @@
       },
       "tone": -0.702,
       "replay_url": "https://archive.org/details/RT_20230324_043000_The_360_View",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -27361,7 +27361,7 @@
       },
       "tone": -0.966,
       "replay_url": "https://archive.org/details/KRON_20230324_040000_KRON_4_News_at_9",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 65,
       "jev_label": "可选",
       "jev_reasons": [
@@ -27471,7 +27471,7 @@
       },
       "tone": -1.966,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_050000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 82,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -27583,7 +27583,7 @@
       },
       "tone": -0.84,
       "replay_url": "https://archive.org/details/DW_20230324_041500_The_Plight_of_the_Pangolin",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 74,
       "jev_label": "可选",
       "jev_reasons": [
@@ -27700,7 +27700,7 @@
       },
       "tone": -1.195,
       "replay_url": "https://archive.org/details/DW_20230324_050200_The_Day",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -27818,7 +27818,7 @@
       },
       "tone": -2.408,
       "replay_url": "https://archive.org/details/RT_20230324_050000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -27933,7 +27933,7 @@
       },
       "tone": -0.599,
       "replay_url": "https://archive.org/details/CSPAN3_20230324_024100_Hearing_on_Oversight_of_Justice_Department__FBI",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -28041,7 +28041,7 @@
       },
       "tone": 1.621,
       "replay_url": "https://archive.org/details/SFGTV_20230324_023000_Entertainment_Commission",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 77,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -28151,7 +28151,7 @@
       },
       "tone": -0.07,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_053000_Witness__Defending_French_Justice",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 80,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -28267,7 +28267,7 @@
       },
       "tone": 0.917,
       "replay_url": "https://archive.org/details/RT_20230324_053000_Inland_Visions",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -28367,7 +28367,7 @@
       },
       "tone": 2.381,
       "replay_url": "https://archive.org/details/CSPAN3_20230324_050400_Heritage_Foundation_Lecture_on_Natural_Law",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 75,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -28451,7 +28451,7 @@
       },
       "tone": -0.591,
       "replay_url": "https://archive.org/details/DW_20230324_053000_To_the_Point",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -28563,7 +28563,7 @@
       },
       "tone": -1.541,
       "replay_url": "https://archive.org/details/DW_20230324_060000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 74,
       "jev_label": "可选",
       "jev_reasons": [
@@ -28675,7 +28675,7 @@
       },
       "tone": -2.319,
       "replay_url": "https://archive.org/details/DW_20230324_061500_Business_-_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 76,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -28792,7 +28792,7 @@
       },
       "tone": -1.921,
       "replay_url": "https://archive.org/details/RT_20230324_060000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -28908,7 +28908,7 @@
       },
       "tone": -1.135,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_060000_Al_Jazeera_World__A_New_Face_Of_Palestinian_Resistance",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 82,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -29026,7 +29026,7 @@
       },
       "tone": -2.375,
       "replay_url": "https://archive.org/details/DW_20230324_063000_Conflict_Zone",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -29135,7 +29135,7 @@
       },
       "tone": -0.856,
       "replay_url": "https://archive.org/details/RT_20230324_063000_CrossTalk",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 70,
       "jev_label": "可选",
       "jev_reasons": [
@@ -29252,7 +29252,7 @@
       },
       "tone": -1.743,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_070000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -29365,7 +29365,7 @@
       },
       "tone": -2.091,
       "replay_url": "https://archive.org/details/DW_20230324_070000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 76,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -29482,7 +29482,7 @@
       },
       "tone": -2.101,
       "replay_url": "https://archive.org/details/RT_20230324_070000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -29597,7 +29597,7 @@
       },
       "tone": 1.417,
       "replay_url": "https://archive.org/details/SFGTV_20230324_050000_Retirement_Board",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -29710,7 +29710,7 @@
       },
       "tone": -1.184,
       "replay_url": "https://archive.org/details/CNNW_20230324_020000_CNN_Tonight",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -29824,7 +29824,7 @@
       },
       "tone": -0.232,
       "replay_url": "https://archive.org/details/CNNW_20230324_050000_CNN_Primetime",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -29941,7 +29941,7 @@
       },
       "tone": -0.751,
       "replay_url": "https://archive.org/details/RT_20230324_073000_Documentary",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -30047,7 +30047,7 @@
       },
       "tone": 1.307,
       "replay_url": "https://archive.org/details/SFGTV_20230324_070000_Small_Business_Commission",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -30131,7 +30131,7 @@
       },
       "tone": -0.961,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_073000_Inside_Story",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -30249,7 +30249,7 @@
       },
       "tone": -0.721,
       "replay_url": "https://archive.org/details/DW_20230324_073000_To_the_Point",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -30357,7 +30357,7 @@
       },
       "tone": -0.118,
       "replay_url": "https://archive.org/details/CSPAN_20230324_062500_U.S._House_of_Representatives_Debate_on_the_GOP_Parents_Bill_of_Rights",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 78,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -30470,7 +30470,7 @@
       },
       "tone": -2.153,
       "replay_url": "https://archive.org/details/RT_20230324_080000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -30587,7 +30587,7 @@
       },
       "tone": -2.158,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_080000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 84,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -30699,7 +30699,7 @@
       },
       "tone": -2.812,
       "replay_url": "https://archive.org/details/CSPAN3_20230324_072000_Members_of_Congress_Testify_on_Oversight_of_Justice_Department__FBI",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -30761,7 +30761,7 @@
       },
       "tone": -1.913,
       "replay_url": "https://archive.org/details/DW_20230324_080000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 70,
       "jev_label": "可选",
       "jev_reasons": [
@@ -30850,7 +30850,7 @@
       },
       "tone": -0.292,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_083000_The_Stream",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -30968,7 +30968,7 @@
       },
       "tone": -0.629,
       "replay_url": "https://archive.org/details/RT_20230324_083000_The_360_View",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -31080,7 +31080,7 @@
       },
       "tone": 0.942,
       "replay_url": "https://archive.org/details/CSPAN2_20230324_060200_Defense_Secretary_Testifies_on_Presidents_2024_Budget",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -31159,7 +31159,7 @@
       },
       "tone": -0.755,
       "replay_url": "https://archive.org/details/DW_20230324_083000_Global_3000",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 74,
       "jev_label": "可选",
       "jev_reasons": [
@@ -31243,7 +31243,7 @@
       },
       "tone": -0.524,
       "replay_url": "https://archive.org/details/KPIX_20230324_083700_The_Late_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 61,
       "jev_label": "可选",
       "jev_reasons": [
@@ -31327,7 +31327,7 @@
       },
       "tone": -2.019,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_090000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -31445,7 +31445,7 @@
       },
       "tone": -2.224,
       "replay_url": "https://archive.org/details/RT_20230324_090000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -31554,7 +31554,7 @@
       },
       "tone": -1.585,
       "replay_url": "https://archive.org/details/DW_20230324_090000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 70,
       "jev_label": "可选",
       "jev_reasons": [
@@ -31671,7 +31671,7 @@
       },
       "tone": 0.462,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_093000_101_East__North_Koreas_Most_Powerful_Woman",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -31784,7 +31784,7 @@
       },
       "tone": -0.088,
       "replay_url": "https://archive.org/details/CNBC_20230324_080000_Squawk_Box_Europe",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 71,
       "jev_label": "可选",
       "jev_reasons": [
@@ -31896,7 +31896,7 @@
       },
       "tone": -0.758,
       "replay_url": "https://archive.org/details/DW_20230324_091500_The_Invisible_River_that_Flows",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -32005,7 +32005,7 @@
       },
       "tone": -2.5,
       "replay_url": "https://archive.org/details/DW_20230324_100000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 70,
       "jev_label": "可选",
       "jev_reasons": [
@@ -32122,7 +32122,7 @@
       },
       "tone": -1.667,
       "replay_url": "https://archive.org/details/DW_20230324_101500_Business_-_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -32239,7 +32239,7 @@
       },
       "tone": 0.962,
       "replay_url": "https://archive.org/details/RT_20230324_093000_Inland_Visions",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -32354,7 +32354,7 @@
       },
       "tone": -1.263,
       "replay_url": "https://archive.org/details/CNNW_20230324_090000_Early_Start_With_Christine_Romans",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 75,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -32470,7 +32470,7 @@
       },
       "tone": -2.48,
       "replay_url": "https://archive.org/details/RT_20230324_100000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -32588,7 +32588,7 @@
       },
       "tone": -0.492,
       "replay_url": "https://archive.org/details/RT_20230324_103000_CrossTalk",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -32706,7 +32706,7 @@
       },
       "tone": -2.206,
       "replay_url": "https://archive.org/details/DW_20230324_103000_Conflict_Zone",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -32821,7 +32821,7 @@
       },
       "tone": -0.06,
       "replay_url": "https://archive.org/details/KRON_20230324_110000_KRON_4_News_at_4am",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -32927,7 +32927,7 @@
       },
       "tone": -1.059,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_100000_NEWSHOUR",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 72,
       "jev_label": "可选",
       "jev_reasons": [
@@ -33044,7 +33044,7 @@
       },
       "tone": -2.581,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_110000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -33162,7 +33162,7 @@
       },
       "tone": -2.287,
       "replay_url": "https://archive.org/details/RT_20230324_110000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -33277,7 +33277,7 @@
       },
       "tone": -0.618,
       "replay_url": "https://archive.org/details/CSPAN3_20230324_083600_Hearing_on_Oversight_of_Justice_Department__FBI",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -33381,7 +33381,7 @@
       },
       "tone": -1.945,
       "replay_url": "https://archive.org/details/DW_20230324_110000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 70,
       "jev_label": "可选",
       "jev_reasons": [
@@ -33497,7 +33497,7 @@
       },
       "tone": -1.206,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_113000_Inside_Story",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -33597,7 +33597,7 @@
       },
       "tone": 2.38,
       "replay_url": "https://archive.org/details/CSPAN3_20230324_105800_Heritage_Foundation_Lecture_on_Natural_Law",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 75,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -33677,7 +33677,7 @@
       },
       "tone": -0.822,
       "replay_url": "https://archive.org/details/KRON_20230324_113000_KRON_4_News_at_430am",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 79,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -33789,7 +33789,7 @@
       },
       "tone": -1.26,
       "replay_url": "https://archive.org/details/RT_20230324_113000_Documentary",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 84,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -33907,7 +33907,7 @@
       },
       "tone": -0.361,
       "replay_url": "https://archive.org/details/DW_20230324_113000_To_the_Point",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -34016,7 +34016,7 @@
       },
       "tone": -2.114,
       "replay_url": "https://archive.org/details/DW_20230324_120000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 70,
       "jev_label": "可选",
       "jev_reasons": [
@@ -34133,7 +34133,7 @@
       },
       "tone": -2.066,
       "replay_url": "https://archive.org/details/RT_20230324_120000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -34246,7 +34246,7 @@
       },
       "tone": -0.378,
       "replay_url": "https://archive.org/details/KRON_20230324_120000_KRON_4_News_at_5am",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 77,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -34359,7 +34359,7 @@
       },
       "tone": -0.397,
       "replay_url": "https://archive.org/details/RT_20230324_123000_The_360_View",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -34477,7 +34477,7 @@
       },
       "tone": 0.015,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_120000_Al_Jazeera_Investigations__The_Gold_Mafia_The_Laundry_Service",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -34594,7 +34594,7 @@
       },
       "tone": -0.023,
       "replay_url": "https://archive.org/details/DW_20230324_123000_In_Good_Shape",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -34707,7 +34707,7 @@
       },
       "tone": -0.632,
       "replay_url": "https://archive.org/details/DW_20230324_130000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 76,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -34820,7 +34820,7 @@
       },
       "tone": -0.711,
       "replay_url": "https://archive.org/details/KPIX_20230324_120000_CBS_News_Bay_Area_Morning_Edition_5am",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 75,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -34922,7 +34922,7 @@
       },
       "tone": 1.331,
       "replay_url": "https://archive.org/details/SFGTV_20230324_040500_BOS_Government_Audits_and_Oversight_Committee",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -34998,7 +34998,7 @@
       },
       "tone": -1.544,
       "replay_url": "https://archive.org/details/DW_20230324_133000_DW_News_Asia",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 70,
       "jev_label": "可选",
       "jev_reasons": [
@@ -35115,7 +35115,7 @@
       },
       "tone": -2.367,
       "replay_url": "https://archive.org/details/RT_20230324_130000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -35227,7 +35227,7 @@
       },
       "tone": -1.739,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_130000_NEWSHOUR",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 74,
       "jev_label": "可选",
       "jev_reasons": [
@@ -35337,7 +35337,7 @@
       },
       "tone": -0.714,
       "replay_url": "https://archive.org/details/DW_20230324_134500_Business_-_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 72,
       "jev_label": "可选",
       "jev_reasons": [
@@ -35454,7 +35454,7 @@
       },
       "tone": 0.801,
       "replay_url": "https://archive.org/details/RT_20230324_133000_Inland_Visions",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -35568,7 +35568,7 @@
       },
       "tone": -0.192,
       "replay_url": "https://archive.org/details/KRON_20230324_130000_KRON_4_News_at_6am",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 79,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -35681,7 +35681,7 @@
       },
       "tone": -2.789,
       "replay_url": "https://archive.org/details/RT_20230324_140000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -35799,7 +35799,7 @@
       },
       "tone": -3.502,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_140000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 96,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -35898,7 +35898,7 @@
       },
       "tone": -0.471,
       "replay_url": "https://archive.org/details/CSPAN3_20230324_131800_Former_White_House_Lawyer_on_Democracy__Presidential_Elections",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 73,
       "jev_label": "可选",
       "jev_reasons": [
@@ -35973,7 +35973,7 @@
       },
       "tone": -2.14,
       "replay_url": "https://archive.org/details/DW_20230324_140000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 70,
       "jev_label": "可选",
       "jev_reasons": [
@@ -36079,7 +36079,7 @@
       },
       "tone": -1.486,
       "replay_url": "https://archive.org/details/DW_20230324_143000_DW_News_Asia",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 70,
       "jev_label": "可选",
       "jev_reasons": [
@@ -36196,7 +36196,7 @@
       },
       "tone": -0.441,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_143000_The_Stream",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -36313,7 +36313,7 @@
       },
       "tone": -0.249,
       "replay_url": "https://archive.org/details/KRON_20230324_140000_KRON_4_News_at_7am",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -36419,7 +36419,7 @@
       },
       "tone": -0.703,
       "replay_url": "https://archive.org/details/RT_20230324_143000_CrossTalk",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 72,
       "jev_label": "可选",
       "jev_reasons": [
@@ -36527,7 +36527,7 @@
       },
       "tone": -2.145,
       "replay_url": "https://archive.org/details/DW_20230324_150000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 70,
       "jev_label": "可选",
       "jev_reasons": [
@@ -36644,7 +36644,7 @@
       },
       "tone": -2.058,
       "replay_url": "https://archive.org/details/RT_20230324_150000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -36762,7 +36762,7 @@
       },
       "tone": -0.765,
       "replay_url": "https://archive.org/details/DW_20230324_144500_Business_-_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -36880,7 +36880,7 @@
       },
       "tone": -0.189,
       "replay_url": "https://archive.org/details/RT_20230324_153000_Documentary",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -36991,7 +36991,7 @@
       },
       "tone": -1.359,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_150000_NEWSHOUR",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 72,
       "jev_label": "可选",
       "jev_reasons": [
@@ -37108,7 +37108,7 @@
       },
       "tone": 0.073,
       "replay_url": "https://archive.org/details/DW_20230324_153000_Eco_India",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -37226,7 +37226,7 @@
       },
       "tone": -1.417,
       "replay_url": "https://archive.org/details/RT_20230324_160000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -37344,7 +37344,7 @@
       },
       "tone": -2.727,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_160000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -37444,7 +37444,7 @@
       },
       "tone": 3.842,
       "replay_url": "https://archive.org/details/CSPAN3_20230324_153300_Michigan_Governor_Gives_State_of_the_State_Address",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 85,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -37520,7 +37520,7 @@
       },
       "tone": -2.306,
       "replay_url": "https://archive.org/details/DW_20230324_160000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 70,
       "jev_label": "可选",
       "jev_reasons": [
@@ -37628,7 +37628,7 @@
       },
       "tone": -1.5,
       "replay_url": "https://archive.org/details/DW_20230324_163000_DW_News_Asia",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 70,
       "jev_label": "可选",
       "jev_reasons": [
@@ -37745,7 +37745,7 @@
       },
       "tone": -0.892,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_163000_The_Forbidden_Reel__The_Era_of_Darkness",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -37857,7 +37857,7 @@
       },
       "tone": 1.144,
       "replay_url": "https://archive.org/details/CSPAN2_20230324_130400_U.S._Trade_Representative_Testifies_on_2023_Agenda",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -37942,7 +37942,7 @@
       },
       "tone": -0.517,
       "replay_url": "https://archive.org/details/DW_20230324_164500_Business_-_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -38060,7 +38060,7 @@
       },
       "tone": -0.584,
       "replay_url": "https://archive.org/details/RT_20230324_163000_The_360_View",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -38169,7 +38169,7 @@
       },
       "tone": -2.501,
       "replay_url": "https://archive.org/details/DW_20230324_170000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 70,
       "jev_label": "可选",
       "jev_reasons": [
@@ -38286,7 +38286,7 @@
       },
       "tone": -2.82,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_170000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -38395,7 +38395,7 @@
       },
       "tone": -0.843,
       "replay_url": "https://archive.org/details/DW_20230324_171500_DW_News_Asia",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 70,
       "jev_label": "可选",
       "jev_reasons": [
@@ -38512,7 +38512,7 @@
       },
       "tone": -2.222,
       "replay_url": "https://archive.org/details/RT_20230324_170000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -38630,7 +38630,7 @@
       },
       "tone": -1.869,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_173000_Inside_Story",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -38728,7 +38728,7 @@
       },
       "tone": -0.741,
       "replay_url": "https://archive.org/details/CSPAN_20230324_175600_President__First_Lady_Greet_Canadian_PM_Trudeau__His_Wife",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 78,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -38813,7 +38813,7 @@
       },
       "tone": 2.083,
       "replay_url": "https://archive.org/details/DW_20230324_173000_Afrimaxx",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -38931,7 +38931,7 @@
       },
       "tone": -0.08,
       "replay_url": "https://archive.org/details/CSPAN2_20230324_173200_Secretary_of_State_on_Foreign_Policy_Priorities__2024_Budget",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -39035,7 +39035,7 @@
       },
       "tone": -2.196,
       "replay_url": "https://archive.org/details/DW_20230324_180000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 70,
       "jev_label": "可选",
       "jev_reasons": [
@@ -39149,7 +39149,7 @@
       },
       "tone": 1.069,
       "replay_url": "https://archive.org/details/RT_20230324_173000_Inland_Visions",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -39267,7 +39267,7 @@
       },
       "tone": -1.955,
       "replay_url": "https://archive.org/details/RT_20230324_180000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -39379,7 +39379,7 @@
       },
       "tone": 1.174,
       "replay_url": "https://archive.org/details/CSPAN3_20230324_170900_European_Union_Commissioner_on_Relations_With_U.S.",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -39464,7 +39464,7 @@
       },
       "tone": -0.767,
       "replay_url": "https://archive.org/details/RT_20230324_183000_CrossTalk",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -39577,7 +39577,7 @@
       },
       "tone": -0.646,
       "replay_url": "https://archive.org/details/DW_20230324_181500_The_Plight_of_the_Pangolin",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 76,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -39694,7 +39694,7 @@
       },
       "tone": -2.763,
       "replay_url": "https://archive.org/details/RT_20230324_190000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -39805,7 +39805,7 @@
       },
       "tone": -1.91,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_180000_NEWSHOUR",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 72,
       "jev_label": "可选",
       "jev_reasons": [
@@ -39922,7 +39922,7 @@
       },
       "tone": -3.04,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_190000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 96,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -40034,7 +40034,7 @@
       },
       "tone": -1.766,
       "replay_url": "https://archive.org/details/DW_20230324_190000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 72,
       "jev_label": "可选",
       "jev_reasons": [
@@ -40133,7 +40133,7 @@
       },
       "tone": 1.473,
       "replay_url": "https://archive.org/details/CSPAN_20230324_130000_U.S._House_of_Representatives_U.S._House_of_Representatives",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 66,
       "jev_label": "可选",
       "jev_reasons": [
@@ -40227,7 +40227,7 @@
       },
       "tone": -1.668,
       "replay_url": "https://archive.org/details/CSPAN_20230324_175900_Washington_Journal_Rep._Andy_Biggs",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 80,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -40305,7 +40305,7 @@
       },
       "tone": -0.358,
       "replay_url": "https://archive.org/details/CSPAN_20230324_194000_House_Speaker_Holds_Briefing_on_Parents_Bill_of_Rights",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 78,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -40418,7 +40418,7 @@
       },
       "tone": -1.28,
       "replay_url": "https://archive.org/details/RT_20230324_193000_Documentary",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -40536,7 +40536,7 @@
       },
       "tone": 1.045,
       "replay_url": "https://archive.org/details/SFGTV_20230324_160000_Full_Board_of_Supervisors",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -40649,7 +40649,7 @@
       },
       "tone": -2.94,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_193000_UpFront",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -40767,7 +40767,7 @@
       },
       "tone": 0.302,
       "replay_url": "https://archive.org/details/CNNW_20230324_190000_CNN_Newsroom",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -40882,7 +40882,7 @@
       },
       "tone": -0.051,
       "replay_url": "https://archive.org/details/DW_20230324_193000_Eco_Africa",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 82,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -40990,7 +40990,7 @@
       },
       "tone": 0.066,
       "replay_url": "https://archive.org/details/KRON_20230324_190000_KRON_4_News_at_12Noon",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 69,
       "jev_label": "可选",
       "jev_reasons": [
@@ -41102,7 +41102,7 @@
       },
       "tone": -3.064,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_200000_The_Bottom_Line",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 96,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -41214,7 +41214,7 @@
       },
       "tone": -2.099,
       "replay_url": "https://archive.org/details/DW_20230324_200000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 72,
       "jev_label": "可选",
       "jev_reasons": [
@@ -41331,7 +41331,7 @@
       },
       "tone": -1.536,
       "replay_url": "https://archive.org/details/RT_20230324_200000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -41449,7 +41449,7 @@
       },
       "tone": -3.064,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_200000_The_Bottom_Line",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 96,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -41561,7 +41561,7 @@
       },
       "tone": -2.099,
       "replay_url": "https://archive.org/details/DW_20230324_200000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 72,
       "jev_label": "可选",
       "jev_reasons": [
@@ -41678,7 +41678,7 @@
       },
       "tone": -1.536,
       "replay_url": "https://archive.org/details/RT_20230324_200000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -41776,7 +41776,7 @@
       },
       "tone": -0.488,
       "replay_url": "https://archive.org/details/CSPAN3_20230324_193100_Former_White_House_Lawyer_on_Democracy__Presidential_Elections",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 73,
       "jev_label": "可选",
       "jev_reasons": [
@@ -41852,7 +41852,7 @@
       },
       "tone": -0.365,
       "replay_url": "https://archive.org/details/CSPAN_20230324_194500_President_Biden__Canadian_Prime_Minister_Hold_Press_Coference",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -41933,7 +41933,7 @@
       },
       "tone": 0.585,
       "replay_url": "https://archive.org/details/SFGTV_20230324_120000_Full_Board_of_Supervisors",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 77,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -42046,7 +42046,7 @@
       },
       "tone": 0.106,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_203000_Women_Make_Science__Kyrgyzstans_Space_School",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -42164,7 +42164,7 @@
       },
       "tone": -0.576,
       "replay_url": "https://archive.org/details/DW_20230324_203000_The_Day",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -42270,7 +42270,7 @@
       },
       "tone": 0.908,
       "replay_url": "https://archive.org/details/SFGTV_20230324_220000_Women_at_Work",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -42352,7 +42352,7 @@
       },
       "tone": -0.302,
       "replay_url": "https://archive.org/details/CSPAN_20230324_200600_Public_Affairs_Events",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -42466,7 +42466,7 @@
       },
       "tone": 0.163,
       "replay_url": "https://archive.org/details/CSPAN_20230324_204400_President_Biden__Canadian_Prime_Minister_Hold_Press_Coference",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -42577,7 +42577,7 @@
       },
       "tone": -0.859,
       "replay_url": "https://archive.org/details/CSPAN_20230324_212900_House_Minority_Leader_Holds_Weekly_Briefing",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -42691,7 +42691,7 @@
       },
       "tone": 1.296,
       "replay_url": "https://archive.org/details/RT_20230324_213000_Inland_Visions",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -42804,7 +42804,7 @@
       },
       "tone": -1.259,
       "replay_url": "https://archive.org/details/DW_20230324_213000_DW_News_Africa",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 76,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -42921,7 +42921,7 @@
       },
       "tone": -2.222,
       "replay_url": "https://archive.org/details/RT_20230324_220000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -43037,7 +43037,7 @@
       },
       "tone": -3.285,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_210000_NEWSHOUR",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 96,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -43156,7 +43156,7 @@
       },
       "tone": -3.349,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_220000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 96,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -43275,7 +43275,7 @@
       },
       "tone": -0.532,
       "replay_url": "https://archive.org/details/CNNW_20230324_200000_The_Lead_With_Jake_Tapper",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -43386,7 +43386,7 @@
       },
       "tone": -0.075,
       "replay_url": "https://archive.org/details/CNNW_20230324_210000_The_Lead_With_Jake_Tapper",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 69,
       "jev_label": "可选",
       "jev_reasons": [
@@ -43484,7 +43484,7 @@
       },
       "tone": 3.842,
       "replay_url": "https://archive.org/details/CSPAN3_20230324_214500_Michigan_Governor_Gives_State_of_the_State_Address",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 85,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -43560,7 +43560,7 @@
       },
       "tone": -0.23,
       "replay_url": "https://archive.org/details/CSPAN_20230324_221300_Boris_Johnson_Testifies_on_Allegations_He_Misled_Parliament_Part_2",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 76,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -43673,7 +43673,7 @@
       },
       "tone": -0.583,
       "replay_url": "https://archive.org/details/DW_20230324_220200_The_Day",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -43785,7 +43785,7 @@
       },
       "tone": -0.595,
       "replay_url": "https://archive.org/details/RT_20230324_223000_CrossTalk",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 74,
       "jev_label": "可选",
       "jev_reasons": [
@@ -43902,7 +43902,7 @@
       },
       "tone": -2.095,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_223000_Counting_the_Cost",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -44017,7 +44017,7 @@
       },
       "tone": -0.073,
       "replay_url": "https://archive.org/details/KRON_20230324_220000_KRON_4_News_at_3pm",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -44127,7 +44127,7 @@
       },
       "tone": -3.495,
       "replay_url": "https://archive.org/details/DW_20230324_220000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 96,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -44239,7 +44239,7 @@
       },
       "tone": 0.779,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_233000_Studio_B_Unscripted__Ai_Weiwei__Anish_Kapoor_P1",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 72,
       "jev_label": "可选",
       "jev_reasons": [
@@ -44356,7 +44356,7 @@
       },
       "tone": -1.024,
       "replay_url": "https://archive.org/details/DW_20230324_233000_DW_News_Africa",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -44474,7 +44474,7 @@
       },
       "tone": -2.032,
       "replay_url": "https://archive.org/details/RT_20230324_230000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -44586,7 +44586,7 @@
       },
       "tone": 1.174,
       "replay_url": "https://archive.org/details/CSPAN3_20230324_231800_European_Union_Commissioner_on_Relations_With_U.S.",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 81,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -44662,7 +44662,7 @@
       },
       "tone": -2.833,
       "replay_url": "https://archive.org/details/DW_20230324_210000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 70,
       "jev_label": "可选",
       "jev_reasons": [
@@ -44779,7 +44779,7 @@
       },
       "tone": -0.682,
       "replay_url": "https://archive.org/details/RT_20230324_203000_The_360_View",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -44897,7 +44897,7 @@
       },
       "tone": -1.813,
       "replay_url": "https://archive.org/details/DW_20230324_211500_Business_-_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -45008,7 +45008,7 @@
       },
       "tone": -3.005,
       "replay_url": "https://archive.org/details/DW_20230324_230000_DW_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 82,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -45126,7 +45126,7 @@
       },
       "tone": -2.203,
       "replay_url": "https://archive.org/details/RT_20230324_210000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -45244,7 +45244,7 @@
       },
       "tone": -2.27,
       "replay_url": "https://archive.org/details/DW_20230324_231500_Business_-_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -45362,7 +45362,7 @@
       },
       "tone": -2.987,
       "replay_url": "https://archive.org/details/ALJAZ_20230324_230000_News",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -45480,7 +45480,7 @@
       },
       "tone": -0.757,
       "replay_url": "https://archive.org/details/RT_20230324_233000_Documentary",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -45598,7 +45598,7 @@
       },
       "tone": 0.072,
       "replay_url": "https://archive.org/details/DW_20230324_223000_Eco_India",
-      "generated_at": "2026-11-27T08:24:17+00:00",
+      "generated_at": "2026-11-27T18:56:05+00:00",
       "jev_score": 86,
       "jev_label": "值得看",
       "jev_reasons": [
@@ -45655,6 +45655,91 @@
     }
   ],
   "latest_videos": [
+    {
+      "id": "N1HRV_20261127_010000",
+      "title": "N1HRV : November 27, 2026 2:00am-2:31am CET",
+      "title_candidate": "vlajić's quick call for new elections reminds one of the period around october 5th, so following that time, he expects a lower turnout compared to the elections for national deputi…",
+      "human_title": "vlajić's quick call for new elections reminds one of the period around october 5th, so following that time, he expects a lower turnout compared to the elections for national deputi…",
+      "program_title": "N1HRV电视节目",
+      "image_url": "https://archive.org/services/img/N1HRV_20261127_010000/full/pct:200/0/default.jpg",
+      "image_source": "Internet Archive 视频缩略图",
+      "visual_frame_grid_url": "",
+      "summary_method": "全文文字抽取式归纳：按信息密度、实体和事件词选择跨全文关键句",
+      "summary": "vlajić's quick call for new elections reminds one of the period around october 5th, so following that time, he expects a lower turnout compared to the elections for national deputies a few weeks ago, but i am convinced that the enthusiasm of people who want changes in serbia will not diminish so much as to jeopardize the continuation of these tribes. candidacies must be submitted no later than december 7th, that…",
+      "human_summary": "vlajić's quick call for new elections reminds one of the period around october 5th, so following that time, he expects a lower turnout compared to the elections for national deputies a few weeks ago, but i am convinced that the enthusiasm of people who want changes in serbia will not diminish so much as to jeopardize the continuation of these tribes. candidacies must be submitted no later than december 7th, that…",
+      "model_analysis": {
+        "provider": "not_configured",
+        "judgment": "可优先核验",
+        "confidence": 0.35,
+        "basis": "依据 Archive 页面字幕/ASR 摘要和关键词，仍需打开原片核验。"
+      },
+      "source": "N1HRV",
+      "source_url": "https://archive.org/details/N1HRV_20261127_010000",
+      "visual_explorer_url": "",
+      "date": "2026-11-27T00:00:00Z",
+      "keywords": [
+        "elections",
+        "time",
+        "their",
+        "group",
+        "citizens",
+        "parliamentary",
+        "everything",
+        "else",
+        "vlaji",
+        "quick",
+        "call",
+        "reminds"
+      ],
+      "related_links": [
+        {
+          "label": "GDELT 新闻/GKG",
+          "url": "https://api.gdeltproject.org/api/v2/doc/doc?format=html&mode=artlist&query=elections+time+their+group+citizens"
+        },
+        {
+          "label": "GDELT 事件",
+          "url": "https://api.gdeltproject.org/api/v2/events/events?format=html&query=elections+time+their+group+citizens"
+        }
+      ],
+      "themes": [],
+      "countries": [],
+      "extraction_methods": [
+        "Internet Archive tvnews 目录",
+        "Archive 页面字幕/ASR 摘要"
+      ],
+      "text_sources": [
+        "https://archive.org/details/N1HRV_20261127_010000"
+      ],
+      "extraction_status": {
+        "caption": "archive_snippet",
+        "asr": "not_verified",
+        "text": "available",
+        "ocr": "not_in_catalog",
+        "lip_reading": "not_supported"
+      },
+      "transcript_source_type": "Archive 页面公开文字片段",
+      "replay_url": "https://archive.org/details/N1HRV_20261127_010000",
+      "generated_at": "2026-11-27T18:56:49+00:00",
+      "transcript_text": "and everything else. vlajić's quick call for new elections reminds one of the period around october 5th, so following that time, he expects a lower turnout compared to the elections for national deputies a few weeks ago, but i am convinced that the enthusiasm of people who want changes in serbia will not diminish so much as to jeopardize the continuation of these tribes. whoever is still deciding whether to vote has little time to make up their mind. candidacies must be submitted no later than december 7th, that is, 20 days before the elections themselves. mladen savatović, n1, belgrade. a group of citizens, \"students win again,\" has been formed, which will be the proposer of the presidential candidate, announced the student movement. as they published on their website, the group of citizens includes, among others, aleksandar cvetković, katarina šćepanović, dalibor kapurić, aleksandra štimac. after the parliamentary elections and winning 140 parliamentary mandates, we have",
+      "transcript_text_raw": "and everything else. vlajić's quick call for new elections reminds one of the period around october 5th, so following that time, he expects a lower turnout compared to the elections for national deputies a few weeks ago, but i am convinced that the enthusiasm of people who want changes in serbia will not diminish so much as to jeopardize the continuation of these tribes. whoever is still deciding whether to vote has little time to make up their mind. candidacies must be submitted no later than december 7th, that is, 20 days before the elections themselves. mladen savatović, n1, belgrade. a group of citizens, \"students win again,\" has been formed, which will be the proposer of the presidential candidate, announced the student movement. as they published on their website, the group of citizens includes, among others, aleksandar cvetković, katarina šćepanović, dalibor kapurić, aleksandra štimac. after the parliamentary elections and winning 140 parliamentary mandates, we have",
+      "transcript_source": "https://archive.org/details/N1HRV_20261127_010000",
+      "source_links": [
+        {
+          "label": "Internet Archive 原片",
+          "url": "https://archive.org/details/N1HRV_20261127_010000"
+        },
+        {
+          "label": "GDELT 新闻/GKG",
+          "url": "https://api.gdeltproject.org/api/v2/doc/doc?format=html&mode=artlist&query=elections+time+their+group+citizens"
+        },
+        {
+          "label": "GDELT 事件",
+          "url": "https://api.gdeltproject.org/api/v2/events/events?format=html&query=elections+time+their+group+citizens"
+        }
+      ],
+      "featured_score": 45,
+      "featured_reason": "已有正文；包含事件信号；关键词覆盖较广"
+    },
     {
       "id": "N1SRP_20261127_000000",
       "title": "N1SRP : November 27, 2026 1:00am-1:31am CET",
@@ -45719,7 +45804,7 @@
       },
       "transcript_source_type": "Archive 页面公开文字片段",
       "replay_url": "https://archive.org/details/N1SRP_20261127_000000",
-      "generated_at": "2026-11-27T08:25:00+00:00",
+      "generated_at": "2026-11-27T18:56:49+00:00",
       "transcript_text": "good evening, you are watching n1 news, i am ivana terzić, and this is the news of the day. the president of the serbian parliament, aleksandar čupić, called presidential elections for december 27th. so that the will of the people would produce a president of the republic of strong legitimacy who will be a clear expression of state unity. long live serbia. and other topics in the news.",
       "transcript_text_raw": "good evening, you are watching n1 news, i am ivana terzić, and this is the news of the day. the president of the serbian parliament, aleksandar čupić, called presidential elections for december 27th. so that the will of the people would produce a president of the republic of strong legitimacy who will be a clear expression of state unity. long live serbia. and other topics in the news.",
       "transcript_source": "https://archive.org/details/N1SRP_20261127_000000",
@@ -45741,49 +45826,49 @@
       "featured_reason": "已有正文；包含事件信号；关键词覆盖较广"
     },
     {
-      "id": "CSPAN3_20261127_013500_The_Medias_Role_in_American_Society",
-      "title": "The Media's Role in American Society : CSPAN3 : November 26, 2026 8:35pm-9:21pm EST",
-      "title_candidate": "to my right, ian is a contributing writer at the atlantic and the author of 11 books, including the small stuff, which is what we're going to be talking about today, and play anyth…",
-      "human_title": "to my right, ian is a contributing writer at the atlantic and the author of 11 books, including the small stuff, which is what we're going to be talking about today, and play anyth…",
-      "program_title": "The Media's Role in American Society",
-      "image_url": "https://archive.org/services/img/CSPAN3_20261127_013500_The_Medias_Role_in_American_Society/full/pct:200/0/default.jpg",
+      "id": "CSPAN_20261127_031400_America_250_Karl_Rove_on_President_William_McKinley",
+      "title": "America 250 Karl Rove on President William McKinley : CSPAN : November 26, 2026 10:14pm-10:24pm EST",
+      "title_candidate": "yet he serves as a good example of something essential for the success of republic and self-government and ordinary person who rises to unexpected political responsibilities.",
+      "human_title": "yet he serves as a good example of something essential for the success of republic and self-government and ordinary person who rises to unexpected political responsibilities.",
+      "program_title": "America 250 Karl Rove on President William McKinley",
+      "image_url": "https://archive.org/services/img/CSPAN_20261127_031400_America_250_Karl_Rove_on_President_William_McKinley/full/pct:200/0/default.jpg",
       "image_source": "Internet Archive 视频缩略图",
       "visual_frame_grid_url": "",
       "summary_method": "全文文字抽取式归纳：按信息密度、实体和事件词选择跨全文关键句",
-      "summary": "frederick douglass said the declaration of independence is just a ring bolt in the chain of your yet undeveloped destiny. we look to the past to figure out how to form the future, that we will make so much better than anything that we knew before. up first, authors discuss the role of the media in american society >> so i am going to start by introducing our panelists. to my right, ian is a contributing writer at…",
-      "human_summary": "frederick douglass said the declaration of independence is just a ring bolt in the chain of your yet undeveloped destiny. we look to the past to figure out how to form the future, that we will make so much better than anything that we knew before. up first, authors discuss the role of the media in american society >> so i am going to start by introducing our panelists. to my right, ian is a contributing writer at…",
+      "summary": "arthur didn't campaign seriously for election in his own right. moreover, the republican infighting hadn't ended, and in his weakened condition, he preferred to leave it to others. abraham lincoln entered office as a prairie lawyer and emerged as the greatest of all chief executives. yet he serves as a good example of something essential for the success of republic and self-government and ordinary person who…",
+      "human_summary": "arthur didn't campaign seriously for election in his own right. moreover, the republican infighting hadn't ended, and in his weakened condition, he preferred to leave it to others. abraham lincoln entered office as a prairie lawyer and emerged as the greatest of all chief executives. yet he serves as a good example of something essential for the success of republic and self-government and ordinary person who…",
       "model_analysis": {
         "provider": "not_configured",
         "judgment": "可优先核验",
         "confidence": 0.35,
         "basis": "依据 Archive 页面字幕/ASR 摘要和关键词，仍需打开原片核验。"
       },
-      "source": "CSPAN3",
-      "source_url": "https://archive.org/details/CSPAN3_20261127_013500_The_Medias_Role_in_American_Society",
+      "source": "CSPAN",
+      "source_url": "https://archive.org/details/CSPAN_20261127_031400_America_250_Karl_Rove_on_President_William_McKinley",
       "visual_explorer_url": "",
       "date": "2026-11-27T00:00:00Z",
       "keywords": [
-        "please",
-        "frederick",
-        "douglass",
-        "said",
-        "anything",
-        "going",
-        "copies",
-        "nation's",
-        "anniversary",
-        "issue",
-        "remember",
-        "declaration"
+        "arthur",
+        "others",
+        "presidency",
+        "brought",
+        "more",
+        "success",
+        "abraham",
+        "lincoln",
+        "america's",
+        "maritime",
+        "trade",
+        "wouldn't"
       ],
       "related_links": [
         {
           "label": "GDELT 新闻/GKG",
-          "url": "https://api.gdeltproject.org/api/v2/doc/doc?format=html&mode=artlist&query=please+frederick+douglass+said+anything"
+          "url": "https://api.gdeltproject.org/api/v2/doc/doc?format=html&mode=artlist&query=arthur+others+presidency+brought+more"
         },
         {
           "label": "GDELT 事件",
-          "url": "https://api.gdeltproject.org/api/v2/events/events?format=html&query=please+frederick+douglass+said+anything"
+          "url": "https://api.gdeltproject.org/api/v2/events/events?format=html&query=arthur+others+presidency+brought+more"
         }
       ],
       "themes": [],
@@ -45793,7 +45878,7 @@
         "Archive 页面字幕/ASR 摘要"
       ],
       "text_sources": [
-        "https://archive.org/details/CSPAN3_20261127_013500_The_Medias_Role_in_American_Society"
+        "https://archive.org/details/CSPAN_20261127_031400_America_250_Karl_Rove_on_President_William_McKinley"
       ],
       "extraction_status": {
         "caption": "archive_snippet",
@@ -45803,111 +45888,26 @@
         "lip_reading": "not_supported"
       },
       "transcript_source_type": "Archive 页面公开文字片段",
-      "replay_url": "https://archive.org/details/CSPAN3_20261127_013500_The_Medias_Role_in_American_Society",
-      "generated_at": "2026-11-27T08:25:00+00:00",
-      "transcript_text": "and please get two copies of the nation's 250th anniversary issue. and remember what frederick douglass said. frederick douglass said the declaration of independence is just a ring bolt in the chain of your yet undeveloped destiny. we look to the past to figure out how to form the future, that we will make so much better than anything that we knew before. ladies and gentlemen, thank you for joining us for this panel. please applaud our great more. up first, authors discuss the role of the media in american society >> so i am going to start by introducing our panelists. um, starting with ian bogost. to my right, ian is a contributing writer at the atlantic and the author of 11 books, including the small stuff, which is what we're going to be talking about today, and play anything. he's also the barbara and david",
-      "transcript_text_raw": "and please get two copies of the nation's 250th anniversary issue. and remember what frederick douglass said. frederick douglass said the declaration of independence is just a ring bolt in the chain of your yet undeveloped destiny. we look to the past to figure out how to form the future, that we will make so much better than anything that we knew before. ladies and gentlemen, thank you for joining us for this panel. please applaud our great more. up first, authors discuss the role of the media in american society >> so i am going to start by introducing our panelists. um, starting with ian bogost. to my right, ian is a contributing writer at the atlantic and the author of 11 books, including the small stuff, which is what we're going to be talking about today, and play anything. he's also the barbara and david",
-      "transcript_source": "https://archive.org/details/CSPAN3_20261127_013500_The_Medias_Role_in_American_Society",
+      "replay_url": "https://archive.org/details/CSPAN_20261127_031400_America_250_Karl_Rove_on_President_William_McKinley",
+      "generated_at": "2026-11-27T18:56:49+00:00",
+      "transcript_text": "america's maritime trade wouldn't defend itself. arthur argued. congress agreed. arthur didn't campaign seriously for election in his own right. in 1884. he was ill and knew it. moreover, the republican infighting hadn't ended, and in his weakened condition, he preferred to leave it to others. he died in 1886 at the age of 57. the american presidency has brought out the worst in some of its occupants. andrew johnson grew more belligerent and often more drunk. richard nixon's inner demons transformed tremendous electoral success into ignominious resignation. but the presidency has brought out the best in others. abraham lincoln entered office as a prairie lawyer and emerged as the greatest of all chief executives. chester arthur will never be confused with abraham lincoln. yet he serves as a good example of something essential for the success of republic and self-government and ordinary person who rises to unexpected political responsibilities.",
+      "transcript_text_raw": "america's maritime trade wouldn't defend itself. arthur argued. congress agreed. arthur didn't campaign seriously for election in his own right. in 1884. he was ill and knew it. moreover, the republican infighting hadn't ended, and in his weakened condition, he preferred to leave it to others. he died in 1886 at the age of 57. the american presidency has brought out the worst in some of its occupants. andrew johnson grew more belligerent and often more drunk. richard nixon's inner demons transformed tremendous electoral success into ignominious resignation. but the presidency has brought out the best in others. abraham lincoln entered office as a prairie lawyer and emerged as the greatest of all chief executives. chester arthur will never be confused with abraham lincoln. yet he serves as a good example of something essential for the success of republic and self-government and ordinary person who rises to unexpected political responsibilities.",
+      "transcript_source": "https://archive.org/details/CSPAN_20261127_031400_America_250_Karl_Rove_on_President_William_McKinley",
       "source_links": [
         {
           "label": "Internet Archive 原片",
-          "url": "https://archive.org/details/CSPAN3_20261127_013500_The_Medias_Role_in_American_Society"
+          "url": "https://archive.org/details/CSPAN_20261127_031400_America_250_Karl_Rove_on_President_William_McKinley"
         },
         {
           "label": "GDELT 新闻/GKG",
-          "url": "https://api.gdeltproject.org/api/v2/doc/doc?format=html&mode=artlist&query=please+frederick+douglass+said+anything"
+          "url": "https://api.gdeltproject.org/api/v2/doc/doc?format=html&mode=artlist&query=arthur+others+presidency+brought+more"
         },
         {
           "label": "GDELT 事件",
-          "url": "https://api.gdeltproject.org/api/v2/events/events?format=html&query=please+frederick+douglass+said+anything"
+          "url": "https://api.gdeltproject.org/api/v2/events/events?format=html&query=arthur+others+presidency+brought+more"
         }
       ],
-      "featured_score": 29,
-      "featured_reason": "已有正文；关键词覆盖较广；新闻来源"
-    },
-    {
-      "id": "SUDAN_20261127_013000",
-      "title": "SUDAN : November 27, 2026 3:30am-3:59am CAT",
-      "title_candidate": "the political and community forces of the blue nile region announced their rejection of the initiative proposed by the ethiopian regime president to host fully approved by the suda…",
-      "human_title": "the political and community forces of the blue nile region announced their rejection of the initiative proposed by the ethiopian regime president to host fully approved by the suda…",
-      "program_title": "SUDAN电视节目",
-      "image_url": "https://archive.org/services/img/SUDAN_20261127_013000/full/pct:200/0/default.jpg",
-      "image_source": "Internet Archive 视频缩略图",
-      "visual_frame_grid_url": "",
-      "summary_method": "全文文字抽取式归纳：按信息密度、实体和事件词选择跨全文关键句",
-      "summary": "procedures with today's events we continue the dialogue with continue with you from sudan tv. the political and community forces of the blue nile region announced their rejection of the initiative proposed by the ethiopian regime president to host fully approved by the sudanese dialogue in addis ababa, stressing the necessity of impartiality and trust in the sponsoring party for any dialogue and their adherence…",
-      "human_summary": "procedures with today's events we continue the dialogue with continue with you from sudan tv. the political and community forces of the blue nile region announced their rejection of the initiative proposed by the ethiopian regime president to host fully approved by the sudanese dialogue in addis ababa, stressing the necessity of impartiality and trust in the sponsoring party for any dialogue and their adherence…",
-      "model_analysis": {
-        "provider": "not_configured",
-        "judgment": "可优先核验",
-        "confidence": 0.35,
-        "basis": "依据 Archive 页面字幕/ASR 摘要和关键词，仍需打开原片核验。"
-      },
-      "source": "SUDAN",
-      "source_url": "https://archive.org/details/SUDAN_20261127_013000",
-      "visual_explorer_url": "",
-      "date": "2026-11-27T00:00:00Z",
-      "keywords": [
-        "dialogue",
-        "continue",
-        "sudan",
-        "political",
-        "forces",
-        "blue",
-        "nile",
-        "region",
-        "their",
-        "initiative",
-        "ethiopian",
-        "host"
-      ],
-      "related_links": [
-        {
-          "label": "GDELT 新闻/GKG",
-          "url": "https://api.gdeltproject.org/api/v2/doc/doc?format=html&mode=artlist&query=dialogue+continue+sudan+political+forces"
-        },
-        {
-          "label": "GDELT 事件",
-          "url": "https://api.gdeltproject.org/api/v2/events/events?format=html&query=dialogue+continue+sudan+political+forces"
-        }
-      ],
-      "themes": [],
-      "countries": [],
-      "extraction_methods": [
-        "Internet Archive tvnews 目录",
-        "Archive 页面字幕/ASR 摘要"
-      ],
-      "text_sources": [
-        "https://archive.org/details/SUDAN_20261127_013000"
-      ],
-      "extraction_status": {
-        "caption": "archive_snippet",
-        "asr": "not_verified",
-        "text": "available",
-        "ocr": "not_in_catalog",
-        "lip_reading": "not_supported"
-      },
-      "transcript_source_type": "Archive 页面公开文字片段",
-      "replay_url": "https://archive.org/details/SUDAN_20261127_013000",
-      "generated_at": "2026-11-27T08:25:00+00:00",
-      "transcript_text": "procedures with today's events we continue the dialogue with continue with you from sudan tv. the political and community forces of the blue nile region announced their rejection of the initiative proposed by the ethiopian regime president to host fully approved by the sudanese dialogue in addis ababa, stressing the necessity of impartiality and trust in the sponsoring party for any dialogue and their adherence to a national dialogue that is comprehensive, preserves sudan's sovereignty and territorial integrity, and achieves the aspirations of its people for peace and stability. in light of the escalating regional initiatives to end the war in sudan, the initiative of ethiopian prime minister abiy ahmed to host a sudanese dialogue in addis ababa raises a wave of objections among political forces in the blue nile region. ethiopian-sudanese from assosa. if it is really serious about proposing",
-      "transcript_text_raw": "procedures with today's events we continue the dialogue with continue with you from sudan tv. the political and community forces of the blue nile region announced their rejection of the initiative proposed by the ethiopian regime president to host fully approved by the sudanese dialogue in addis ababa, stressing the necessity of impartiality and trust in the sponsoring party for any dialogue and their adherence to a national dialogue that is comprehensive, preserves sudan's sovereignty and territorial integrity, and achieves the aspirations of its people for peace and stability. in light of the escalating regional initiatives to end the war in sudan, the initiative of ethiopian prime minister abiy ahmed to host a sudanese dialogue in addis ababa raises a wave of objections among political forces in the blue nile region. ethiopian-sudanese from assosa. if it is really serious about proposing",
-      "transcript_source": "https://archive.org/details/SUDAN_20261127_013000",
-      "source_links": [
-        {
-          "label": "Internet Archive 原片",
-          "url": "https://archive.org/details/SUDAN_20261127_013000"
-        },
-        {
-          "label": "GDELT 新闻/GKG",
-          "url": "https://api.gdeltproject.org/api/v2/doc/doc?format=html&mode=artlist&query=dialogue+continue+sudan+political+forces"
-        },
-        {
-          "label": "GDELT 事件",
-          "url": "https://api.gdeltproject.org/api/v2/events/events?format=html&query=dialogue+continue+sudan+political+forces"
-        }
-      ],
-      "featured_score": 29,
+      "featured_score": 30,
       "featured_reason": "已有正文；包含事件信号；关键词覆盖较广"
     }
   ],
