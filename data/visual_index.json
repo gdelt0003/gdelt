@@ -1,285 +1,285 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-26T15:10:23+00:00",
+  "generated_at": "2026-11-27T08:24:17+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
   "records": 3,
   "items": [
     {
-      "id": "PALESTINETV_20261126_010500",
-      "title": "that limited the ability of women the egyptian public prosecution ordered taking dna samples from the bodies of the deceased who had not been identified, in preparation for conduct…",
-      "source": "PALESTINETV",
-      "date": "2026-11-26T00:00:00Z",
-      "image_url": "https://archive.org/services/img/PALESTINETV_20261126_010500/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/PALESTINETV_20261126_010500",
-      "description_zh": "画面候选标签：fire、an explosion、a news studio、抗议活动、a protest、police、text on screen、火灾、新闻演播室、a crowd、爆炸、military",
-      "description_en": "Visual candidate labels: fire, an explosion, a news studio, 抗议活动, a protest, police, text on screen, 火灾, 新闻演播室, a crowd, 爆炸, military",
-      "keywords": "fire,an explosion,a news studio,抗议活动,a protest,police,text on screen,火灾,新闻演播室,a crowd,爆炸,military,smoke,a car,a building,a flag,屏幕文字,烟雾,a truck,旗帜",
+      "id": "N1SRP_20261127_000000",
+      "title": "so that the will of the people would produce a president of the republic of strong legitimacy who will be a clear expression of state unity.",
+      "source": "N1SRP",
+      "date": "2026-11-27T00:00:00Z",
+      "image_url": "https://archive.org/services/img/N1SRP_20261127_000000/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/N1SRP_20261127_000000",
+      "description_zh": "画面候选标签：an explosion、a news studio、新闻演播室、text on screen、抗议活动、an airplane、a building、a protest、running、fire、爆炸、a ship",
+      "description_en": "Visual candidate labels: an explosion, a news studio, 新闻演播室, text on screen, 抗议活动, an airplane, a building, a protest, running, fire, 爆炸, a ship",
+      "keywords": "an explosion,a news studio,新闻演播室,text on screen,抗议活动,an airplane,a building,a protest,running,fire,爆炸,a ship,烟雾,police,a city street,flooding,smoke,a train,a map,屏幕文字",
       "visual_labels": [
         {
-          "label": "fire",
-          "score": 0.4072
-        },
-        {
           "label": "an explosion",
-          "score": 0.4048
+          "score": 0.3883
         },
         {
           "label": "a news studio",
-          "score": 0.381
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3786
-        },
-        {
-          "label": "a protest",
-          "score": 0.3688
-        },
-        {
-          "label": "police",
-          "score": 0.3547
-        },
-        {
-          "label": "text on screen",
-          "score": 0.3501
-        },
-        {
-          "label": "火灾",
-          "score": 0.3464
+          "score": 0.3801
         },
         {
           "label": "新闻演播室",
-          "score": 0.3452
+          "score": 0.3745
         },
         {
-          "label": "a crowd",
-          "score": 0.3432
+          "label": "text on screen",
+          "score": 0.3628
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3609
+        },
+        {
+          "label": "an airplane",
+          "score": 0.3607
+        },
+        {
+          "label": "a building",
+          "score": 0.3598
+        },
+        {
+          "label": "a protest",
+          "score": 0.3573
+        },
+        {
+          "label": "running",
+          "score": 0.3555
+        },
+        {
+          "label": "fire",
+          "score": 0.3546
         },
         {
           "label": "爆炸",
-          "score": 0.3419
+          "score": 0.3545
         },
         {
-          "label": "military",
-          "score": 0.3373
-        },
-        {
-          "label": "smoke",
-          "score": 0.3366
-        },
-        {
-          "label": "a car",
-          "score": 0.3326
-        },
-        {
-          "label": "a building",
-          "score": 0.3313
-        },
-        {
-          "label": "a flag",
-          "score": 0.331
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3301
+          "label": "a ship",
+          "score": 0.3517
         },
         {
           "label": "烟雾",
-          "score": 0.3231
+          "score": 0.3502
         },
-        {
-          "label": "a truck",
-          "score": 0.3215
-        },
-        {
-          "label": "旗帜",
-          "score": 0.3203
-        }
-      ]
-    },
-    {
-      "id": "CHILEVISION_20261126_000000",
-      "title": "it wasn't a delivery person, upon following him, i realized that he was telling another person that they had caught him and then i realized that it wasn't just one person but two p…",
-      "source": "CHILEVISION",
-      "date": "2026-11-26T00:00:00Z",
-      "image_url": "https://archive.org/services/img/CHILEVISION_20261126_000000/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/CHILEVISION_20261126_000000",
-      "description_zh": "画面候选标签：police、a news studio、a building、a protest、an explosion、a city street、text on screen、flooding、a truck、a crowd、smoke、a flag",
-      "description_en": "Visual candidate labels: police, a news studio, a building, a protest, an explosion, a city street, text on screen, flooding, a truck, a crowd, smoke, a flag",
-      "keywords": "police,a news studio,a building,a protest,an explosion,a city street,text on screen,flooding,a truck,a crowd,smoke,a flag,a road,soccer,a car,basketball,fire,a map,a horse,an animal",
-      "visual_labels": [
         {
           "label": "police",
-          "score": 0.4052
-        },
-        {
-          "label": "a news studio",
-          "score": 0.3864
-        },
-        {
-          "label": "a building",
-          "score": 0.3861
-        },
-        {
-          "label": "a protest",
-          "score": 0.386
-        },
-        {
-          "label": "an explosion",
-          "score": 0.3818
+          "score": 0.3496
         },
         {
           "label": "a city street",
-          "score": 0.3806
-        },
-        {
-          "label": "text on screen",
-          "score": 0.375
+          "score": 0.3485
         },
         {
           "label": "flooding",
-          "score": 0.3687
-        },
-        {
-          "label": "a truck",
-          "score": 0.3666
-        },
-        {
-          "label": "a crowd",
-          "score": 0.3619
+          "score": 0.3478
         },
         {
           "label": "smoke",
-          "score": 0.3605
+          "score": 0.3475
         },
         {
-          "label": "a flag",
-          "score": 0.357
-        },
-        {
-          "label": "a road",
-          "score": 0.3556
-        },
-        {
-          "label": "soccer",
-          "score": 0.3554
-        },
-        {
-          "label": "a car",
-          "score": 0.3544
-        },
-        {
-          "label": "basketball",
-          "score": 0.3527
-        },
-        {
-          "label": "fire",
-          "score": 0.3523
+          "label": "a train",
+          "score": 0.3446
         },
         {
           "label": "a map",
-          "score": 0.351
+          "score": 0.3436
         },
         {
-          "label": "a horse",
-          "score": 0.3492
-        },
-        {
-          "label": "an animal",
-          "score": 0.3486
+          "label": "屏幕文字",
+          "score": 0.3431
         }
       ]
     },
     {
-      "id": "CANALCATORCE_20261126_003000",
-      "title": "the first one states that from the bodies of the federal judicial state police, suani little higher than the portillo established links with cells of the sinaloa cartel, and a port…",
-      "source": "CANALCATORCE",
-      "date": "2026-11-26T00:00:00Z",
-      "image_url": "https://archive.org/services/img/CANALCATORCE_20261126_003000/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/CANALCATORCE_20261126_003000",
-      "description_zh": "画面候选标签：a protest、a news studio、a speech、a flag、police、抗议活动、text on screen、smoke、an explosion、a building、新闻演播室、fire",
-      "description_en": "Visual candidate labels: a protest, a news studio, a speech, a flag, police, 抗议活动, text on screen, smoke, an explosion, a building, 新闻演播室, fire",
-      "keywords": "a protest,a news studio,a speech,a flag,police,抗议活动,text on screen,smoke,an explosion,a building,新闻演播室,fire,a road,演讲,a river,flooding,屏幕文字,a forest,an animal,a horse",
+      "id": "CSPAN3_20261127_013500_The_Medias_Role_in_American_Society",
+      "title": "to my right, ian is a contributing writer at the atlantic and the author of 11 books, including the small stuff, which is what we're going to be talking about today, and play anyth…",
+      "source": "CSPAN3",
+      "date": "2026-11-27T00:00:00Z",
+      "image_url": "https://archive.org/services/img/CSPAN3_20261127_013500_The_Medias_Role_in_American_Society/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/CSPAN3_20261127_013500_The_Medias_Role_in_American_Society",
+      "description_zh": "画面候选标签：a speech、a news studio、an explosion、a protest、flooding、a sports match、a building、text on screen、a crowd、basketball、smoke、a train",
+      "description_en": "Visual candidate labels: a speech, a news studio, an explosion, a protest, flooding, a sports match, a building, text on screen, a crowd, basketball, smoke, a train",
+      "keywords": "a speech,a news studio,an explosion,a protest,flooding,a sports match,a building,text on screen,a crowd,basketball,smoke,a train,演讲,an animal,a city street,新闻演播室,fire,soccer,a forest,a horse",
       "visual_labels": [
         {
-          "label": "a protest",
-          "score": 0.4203
+          "label": "a speech",
+          "score": 0.4334
         },
         {
           "label": "a news studio",
-          "score": 0.4181
-        },
-        {
-          "label": "a speech",
-          "score": 0.4153
-        },
-        {
-          "label": "a flag",
-          "score": 0.3946
-        },
-        {
-          "label": "police",
-          "score": 0.3849
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3776
-        },
-        {
-          "label": "text on screen",
-          "score": 0.376
-        },
-        {
-          "label": "smoke",
-          "score": 0.3746
+          "score": 0.4235
         },
         {
           "label": "an explosion",
-          "score": 0.3743
+          "score": 0.3965
         },
         {
-          "label": "a building",
-          "score": 0.3715
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.3685
-        },
-        {
-          "label": "fire",
-          "score": 0.3626
-        },
-        {
-          "label": "a road",
-          "score": 0.362
-        },
-        {
-          "label": "演讲",
-          "score": 0.3611
-        },
-        {
-          "label": "a river",
-          "score": 0.359
+          "label": "a protest",
+          "score": 0.3945
         },
         {
           "label": "flooding",
+          "score": 0.3858
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3821
+        },
+        {
+          "label": "a building",
+          "score": 0.3742
+        },
+        {
+          "label": "text on screen",
+          "score": 0.3698
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3697
+        },
+        {
+          "label": "basketball",
+          "score": 0.367
+        },
+        {
+          "label": "smoke",
+          "score": 0.3644
+        },
+        {
+          "label": "a train",
+          "score": 0.3626
+        },
+        {
+          "label": "演讲",
           "score": 0.3588
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.358
-        },
-        {
-          "label": "a forest",
-          "score": 0.3572
         },
         {
           "label": "an animal",
           "score": 0.3561
         },
         {
+          "label": "a city street",
+          "score": 0.3505
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.345
+        },
+        {
+          "label": "fire",
+          "score": 0.3447
+        },
+        {
+          "label": "soccer",
+          "score": 0.3441
+        },
+        {
+          "label": "a forest",
+          "score": 0.342
+        },
+        {
           "label": "a horse",
-          "score": 0.3546
+          "score": 0.3408
+        }
+      ]
+    },
+    {
+      "id": "SUDAN_20261127_013000",
+      "title": "the political and community forces of the blue nile region announced their rejection of the initiative proposed by the ethiopian regime president to host fully approved by the suda…",
+      "source": "SUDAN",
+      "date": "2026-11-27T00:00:00Z",
+      "image_url": "https://archive.org/services/img/SUDAN_20261127_013000/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/SUDAN_20261127_013000",
+      "description_zh": "画面候选标签：a news studio、新闻演播室、text on screen、a ship、a map、a river、fire、soccer、a building、屏幕文字、a protest、a flag",
+      "description_en": "Visual candidate labels: a news studio, 新闻演播室, text on screen, a ship, a map, a river, fire, soccer, a building, 屏幕文字, a protest, a flag",
+      "keywords": "a news studio,新闻演播室,text on screen,a ship,a map,a river,fire,soccer,a building,屏幕文字,a protest,a flag,an airplane,a road,抗议活动,flooding,a speech,旗帜,an explosion,地图",
+      "visual_labels": [
+        {
+          "label": "a news studio",
+          "score": 0.4451
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.4426
+        },
+        {
+          "label": "text on screen",
+          "score": 0.4193
+        },
+        {
+          "label": "a ship",
+          "score": 0.3895
+        },
+        {
+          "label": "a map",
+          "score": 0.3891
+        },
+        {
+          "label": "a river",
+          "score": 0.3755
+        },
+        {
+          "label": "fire",
+          "score": 0.3732
+        },
+        {
+          "label": "soccer",
+          "score": 0.3707
+        },
+        {
+          "label": "a building",
+          "score": 0.3704
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3701
+        },
+        {
+          "label": "a protest",
+          "score": 0.3699
+        },
+        {
+          "label": "a flag",
+          "score": 0.3691
+        },
+        {
+          "label": "an airplane",
+          "score": 0.3677
+        },
+        {
+          "label": "a road",
+          "score": 0.3661
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3655
+        },
+        {
+          "label": "flooding",
+          "score": 0.3654
+        },
+        {
+          "label": "a speech",
+          "score": 0.3647
+        },
+        {
+          "label": "旗帜",
+          "score": 0.3634
+        },
+        {
+          "label": "an explosion",
+          "score": 0.3619
+        },
+        {
+          "label": "地图",
+          "score": 0.3601
         }
       ]
     }
