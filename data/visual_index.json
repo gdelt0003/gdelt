@@ -1,285 +1,192 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-27T18:56:05+00:00",
+  "generated_at": "2026-11-28T01:57:16+00:00",
   "model": "OFA-Sys/chinese-clip-vit-base-patch16",
-  "records": 3,
+  "records": 2,
   "items": [
     {
-      "id": "N1HRV_20261127_010000",
-      "title": "vlajić's quick call for new elections reminds one of the period around october 5th, so following that time, he expects a lower turnout compared to the elections for national deputi…",
-      "source": "N1HRV",
-      "date": "2026-11-27T00:00:00Z",
-      "image_url": "https://archive.org/services/img/N1HRV_20261127_010000/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/N1HRV_20261127_010000",
-      "description_zh": "画面候选标签：a protest、a news studio、a flag、抗议活动、a speech、a crowd、police、an explosion、text on screen、新闻演播室、an animal、屏幕文字",
-      "description_en": "Visual candidate labels: a protest, a news studio, a flag, 抗议活动, a speech, a crowd, police, an explosion, text on screen, 新闻演播室, an animal, 屏幕文字",
-      "keywords": "a protest,a news studio,a flag,抗议活动,a speech,a crowd,police,an explosion,text on screen,新闻演播室,an animal,屏幕文字,a building,flooding,a map,a river,a horse,演讲,a sports match,an airplane",
+      "id": "CSPAN3_20261128_011800_America_250_Author_Nancy_Beck_Young_on_First_Lady_Lou_Hoover",
+      "title": "CSPAN3｜America 250 Author Nancy Beck Young on First Lady Lou Hoover",
+      "source": "CSPAN3",
+      "date": "2026-11-28T00:00:00Z",
+      "image_url": "https://archive.org/services/img/CSPAN3_20261128_011800_America_250_Author_Nancy_Beck_Young_on_First_Lady_Lou_Hoover/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/CSPAN3_20261128_011800_America_250_Author_Nancy_Beck_Young_on_First_Lady_Lou_Hoover",
+      "description_zh": "画面候选标签：a news studio、a speech、a protest、a train、a flag、an explosion、an animal、a road、text on screen、a river、a map、a crowd",
+      "description_en": "Visual candidate labels: a news studio, a speech, a protest, a train, a flag, an explosion, an animal, a road, text on screen, a river, a map, a crowd",
+      "keywords": "a news studio,a speech,a protest,a train,a flag,an explosion,an animal,a road,text on screen,a river,a map,a crowd,人,a mountain,a city street,fire,smoke,a ship,新闻演播室,a building",
       "visual_labels": [
         {
-          "label": "a protest",
-          "score": 0.4441
-        },
-        {
           "label": "a news studio",
-          "score": 0.444
-        },
-        {
-          "label": "a flag",
-          "score": 0.4013
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3882
+          "score": 0.3915
         },
         {
           "label": "a speech",
-          "score": 0.3864
-        },
-        {
-          "label": "a crowd",
-          "score": 0.3756
-        },
-        {
-          "label": "police",
           "score": 0.3725
         },
         {
-          "label": "an explosion",
-          "score": 0.3675
-        },
-        {
-          "label": "text on screen",
-          "score": 0.3657
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.3545
-        },
-        {
-          "label": "an animal",
-          "score": 0.3544
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3512
-        },
-        {
-          "label": "a building",
-          "score": 0.3507
-        },
-        {
-          "label": "flooding",
-          "score": 0.349
-        },
-        {
-          "label": "a map",
-          "score": 0.338
-        },
-        {
-          "label": "a river",
-          "score": 0.3379
-        },
-        {
-          "label": "a horse",
-          "score": 0.3366
-        },
-        {
-          "label": "演讲",
-          "score": 0.3345
-        },
-        {
-          "label": "a sports match",
-          "score": 0.3337
-        },
-        {
-          "label": "an airplane",
-          "score": 0.3318
-        }
-      ]
-    },
-    {
-      "id": "N1SRP_20261127_000000",
-      "title": "so that the will of the people would produce a president of the republic of strong legitimacy who will be a clear expression of state unity.",
-      "source": "N1SRP",
-      "date": "2026-11-27T00:00:00Z",
-      "image_url": "https://archive.org/services/img/N1SRP_20261127_000000/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/N1SRP_20261127_000000",
-      "description_zh": "画面候选标签：an explosion、a news studio、新闻演播室、text on screen、抗议活动、an airplane、a building、a protest、running、fire、爆炸、a ship",
-      "description_en": "Visual candidate labels: an explosion, a news studio, 新闻演播室, text on screen, 抗议活动, an airplane, a building, a protest, running, fire, 爆炸, a ship",
-      "keywords": "an explosion,a news studio,新闻演播室,text on screen,抗议活动,an airplane,a building,a protest,running,fire,爆炸,a ship,烟雾,police,a city street,flooding,smoke,a train,a map,屏幕文字",
-      "visual_labels": [
-        {
-          "label": "an explosion",
-          "score": 0.3883
-        },
-        {
-          "label": "a news studio",
-          "score": 0.3801
-        },
-        {
-          "label": "新闻演播室",
-          "score": 0.3745
-        },
-        {
-          "label": "text on screen",
-          "score": 0.3628
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3609
-        },
-        {
-          "label": "an airplane",
-          "score": 0.3607
-        },
-        {
-          "label": "a building",
-          "score": 0.3598
-        },
-        {
           "label": "a protest",
-          "score": 0.3573
-        },
-        {
-          "label": "running",
-          "score": 0.3555
-        },
-        {
-          "label": "fire",
-          "score": 0.3546
-        },
-        {
-          "label": "爆炸",
-          "score": 0.3545
-        },
-        {
-          "label": "a ship",
-          "score": 0.3517
-        },
-        {
-          "label": "烟雾",
-          "score": 0.3502
-        },
-        {
-          "label": "police",
-          "score": 0.3496
-        },
-        {
-          "label": "a city street",
-          "score": 0.3485
-        },
-        {
-          "label": "flooding",
-          "score": 0.3478
-        },
-        {
-          "label": "smoke",
-          "score": 0.3475
+          "score": 0.3704
         },
         {
           "label": "a train",
-          "score": 0.3446
-        },
-        {
-          "label": "a map",
-          "score": 0.3436
-        },
-        {
-          "label": "屏幕文字",
-          "score": 0.3431
-        }
-      ]
-    },
-    {
-      "id": "CSPAN_20261127_031400_America_250_Karl_Rove_on_President_William_McKinley",
-      "title": "yet he serves as a good example of something essential for the success of republic and self-government and ordinary person who rises to unexpected political responsibilities.",
-      "source": "CSPAN",
-      "date": "2026-11-27T00:00:00Z",
-      "image_url": "https://archive.org/services/img/CSPAN_20261127_031400_America_250_Karl_Rove_on_President_William_McKinley/full/pct:200/0/default.jpg",
-      "replay_url": "https://archive.org/details/CSPAN_20261127_031400_America_250_Karl_Rove_on_President_William_McKinley",
-      "description_zh": "画面候选标签：a protest、a news studio、a flag、an explosion、military、a building、a ship、an animal、a speech、text on screen、a mountain、police",
-      "description_en": "Visual candidate labels: a protest, a news studio, a flag, an explosion, military, a building, a ship, an animal, a speech, text on screen, a mountain, police",
-      "keywords": "a protest,a news studio,a flag,an explosion,military,a building,a ship,an animal,a speech,text on screen,a mountain,police,a train,flooding,a river,抗议活动,a crowd,a map,新闻演播室,a city street",
-      "visual_labels": [
-        {
-          "label": "a protest",
-          "score": 0.408
-        },
-        {
-          "label": "a news studio",
-          "score": 0.4078
+          "score": 0.3597
         },
         {
           "label": "a flag",
-          "score": 0.4057
+          "score": 0.3573
         },
         {
           "label": "an explosion",
-          "score": 0.401
-        },
-        {
-          "label": "military",
-          "score": 0.3955
-        },
-        {
-          "label": "a building",
-          "score": 0.3882
-        },
-        {
-          "label": "a ship",
-          "score": 0.3862
+          "score": 0.3566
         },
         {
           "label": "an animal",
-          "score": 0.3784
+          "score": 0.3561
         },
         {
-          "label": "a speech",
-          "score": 0.3737
+          "label": "a road",
+          "score": 0.3545
         },
         {
           "label": "text on screen",
-          "score": 0.3733
-        },
-        {
-          "label": "a mountain",
-          "score": 0.3706
-        },
-        {
-          "label": "police",
-          "score": 0.3703
-        },
-        {
-          "label": "a train",
-          "score": 0.3699
-        },
-        {
-          "label": "flooding",
-          "score": 0.3681
+          "score": 0.3499
         },
         {
           "label": "a river",
-          "score": 0.3657
-        },
-        {
-          "label": "抗议活动",
-          "score": 0.3633
-        },
-        {
-          "label": "a crowd",
-          "score": 0.3631
+          "score": 0.3473
         },
         {
           "label": "a map",
-          "score": 0.3606
+          "score": 0.3413
         },
         {
-          "label": "新闻演播室",
-          "score": 0.359
+          "label": "a crowd",
+          "score": 0.3408
+        },
+        {
+          "label": "人",
+          "score": 0.3407
+        },
+        {
+          "label": "a mountain",
+          "score": 0.3404
         },
         {
           "label": "a city street",
-          "score": 0.3589
+          "score": 0.3402
+        },
+        {
+          "label": "fire",
+          "score": 0.3396
+        },
+        {
+          "label": "smoke",
+          "score": 0.3396
+        },
+        {
+          "label": "a ship",
+          "score": 0.3389
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3385
+        },
+        {
+          "label": "a building",
+          "score": 0.3385
+        }
+      ]
+    },
+    {
+      "id": "CSPAN3_20261128_010600_America_250_Historian__Author_George_Nash_on_President_Herbert_Hoover",
+      "title": "CSPAN3｜America 250 Historian & Author George Nash on President Herbert Hoover",
+      "source": "CSPAN3",
+      "date": "2026-11-28T00:00:00Z",
+      "image_url": "https://archive.org/services/img/CSPAN3_20261128_010600_America_250_Historian__Author_George_Nash_on_President_Herbert_Hoover/full/pct:200/0/default.jpg",
+      "replay_url": "https://archive.org/details/CSPAN3_20261128_010600_America_250_Historian__Author_George_Nash_on_President_Herbert_Hoover",
+      "description_zh": "画面候选标签：a news studio、an explosion、a protest、text on screen、a speech、a crowd、a sports match、a mountain、a train、an animal、a building、flooding",
+      "description_en": "Visual candidate labels: a news studio, an explosion, a protest, text on screen, a speech, a crowd, a sports match, a mountain, a train, an animal, a building, flooding",
+      "keywords": "a news studio,an explosion,a protest,text on screen,a speech,a crowd,a sports match,a mountain,a train,an animal,a building,flooding,抗议活动,military,smoke,屏幕文字,a city street,新闻演播室,a truck,a map",
+      "visual_labels": [
+        {
+          "label": "a news studio",
+          "score": 0.4471
+        },
+        {
+          "label": "an explosion",
+          "score": 0.4142
+        },
+        {
+          "label": "a protest",
+          "score": 0.406
+        },
+        {
+          "label": "text on screen",
+          "score": 0.4028
+        },
+        {
+          "label": "a speech",
+          "score": 0.4015
+        },
+        {
+          "label": "a crowd",
+          "score": 0.3849
+        },
+        {
+          "label": "a sports match",
+          "score": 0.3708
+        },
+        {
+          "label": "a mountain",
+          "score": 0.3691
+        },
+        {
+          "label": "a train",
+          "score": 0.3689
+        },
+        {
+          "label": "an animal",
+          "score": 0.3686
+        },
+        {
+          "label": "a building",
+          "score": 0.3663
+        },
+        {
+          "label": "flooding",
+          "score": 0.3655
+        },
+        {
+          "label": "抗议活动",
+          "score": 0.3631
+        },
+        {
+          "label": "military",
+          "score": 0.3595
+        },
+        {
+          "label": "smoke",
+          "score": 0.3564
+        },
+        {
+          "label": "屏幕文字",
+          "score": 0.3557
+        },
+        {
+          "label": "a city street",
+          "score": 0.355
+        },
+        {
+          "label": "新闻演播室",
+          "score": 0.3539
+        },
+        {
+          "label": "a truck",
+          "score": 0.3496
+        },
+        {
+          "label": "a map",
+          "score": 0.3455
         }
       ]
     }
